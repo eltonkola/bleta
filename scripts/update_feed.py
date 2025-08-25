@@ -14,6 +14,11 @@ from typing import List, Dict, Any
 import google.generativeai as genai
 from bs4 import BeautifulSoup
 import time
+import sys
+import os
+
+# Add parent directory to Python path to import config
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Import configuration
 from config import (

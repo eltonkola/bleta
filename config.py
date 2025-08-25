@@ -80,7 +80,7 @@ RSS_CONFIG = {
     "feed_title": "Bleta - Albanian News Archive",
     "feed_description": "AI-summarized Albanian news from multiple sources",
     "feed_language": "sq",
-    "feed_link": "https://your-username.github.io/lajmeShqipAi/",
+    "feed_link": "https://eltonkola.github.io/bleta/",
     "feed_author": "Bleta News Aggregator"
 }
 
