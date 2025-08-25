@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Albanian News Aggregator - AI Summaries</title>
+    <description>Latest Albanian news articles summarized with AI</description>
+    <link>https://yourusername.github.io/lajmeShqipAi/</link>
+    <language>sq</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Albanian News Aggregator</title>
+      <description>This RSS feed will be automatically updated with the latest Albanian news articles and AI-generated summaries.</description>
+      <link>https://yourusername.github.io/lajmeShqipAi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>System</author>
+    </item>
+  </channel>
+</rss>
