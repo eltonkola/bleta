@@ -234,8 +234,526 @@ class BletaNewsAggregator:
             with open(archive_path, 'w', encoding='utf-8') as f:
                 json.dump(archive_data, f, ensure_ascii=False, indent=2)
             logger.info(f"Saved {len(articles)} articles to {archive_path}")
+            
+            # Also save to public directory for GitHub Pages
+            public_archive_path = os.path.join(self.output_dir, "archive", f"{today.strftime('%Y-%m-%d')}.json")
+            os.makedirs(os.path.dirname(public_archive_path), exist_ok=True)
+            with open(public_archive_path, 'w', encoding='utf-8') as f:
+                json.dump(archive_data, f, ensure_ascii=False, indent=2)
+            logger.info(f"Saved {len(articles)} articles to {public_archive_path}")
+            
+            # Generate static HTML page for today only (as index.html)
+            self._generate_today_html_page(archive_data, today)
+            
+            # Generate RSS feed with latest news
+            self._generate_rss_feed(articles)
+            
         except Exception as e:
             logger.error(f"Error saving archive: {e}")
+    
+    def _generate_today_html_page(self, archive_data: Dict[str, Any], date_obj: datetime):
+        """Generate a static HTML page for today's news as index.html."""
+        html_template = """
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bleta - Albanian News Archive</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+            color: white;
+            padding: 15px 0;
+            border-bottom: 4px solid #d4af37;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+            font-family: 'Times New Roman', serif;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1rem;
+            opacity: 0.9;
+            margin-top: 5px;
+        }
+
+        .header-date {
+            text-align: right;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        /* Navigation */
+        .nav {
+            background: #2c2c2c;
+            padding: 10px 0;
+            border-bottom: 1px solid #444;
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .nav-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .nav-button {
+            padding: 8px 16px;
+            background: #d4af37;
+            color: #1a1a1a;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 14px;
+            transition: background 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .nav-button:hover {
+            background: #f0c040;
+        }
+
+        /* Main Content */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Newspaper Layout */
+        .newspaper {
+            background: white;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .newspaper-header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            border-bottom: 3px solid #d4af37;
+        }
+
+        .newspaper-title {
+            font-size: 3.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-family: 'Times New Roman', serif;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .newspaper-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 15px;
+        }
+
+        .newspaper-date {
+            font-size: 1.1rem;
+            color: #d4af37;
+            font-weight: bold;
+        }
+
+        /* Articles Grid */
+        .articles-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 0;
+            min-height: 600px;
+        }
+
+        .main-content {
+            padding: 30px;
+            border-right: 1px solid #eee;
+        }
+
+        .sidebar {
+            padding: 30px;
+            background: #f8f9fa;
+        }
+
+        /* Article Styles */
+        .article {
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .article:last-child {
+            border-bottom: none;
+        }
+
+        .article.featured {
+            border-bottom: 3px solid #d4af37;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
+        .article-source {
+            color: #d4af37;
+            font-weight: bold;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .article-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 15px;
+            line-height: 1.3;
+            color: #1a1a1a;
+        }
+
+        .article.featured .article-title {
+            font-size: 2.5rem;
+        }
+
+        .article-summary {
+            font-size: 1.1rem;
+            color: #555;
+            margin-bottom: 20px;
+            line-height: 1.7;
+        }
+
+        .article-meta {
+            font-size: 0.85rem;
+            color: #888;
+            margin-bottom: 20px;
+            padding: 10px 0;
+            border-top: 1px solid #eee;
+        }
+
+        .article-link {
+            display: inline-block;
+            background: #1a1a1a;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            transition: background 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .article-link:hover {
+            background: #333;
+        }
+
+        /* Sidebar Articles */
+        .sidebar-article {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .sidebar-article:last-child {
+            border-bottom: none;
+        }
+
+        .sidebar-article .article-title {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        .sidebar-article .article-summary {
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+        }
+
+        /* Footer */
+        .footer {
+            background: #1a1a1a;
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+        }
+
+        .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1200px) {
+            .articles-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .main-content {
+                border-right: none;
+                border-bottom: 1px solid #eee;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                gap: 10px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .nav-container {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .nav-controls {
+                flex-direction: column;
+                width: 100%;
+            }
+
+            .newspaper-title {
+                font-size: 2.5rem;
+            }
+
+            .article.featured .article-title {
+                font-size: 1.8rem;
+            }
+
+            .article-title {
+                font-size: 1.5rem;
+            }
+
+            .main-container {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-container">
+            <div>
+                <h1>🐝 BLETA</h1>
+                <p>Albanian News Archive with AI Summaries</p>
+            </div>
+            <div class="header-date">{current_date}</div>
+        </div>
+    </div>
+
+    <div class="nav">
+        <div class="nav-container">
+            <div class="nav-controls">
+                <a href="webapp/" class="nav-button">Arkivi i Lajmeve</a>
+                <a href="feed.xml" class="nav-button">RSS Feed</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <div class="newspaper">
+            <div class="newspaper-header">
+                <div class="newspaper-title">BLETA</div>
+                <div class="newspaper-subtitle">Albanian News Archive</div>
+                <div class="newspaper-date">{formatted_date} • {total_articles} artikuj</div>
+            </div>
+            <div class="articles-grid">
+                <div class="main-content">
+                    {featured_article}
+                    {main_articles}
+                </div>
+                <div class="sidebar">
+                    <h3 style="margin-bottom: 20px; color: #1a1a1a; border-bottom: 2px solid #d4af37; padding-bottom: 10px;">Lajme të tjera</h3>
+                    {sidebar_articles}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="footer-content">
+            <p>Powered by AI • Bleta News Archive • Albanian News with AI Summaries</p>
+        </div>
+    </div>
+</body>
+</html>
+        """
+        
+        # Format date strings
+        date_str = date_obj.strftime("%Y-%m-%d")
+        current_date = datetime.now().strftime("%A, %d %B %Y")
+        
+        # Format date for display
+        date_obj_for_display = date_obj
+        formatted_date = date_obj_for_display.strftime("%A, %d %B %Y")
+        
+        # Split articles
+        articles = archive_data["articles"]
+        if not articles:
+            featured_article = '<div class="article"><h2>Nuk ka lajme për këtë datë</h2></div>'
+            main_articles = ""
+            sidebar_articles = ""
+        else:
+            featured_article = self._generate_article_html(articles[0], featured=True)
+            regular_articles = articles[1:6]  # Next 5 articles
+            sidebar_articles_list = articles[6:]  # Rest for sidebar
+            
+            main_articles = "".join([self._generate_article_html(article) for article in regular_articles])
+            sidebar_articles = "".join([self._generate_sidebar_article_html(article) for article in sidebar_articles_list])
+        
+        # Generate HTML
+        html_content = html_template.format(
+            date=date_str,
+            current_date=current_date,
+            formatted_date=formatted_date,
+            total_articles=len(articles),
+            featured_article=featured_article,
+            main_articles=main_articles,
+            sidebar_articles=sidebar_articles
+        )
+        
+        # Save as index.html
+        html_path = os.path.join(self.output_dir, "index.html")
+        
+        with open(html_path, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+        
+        logger.info(f"Generated today's HTML page: {html_path}")
+    
+    def _generate_rss_feed(self, articles: List[Dict[str, Any]]):
+        """Generate RSS feed with the latest news."""
+        try:
+            from feedgen.feed import FeedGenerator
+            
+            fg = FeedGenerator()
+            fg.title(RSS_CONFIG["feed_title"])
+            fg.description(RSS_CONFIG["feed_description"])
+            fg.language(RSS_CONFIG["feed_language"])
+            fg.link(href=RSS_CONFIG["feed_link"])
+            fg.author(name=RSS_CONFIG["feed_author"])
+            fg.lastBuildDate(datetime.now())
+            
+            # Add articles to feed
+            for article in articles[:RSS_CONFIG["max_total_articles"]]:
+                fe = fg.add_entry()
+                fe.title(article['title'])
+                fe.description(article.get('ai_summary', article.get('description', '')))
+                fe.link(href=article['link'])
+                fe.author(name=article['source'])
+                
+                # Parse and set publication date
+                if article.get('published'):
+                    try:
+                        pub_date = datetime.fromisoformat(article['published'].replace('Z', '+00:00'))
+                        fe.published(pub_date)
+                    except:
+                        fe.published(datetime.now())
+                else:
+                    fe.published(datetime.now())
+                
+                fe.id(article.get('guid', article['link']))
+            
+            # Save RSS feed
+            rss_path = os.path.join(self.output_dir, "feed.xml")
+            fg.rss_file(rss_path)
+            
+            logger.info(f"Generated RSS feed: {rss_path}")
+            
+        except ImportError:
+            logger.warning("feedgen not available, skipping RSS feed generation")
+        except Exception as e:
+            logger.error(f"Error generating RSS feed: {e}")
+    
+    def _generate_favicon(self):
+        """Generate favicon from SVG."""
+        try:
+            from scripts.generate_favicon import create_ico_from_svg
+            create_ico_from_svg()
+            logger.info("Generated favicon.ico")
+        except Exception as e:
+            logger.warning(f"Could not generate favicon: {e}")
+    
+    def _generate_article_html(self, article: Dict[str, Any], featured: bool = False) -> str:
+        """Generate HTML for a single article."""
+        featured_class = " featured" if featured else ""
+        
+        return f"""
+        <div class="article{featured_class}">
+            <div class="article-source">{article['source']}</div>
+            <h2 class="article-title">{article['title']}</h2>
+            <div class="article-summary">{article.get('ai_summary', article.get('description', ''))}</div>
+            <div class="article-meta">
+                <strong>Burimi:</strong> {article['source']} | 
+                <strong>Gjuha:</strong> {article['language']} |
+                <strong>Koha:</strong> {self._format_time(article.get('published', ''))}
+            </div>
+            <a href="{article['link']}" class="article-link" target="_blank">Lexo më shumë</a>
+        </div>
+        """
+    
+    def _generate_sidebar_article_html(self, article: Dict[str, Any]) -> str:
+        """Generate HTML for a sidebar article."""
+        return f"""
+        <div class="sidebar-article">
+            <div class="article-source">{article['source']}</div>
+            <h3 class="article-title">{article['title']}</h3>
+            <div class="article-summary">{article.get('ai_summary', article.get('description', ''))}</div>
+            <div class="article-meta">
+                <strong>Koha:</strong> {self._format_time(article.get('published', ''))}
+            </div>
+            <a href="{article['link']}" class="article-link" target="_blank">Lexo më shumë</a>
+        </div>
+        """
+    
+    def _format_time(self, time_string: str) -> str:
+        """Format time string for display."""
+        if not time_string:
+            return 'E panjohur'
+        
+        try:
+            date = datetime.fromisoformat(time_string.replace('Z', '+00:00'))
+            return date.strftime("%d/%m/%Y %H:%M")
+        except:
+            return time_string
     
     def run(self):
         """Main execution method."""
@@ -263,6 +781,9 @@ class BletaNewsAggregator:
         
         # Save processed articles for deduplication
         self._save_processed_articles()
+        
+        # Generate favicon
+        self._generate_favicon()
         
         logger.info(f"{PROJECT_CONFIG['name']} aggregation completed successfully")
 

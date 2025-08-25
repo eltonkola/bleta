@@ -68,6 +68,15 @@ Bleta/
    # Then visit http://localhost:8000/webapp/
    ```
 
+## 🐝 Features
+
+- **AI-Powered Summaries**: Uses Google Gemini AI to summarize news articles
+- **Daily Archives**: JSON-based archive system for efficient storage
+- **Static HTML**: Fast-loading static pages for today's news
+- **RSS Feed**: Subscribe to latest news updates
+- **Responsive Design**: Works on desktop and mobile devices
+- **Bee Favicon**: Custom bee-themed favicon for brand identity
+
 ## GitHub Pages Setup
 
 1. **Enable GitHub Pages**

@@ -4,90 +4,202 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bleta - Albanian News Archive</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <style>
-        body {
-            font-family: 'Georgia', 'Times New Roman', serif;
-            background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8f9fa;
             min-height: 100vh;
             display: flex;
-            align-items: center;
-            justify-content: center;
+            flex-direction: column;
         }
-        
-        .container {
+
+        .header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+            color: white;
+            padding: 40px 0;
             text-align: center;
-            background: white;
-            padding: 40px;
-            border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            max-width: 500px;
-            margin: 20px;
+            border-bottom: 4px solid #d4af37;
         }
-        
-        .logo {
-            font-size: 3rem;
+
+        .header h1 {
+            font-size: 3.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
             margin-bottom: 20px;
         }
-        
-        h1 {
+
+        .main-content {
+            flex: 1;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .welcome-section {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+        }
+
+        .welcome-section h2 {
+            font-size: 2.5rem;
             color: #1a1a1a;
-            margin-bottom: 10px;
-            font-size: 2rem;
+            margin-bottom: 20px;
         }
-        
-        p {
-            color: #666;
+
+        .welcome-section p {
+            font-size: 1.1rem;
+            color: #555;
             margin-bottom: 30px;
-            line-height: 1.6;
+            line-height: 1.8;
         }
-        
-        .button {
+
+        .buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
             display: inline-block;
-            background: #1a1a1a;
-            color: white;
             padding: 15px 30px;
+            background: #d4af37;
+            color: #1a1a1a;
             text-decoration: none;
             border-radius: 8px;
             font-weight: bold;
-            transition: background 0.3s ease;
-            margin: 10px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            border: 2px solid #d4af37;
         }
-        
-        .button:hover {
-            background: #333;
+
+        .btn:hover {
+            background: #f0c040;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(212, 175, 55, 0.3);
         }
-        
-        .info {
-            margin-top: 30px;
-            padding: 20px;
-            background: #f8f9fa;
+
+        .btn-secondary {
+            background: transparent;
+            color: #d4af37;
+            border-color: #d4af37;
+        }
+
+        .btn-secondary:hover {
+            background: #d4af37;
+            color: #1a1a1a;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .feature {
+            background: white;
+            padding: 30px;
             border-radius: 8px;
-            font-size: 0.9rem;
+            box-shadow: 0 3px 15px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .feature h3 {
+            font-size: 1.5rem;
+            color: #1a1a1a;
+            margin-bottom: 15px;
+        }
+
+        .feature p {
             color: #666;
+            line-height: 1.6;
+        }
+
+        .footer {
+            background: #1a1a1a;
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: auto;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2.5rem;
+            }
+
+            .buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .btn {
+                width: 100%;
+                max-width: 300px;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="logo">🐝</div>
-        <h1>Bleta</h1>
+    <div class="header">
+        <h1>🐝 BLETA</h1>
         <p>Albanian News Archive with AI Summaries</p>
-        
-        <a href="../webapp/index.html" class="button">📰 Open News Archive</a>
-        
-        <div class="info">
-            <strong>About Bleta:</strong><br>
-            Daily news from Albanian sources, summarized with AI and organized by date.
+    </div>
+
+    <div class="main-content">
+        <div class="welcome-section">
+            <h2>Mirë se vini në Bleta</h2>
+            <p>
+                Bleta është një arkiv i lajmeve shqiptare që përdor inteligjencën artificiale për të përmbledhur dhe organizuar informacionin nga burime të shumëfishta. 
+                Çdo ditë, ne mbledhim lajmet më të fundit dhe i përmbledhim ato për ju.
+            </p>
+            
+            <div class="buttons">
+                <a href="index.html" class="btn">Lajmet e Sotme</a>
+                <a href="webapp/" class="btn btn-secondary">Arkivi i Lajmeve</a>
+                <a href="feed.xml" class="btn btn-secondary">RSS Feed</a>
+            </div>
+        </div>
+
+        <div class="features">
+            <div class="feature">
+                <h3>🤖 AI Përmbledhje</h3>
+                <p>Çdo lajm përmbledhet automatikisht nga Google Gemini AI për të dhënë informacion të koncentruar dhe të kuptueshëm.</p>
+            </div>
+            <div class="feature">
+                <h3>📰 Burime të Shumëfishta</h3>
+                <p>Mbledhim lajme nga burime të ndryshme shqiptare për të dhënë një pamje të plotë të ngjarjeve.</p>
+            </div>
+            <div class="feature">
+                <h3>📅 Arkiv i Plotë</h3>
+                <p>Ruajmë çdo ditë lajmet në formë të arkivuar, duke ju lejuar të shikoni lajmet nga çdo datë e kaluar.</p>
+            </div>
         </div>
     </div>
-    
-    <script>
-        // Auto-redirect after 3 seconds
-        setTimeout(function() {
-            window.location.href = '../webapp/index.html';
-        }, 3000);
-    </script>
+
+    <div class="footer">
+        <p>Powered by AI • Bleta News Archive • Albanian News with AI Summaries</p>
+    </div>
 </body>
 </html>
