@@ -15,112 +15,181 @@
             font-family: 'Georgia', 'Times New Roman', serif;
             line-height: 1.6;
             color: #333;
-            background: #f5f5f5;
+            background: #f8f9fa;
         }
 
+        /* Header */
         .header {
-            background: #1a1a1a;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
             color: white;
-            padding: 20px 0;
-            text-align: center;
-            border-bottom: 3px solid #d4af37;
+            padding: 15px 0;
+            border-bottom: 4px solid #d4af37;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
         }
 
         .header h1 {
-            font-size: 3rem;
+            font-size: 2.5rem;
             font-weight: bold;
-            margin-bottom: 10px;
             font-family: 'Times New Roman', serif;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
 
         .header p {
-            font-size: 1.1rem;
+            font-size: 1rem;
             opacity: 0.9;
+            margin-top: 5px;
         }
 
-        .controls {
-            background: white;
-            padding: 20px;
-            border-bottom: 1px solid #ddd;
-            text-align: center;
+        .header-date {
+            text-align: right;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        /* Navigation */
+        .nav {
+            background: #2c2c2c;
+            padding: 10px 0;
+            border-bottom: 1px solid #444;
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .nav-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
         }
 
         .date-selector {
-            display: inline-block;
-            margin: 0 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
         }
 
         .date-selector label {
             font-weight: bold;
-            margin-right: 10px;
+            color: white;
+            font-size: 0.9rem;
         }
 
         .date-selector input {
             padding: 8px 12px;
-            border: 2px solid #ddd;
+            border: 1px solid #555;
             border-radius: 4px;
-            font-size: 16px;
+            background: #333;
+            color: white;
+            font-size: 14px;
         }
 
-        .date-selector button {
+        .nav-button {
             padding: 8px 16px;
-            background: #1a1a1a;
-            color: white;
+            background: #d4af37;
+            color: #1a1a1a;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 16px;
-            margin-left: 10px;
+            font-weight: bold;
+            font-size: 14px;
+            transition: background 0.3s ease;
         }
 
-        .date-selector button:hover {
-            background: #333;
+        .nav-button:hover {
+            background: #f0c040;
+        }
+
+        /* Main Content */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
         }
 
         .loading {
             text-align: center;
-            padding: 50px;
+            padding: 100px 20px;
             font-size: 1.2rem;
             color: #666;
         }
 
         .error {
             text-align: center;
-            padding: 50px;
+            padding: 100px 20px;
             color: #d32f2f;
             font-size: 1.1rem;
         }
 
+        /* Newspaper Layout */
         .newspaper {
-            max-width: 1200px;
-            margin: 0 auto;
             background: white;
-            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            box-shadow: 0 5px 25px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            overflow: hidden;
         }
 
         .newspaper-header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c2c2c 100%);
+            color: white;
             padding: 30px;
-            border-bottom: 2px solid #1a1a1a;
             text-align: center;
+            border-bottom: 3px solid #d4af37;
         }
 
         .newspaper-title {
-            font-size: 2.5rem;
+            font-size: 3.5rem;
             font-weight: bold;
             margin-bottom: 10px;
             font-family: 'Times New Roman', serif;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .newspaper-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 15px;
         }
 
         .newspaper-date {
-            font-size: 1.2rem;
-            color: #666;
-            font-style: italic;
+            font-size: 1.1rem;
+            color: #d4af37;
+            font-weight: bold;
         }
 
-        .articles-container {
+        /* Articles Grid */
+        .articles-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 0;
+            min-height: 600px;
+        }
+
+        .main-content {
             padding: 30px;
+            border-right: 1px solid #eee;
         }
 
+        .sidebar {
+            padding: 30px;
+            background: #f8f9fa;
+        }
+
+        /* Article Styles */
         .article {
             margin-bottom: 40px;
             padding-bottom: 30px;
@@ -131,45 +200,58 @@
             border-bottom: none;
         }
 
+        .article.featured {
+            border-bottom: 3px solid #d4af37;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
         .article-source {
             color: #d4af37;
             font-weight: bold;
-            font-size: 0.9rem;
+            font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 1px;
             margin-bottom: 8px;
         }
 
         .article-title {
-            font-size: 1.8rem;
+            font-size: 2rem;
             font-weight: bold;
             margin-bottom: 15px;
             line-height: 1.3;
             color: #1a1a1a;
         }
 
+        .article.featured .article-title {
+            font-size: 2.5rem;
+        }
+
         .article-summary {
             font-size: 1.1rem;
             color: #555;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
             line-height: 1.7;
         }
 
         .article-meta {
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             color: #888;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
+            padding: 10px 0;
+            border-top: 1px solid #eee;
         }
 
         .article-link {
             display: inline-block;
             background: #1a1a1a;
             color: white;
-            padding: 10px 20px;
+            padding: 12px 24px;
             text-decoration: none;
             border-radius: 4px;
             font-weight: bold;
             transition: background 0.3s ease;
+            font-size: 0.9rem;
         }
 
         .article-link:hover {
@@ -178,67 +260,170 @@
 
         .no-articles {
             text-align: center;
-            padding: 50px;
+            padding: 100px 30px;
             color: #666;
             font-size: 1.2rem;
         }
 
+        /* Sidebar Articles */
+        .sidebar-article {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .sidebar-article:last-child {
+            border-bottom: none;
+        }
+
+        .sidebar-article .article-title {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        .sidebar-article .article-summary {
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+        }
+
+        /* Footer */
         .footer {
             background: #1a1a1a;
             color: white;
             text-align: center;
-            padding: 20px;
+            padding: 30px 20px;
             margin-top: 40px;
         }
 
+        .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1200px) {
+            .articles-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .main-content {
+                border-right: none;
+                border-bottom: 1px solid #eee;
+            }
+        }
+
         @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
+                gap: 10px;
+            }
+
             .header h1 {
                 font-size: 2rem;
             }
 
-            .newspaper-title {
-                font-size: 2rem;
+            .nav-container {
+                flex-direction: column;
+                gap: 15px;
             }
 
-            .article-title {
-                font-size: 1.4rem;
-            }
-
-            .controls {
-                padding: 15px;
+            .nav-controls {
+                flex-direction: column;
+                width: 100%;
             }
 
             .date-selector {
-                display: block;
-                margin: 10px 0;
+                width: 100%;
+                justify-content: center;
             }
+
+            .newspaper-title {
+                font-size: 2.5rem;
+            }
+
+            .article.featured .article-title {
+                font-size: 1.8rem;
+            }
+
+            .article-title {
+                font-size: 1.5rem;
+            }
+
+            .main-container {
+                padding: 10px;
+            }
+        }
+
+        /* Breaking News Banner */
+        .breaking-news {
+            background: linear-gradient(90deg, #ff4444, #ff6666);
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+            font-weight: bold;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.8; }
+            100% { opacity: 1; }
         }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>🐝 Bleta</h1>
-        <p>Albanian News Archive with AI Summaries</p>
-    </div>
-
-    <div class="controls">
-        <div class="date-selector">
-            <label for="dateInput">Zgjidh datën:</label>
-            <input type="date" id="dateInput" onchange="loadNewsForDate(this.value)">
-            <button onclick="loadToday()">Sot</button>
-            <button onclick="loadYesterday()">Dje</button>
+        <div class="header-container">
+            <div>
+                <h1>🐝 BLETA</h1>
+                <p>Albanian News Archive with AI Summaries</p>
+            </div>
+            <div class="header-date" id="currentDate"></div>
         </div>
     </div>
 
-    <div id="content">
-        <div class="loading">Duke ngarkuar lajmet...</div>
+    <div class="nav">
+        <div class="nav-container">
+            <div class="nav-controls">
+                <div class="date-selector">
+                    <label for="dateInput">Zgjidh datën:</label>
+                    <input type="date" id="dateInput" onchange="loadNewsForDate(this.value)">
+                </div>
+                <button class="nav-button" onclick="loadToday()">Sot</button>
+                <button class="nav-button" onclick="loadYesterday()">Dje</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <div id="content">
+            <div class="loading">Duke ngarkuar lajmet...</div>
+        </div>
     </div>
 
     <div class="footer">
-        <p>Powered by AI • Bleta News Archive</p>
+        <div class="footer-content">
+            <p>Powered by AI • Bleta News Archive • Albanian News with AI Summaries</p>
+        </div>
     </div>
 
     <script>
+        // Set current date in header
+        function updateCurrentDate() {
+            const now = new Date();
+            const options = { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            };
+            document.getElementById('currentDate').textContent = now.toLocaleDateString('sq-AL', options);
+        }
+        
+        updateCurrentDate();
+        setInterval(updateCurrentDate, 60000); // Update every minute
+
         // Set default date to today
         document.getElementById('dateInput').value = new Date().toISOString().split('T')[0];
         
@@ -266,7 +451,7 @@
             contentDiv.innerHTML = '<div class="loading">Duke ngarkuar lajmet për datën ' + formatDate(date) + '...</div>';
 
             // Construct the path to the JSON file
-            const jsonPath = `../data/archive/${date}.json`;
+            const jsonPath = `../archive/${date}.json`;
 
             fetch(jsonPath)
                 .then(response => {
@@ -296,7 +481,8 @@
                 contentDiv.innerHTML = `
                     <div class="newspaper">
                         <div class="newspaper-header">
-                            <div class="newspaper-title">Bleta</div>
+                            <div class="newspaper-title">BLETA</div>
+                            <div class="newspaper-subtitle">Albanian News Archive</div>
                             <div class="newspaper-date">${formatDate(data.date)}</div>
                         </div>
                         <div class="no-articles">
@@ -308,7 +494,26 @@
                 return;
             }
 
-            const articlesHtml = data.articles.map(article => `
+            // Split articles into featured and regular
+            const featuredArticle = data.articles[0];
+            const regularArticles = data.articles.slice(1, 6); // Next 5 articles for main content
+            const sidebarArticles = data.articles.slice(6); // Rest for sidebar
+
+            const featuredHtml = `
+                <div class="article featured">
+                    <div class="article-source">${featuredArticle.source}</div>
+                    <h2 class="article-title">${featuredArticle.title}</h2>
+                    <div class="article-summary">${featuredArticle.ai_summary || featuredArticle.description}</div>
+                    <div class="article-meta">
+                        <strong>Burimi:</strong> ${featuredArticle.source} | 
+                        <strong>Gjuha:</strong> ${featuredArticle.language} |
+                        <strong>Koha:</strong> ${formatTime(featuredArticle.published)}
+                    </div>
+                    <a href="${featuredArticle.link}" class="article-link" target="_blank">Lexo më shumë</a>
+                </div>
+            `;
+
+            const mainArticlesHtml = regularArticles.map(article => `
                 <div class="article">
                     <div class="article-source">${article.source}</div>
                     <h2 class="article-title">${article.title}</h2>
@@ -322,14 +527,34 @@
                 </div>
             `).join('');
 
+            const sidebarHtml = sidebarArticles.map(article => `
+                <div class="sidebar-article">
+                    <div class="article-source">${article.source}</div>
+                    <h3 class="article-title">${article.title}</h3>
+                    <div class="article-summary">${article.ai_summary || article.description}</div>
+                    <div class="article-meta">
+                        <strong>Koha:</strong> ${formatTime(article.published)}
+                    </div>
+                    <a href="${article.link}" class="article-link" target="_blank">Lexo më shumë</a>
+                </div>
+            `).join('');
+
             contentDiv.innerHTML = `
                 <div class="newspaper">
                     <div class="newspaper-header">
-                        <div class="newspaper-title">Bleta</div>
+                        <div class="newspaper-title">BLETA</div>
+                        <div class="newspaper-subtitle">Albanian News Archive</div>
                         <div class="newspaper-date">${formatDate(data.date)} • ${data.total_articles} artikuj</div>
                     </div>
-                    <div class="articles-container">
-                        ${articlesHtml}
+                    <div class="articles-grid">
+                        <div class="main-content">
+                            ${featuredHtml}
+                            ${mainArticlesHtml}
+                        </div>
+                        <div class="sidebar">
+                            <h3 style="margin-bottom: 20px; color: #1a1a1a; border-bottom: 2px solid #d4af37; padding-bottom: 10px;">Lajme të tjera</h3>
+                            ${sidebarHtml}
+                        </div>
                     </div>
                 </div>
             `;
