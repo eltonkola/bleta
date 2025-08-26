@@ -1,6 +1,6 @@
 {
   "date": "2025-08-26",
-  "timestamp": "2025-08-26T03:08:07.323083",
+  "timestamp": "2025-08-26T04:21:35.800938",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,45 +9,32 @@
   },
   "articles": [
     {
-      "title": "Video-dokumentar i rrëmbimit të një ushtari izraelit nga Hamasi më 7 tetor 2023",
-      "link": "https://www.balkanweb.com/video-dokumentar-i-rrembimit-te-nje-ushtari-izraelit-nga-hamasi-me-7-tetor-2023/",
-      "description": "Pamjet video të momentit kur ushtari izraelit Nimrod Cohen u kap nga Hamasi janë publikuar për herë të parë. Pamjet u gjetën nga ushtria izraelite gjatë operacioneve tokësore në Gaza. Gjatë luftës, kur ushtria izraelite gjeti video ose prova të tjera që lidheshin me pengjet , ua tregoi ato familjeve, të cilat shpesh vendosnin t’i […]",
-      "published": "Tue, 26 Aug 2025 03:00:23 +0000",
+      "title": "Italia i kërkon Izraelit të garantojë sigurinë e gazetarëve në Gaza",
+      "link": "https://www.balkanweb.com/italia-i-kerkon-izraelit-te-garantoje-sigurine-e-gazetareve-ne-gaza/",
+      "description": "Izraeli duhet të sigurojë sigurinë e gazetarëve në Gaza, tha Ministri i Jashtëm italian Antonio Tajani , pasi pesë gazetarë u vranë në një sulm izraelit ndaj një spitali në Rripin jugor të Gazës të hënën. “Lidhur me temën e medias në Gaza, ne kemi miratuar tashmë një dokument së bashku me shumë vende të […]",
+      "published": "Tue, 26 Aug 2025 04:00:28 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791380",
-      "fetched_at": "2025-08-26T03:08:00.529236",
-      "ai_summary": "Ushtria izraelite ka publikuar pamje video të kapjes së ushtarit Nimrod Cohen nga Hamasi, të cilat u gjetën gjatë operacioneve tokësore në Gaza.  Këto pamje u treguan më parë familjes së Cohen."
+      "guid": "https://www.balkanweb.com/?p=2791383",
+      "fetched_at": "2025-08-26T04:21:27.818028",
+      "ai_summary": "Ministri i Jashtëm italian, Antonio Tajani, kërkoi nga Izraeli të sigurojë sigurinë e gazetarëve në Gaza, pas vrasjes së pesë gazetarëve në një sulm ndaj një spitali.  Italia, së bashku me shtete të tjera, ka shprehur shqetësimin e thellë për situatën e medias në Gaza."
     },
     {
-      "title": "Një zjarr i madh ka shpërthyer në një depo pranë Portit të Hamburgut",
-      "link": "https://www.balkanweb.com/nje-zjarr-i-madh-ka-shperthyer-ne-nje-depo-prane-portit-te-hamburgut/",
-      "description": "Një zjarr i madh ka shpërthyer në një depo pranë Portit të Hamburgut, portit më të madh të Gjermanisë. Sipas dëshmitarëve okularë, shpërthime u dëgjuan në zonën e emergjencës në lagjen Feddel. Informacioni i parë për zjarrin u mor rreth orës 15:31 (17:31 sipas kohës së Bakusë). Zjarri fillimisht përfshiu një makinë, më pas u […]",
-      "published": "Tue, 26 Aug 2025 02:00:02 +0000",
+      "title": "Numri i të vdekurve nga bombardimet izraelite në Jemen rritet në 10",
+      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-bombardimet-izraelite-ne-jemen-rritet-ne-10/",
+      "description": "Sulmet ajrore izraelite mbi objektet e kontrolluara nga Houthi-t në kryeqytetin e Jemenit , Sanaa, të dielën vranë dhjetë persona dhe plagosën gati njëqind, sipas një numri të rishikuar të të vdekurve të publikuar nga lëvizja e armatosur të hënën. Houthi-t thanë se sulmet kishin në shënjestër një objekt magazinimi karburanti dhe një termocentral në […]",
+      "published": "Tue, 26 Aug 2025 03:30:02 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791377",
-      "fetched_at": "2025-08-26T03:08:00.529385",
-      "ai_summary": "Një zjarr i madh ka shpërthyer në një depo pranë Portit të Hamburgut, portit më të madh të Gjermanisë. Sipas dëshmitarëve okularë, shpërthime u dëgjuan në zonën e emergjencës në lagjen Feddel. Informa..."
-    },
-    {
-      "title": "Kryeministri Modi për tarifat amerikane: “Pavarësisht se sa presion do të vijë, nuk do të lejojmë dëme ndaj fermerëve”",
-      "link": "https://www.balkanweb.com/kryeministri-modi-per-tarifat-amerikane-pavaresisht-se-sa-presion-do-te-vije-nuk-do-te-lejojme-deme-ndaj-fermereve/",
-      "description": "Në një referencë indirekte ndaj tarifave të vendosura nga Presidenti i SHBA-së Donald Trump, Kryeministri Narendra Modi tha të hënën se qeveria e tij nuk do të lejojë kurrë që sipërmarrësit e vegjël, fermerët dhe kujdestarët e kafshëve të dëmtohen. Ai shtoi se pavarësisht presionit, qeveria e tij do të vazhdojë të rrisë forcën për […]",
-      "published": "Tue, 26 Aug 2025 01:30:19 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791393",
-      "fetched_at": "2025-08-26T03:08:00.529468",
-      "ai_summary": "Në një referencë indirekte ndaj tarifave të vendosura nga Presidenti i SHBA-së Donald Trump, Kryeministri Narendra Modi tha të hënën se qeveria e tij nuk do të lejojë kurrë që sipërmarrësit e vegjël, ..."
+      "guid": "https://www.balkanweb.com/?p=2791396",
+      "fetched_at": "2025-08-26T04:21:27.818179",
+      "ai_summary": "Sulmet ajrore izraelite mbi objektet e kontrolluara nga Houthi-t në kryeqytetin e Jemenit , Sanaa, të dielën vranë dhjetë persona dhe plagosën gati njëqind, sipas një numri të rishikuar të të vdekurve..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
