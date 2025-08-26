@@ -1,0 +1,106 @@
+{
+  "date": "2025-08-26",
+  "timestamp": "2025-08-26T01:23:12.988923",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "SHBA-të do të shpenzojnë 100 milionë dollarë për luftën kundër emigrantëve",
+      "link": "https://www.balkanweb.com/shba-te-do-te-shpenzojne-100-milione-dollare-per-luften-kunder-emigranteve/",
+      "description": "Zyra Amerikane e Imigracionit dhe Doganave (ICE) do të shpenzojë gati 100 milionë dollarë për të blerë dhe pajisur mijëra SUV-ë për të luftuar emigrantët e paligjshëm. “SUV-të krejtësisht të reja të modifikuara për përdorim nga forcat e rendit, duke përfshirë ato të pajisura me opsione shtesë si dritat e përparme, sirenat, sistemet e zërit, […]",
+      "published": "Tue, 26 Aug 2025 01:00:22 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791373",
+      "fetched_at": "2025-08-26T01:23:05.522966",
+      "ai_summary": "Zyra Amerikane e Imigracionit dhe Doganave (ICE) do të shpenzojë rreth 100 milionë dollarë për të blerë e pajisur mijëra SUV të reja për operacionet kundër emigracionit të paligjshëm.  Këto automjete do të jenë të modifikuara posaçërisht për përdorim nga forcat e rendit."
+    },
+    {
+      "title": "Shefi i OKB-së dënon sulmet vdekjeprurëse izraelite në spitalin e Gazës",
+      "link": "https://www.balkanweb.com/shefi-i-okb-se-denon-sulmet-vdekjeprurese-izraelite-ne-spitalin-e-gazes/",
+      "description": "Sekretari i Përgjithshëm i OKB-së , Antonio Guterres, dënoi të hënën sulmet e fundit izraelite ndaj Spitalit Nasser në Rripin jugor të Gazës . “Sekretari i Përgjithshëm dënon fuqimisht vrasjen e palestinezëve në sulmet ajrore izraelite që goditën Spitalin Nasser në Khan Younis. Të vrarët, përveç civilëve, përfshinin edhe personel mjekësor dhe gazetarë”, thuhet në […]",
+      "published": "Tue, 26 Aug 2025 00:30:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791387",
+      "fetched_at": "2025-08-26T01:23:05.523121",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së , Antonio Guterres, dënoi të hënën sulmet e fundit izraelite ndaj Spitalit Nasser në Rripin jugor të Gazës . “Sekretari i Përgjithshëm dënon fuqimisht vrasjen e pales..."
+    },
+    {
+      "title": "Shpërthimi i kolerës vret mbi 60 persona në Çadin lindor",
+      "link": "https://www.balkanweb.com/shperthimi-i-koleres-vret-mbi-60-persona-ne-cadin-lindor/",
+      "description": "Të paktën 63 persona kanë vdekur pas një shpërthimi të kolerës në Çadin lindor, tha ministria e shëndetësisë e vendit në një deklaratë të hënën. Sipas deklaratës, janë regjistruar gjithsej 938 raste të dyshuara, janë analizuar 52 mostra dhe janë konfirmuar 39 raste në Provincën Ouaddai, ku shpërthimi ka vazhduar që nga korriku. Të hënën […]",
+      "published": "Tue, 26 Aug 2025 00:00:29 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791366",
+      "fetched_at": "2025-08-26T01:23:05.523220",
+      "ai_summary": "Të paktën 63 persona kanë vdekur pas një shpërthimi të kolerës në Çadin lindor, tha ministria e shëndetësisë e vendit në një deklaratë të hënën. Sipas deklaratës, janë regjistruar gjithsej 938 raste t..."
+    },
+    {
+      "title": "Trump: Po zhvillohet një përpjekje shumë serioze diplomatike në Gaza",
+      "link": "https://www.balkanweb.com/trump-po-zhvillohet-nje-perpjekje-shume-serioze-diplomatike-ne-gaza/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të hënën se kishte një përpjekje diplomatike “shumë serioze” në Gaza , ndërsa Shtetet e Bashkuara dhe Izraeli vazhduan të ushtronin presion mbi Hamasin për të liruar pengjet mes konfliktit të vazhdueshëm. “Kjo nuk u ndal kurrë. Ne jemi gjithmonë në kërkim të një zgjidhjeje, ose në fund të […]",
+      "published": "Mon, 25 Aug 2025 23:30:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791370",
+      "fetched_at": "2025-08-26T01:23:05.523298",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të hënën se kishte një përpjekje diplomatike “shumë serioze” në Gaza , ndërsa Shtetet e Bashkuara dhe Izraeli vazhduan të ushtronin presion mbi Hamasin për të l..."
+    },
+    {
+      "title": "Pas 17 vdekjeve nga shpërthimi i fruthit, Indonezia nis fushatën e vaksinimit",
+      "link": "https://www.balkanweb.com/pas-17-vdekjeve-nga-shperthimi-i-fruthit-indonezia-nis-fushaten-e-vaksinimit/",
+      "description": "Qindra fëmijë në Indonezi u rreshtuan të hënën për të marrë vaksina falas kundër fruthit, ndërsa autoritetet nisën një fushatë vaksinimi në përgjigje të një shpërthimi që ka shkaktuar 17 vdekje. Më shumë se 2,000 fëmijë u infektuan në provincën e Javas Lindore gjatë tetë muajve të fundit, sipas zyrtarëve të cilët thanë se 16 […]",
+      "published": "Mon, 25 Aug 2025 23:05:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791363",
+      "fetched_at": "2025-08-26T01:23:05.523390",
+      "ai_summary": "Qindra fëmijë në Indonezi u rreshtuan të hënën për të marrë vaksina falas kundër fruthit, ndërsa autoritetet nisën një fushatë vaksinimi në përgjigje të një shpërthimi që ka shkaktuar 17 vdekje. Më sh..."
+    },
+    {
+      "title": "Pastë vegjetariane me krem arrash dhe perime të freskëta",
+      "link": "https://telegrafi.com/paste-vegjetariane-krem-arrash-dhe-perime-te-fresketa/",
+      "description": "Një recetë e lehtë, ushqyese dhe perfekte për çdo ditë Përbërësit (për 2-3 persona): ▪ 200 g pasta (penne, fusilli ose spaghetti) ▪ 1 patëllxhan mesatar ▪ 1 kungull i verdhë ▪ 1 karotë ▪ 1 spec i kuq i ëmbël ▪ 2-3 thelpinj hudhër ▪ 3-4 lugë gjelle vaj ulliri ekstra i virgjër ▪ […] The post Pastë vegjetariane me krem arrash dhe perime të freskëta appeared first on Telegrafi.",
+      "published": "Mon, 25 Aug 2025 23:29:16 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4357949",
+      "fetched_at": "2025-08-26T01:23:09.142330",
+      "ai_summary": "Një recetë e lehtë, ushqyese dhe perfekte për çdo ditë Përbërësit (për 2-3 persona): ▪ 200 g pasta (penne, fusilli ose spaghetti) ▪ 1 patëllxhan mesatar ▪ 1 kungull i verdhë ▪ 1 karotë ▪ 1 spec i kuq ..."
+    },
+    {
+      "title": "Djalli i fshehtësive: Si humbet besimi në martesë",
+      "link": "https://telegrafi.com/djalli-fshehtesive-si-humbet-besimi-ne-martese/",
+      "description": "Një nga problemet më të mëdha në martesë lind kur njëri prej bashkëshortëve rrëfen vetëm një pjesë të së vërtetës. Me kalimin e kohës, e vërteta e plotë del në pah, dhe atëherë bëhet shumë më e vështirë të rindërtohet besimi Besimi është një nga shtyllat kryesore të marrëdhënieve në çift. Është aq i rëndësishëm, […] The post Djalli i fshehtësive: Si humbet besimi në martesë appeared first on Telegrafi.",
+      "published": "Mon, 25 Aug 2025 22:25:07 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4357945",
+      "fetched_at": "2025-08-26T01:23:09.142623",
+      "ai_summary": "Një nga problemet më të mëdha në martesë lind kur njëri prej bashkëshortëve rrëfen vetëm një pjesë të së vërtetës. Me kalimin e kohës, e vërteta e plotë del në pah, dhe atëherë bëhet shumë më e vështi..."
+    }
+  ],
+  "total_articles": 7,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
