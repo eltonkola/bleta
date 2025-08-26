@@ -1,6 +1,6 @@
 {
   "date": "2025-08-26",
-  "timestamp": "2025-08-26T01:23:12.988923",
+  "timestamp": "2025-08-26T03:08:07.323083",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,98 +9,46 @@
   },
   "articles": [
     {
-      "title": "SHBA-të do të shpenzojnë 100 milionë dollarë për luftën kundër emigrantëve",
-      "link": "https://www.balkanweb.com/shba-te-do-te-shpenzojne-100-milione-dollare-per-luften-kunder-emigranteve/",
-      "description": "Zyra Amerikane e Imigracionit dhe Doganave (ICE) do të shpenzojë gati 100 milionë dollarë për të blerë dhe pajisur mijëra SUV-ë për të luftuar emigrantët e paligjshëm. “SUV-të krejtësisht të reja të modifikuara për përdorim nga forcat e rendit, duke përfshirë ato të pajisura me opsione shtesë si dritat e përparme, sirenat, sistemet e zërit, […]",
-      "published": "Tue, 26 Aug 2025 01:00:22 +0000",
+      "title": "Video-dokumentar i rrëmbimit të një ushtari izraelit nga Hamasi më 7 tetor 2023",
+      "link": "https://www.balkanweb.com/video-dokumentar-i-rrembimit-te-nje-ushtari-izraelit-nga-hamasi-me-7-tetor-2023/",
+      "description": "Pamjet video të momentit kur ushtari izraelit Nimrod Cohen u kap nga Hamasi janë publikuar për herë të parë. Pamjet u gjetën nga ushtria izraelite gjatë operacioneve tokësore në Gaza. Gjatë luftës, kur ushtria izraelite gjeti video ose prova të tjera që lidheshin me pengjet , ua tregoi ato familjeve, të cilat shpesh vendosnin t’i […]",
+      "published": "Tue, 26 Aug 2025 03:00:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791373",
-      "fetched_at": "2025-08-26T01:23:05.522966",
-      "ai_summary": "Zyra Amerikane e Imigracionit dhe Doganave (ICE) do të shpenzojë rreth 100 milionë dollarë për të blerë e pajisur mijëra SUV të reja për operacionet kundër emigracionit të paligjshëm.  Këto automjete do të jenë të modifikuara posaçërisht për përdorim nga forcat e rendit."
+      "guid": "https://www.balkanweb.com/?p=2791380",
+      "fetched_at": "2025-08-26T03:08:00.529236",
+      "ai_summary": "Ushtria izraelite ka publikuar pamje video të kapjes së ushtarit Nimrod Cohen nga Hamasi, të cilat u gjetën gjatë operacioneve tokësore në Gaza.  Këto pamje u treguan më parë familjes së Cohen."
     },
     {
-      "title": "Shefi i OKB-së dënon sulmet vdekjeprurëse izraelite në spitalin e Gazës",
-      "link": "https://www.balkanweb.com/shefi-i-okb-se-denon-sulmet-vdekjeprurese-izraelite-ne-spitalin-e-gazes/",
-      "description": "Sekretari i Përgjithshëm i OKB-së , Antonio Guterres, dënoi të hënën sulmet e fundit izraelite ndaj Spitalit Nasser në Rripin jugor të Gazës . “Sekretari i Përgjithshëm dënon fuqimisht vrasjen e palestinezëve në sulmet ajrore izraelite që goditën Spitalin Nasser në Khan Younis. Të vrarët, përveç civilëve, përfshinin edhe personel mjekësor dhe gazetarë”, thuhet në […]",
-      "published": "Tue, 26 Aug 2025 00:30:35 +0000",
+      "title": "Një zjarr i madh ka shpërthyer në një depo pranë Portit të Hamburgut",
+      "link": "https://www.balkanweb.com/nje-zjarr-i-madh-ka-shperthyer-ne-nje-depo-prane-portit-te-hamburgut/",
+      "description": "Një zjarr i madh ka shpërthyer në një depo pranë Portit të Hamburgut, portit më të madh të Gjermanisë. Sipas dëshmitarëve okularë, shpërthime u dëgjuan në zonën e emergjencës në lagjen Feddel. Informacioni i parë për zjarrin u mor rreth orës 15:31 (17:31 sipas kohës së Bakusë). Zjarri fillimisht përfshiu një makinë, më pas u […]",
+      "published": "Tue, 26 Aug 2025 02:00:02 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791387",
-      "fetched_at": "2025-08-26T01:23:05.523121",
-      "ai_summary": "Sekretari i Përgjithshëm i OKB-së , Antonio Guterres, dënoi të hënën sulmet e fundit izraelite ndaj Spitalit Nasser në Rripin jugor të Gazës . “Sekretari i Përgjithshëm dënon fuqimisht vrasjen e pales..."
+      "guid": "https://www.balkanweb.com/?p=2791377",
+      "fetched_at": "2025-08-26T03:08:00.529385",
+      "ai_summary": "Një zjarr i madh ka shpërthyer në një depo pranë Portit të Hamburgut, portit më të madh të Gjermanisë. Sipas dëshmitarëve okularë, shpërthime u dëgjuan në zonën e emergjencës në lagjen Feddel. Informa..."
     },
     {
-      "title": "Shpërthimi i kolerës vret mbi 60 persona në Çadin lindor",
-      "link": "https://www.balkanweb.com/shperthimi-i-koleres-vret-mbi-60-persona-ne-cadin-lindor/",
-      "description": "Të paktën 63 persona kanë vdekur pas një shpërthimi të kolerës në Çadin lindor, tha ministria e shëndetësisë e vendit në një deklaratë të hënën. Sipas deklaratës, janë regjistruar gjithsej 938 raste të dyshuara, janë analizuar 52 mostra dhe janë konfirmuar 39 raste në Provincën Ouaddai, ku shpërthimi ka vazhduar që nga korriku. Të hënën […]",
-      "published": "Tue, 26 Aug 2025 00:00:29 +0000",
+      "title": "Kryeministri Modi për tarifat amerikane: “Pavarësisht se sa presion do të vijë, nuk do të lejojmë dëme ndaj fermerëve”",
+      "link": "https://www.balkanweb.com/kryeministri-modi-per-tarifat-amerikane-pavaresisht-se-sa-presion-do-te-vije-nuk-do-te-lejojme-deme-ndaj-fermereve/",
+      "description": "Në një referencë indirekte ndaj tarifave të vendosura nga Presidenti i SHBA-së Donald Trump, Kryeministri Narendra Modi tha të hënën se qeveria e tij nuk do të lejojë kurrë që sipërmarrësit e vegjël, fermerët dhe kujdestarët e kafshëve të dëmtohen. Ai shtoi se pavarësisht presionit, qeveria e tij do të vazhdojë të rrisë forcën për […]",
+      "published": "Tue, 26 Aug 2025 01:30:19 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791366",
-      "fetched_at": "2025-08-26T01:23:05.523220",
-      "ai_summary": "Të paktën 63 persona kanë vdekur pas një shpërthimi të kolerës në Çadin lindor, tha ministria e shëndetësisë e vendit në një deklaratë të hënën. Sipas deklaratës, janë regjistruar gjithsej 938 raste t..."
-    },
-    {
-      "title": "Trump: Po zhvillohet një përpjekje shumë serioze diplomatike në Gaza",
-      "link": "https://www.balkanweb.com/trump-po-zhvillohet-nje-perpjekje-shume-serioze-diplomatike-ne-gaza/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të hënën se kishte një përpjekje diplomatike “shumë serioze” në Gaza , ndërsa Shtetet e Bashkuara dhe Izraeli vazhduan të ushtronin presion mbi Hamasin për të liruar pengjet mes konfliktit të vazhdueshëm. “Kjo nuk u ndal kurrë. Ne jemi gjithmonë në kërkim të një zgjidhjeje, ose në fund të […]",
-      "published": "Mon, 25 Aug 2025 23:30:56 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791370",
-      "fetched_at": "2025-08-26T01:23:05.523298",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të hënën se kishte një përpjekje diplomatike “shumë serioze” në Gaza , ndërsa Shtetet e Bashkuara dhe Izraeli vazhduan të ushtronin presion mbi Hamasin për të l..."
-    },
-    {
-      "title": "Pas 17 vdekjeve nga shpërthimi i fruthit, Indonezia nis fushatën e vaksinimit",
-      "link": "https://www.balkanweb.com/pas-17-vdekjeve-nga-shperthimi-i-fruthit-indonezia-nis-fushaten-e-vaksinimit/",
-      "description": "Qindra fëmijë në Indonezi u rreshtuan të hënën për të marrë vaksina falas kundër fruthit, ndërsa autoritetet nisën një fushatë vaksinimi në përgjigje të një shpërthimi që ka shkaktuar 17 vdekje. Më shumë se 2,000 fëmijë u infektuan në provincën e Javas Lindore gjatë tetë muajve të fundit, sipas zyrtarëve të cilët thanë se 16 […]",
-      "published": "Mon, 25 Aug 2025 23:05:34 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791363",
-      "fetched_at": "2025-08-26T01:23:05.523390",
-      "ai_summary": "Qindra fëmijë në Indonezi u rreshtuan të hënën për të marrë vaksina falas kundër fruthit, ndërsa autoritetet nisën një fushatë vaksinimi në përgjigje të një shpërthimi që ka shkaktuar 17 vdekje. Më sh..."
-    },
-    {
-      "title": "Pastë vegjetariane me krem arrash dhe perime të freskëta",
-      "link": "https://telegrafi.com/paste-vegjetariane-krem-arrash-dhe-perime-te-fresketa/",
-      "description": "Një recetë e lehtë, ushqyese dhe perfekte për çdo ditë Përbërësit (për 2-3 persona): ▪ 200 g pasta (penne, fusilli ose spaghetti) ▪ 1 patëllxhan mesatar ▪ 1 kungull i verdhë ▪ 1 karotë ▪ 1 spec i kuq i ëmbël ▪ 2-3 thelpinj hudhër ▪ 3-4 lugë gjelle vaj ulliri ekstra i virgjër ▪ […] The post Pastë vegjetariane me krem arrash dhe perime të freskëta appeared first on Telegrafi.",
-      "published": "Mon, 25 Aug 2025 23:29:16 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/?p=4357949",
-      "fetched_at": "2025-08-26T01:23:09.142330",
-      "ai_summary": "Një recetë e lehtë, ushqyese dhe perfekte për çdo ditë Përbërësit (për 2-3 persona): ▪ 200 g pasta (penne, fusilli ose spaghetti) ▪ 1 patëllxhan mesatar ▪ 1 kungull i verdhë ▪ 1 karotë ▪ 1 spec i kuq ..."
-    },
-    {
-      "title": "Djalli i fshehtësive: Si humbet besimi në martesë",
-      "link": "https://telegrafi.com/djalli-fshehtesive-si-humbet-besimi-ne-martese/",
-      "description": "Një nga problemet më të mëdha në martesë lind kur njëri prej bashkëshortëve rrëfen vetëm një pjesë të së vërtetës. Me kalimin e kohës, e vërteta e plotë del në pah, dhe atëherë bëhet shumë më e vështirë të rindërtohet besimi Besimi është një nga shtyllat kryesore të marrëdhënieve në çift. Është aq i rëndësishëm, […] The post Djalli i fshehtësive: Si humbet besimi në martesë appeared first on Telegrafi.",
-      "published": "Mon, 25 Aug 2025 22:25:07 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/?p=4357945",
-      "fetched_at": "2025-08-26T01:23:09.142623",
-      "ai_summary": "Një nga problemet më të mëdha në martesë lind kur njëri prej bashkëshortëve rrëfen vetëm një pjesë të së vërtetës. Me kalimin e kohës, e vërteta e plotë del në pah, dhe atëherë bëhet shumë më e vështi..."
+      "guid": "https://www.balkanweb.com/?p=2791393",
+      "fetched_at": "2025-08-26T03:08:00.529468",
+      "ai_summary": "Në një referencë indirekte ndaj tarifave të vendosura nga Presidenti i SHBA-së Donald Trump, Kryeministri Narendra Modi tha të hënën se qeveria e tij nuk do të lejojë kurrë që sipërmarrësit e vegjël, ..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 3,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
