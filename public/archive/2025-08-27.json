@@ -1,0 +1,93 @@
+{
+  "date": "2025-08-27",
+  "timestamp": "2025-08-27T01:20:48.287863",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Autoritetet spanjolle i kanë quajtur zjarret në pyje katastrofën më të madhe mjedisore në vitet e fundit",
+      "link": "https://www.balkanweb.com/autoritetet-spanjolle-i-kane-quajtur-zjarret-ne-pyje-katastrofen-me-te-madhe-mjedisore-ne-vitet-e-fundit/",
+      "description": "Qeveria spanjolle i ka përshkruar zjarret në pyje që përfshiu vendin në gusht si një nga katastrofat më të mëdha mjedisore të viteve të fundit. Duke cituar mediat e huaja, kjo u deklarua nga Ministri i Brendshëm Fernando Grande-Marlaska në një konferencë për shtyp pas mbledhjes javore të Kabinetit të Ministrave. Zjarret në Spanjë këtë […]",
+      "published": "Wed, 27 Aug 2025 01:00:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791948",
+      "fetched_at": "2025-08-27T01:20:40.954176",
+      "ai_summary": "Qeveria spanjolle i cilësoi zjarret e gushtit si një nga katastrofat më të mëdha mjedisore të viteve të fundit, sipas deklaratës së Ministrit të Brendshëm Fernando Grande-Marlaska.  Kjo u shpall pas një mbledhjeje kabineti, duke cituar raportimet e medias ndërkombëtare."
+    },
+    {
+      "title": "Australia pezullon dërgesat në SHBA për shkak të tarifave",
+      "link": "https://www.balkanweb.com/australia-pezullon-dergesat-ne-shba-per-shkak-te-tarifave/",
+      "description": "Sipas një raporti nga Korporata Australiane e Transmetimeve (ABC), një deklaratë nga Australia Post njoftoi vendimin për të ndaluar shumicën e dërgesave të postës dhe mallrave në SHBA për shkak të rregullave të reja doganore që SHBA-të do të zbatojnë për pakot me vlerë të ulët. Deklarata specifikonte se do të lejoheshin vetëm letrat, dokumentet […]",
+      "published": "Wed, 27 Aug 2025 00:30:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791968",
+      "fetched_at": "2025-08-27T01:20:40.954339",
+      "ai_summary": "Sipas një raporti nga Korporata Australiane e Transmetimeve (ABC), një deklaratë nga Australia Post njoftoi vendimin për të ndaluar shumicën e dërgesave të postës dhe mallrave në SHBA për shkak të rre..."
+    },
+    {
+      "title": "Vitkoff: SHBA-të synojnë t’i japin fund konfliktit Rusi-Ukrainë deri në fund të vitit",
+      "link": "https://www.balkanweb.com/vitkoff-shba-te-synojne-ti-japin-fund-konfliktit-rusi-ukraine-deri-ne-fund-te-vitit/",
+      "description": "Shtetet e Bashkuara shpresojnë të arrijnë një zgjidhje për konfliktet midis Rusisë dhe Ukrainës, si dhe midis Izraelit dhe Iranit dhe në Rripin e Gazës, deri në fund të këtij viti. Kjo u deklarua nga i dërguari special i Presidentit të SHBA-së, Steve Witkoff, në një takim të administratës amerikane në Shtëpinë e Bardhë, të […]",
+      "published": "Wed, 27 Aug 2025 00:00:29 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791945",
+      "fetched_at": "2025-08-27T01:20:40.954421",
+      "ai_summary": "Shtetet e Bashkuara shpresojnë të arrijnë një zgjidhje për konfliktet midis Rusisë dhe Ukrainës, si dhe midis Izraelit dhe Iranit dhe në Rripin e Gazës, deri në fund të këtij viti. Kjo u deklarua nga ..."
+    },
+    {
+      "title": "Egjipti forcon kufijtë me Rripin e Gazës",
+      "link": "https://www.balkanweb.com/egjipti-forcon-kufijte-me-rripin-e-gazes/",
+      "description": "Egjipti po forcon kufirin e tij me Rripin e Gazës. Arsyeja për këtë ishin deklaratat e Izraelit në lidhje me planet e tij për të marrë kontrollin e qytetit. Raportohet se Kajro ka frikë se evakuimi masiv i palestinezëve nga Gaza veriore në Gazën jugore do të shkaktojë kaos në kufi. Autoritetet egjiptiane janë gjithashtu […]",
+      "published": "Tue, 26 Aug 2025 23:30:33 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791961",
+      "fetched_at": "2025-08-27T01:20:40.954499",
+      "ai_summary": "Egjipti po forcon kufirin e tij me Rripin e Gazës. Arsyeja për këtë ishin deklaratat e Izraelit në lidhje me planet e tij për të marrë kontrollin e qytetit. Raportohet se Kajro ka frikë se evakuimi ma..."
+    },
+    {
+      "title": "Kanadaja dhe Gjermania nënshkruajnë marrëveshje për mineralet kritike",
+      "link": "https://www.balkanweb.com/kanadaja-dhe-gjermania-nenshkruajne-marreveshje-per-mineralet-kritike/",
+      "description": "Kanadaja dhe Gjermania nënshkruan një marrëveshje të rëndësishme për mineralet të martën — një veprim që do të zvogëlojë varësinë nga furnizimet e Kinës dhe Rusisë, sipas një deklarate nga zyra e kryeministrit kanadez Mark Carney . Mineralet kritike si kobalti dhe litiumi janë thelbësore për përdorim në prodhimin e teknologjive të reja të energjisë […]",
+      "published": "Tue, 26 Aug 2025 23:00:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791942",
+      "fetched_at": "2025-08-27T01:20:40.954572",
+      "ai_summary": "Kanadaja dhe Gjermania nënshkruan një marrëveshje të rëndësishme për mineralet të martën — një veprim që do të zvogëlojë varësinë nga furnizimet e Kinës dhe Rusisë, sipas një deklarate nga zyra e krye..."
+    },
+    {
+      "title": "Smerald i jashtëzakonshëm 11,685 karatësh zbulohet në Zambi",
+      "link": "https://www.balkanweb.com/smerald-i-jashtezakonshem-11685-karatesh-zbulohet-ne-zambi/",
+      "description": "Një smerald 11,685 karatësh (2.337 kilogramë) është gjetur në Zambi , tha një kompani minerare. “Me 11,685 karat, Imboo (bualli) është guri i çmuar më i fundit dhe më i madhi e i jashtëzakonshëm i zbuluar në Kagem Mining (Kagem), që besohet të jetë miniera më e madhe prodhuese e smeraldeve në botë”, tha Gemfields […]",
+      "published": "Tue, 26 Aug 2025 22:30:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2791937",
+      "fetched_at": "2025-08-27T01:20:40.954651",
+      "ai_summary": "Një smerald 11,685 karatësh (2.337 kilogramë) është gjetur në Zambi , tha një kompani minerare. “Me 11,685 karat, Imboo (bualli) është guri i çmuar më i fundit dhe më i madhi e i jashtëzakonshëm i zbu..."
+    }
+  ],
+  "total_articles": 6,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
