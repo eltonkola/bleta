@@ -1,6 +1,6 @@
 {
   "date": "2025-08-27",
-  "timestamp": "2025-08-27T03:01:15.804651",
+  "timestamp": "2025-08-27T04:21:31.688715",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,58 +9,32 @@
   },
   "articles": [
     {
-      "title": "Trump: SHBA-të do të rrisin furnizimet me armë për aleatët e NATO-s që mbështesin Kievin",
-      "link": "https://www.balkanweb.com/trump-shba-te-do-te-rrisin-furnizimet-me-arme-per-aleatet-e-nato-s-qe-mbeshtesin-kievin/",
-      "description": "Administrata amerikane synon të rrisë furnizimet me armë për aleatët e Uashingtonit në NATO, të cilët aktualisht po i ofrojnë ndihmë ushtarake Ukrainës. Presidenti i SHBA-së, Donald Trump, e bëri këtë deklaratë në një takim qeveritar në Shtëpinë e Bardhë. “Ne i shesim NATO-s miliona e miliona, përfundimisht miliarda dollarë, raketa dhe pajisje ushtarake. Do […]",
-      "published": "Wed, 27 Aug 2025 03:00:56 +0000",
+      "title": "Shkencëtarët zbulojnë kontinentin që mungonte prej 375 vitesh",
+      "link": "https://www.balkanweb.com/shkencetaret-zbulojne-kontinentin-qe-mungonte-prej-375-vitesh-2/",
+      "description": "Gjeoshkencëtarët zbuluan një kontinent që kishte qenë i fshehur në sy të publikut për gati 375 vjet. Historikisht, ka pasur spekulime nëse ekziston një kontinent i njohur si Zealandia ose Te Riu-a-Māui në gjuhën maori . Sipas TN News , Zealandia ka një sipërfaqe prej 1.89 milionë miljesh katrorë. Ishte pjesë e një superkontinenti të […]",
+      "published": "Wed, 27 Aug 2025 04:00:31 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791954",
-      "fetched_at": "2025-08-27T03:01:09.168898",
-      "ai_summary": "Administrata amerikane planifikon të rrisë furnizimin me armë për aleatët e NATO-s që po ndihmojnë Ukrainën, siç deklaroi Presidenti Trump në Shtëpinë e Bardhë.  Kjo synon të kompensojë furnizimet e aleatëve për Ukrainën."
+      "guid": "https://www.balkanweb.com/?p=2791984",
+      "fetched_at": "2025-08-27T04:21:25.095202",
+      "ai_summary": "Gjeoshkencëtarët kanë zbuluar kontinent të fshehur për 375 vjet, i njohur si Zealandia ose Te Riu-a-Māui, me sipërfaqe prej 1.89 milionë miljesh katrorë.  Zbulimi konfirmon spekulimet historike për ekzistencën e tij."
     },
     {
-      "title": "Macron i kundërpërgjigjet kritikave të Netanyahut për antisemitizëm",
-      "link": "https://www.balkanweb.com/macron-kunderpergjigjet-kritikave-te-netanyahut-per-antisemitizem/",
-      "description": "Presidenti Emmanuel Macron hodhi poshtë me forcë kritikat e fundit të Benjamin Netanyahut mbi rritjen e antisemitizmit në Francë dhe paralajmëroi se çështja nuk duhet të “shndërrohet në armë”, në një letër drejtuar udhëheqësit izraelit të botuar të martën. Kanë shpërthyer debate rreth një rritjeje të akteve antisemite dhe krimeve të urrejtjes në Francë, ndërsa […]",
-      "published": "Wed, 27 Aug 2025 02:30:22 +0000",
+      "title": "Kancelari gjerman, Merz: Sulmi i Izraelit në spitalin e Gazës nuk kishte në shënjestër gazetarët",
+      "link": "https://www.balkanweb.com/kancelari-gjerman-merz-sulmi-i-izraelit-ne-spitalin-e-gazes-nuk-kishte-ne-shenjester-gazetaret/",
+      "description": "Kancelari gjerman Friedrich Merz tha të martën se nuk besonte në këtë kohë se një sulm izraelit ndaj një spitali në Gaza që vrau të paktën 20 persona kishte në shënjestër gazetarët. “Por ushtria izraelite dhe qeveria izraelite kanë premtuar të nisin një hetim gjithëpërfshirës për këtë incident”, tha Merz në një konferencë për shtyp […]",
+      "published": "Wed, 27 Aug 2025 03:30:07 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791976",
-      "fetched_at": "2025-08-27T03:01:09.169050",
-      "ai_summary": "Presidenti Emmanuel Macron hodhi poshtë me forcë kritikat e fundit të Benjamin Netanyahut mbi rritjen e antisemitizmit në Francë dhe paralajmëroi se çështja nuk duhet të “shndërrohet në armë”, në një ..."
-    },
-    {
-      "title": "Britania e Madhe do të lejojë rreth 40 studentë nga Gaza të marrin bursa studimi",
-      "link": "https://www.balkanweb.com/britania-e-madhe-do-te-lejoje-rreth-40-studente-nga-gaza-te-marrin-bursa-studimi/",
-      "description": "Qeveria e Mbretërisë së Bashkuar ra dakord të martën të lejojë rreth 40 studentë palestinezë nga Gaza të vijnë në Mbretërinë e Bashkuar në javët e ardhshme për të marrë bursa universitare të financuara . Sipas BBC-së, nëntë prej studentëve janë thënë se do t’u jepet ndihmë për t’u larguar nga Gaza sipas skemës Chevening, […]",
-      "published": "Wed, 27 Aug 2025 02:00:38 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791951",
-      "fetched_at": "2025-08-27T03:01:09.169135",
-      "ai_summary": "Qeveria e Mbretërisë së Bashkuar ra dakord të martën të lejojë rreth 40 studentë palestinezë nga Gaza të vijnë në Mbretërinë e Bashkuar në javët e ardhshme për të marrë bursa universitare të financuar..."
-    },
-    {
-      "title": "Të paktën 4 të vrarë në Siri nga sulmet izraelite",
-      "link": "https://www.balkanweb.com/te-pakten-4-te-vrare-ne-siri-nga-sulmet-izraelite/",
-      "description": "Të paktën katër persona, përfshirë tre ushtarë të ushtrisë siriane, u vranë në sulmet izraelite që synonin Sirinë jugore dhe periferitë e kryeqytetit Damask të martën, tha një zyrtar i Ministrisë së Mbrojtjes siriane dhe media shtetërore për AFP. “Një dron izraelit shënjestroi një nga ndërtesat ushtarake të divizionit të 44-të të ushtrisë siriane në […]",
-      "published": "Wed, 27 Aug 2025 01:30:36 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2791972",
-      "fetched_at": "2025-08-27T03:01:09.169223",
-      "ai_summary": "Të paktën katër persona, përfshirë tre ushtarë të ushtrisë siriane, u vranë në sulmet izraelite që synonin Sirinë jugore dhe periferitë e kryeqytetit Damask të martën, tha një zyrtar i Ministrisë së M..."
+      "guid": "https://www.balkanweb.com/?p=2791980",
+      "fetched_at": "2025-08-27T04:21:25.095336",
+      "ai_summary": "Kancelari gjerman Friedrich Merz tha të martën se nuk besonte në këtë kohë se një sulm izraelit ndaj një spitali në Gaza që vrau të paktën 20 persona kishte në shënjestër gazetarët. “Por ushtria izrae..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
