@@ -1,0 +1,41 @@
+{
+  "date": "2025-08-28",
+  "timestamp": "2025-08-28T01:20:13.692668",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "French Montana fejohet me princeshën e Dubait",
+      "link": "https://www.gazetaexpress.com/french-montana-fejohet-me-princeshen-e-dubait/",
+      "description": "Pas fejesës së Taylor Swift, kemi risi tjera. TMZ zbulon nga një burim se French Montana çifti u fejua gjatë Javës së Modës në Paris në qershor, pak pasi ai u shfaq në pistë, transmeton Indeksonline. Zemrën ia ka rrëmbyer princesha e Dubait, Sheikha Mahra. Të dy janë parë së bashku që nga viti 2024, kudo, nga xhamitë, te restorantet luksoze në Dubai dhe Marok. Sipas TMZ dihet edhe data e saktë e dasmës dhe detaje të tjera, por të dyja familjet e tyre janë të emocionuara. The post French Montana fejohet me princeshën e Dubait appeared first on Gazeta Express.",
+      "published": "Wed, 27 Aug 2025 22:24:45 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=2860724",
+      "fetched_at": "2025-08-28T01:20:08.218463",
+      "ai_summary": "French Montana është fejuar me princeshën e Dubait, Sheikha Mahra, gjatë Javës së Modës në Paris në qershor, sipas TMZ,  dhe familjet e tyre janë të emocionuara për dasmën e ardhshme."
+    },
+    {
+      "title": "Skënderbeu ‘zhduket’ nga teksti i Ilir Shaqirit në Maqedoni",
+      "link": "https://www.gazetaexpress.com/skenderbeu-zhduket-nga-teksti-i-ilir-shaqirit-ne-maqedoni/",
+      "description": "Në një dasmë të zhvilluar në Tetovë, Maqedoni e Veriut, është kënduar kënga e njohur patriotike “Lulja e Kosharës” nga kengetari Ilir Shaqirit – por një ndryshim në tekst ka tërhequr menjëherë vëmendjen e publikut. Kënga, e interpretuar nga disa djem gjatë dasmës, nuk përmbante vargun origjinal “Gjaku i Skënderbeut”, por në vend të tij u dëgjua “Gjaku i këtij dheu”. Ky ndryshim ka shkaktuar reagime të forta në rrjetet sociale. Disa komentues shprehën shqetësim për “fshirjen” e figurës së Skënderbeut nga kënga: “Thrret Adem Jashari, gjaku i SKËNDERBEUT… Shpresoj të jetë gabim, jo me qëllim!”, është shprehur TikTokeri i njohur Roki Alb. Ndërsa të tjerë e kanë përkrahur versionin e ri, duke u pajtuar me heqjen e figurës së madhe të Skënderbeut nga teksti. View this post on Instagram A post shared by Prive by Liberta Spahiu (@prive.libertaspahiu) Kënga “Lulja e Kosharës” është një nga himnet e njohura të luftës së Kosovës, e dedikuar Mujdin Aliut – një luftëtar shqiptar nga Tetova, i cili ra dëshmor në betejën e lavdishme të Kosharës në moshën 25-vjeçare. Ai mban titullin Hero i Kosovës. Ndryshimi i tekstit ishte i qëllimshëm – dhe kjo ka mjaftuar që rrjetet të ndahen mes përkrahësve dhe kritikëve të kësaj ndërhyrjeje. The post Skënderbeu ‘zhduket’ nga teksti i Ilir Shaqirit në Maqedoni appeared first on Gazeta Express.",
+      "published": "Wed, 27 Aug 2025 22:19:45 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=2860720",
+      "fetched_at": "2025-08-28T01:20:08.219320",
+      "ai_summary": "Në një dasmë në Tetovë, u këndua “Lulja e Koshares” me një tekst të ndryshuar ku vargu “Gjaku i Skënderbeut” u zëvendësua me “Gjaku i këtij dheu”, duke shkaktuar reagime të ndryshme në rrjete sociale.  Ndryshimi ishte i qëllimshëm."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "Gazeta Express",
+    "Gazeta Express"
+  ]
+}
