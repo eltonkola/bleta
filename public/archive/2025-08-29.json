@@ -1,0 +1,93 @@
+{
+  "date": "2025-08-29",
+  "timestamp": "2025-08-29T01:20:28.043765",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Izraeli nis diskutimet për zonën e demilitarizuar në jug të Damaskut",
+      "link": "https://www.balkanweb.com/izraeli-nis-diskutimet-per-zonen-e-demilitarizuar-ne-jug-te-damaskut/",
+      "description": "Izraeli ka filluar diskutimet mbi krijimin e një zone të demilitarizuar në jug të kryeqytetit sirian, Damask. Kjo është deklaruar nga kryeministri izraelit Benjamin Netanyahu. “Aktualisht po përqendrohemi në tre gjëra: mbrojtja e komunitetit Druze në provincën As-Suwayda, krijimi i një zone të demilitarizuar nga jugu i Damaskut deri në Lartësitë e Golanit, duke përfshirë […]",
+      "published": "Fri, 29 Aug 2025 01:00:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793306",
+      "fetched_at": "2025-08-29T01:20:21.237515",
+      "ai_summary": "Kryeministri izraelit Netanyahu njoftoi fillimin e diskutimeve për krijimin e një zone të demilitarizuar në jug të Damaskut, me fokus mbrojtjen e komunitetit druz në As-Suwayda.  Kjo zonë do të shtrihej deri në Lartësitë e Golanit."
+    },
+    {
+      "title": "SHBA-të nuk e kanë përjashtuar përdorimin e forcës kundër Venezuelës",
+      "link": "https://www.balkanweb.com/shba-te-nuk-e-kane-perjashtuar-perdorimin-e-forces-kunder-venezueles/",
+      "description": "Presidenti i SHBA-së, Donald Trump, është gati të përdorë “fuqinë e plotë të Amerikës” për të ndaluar tregtinë e drogës nga Venezuela. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt, e bëri këtë deklaratë në një konferencë për shtyp. “Mund të them se Karaibet dhe vende të tjera tashmë i kanë duartrokitur operacionet e […]",
+      "published": "Fri, 29 Aug 2025 00:00:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793301",
+      "fetched_at": "2025-08-29T01:20:21.237660",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, është gati të përdorë “fuqinë e plotë të Amerikës” për të ndaluar tregtinë e drogës nga Venezuela. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt, e bë..."
+    },
+    {
+      "title": "SHBA-të mirëpresin lëvizjen e Evropës për të vendosur sanksione “të menjëhershme” ndaj Iranit",
+      "link": "https://www.balkanweb.com/shba-te-mirepresin-levizjen-e-evropes-per-te-vendosur-sanksione-te-menjehershme-ndaj-iranit/",
+      "description": "Sekretari i Shtetit i SHBA-së, Marco Rubio, përshëndeti të enjten vendimin e Francës , Gjermanisë dhe Mbretërisë së Bashkuar për të aktivizuar mekanizmin “snapback” që mund të rivendosë sanksionet ndërkombëtare ndaj Iranit , por tha se Uashingtoni mbetet i disponueshëm për “angazhim të drejtpërdrejtë” me Teheranin. “Franca, Gjermania dhe Mbretëria e Bashkuar nisën një proces […]",
+      "published": "Thu, 28 Aug 2025 23:30:23 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793323",
+      "fetched_at": "2025-08-29T01:20:21.237756",
+      "ai_summary": "Sekretari i Shtetit i SHBA-së, Marco Rubio, përshëndeti të enjten vendimin e Francës , Gjermanisë dhe Mbretërisë së Bashkuar për të aktivizuar mekanizmin “snapback” që mund të rivendosë sanksionet ndë..."
+    },
+    {
+      "title": "Zelensky: Është e rëndësishme që qëndrimi i bashkuar i Evropës të dëgjohet qartë në Uashington",
+      "link": "https://www.balkanweb.com/zelensky-eshte-e-rendesishme-qe-qendrimi-i-bashkuar-i-evropes-te-degjohet-qarte-ne-uashington/",
+      "description": "Është e rëndësishme që të vazhdojmë të koordinohemi dhe të punojmë krah për krah për të siguruar që pozicioni i bashkuar i Evropës të dëgjohet qartë në Uashington. Presidenti ukrainas Volodymyr Zelensky e bëri këtë deklaratë në një postim në kanalin e tij Telegram në lidhje me takimin e tij me një numër udhëheqësish evropianë. […]",
+      "published": "Thu, 28 Aug 2025 23:00:01 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793298",
+      "fetched_at": "2025-08-29T01:20:21.237859",
+      "ai_summary": "Është e rëndësishme që të vazhdojmë të koordinohemi dhe të punojmë krah për krah për të siguruar që pozicioni i bashkuar i Evropës të dëgjohet qartë në Uashington. Presidenti ukrainas Volodymyr Zelens..."
+    },
+    {
+      "title": "Trump ‘i pakënaqur’, por ‘i befasuar’ nga sulmet raketore ruse në Ukrainë",
+      "link": "https://www.balkanweb.com/trump-i-pakenaqur-por-i-befasuar-nga-sulmet-raketore-ruse-ne-ukraine/",
+      "description": "Shtëpia e Bardhë tha të enjten se Presidenti i SHBA-së, Donald Trump, nuk ishte i kënaqur me një seri sulmesh me raketa ruse gjatë natës në kryeqytetin ukrainas, por gjithashtu nuk ishte i befasuar. “Ai nuk ishte i lumtur për këtë lajm, por as nuk u habit. Këto janë dy vende që kanë qenë në […]",
+      "published": "Thu, 28 Aug 2025 22:30:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793320",
+      "fetched_at": "2025-08-29T01:20:21.237958",
+      "ai_summary": "Shtëpia e Bardhë tha të enjten se Presidenti i SHBA-së, Donald Trump, nuk ishte i kënaqur me një seri sulmesh me raketa ruse gjatë natës në kryeqytetin ukrainas, por gjithashtu nuk ishte i befasuar. “..."
+    },
+    {
+      "title": "EMISIONI I PLOTË/ Prapaskenat e sulmit ndaj News24, investigimi i Vetting: Kyçja e medias nga shteti, çelësi i korrupsionit",
+      "link": "https://www.balkanweb.com/emisioni-i-plote-prapaskenat-e-sulmit-ndaj-news24-investigimi-i-vetting-kycja-e-medias-celesi-i-korrupsionit/",
+      "description": "Vjolanda Peca | Emisioni investigativ Vetting, News24 Goditja ndaj News24, censura nga pushteti Perandori francez i shekullit 19 Napoleon Bonaparte, ka thënë: “Ua kam frikën më shumë 4 gazetave opozitare se sa mijëra bajonetave”. Kjo shprehje erdhi fill pasi perandori mbylli 64 media në Francë duke nënkuptuar se shtypi ka fuqi shumë të madhe në […]",
+      "published": "Thu, 28 Aug 2025 22:18:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793304",
+      "fetched_at": "2025-08-29T01:20:21.238043",
+      "ai_summary": "Vjolanda Peca | Emisioni investigativ Vetting, News24 Goditja ndaj News24, censura nga pushteti Perandori francez i shekullit 19 Napoleon Bonaparte, ka thënë: “Ua kam frikën më shumë 4 gazetave opozit..."
+    }
+  ],
+  "total_articles": 6,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
