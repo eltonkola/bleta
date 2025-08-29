@@ -1,6 +1,6 @@
 {
   "date": "2025-08-29",
-  "timestamp": "2025-08-29T03:01:11.493814",
+  "timestamp": "2025-08-29T04:22:02.329653",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,20 +9,46 @@
   },
   "articles": [
     {
-      "title": "Guterres diskuton me Zelenskyn përpjekjet për t’i dhënë fund konfliktit Rusi-Ukrainë",
-      "link": "https://www.balkanweb.com/guterres-diskuton-me-zelenskyn-perpjekjet-per-ti-dhene-fund-konfliktit-rusi-ukraine/",
-      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, zhvilloi një bisedë telefonike me Presidentin e Ukrainës, Volodymyr Zelensky. Kjo u deklarua nga zëdhënësi i Sekretarit të Përgjithshëm të OKB-së, Stephane Dujarric, në një konferencë për gazetarët. Ai vuri në dukje se palët diskutuan përpjekjet e fundit diplomatike për t’i dhënë fund luftës Rusi-Ukrainë. Sipas Dujarric, Guterres […]",
-      "published": "Fri, 29 Aug 2025 02:00:44 +0000",
+      "title": "SHBA-të miratojnë shitjen e mundshme të municioneve ajrore në Ukrainë me vlerë 825 milionë dollarë",
+      "link": "https://www.balkanweb.com/shba-te-miratojne-shitjen-e-mundshme-te-municioneve-ajrore-ne-ukraine-me-vlere-825-milione-dollare/",
+      "description": "Departamenti Amerikan i Shtetit ka miratuar shitjen e mundshme të municioneve të dërguara nga ajri dhe pajisjeve përkatëse për Ukrainën, me një kosto të vlerësuar prej 825 milionë dollarësh, tha Agjencia e Bashkëpunimit për Sigurinë dhe Mbrojtjen (DSCA) . DSCA tha se Kongresi është njoftuar për kërkesën e Kievit për të blerë deri në 3,350 […]",
+      "published": "Fri, 29 Aug 2025 04:00:12 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2793311",
-      "fetched_at": "2025-08-29T03:01:05.018808",
-      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, foli me Presidentin Zelensky për përpjekjet diplomatike për të përfunduar luftën në Ukrainë, siç njoftoi zëdhënësi i OKB-së, Stephane Dujarric.  Biseda fokusohej në zgjidhjen diplomatike të konfliktit Rusi-Ukrainë."
+      "guid": "https://www.balkanweb.com/?p=2793315",
+      "fetched_at": "2025-08-29T04:21:54.743132",
+      "ai_summary": "Departamenti Amerikan i Shtetit ka aprovuar shitjen e mundshme të municioneve ajrore dhe pajisjeve të tjera në Ukrainë për 825 milionë dollarë, sipas DSCA-së, e cila njoftoi Kongresin për kërkesën e Kievit."
+    },
+    {
+      "title": "Izraeli raporton 152 raste të reja të fruthit, duke e çuar totalin në 770",
+      "link": "https://www.balkanweb.com/izraeli-raporton-152-raste-te-reja-te-fruthit-duke-e-cuar-totalin-ne-770/",
+      "description": "Ministria e Shëndetësisë e Izraelit raportoi 152 raste të reja të fruthit të enjten, duke e çuar totalin në 770 që nga fillimi i shpërthimit në fillim të prillit. Ministria vlerëson se 1,550 deri në 2,750 persona mund të jenë të infektuar, duke përmendur norma të larta të shtrimit në spital dhe raportet e komunitetit. […]",
+      "published": "Fri, 29 Aug 2025 03:30:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793337",
+      "fetched_at": "2025-08-29T04:21:54.743295",
+      "ai_summary": "Ministria e Shëndetësisë e Izraelit raportoi 152 raste të reja të fruthit të enjten, duke e çuar totalin në 770 që nga fillimi i shpërthimit në fillim të prillit. Ministria vlerëson se 1,550 deri në 2..."
+    },
+    {
+      "title": "Medvedev paralajmëron Austrinë kundër heqjes dorë nga neutraliteti për NATO-n",
+      "link": "https://www.balkanweb.com/medvedev-paralajmeron-austrine-kunder-heqjes-dore-nga-neutraliteti-per-nato-n/",
+      "description": "Dmitry Medvedev, nënkryetar i Këshillit të Sigurisë së Rusisë, paralajmëroi të enjten se lëvizja e mundshme e Austrisë për të hequr dorë nga neutraliteti i saj i sanksionuar kushtetues dhe për t’u bashkuar me NATO-n do të dëmtonte shtetësinë dhe pozicionin e saj ndërkombëtar. Në një deklaratë në aplikacionin rus të mediave sociale VK, Medvedev […]",
+      "published": "Fri, 29 Aug 2025 03:00:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2793329",
+      "fetched_at": "2025-08-29T04:21:54.743380",
+      "ai_summary": "Dmitry Medvedev, nënkryetar i Këshillit të Sigurisë së Rusisë, paralajmëroi të enjten se lëvizja e mundshme e Austrisë për të hequr dorë nga neutraliteti i saj i sanksionuar kushtetues dhe për t’u bas..."
     }
   ],
-  "total_articles": 1,
+  "total_articles": 3,
   "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
     "BalkanWeb"
   ]
 }
