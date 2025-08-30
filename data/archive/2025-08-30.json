@@ -1,0 +1,41 @@
+{
+  "date": "2025-08-30",
+  "timestamp": "2025-08-30T01:16:28.351263",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Karota me hudhër dhe majdanoz: Shije dimërore, gati për gjysmë ore",
+      "link": "https://telegrafi.com/karota-hudher-dhe-majdanoz-shije-dimerore-gati-per-gjysme-ore/",
+      "description": "Ju sjellim një nga recetat më të mira për të përgatitur karotë me hudhër dhe majdanoz – një kombinim i thjeshtë, i shëndetshëm dhe shumë i dashur në tryezat tona dimërore Turshia është pjesë e pandashme e traditës në trojet tona. Përveç ajvarit, turshive dhe specave të thartë, gjithnjë e më shpesh në shtëpi përgatitet […] The post Karota me hudhër dhe majdanoz: Shije dimërore, gati për gjysmë ore appeared first on Telegrafi.",
+      "published": "Sat, 30 Aug 2025 00:24:37 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4360972",
+      "fetched_at": "2025-08-30T01:16:25.192143",
+      "ai_summary": "Ju sjellim një nga recetat më të mira për të përgatitur karotë me hudhër dhe majdanoz – një kombinim i thjeshtë, i shëndetshëm dhe shumë i dashur në tryezat tona dimërore Turshia është pjesë e pandash..."
+    },
+    {
+      "title": "Misteri i shenjës STOP: Pse ka tetë kënde dhe jo katër apo gjashtë?",
+      "link": "https://telegrafi.com/perse-shenja-stop-ka-tete-kende/",
+      "description": "Një simbol i thjeshtë, por me një logjikë të menduar mirë pas tij Shenja e famshme STOP, që sot është e kuqe dhe me formë tetëkëndëshe, nuk ka qenë gjithmonë kështu. Në fillimet e saj, ajo ishte një tabelë e vogël, e bardhë dhe katrore – shumë larg versionit të njohur që na ndalon sot […] The post Misteri i shenjës STOP: Pse ka tetë kënde dhe jo katër apo gjashtë? appeared first on Telegrafi.",
+      "published": "Fri, 29 Aug 2025 21:26:19 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=2328244",
+      "fetched_at": "2025-08-30T01:16:25.194293",
+      "ai_summary": "Një simbol i thjeshtë, por me një logjikë të menduar mirë pas tij Shenja e famshme STOP, që sot është e kuqe dhe me formë tetëkëndëshe, nuk ka qenë gjithmonë kështu. Në fillimet e saj, ajo ishte një t..."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
