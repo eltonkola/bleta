@@ -1,0 +1,54 @@
+{
+  "date": "2025-09-01",
+  "timestamp": "2025-09-01T01:41:04.653945",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "A është temjani ilaç për ajrin dhe mushkëritë? Çfarë beson tradita dhe çfarë provon shkenca",
+      "link": "https://telegrafi.com/eshte-temjani-ilac-per-ajrin-dhe-mushkerite-cfare-beson-tradita-dhe-cfare-provon-shkenca/",
+      "description": "Nga aromaterapia e lashtë deri te provat moderne mbi vajrat esencialë Prej mijëra vjetësh, temjani ka pasur një rol të rëndësishëm si në ritualet shpirtërore, ashtu edhe në mjekësinë popullore. Aroma e tij përdorej për të sjellë qetësi, siguri dhe gjendje shpirtërore më të lehtësuar. Mjekësia lindore e vlerëson për aftësinë që ka të shërojë […] The post A është temjani ilaç për ajrin dhe mushkëritë? Çfarë beson tradita dhe çfarë provon shkenca appeared first on Telegrafi.",
+      "published": "Mon, 01 Sep 2025 00:49:11 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4362105",
+      "fetched_at": "2025-09-01T01:41:00.595922",
+      "ai_summary": "Artikulli shqyrton përdorimin tradicional dhe shkencor të temjanit, duke theksuar vlerën e tij si qetësues dhe përfitimet e mundshme për shëndetin e mushkërive, sipas traditës dhe studimeve moderne."
+    },
+    {
+      "title": "Pse lëkura bëhet e gjelbër nga bizhuteritë – dhe si ta parandaloni",
+      "link": "https://telegrafi.com/pse-lekura-behet-e-gjelber-nga-bizhuterite-dhe-si-ta-parandaloni/",
+      "description": "Një reaksion kimik i padëmshëm, por shpesh i bezdisshëm për lëkurën Për të shmangur zverdhjen ose gjelbërimin e lëkurës, lyeni pjesën e bizhuterisë që prek lëkurën me një shtresë llaku transparent për thonj dhe pastroni rregullisht bizhuteritë për të hequr mbetjet e losionit, djersës dhe papastërtive. Është zhgënjyes kur gjeni unazën, varësen, vathët apo byzylykun […] The post Pse lëkura bëhet e gjelbër nga bizhuteritë – dhe si ta parandaloni appeared first on Telegrafi.",
+      "published": "Mon, 01 Sep 2025 00:08:16 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4362094",
+      "fetched_at": "2025-09-01T01:41:00.596226",
+      "ai_summary": "Një reaksion kimik i padëmshëm, por shpesh i bezdisshëm për lëkurën Për të shmangur zverdhjen ose gjelbërimin e lëkurës, lyeni pjesën e bizhuterisë që prek lëkurën me një shtresë llaku transparent për..."
+    },
+    {
+      "title": "Si veprojnë njerëzit e suksesshëm me ata që nuk u pëlqejnë: qetësi dhe kursim energjie",
+      "link": "https://telegrafi.com/si-veprojne-njerezit-e-suksesshem-kur-nuk-u-pelqen-dikush/",
+      "description": "Kur antipatia nuk bëhet pengesë për suksesin Është e pamundur të kalosh jetën pa takuar njerëz me të cilët nuk mund të përshtatesh. Herë mund të jetë ndonjë koleg në punë, herë ndonjë i afërm, madje ndonjëherë edhe persona të panjohur që thjesht të krijojnë ndjesi të pakëndshme. Ky është realitet i përditshëm, dhe nuk […] The post Si veprojnë njerëzit e suksesshëm me ata që nuk u pëlqejnë: qetësi dhe kursim energjie appeared first on Telegrafi.",
+      "published": "Sun, 31 Aug 2025 23:59:38 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=2544011",
+      "fetched_at": "2025-09-01T01:41:00.596451",
+      "ai_summary": "Artikulli në Telegrafi shpjegon se si individët e suksesshëm menaxhojnë marrëdhëniet me njerëzit që nuk u pëlqejnë, duke theksuar rëndësinë e qetësisë dhe kursimit të energjisë."
+    }
+  ],
+  "total_articles": 3,
+  "sources": [
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
