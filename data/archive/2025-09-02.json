@@ -1,0 +1,132 @@
+{
+  "date": "2025-09-02",
+  "timestamp": "2025-09-02T01:21:28.811769",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Bessent: SHBA-të do të shqyrtojnë të gjitha opsionet për veprim kundër Rusisë",
+      "link": "https://www.balkanweb.com/bessent-shba-te-do-te-shqyrtojne-te-gjitha-opsionet-per-veprim-kunder-rusise/",
+      "description": "Shtetet e Bashkuara planifikojnë të “shqyrtojnë me shumë kujdes” të gjitha opsionet e mundshme për veprim kundër Moskës në lidhje me luftën e vazhdueshme Rusi-Ukrainë këtë javë. Sekretari i Thesarit të SHBA-së, Scott Bessent, e tha këtë në një intervistë me kanalin televiziv Fox Business. “Mendoj se të gjitha opsionet po shqyrtohen me Presidentin Donald […]",
+      "published": "Tue, 02 Sep 2025 01:00:04 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2795578",
+      "fetched_at": "2025-09-02T01:21:20.747742",
+      "ai_summary": "SHBA-ja do të shqyrtojë me kujdes të gjitha opsionet e mundshme për veprime kundër Rusisë për shkak të luftës në Ukrainë, sipas Sekretarit të Thesarit, Scott Bessent.  Ky shqyrtim përfshin diskutime me Presidentin."
+    },
+    {
+      "title": "Ukrainasit pro armëpushimit, por vetëm me garanci",
+      "link": "https://www.balkanweb.com/ukrainasit-pro-armepushimit-por-vetem-me-garanci/",
+      "description": "Një shumicë e madhe ukrainasish duket se janë në favor të një armëpushimi, por vetëm nëse mund të ofrohen garanci të qarta sigurie, sipas një sondazhi të kohëve të fundit. Nga 1,600 ukrainas të anketuar, 75% e panë garancitë e sigurisë nga Evropa dhe Shtetet e Bashkuara si një parakusht për t’i dhënë fund armiqësive, […]",
+      "published": "Tue, 02 Sep 2025 00:30:36 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2795598",
+      "fetched_at": "2025-09-02T01:21:20.747901",
+      "ai_summary": "Një shumicë e madhe ukrainasish duket se janë në favor të një armëpushimi, por vetëm nëse mund të ofrohen garanci të qarta sigurie, sipas një sondazhi të kohëve të fundit. Nga 1,600 ukrainas të anketu..."
+    },
+    {
+      "title": "Huthitë e Jemenit pretendojnë sulmin me raketa balistike ndaj një anijeje izraelite në Detin e Kuq",
+      "link": "https://www.balkanweb.com/huthite-e-jemenit-pretendojne-sulmin-me-raketa-balistike-ndaj-nje-anijeje-izraelite-ne-detin-e-kuq/",
+      "description": "Grupi Huthi i Jemenit tha të hënën se kishte nisur një sulm me raketa balistike ndaj një anijeje izraelite në brigjet e Detit të Kuq. Zëdhënësi ushtarak, Yahya Saree, tha në një deklaratë se një raketë balistike shënjestroi tankerin izraelit të naftës Scarlet Ray në veri të Detit të Kuq. Ai tha se anija u […]",
+      "published": "Tue, 02 Sep 2025 00:00:33 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2795575",
+      "fetched_at": "2025-09-02T01:21:20.747988",
+      "ai_summary": "Hutëtë njoftuan sulmin me raketa balistike ndaj një anijeje izraelite, tankerit të naftës Scarlet Ray, në Detin e Kuq, sipas zëdhënësit Yahya Saree.  Sulmi, sipas tyre, ka goditur anijen në veri të Detit të Kuq."
+    },
+    {
+      "title": "Një turmë në Nigeri djeg të gjallë një grua për blasfemi të dyshuar",
+      "link": "https://www.balkanweb.com/nje-turme-ne-nigeri-djeg-te-gjalle-nje-grua-per-blasfemi-te-dyshuar/",
+      "description": "Një grua u dogj e gjallë nga një turmë myslimanësh të zemëruar në shtetin Niger, në Nigerinë qendrore, pasi dyshohet se blasfemoi Profetin Muhamed, figurën më të shenjtë në Islam, tha policia shtetërore të hënën. Gruaja u “dogj e gjallë” të shtunën në një “sulm bande” pasi dyshohet se bëri deklarata blasfemuese për profetin në […]",
+      "published": "Mon, 01 Sep 2025 23:30:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2795593",
+      "fetched_at": "2025-09-02T01:21:20.748065",
+      "ai_summary": "Një grua u dogj e gjallë nga një turmë myslimanësh të zemëruar në shtetin Niger, në Nigerinë qendrore, pasi dyshohet se blasfemoi Profetin Muhamed, figurën më të shenjtë në Islam, tha policia shtetëro..."
+    },
+    {
+      "title": "Putin dhe Modi zhvillojnë bisedime dypalëshe në qytetin Tianjin të Kinës, diskutojnë për Ukrainën",
+      "link": "https://www.balkanweb.com/putin-dhe-modi-zhvillojne-bisedime-dypaleshe-ne-qytetin-tianjin-te-kines-diskutojne-per-ukrainen/",
+      "description": "Presidenti rus Vladimir Putin dhe kryeministri indian Narendra Modi u takuan të hënën për bisedime dypalëshe në qytetin portual verior të Kinës, Tianjin, ku morën pjesë në samitin e Organizatës së Bashkëpunimit të Shangait (SCO) . Të dy diskutuan gjithashtu për luftën në Ukrainë , ndërsa Modi përshëndeti “të gjitha përpjekjet për të arritur paqen”. […]",
+      "published": "Mon, 01 Sep 2025 23:00:23 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2795568",
+      "fetched_at": "2025-09-02T01:21:20.748143",
+      "ai_summary": "Presidenti rus Vladimir Putin dhe kryeministri indian Narendra Modi u takuan të hënën për bisedime dypalëshe në qytetin portual verior të Kinës, Tianjin, ku morën pjesë në samitin e Organizatës së Bas..."
+    },
+    {
+      "title": "India dërgon ndihma në Afganistanin e goditur nga tërmeti",
+      "link": "https://www.balkanweb.com/india-dergon-ndihma-ne-afganistanin-e-goditur-nga-termeti/",
+      "description": "India tha të hënën se po dërgon ndihmë humanitare në Afganistan pas një tërmeti me magnitudë 6 ballë që goditi vendin e Azisë Jugore. Ministri i Jashtëm Indian S. Jaishankar shprehu ngushëllimet e tij për humbjen e jetëve në tërmet dhe u uroi shërim të shpejtë të plagosurve. Tërmeti goditi Afganistanin qendror të dielën, duke […]",
+      "published": "Mon, 01 Sep 2025 22:30:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2795586",
+      "fetched_at": "2025-09-02T01:21:20.748231",
+      "ai_summary": "India tha të hënën se po dërgon ndihmë humanitare në Afganistan pas një tërmeti me magnitudë 6 ballë që goditi vendin e Azisë Jugore. Ministri i Jashtëm Indian S. Jaishankar shprehu ngushëllimet e tij..."
+    },
+    {
+      "title": "Speca të mbushur me djathë dhe vezë: Drekë e lehtë verore",
+      "link": "https://telegrafi.com/speca-te-mbushur-djathe-dhe-veze-dreke-e-lehte-verore/",
+      "description": "Në verë, pak kush ka dëshirë të kalojë shumë kohë duke gatuar, prandaj specat e mbushur me djathë dhe vezë, të pjekur në furrë, janë zgjedhja ideale kur dëshironi një vakt të shpejtë, të lehtë dhe plot shije Përgatitja e specave të mbushur është shumë e thjeshtë dhe i gjithë procesi, nga larja e specave […] The post Speca të mbushur me djathë dhe vezë: Drekë e lehtë verore appeared first on Telegrafi.",
+      "published": "Mon, 01 Sep 2025 23:31:17 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4362878",
+      "fetched_at": "2025-09-02T01:21:24.063218",
+      "ai_summary": "Në verë, pak kush ka dëshirë të kalojë shumë kohë duke gatuar, prandaj specat e mbushur me djathë dhe vezë, të pjekur në furrë, janë zgjedhja ideale kur dëshironi një vakt të shpejtë, të lehtë dhe plo..."
+    },
+    {
+      "title": "Top transferimet e lojtarëve shqiptarë në afatin kalimtar veror – Zhegrova, Jashari, Xhaka, Avdullahu, Asllani e shumë të tjerë",
+      "link": "https://telegrafi.com/top-transferimet-e-lojtareve-shqiptare-ne-afatin-kalimtar-veror-zhegrova-jashari-xhaka-avdullahu-asllani-e-shume-te-tjere/",
+      "description": "Afati kalimtar veror ka mbyllur zyrtarisht dyert dhe ka qenë tejet i lëvizshëm edhe për futbollistët shqiptarë, të cilët kanë bërë hapa të rëndësishëm në karrierë. Emri më i madh padyshim është Edon Zhegrova, i cili nga Lille ka kaluar te Juventusi, në një transferim të madh që e vendos atë në një prej klubeve […] The post Top transferimet e lojtarëve shqiptarë në afatin kalimtar veror – Zhegrova, Jashari, Xhaka, Avdullahu, Asllani e shumë të tjerë appeared first on Telegrafi.",
+      "published": "Mon, 01 Sep 2025 22:38:18 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4362853",
+      "fetched_at": "2025-09-02T01:21:24.063511",
+      "ai_summary": "Afati kalimtar veror ka mbyllur zyrtarisht dyert dhe ka qenë tejet i lëvizshëm edhe për futbollistët shqiptarë, të cilët kanë bërë hapa të rëndësishëm në karrierë. Emri më i madh padyshim është Edon Z..."
+    },
+    {
+      "title": "Pse duart e tua mbeten gjithmonë të ftohta, edhe në ditët e ngrohta: Pesë shpjegime që s’duhet t’i injorosh",
+      "link": "https://telegrafi.com/pese-arsye-pse-duart-e-tua-jane-gjithmone-te-ftohta/",
+      "description": "Mësoni pse ky shqetësim nuk lidhet gjithmonë me temperaturën e ajrit Shumë njerëz përjetojnë duar të ftohta vetëm kur temperaturat bien, por tek disa, ky shqetësim është i vazhdueshëm gjatë gjithë vitit. Në fakt, studimet tregojnë se deri në 10-15% të popullsisë (sidomos gratë dhe të rinjtë) kanë duar të ftohta pothuajse gjithë kohës. Arsyeja […] The post Pse duart e tua mbeten gjithmonë të ftohta, edhe në ditët e ngrohta: Pesë shpjegime që s’duhet t’i injorosh appeared first on Telegrafi.",
+      "published": "Mon, 01 Sep 2025 21:34:50 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "",
+      "fetched_at": "2025-09-02T01:21:24.065044",
+      "ai_summary": "Mësoni pse ky shqetësim nuk lidhet gjithmonë me temperaturën e ajrit Shumë njerëz përjetojnë duar të ftohta vetëm kur temperaturat bien, por tek disa, ky shqetësim është i vazhdueshëm gjatë gjithë vit..."
+    }
+  ],
+  "total_articles": 9,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
