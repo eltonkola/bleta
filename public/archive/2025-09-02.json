@@ -1,6 +1,6 @@
 {
   "date": "2025-09-02",
-  "timestamp": "2025-09-02T03:05:10.415977",
+  "timestamp": "2025-09-02T04:21:29.677303",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,57 +9,44 @@
   },
   "articles": [
     {
-      "title": "Siria eksporton ngarkesën e parë të naftës në 14 vjet",
-      "link": "https://www.balkanweb.com/siria-eksporton-ngarkesen-e-pare-te-naftes-ne-14-vjet/",
-      "description": "Siria ka kryer dërgesën e parë zyrtare të naftës në 14 vjet. Raportohet se grupi i eksportit prej 600,000 fuçish u transportua nga porti mesdhetar i Tartusit. Sipas përfaqësuesit të Ministrisë Siriane të Energjisë, Riyad al-Jubasini, blerësi ishte kompania ndërkombëtare tregtare “B Serve Energy”. Grupi i parë i naftës po transportohet me cisternën “Nissos Christiana”. […]",
-      "published": "Tue, 02 Sep 2025 03:00:27 +0000",
+      "title": "Kobakhidze: Gjeorgjia është e gatshme të përmbushë çdo kërkesë të arsyeshme nga BE-ja",
+      "link": "https://www.balkanweb.com/kobakhidze-gjeorgjia-eshte-e-gatshme-te-permbushe-cdo-kerkese-te-arsyeshme-nga-be-ja/",
+      "description": "Autoritetet gjeorgjiane janë të gatshme të përmbushin çdo kërkesë nga Bashkimi Evropian. Kjo u deklarua nga kryeministri gjeorgjian Irakli Kobakhidze. Ai theksoi se BE-ja kishte bërë disa kërkesa dhe se ato ishin përmbushur plotësisht: “Ne jemi të gatshëm të përmbushim absolutisht të gjitha kërkesat e arsyeshme. Ata duhet të na justifikojnë se kërkesat janë të […]",
+      "published": "Tue, 02 Sep 2025 04:00:36 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2795602",
-      "fetched_at": "2025-09-02T03:05:04.014554",
-      "ai_summary": "Siria ka eksportuar 600,000 fuçi nafte për herë të parë në 14 vjet, nga porti i Tartusit drejt kompanisë ndërkombëtare \"B Serve Energy\".  Naftë transportohet me cisternën \"Nissos Christiana\"."
+      "guid": "https://www.balkanweb.com/?p=2795606",
+      "fetched_at": "2025-09-02T04:21:22.717362",
+      "ai_summary": "Kryeministri gjeorgjian, Irakli Kobakhidze, deklaroi gatishmërinë e plotë të vendit për të përmbushur të gjitha kërkesat e arsyeshme të Bashkimit Evropian, duke theksuar se kërkesat e mëparshme janë përmbushur tashmë."
     },
     {
-      "title": "Trump: Izraeli po humbet luftën e marrëdhënieve me publikun, mbështetja e Kongresit po zvogëlohet",
-      "link": "https://www.balkanweb.com/trump-izraeli-po-humbet-luften-e-marredhenieve-me-publikun-mbeshtetja-e-kongresit-po-zvogelohet/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha se ishte i befasuar që Izraeli kishte humbur kontrollin e Kongresit në një intervistë me Daily Caller të hënën. Kur gazetari Reagan Reese e pyeti nëse ishte i shqetësuar për rënien e mbështetjes republikane për Izraelin në Kongres, Trump tha se ishte i befasuar nga mënyra se si kishte […]",
-      "published": "Tue, 02 Sep 2025 02:30:21 +0000",
+      "title": "1,000 të vdekur në Sudan pas rrëshqitjes së dheut, mbijeton vetëm një",
+      "link": "https://www.balkanweb.com/te-pakten-1000-te-vdekur-ne-sudan-pas-rreshqitjes-se-dheut-mbijeton-vetem-nje/",
+      "description": "Të paktën 1,000 persona humbën jetën kur një rrëshqitje dheu shkatërroi një fshat në Malet Mara në rajonin Darfur të Sudanit perëndimor, duke lënë vetëm një të mbijetuar, tha të hënën Lëvizja/Ushtria Çlirimtare e Sudanit (SLM/A). Rrëshqitja e dheut goditi komunitetin më 31 gusht pas ditësh shirash të rrëmbyeshëm, sipas grupit, të udhëhequr nga Abdelwahid […]",
+      "published": "Tue, 02 Sep 2025 03:45:17 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2795614",
-      "fetched_at": "2025-09-02T03:05:04.014717",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se ishte i befasuar që Izraeli kishte humbur kontrollin e Kongresit në një intervistë me Daily Caller të hënën. Kur gazetari Reagan Reese e pyeti nëse ishte i s..."
+      "guid": "https://www.balkanweb.com/?p=2795621",
+      "fetched_at": "2025-09-02T04:21:22.717526",
+      "ai_summary": "Të paktën 1,000 persona humbën jetën kur një rrëshqitje dheu shkatërroi një fshat në Malet Mara në rajonin Darfur të Sudanit perëndimor, duke lënë vetëm një të mbijetuar, tha të hënën Lëvizja/Ushtria ..."
     },
     {
-      "title": "Maduro: Venezuela përballet me kërcënimin më serioz në 100 vitet e fundit",
-      "link": "https://www.balkanweb.com/maduro-venezuela-perballet-me-kercenimin-me-serioz-ne-100-vitet-e-fundit/",
-      "description": "Presidenti i Venezuelës, Nicolas Maduro, ka thënë se vendi po përballet me kërcënimin më të madh të pushtimit nga Shtetet e Bashkuara në 100 vitet e fundit. “Tetë anije luftarake me 1,200 raketa dhe një nëndetëse bërthamore po shkojnë drejt vendit tonë”, tha Maduro. Ai e quajti kërcënimin e pushtimit “të tepruar, të pabazuar dhe […]",
-      "published": "Tue, 02 Sep 2025 02:00:31 +0000",
+      "title": "Belgjika njeh shtetin palestinez, 13 të vdekur në bombardimet e reja izraelite në Gaza",
+      "link": "https://www.balkanweb.com/belgjika-njeh-shtetin-palestinez-13-te-vdekur-ne-bombardimet-e-reja-izraelite-ne-gaza/",
+      "description": "Qeveria belge synon të ecë përpara me njohjen e shtetit të Palestinës gjatë Asamblesë së Përgjithshme të Kombeve të Bashkuara më vonë këtë muaj, njoftoi Ministri i Jashtëm belg Maxime Prevost. “Palestina do të njihet nga Belgjika gjatë seancës së OKB-së” dhe në të njëjtën kohë do të shpallen “sanksione të rrepta kundër qeverisë izraelite”, […]",
+      "published": "Tue, 02 Sep 2025 03:30:54 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2795581",
-      "fetched_at": "2025-09-02T03:05:04.014802",
-      "ai_summary": "Presidenti i Venezuelës, Nicolas Maduro, ka thënë se vendi po përballet me kërcënimin më të madh të pushtimit nga Shtetet e Bashkuara në 100 vitet e fundit. “Tetë anije luftarake me 1,200 raketa dhe n..."
-    },
-    {
-      "title": "Një i vdekur pas përplasjes së dy aeroplanëve të vegjël në Kolorado",
-      "link": "https://www.balkanweb.com/te-pakten-1-i-vdekur-pas-perplasjes-se-2-aeroplaneve-te-vegjel-ne-kolorado/",
-      "description": "Të paktën një person vdiq dhe tre të tjerë pësuan lëndime kur dy aeroplanë të vegjël u përplasën në një aeroport në shtetin amerikan të Kolorados, raportuan mediat lokale. Incidenti ndodhi kur një Cessna 172 dhe një Extra Flugzeugbau EA300 u përplasën me njëri-tjetrin ndërsa të dy aeroplanët përpiqeshin të uleshin në Aeroportin Komunal të […]",
-      "published": "Tue, 02 Sep 2025 01:30:24 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2795609",
-      "fetched_at": "2025-09-02T03:05:04.014894",
-      "ai_summary": "Të paktën një person vdiq dhe tre të tjerë pësuan lëndime kur dy aeroplanë të vegjël u përplasën në një aeroport në shtetin amerikan të Kolorados, raportuan mediat lokale. Incidenti ndodhi kur një Ces..."
+      "guid": "https://www.balkanweb.com/?p=2795617",
+      "fetched_at": "2025-09-02T04:21:22.717611",
+      "ai_summary": "Qeveria belge synon të ecë përpara me njohjen e shtetit të Palestinës gjatë Asamblesë së Përgjithshme të Kombeve të Bashkuara më vonë këtë muaj, njoftoi Ministri i Jashtëm belg Maxime Prevost. “Palest..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
