@@ -1,6 +1,6 @@
 {
   "date": "2025-09-03",
-  "timestamp": "2025-09-03T02:54:07.728408",
+  "timestamp": "2025-09-03T04:21:09.578994",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,40 +9,40 @@
   },
   "articles": [
     {
-      "title": "Britania e Madhe përgatitet të shpallë sanksione të reja kundër Rusisë",
-      "link": "https://www.balkanweb.com/britania-e-madhe-pergatitet-te-shpalle-sanksione-te-reja-kunder-rusise/",
-      "description": "Qeveria e Mbretërisë së Bashkuar po përgatit një paketë të re sanksionesh kundër Rusisë, tha Sekretari i Jashtëm David Lammy gjatë një fjalimi në Parlamentin Britanik. Sipas ministrit, njoftimi i kufizimeve të reja pritet në të ardhmen e afërt. Gjatë një seance pyetje-përgjigje me deputetët, ai u pyet nëse sanksionet do të ndikonin te individë […]",
-      "published": "Wed, 03 Sep 2025 02:30:32 +0000",
+      "title": "Zvicra do të ndajë 3 milionë dollarë për kërkimin e personave të zhdukur në Ukrainë",
+      "link": "https://www.balkanweb.com/zvicra-do-te-ndaje-3-milione-dollare-per-kerkimin-e-personave-te-zhdukur-ne-ukraine/",
+      "description": "Autoritetet zvicerane janë zotuar të ndajnë 2.4 milionë franga zvicerane (afërsisht 3 milionë dollarë amerikanë) gjatë viteve 2025-2026 për të mbështetur aktivitetet e Agjencisë Qendrore të Gjurmimit të Komitetit Ndërkombëtar të Kryqit të Kuq (ICRC), e cila është përgjegjëse për gjurmimin e personave të zhdukur në lidhje me situatën në Ukrainë. Kjo u tha në […]",
+      "published": "Wed, 03 Sep 2025 04:00:05 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796263",
-      "fetched_at": "2025-09-03T02:53:55.821177",
-      "ai_summary": "Sekretari i Jashtëm britanik, David Lammy, njoftoi se Mbretëria e Bashkuar po përgatit sanksione të reja kundër Rusisë, detajet e të cilave pritet të publikohen së shpejti."
+      "guid": "https://www.balkanweb.com/?p=2796247",
+      "fetched_at": "2025-09-03T04:21:02.252298",
+      "ai_summary": "Zvicra do të japë 2.4 milionë franga zvicerane (rreth 3 milionë dollarë) në vitet 2025-2026 për të mbështetur ICRC-në në gjurmimin e të zhdukurve në Ukrainë."
     },
     {
-      "title": "Trump: SHBA-të nuk kanë plane për të ulur tarifat ndaj Indisë",
-      "link": "https://www.balkanweb.com/trump-shba-te-nuk-kane-plane-per-te-ulur-tarifat-ndaj-indise/",
-      "description": "SHBA-të nuk po shqyrtojnë mundësinë e uljes së tarifave doganore të vendosura ndaj Indisë. Shefi i Shtabit të Shtëpisë së Bardhë, Donald Trump, e bëri këtë deklaratë ndërsa po përgjigjej pyetjeve të gazetarëve në Zyrën Ovale . “Ne kemi një marrëdhënie të mirë me Indinë, por për shumë vite, kjo marrëdhënie ka qenë e njëanshme”, […]",
-      "published": "Wed, 03 Sep 2025 02:00:03 +0000",
+      "title": "Sllovenia premton 4 milionë euro shtesë për të mbështetur UNRWA-n",
+      "link": "https://www.balkanweb.com/sllovenia-premton-4-milione-euro-shtese-per-te-mbeshtetur-unrwa-n/",
+      "description": "Sllovenia do të sigurojë 4 milionë euro shtesë (4.66 milionë dollarë amerikanë) për të mbështetur Agjencinë e Ndihmës dhe Punës së Kombeve të Bashkuara për Refugjatët Palestinezë në Lindjen e Afërt (UNRWA) midis viteve 2025 dhe 2028, tha Ministria e Jashtme dhe e Çështjeve Evropiane e vendit. Marrëveshja u nënshkrua nga Ministrja e Jashtme sllovene […]",
+      "published": "Wed, 03 Sep 2025 03:30:48 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796240",
-      "fetched_at": "2025-09-03T02:53:55.821358",
-      "ai_summary": "SHBA-ja nuk planifikon të ulet tarifat doganore ndaj Indisë, sipas deklaratës së shefit të shtabit të Shtëpisë së Bardhë, Donald Trump, i cili e justifikoi vendimin me një marrëdhënie të njëanshme tregtare me Indinë për vite të tëra."
+      "guid": "https://www.balkanweb.com/?p=2796266",
+      "fetched_at": "2025-09-03T04:21:02.252442",
+      "ai_summary": "Sllovenia do të sigurojë 4 milionë euro shtesë (4.66 milionë dollarë amerikanë) për të mbështetur Agjencinë e Ndihmës dhe Punës së Kombeve të Bashkuara për Refugjatët Palestinezë në Lindjen e Afërt (U..."
     },
     {
-      "title": "BE-ja i ndan një milion euro Pakistanit në përgjigje të fatkeqësive natyrore",
-      "link": "https://www.balkanweb.com/be-ja-i-ndan-nje-milion-euro-pakistanit-ne-pergjigje-te-fatkeqesive-natyrore/",
-      "description": "Evropa mbështet Pakistanin pas përmbytjeve shkatërruese. Kjo është deklaruar nga Kaya Kallas, Përfaqësuesja e Lartë e Bashkimit Evropian (BE) për Punët e Jashtme dhe Politikën e Sigurisë. Ai njoftoi se BE-ja do të ofrojë mbështetje financiare për Pakistanin, i cili u prek nga fatkeqësia natyrore: “Sapo fola me Ministrin e Jashtëm Pakistanez, Ishaq Dar, dhe […]",
-      "published": "Wed, 03 Sep 2025 01:30:55 +0000",
+      "title": "India synon të nënshkruajë një marrëveshje tregtare me SHBA-në deri në nëntor",
+      "link": "https://www.balkanweb.com/india-synon-te-nenshkruaje-nje-marreveshje-tregtare-me-shba-ne-deri-ne-nentor/",
+      "description": "Zyrtarët indianë presin të përfundojnë negociatat mbi një marrëveshje dypalëshe tregtare me Shtetet e Bashkuara deri në nëntor. Kjo u deklarua nga Ministri i Tregtisë dhe Industrisë i vendit, Piyush Goyal, në Konferencën Vjetore Globale të Investimeve të mbajtur në Mumbai. “Çështjet gjeopolitike kanë përparësi mbi çështjet tregtare në negociatat me SHBA-në. Shpresoj shumë që […]",
+      "published": "Wed, 03 Sep 2025 03:00:49 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796260",
-      "fetched_at": "2025-09-03T02:53:55.821453",
-      "ai_summary": "Evropa mbështet Pakistanin pas përmbytjeve shkatërruese. Kjo është deklaruar nga Kaya Kallas, Përfaqësuesja e Lartë e Bashkimit Evropian (BE) për Punët e Jashtme dhe Politikën e Sigurisë. Ai njoftoi s..."
+      "guid": "https://www.balkanweb.com/?p=2796244",
+      "fetched_at": "2025-09-03T04:21:02.252528",
+      "ai_summary": "Zyrtarët indianë presin të përfundojnë negociatat mbi një marrëveshje dypalëshe tregtare me Shtetet e Bashkuara deri në nëntor. Kjo u deklarua nga Ministri i Tregtisë dhe Industrisë i vendit, Piyush G..."
     }
   ],
   "total_articles": 3,
