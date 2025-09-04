@@ -1,6 +1,6 @@
 {
   "date": "2025-09-04",
-  "timestamp": "2025-09-04T01:16:37.247321",
+  "timestamp": "2025-09-04T02:54:31.989655",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,137 +9,33 @@
   },
   "articles": [
     {
-      "title": "Turqia dërgon 25 ton ndihma humanitare në Afganistan",
-      "link": "https://www.balkanweb.com/turqia-dergon-25-ton-ndihma-humanitare-ne-afganistan/",
-      "description": "Turqia dërgoi 25 ton ndihma humanitare në Afganistan. “TRT Haber”, raporton se është kërkuar ndihmë nga Turqia pas një tërmeti me magnitudë 6.0 ballë që goditi provincën Kunar në Afganistanin lindor natën e 31 gushtit. Furnizimet me ndihmë humanitare, të përgatitura në koordinim me Ministrinë Turke të Punëve të Jashtme, Autoritetin e Menaxhimit të Fatkeqësive […]",
-      "published": "Thu, 04 Sep 2025 01:00:35 +0000",
+      "title": "Vetëm 15% e popullsisë franceze i beson Presidentit Emmanuel Macron",
+      "link": "https://www.balkanweb.com/vetem-15-e-popullsise-franceze-i-beson-presidentit-emmanuel-macron/",
+      "description": "Vetëm 15% e popullsisë franceze i beson Presidentit Emmanuel Macron. Sipas gazetës Le Figaro, këto janë rezultatet e një sondazhi nga Verian. Sipas këtyre të dhënave, niveli i popullaritetit të Macron ka arritur pikën më të ulët gjatë presidencës së tij. Sipas anketës, 80% e francezëve nuk i besojnë Macronit. Pjesa e mbetur prej 5% […]",
+      "published": "Thu, 04 Sep 2025 02:00:16 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796921",
-      "fetched_at": "2025-09-04T01:16:29.978227",
-      "ai_summary": "Turqia dërgoi 25 ton ndihma humanitare në Afganistan pas një tërmeti me magnitudë 6.0 ballë në provincën Kunar, i cili ndodhi në natën e 31 gushtit.  Ndërhyrja u koordinua me Ministrinë e Jashtme dhe Autoritetin e Menaxhimit të Fatkeqësive të Turqisë."
+      "guid": "https://www.balkanweb.com/?p=2796924",
+      "fetched_at": "2025-09-04T02:54:24.747725",
+      "ai_summary": "Një sondazh i Verian, i publikuar nga Le Figaro, tregon se vetëm 15% e francezëve i besojnë Presidentit Macron, duke shënuar nivelin më të ulët të popullaritetit të tij gjatë mandatit.  80% e tyre shprehen se nuk i besojnë atij."
     },
     {
-      "title": "Rusia pretendon se ka pushtuar ‘rreth gjysmën’ e qytetit ukrainas Kupiansk, Kievi e mohon",
-      "link": "https://www.balkanweb.com/rusia-pretendon-se-ka-pushtuar-rreth-gjysmen-e-qytetit-ukrainas-kupiansk-kievi-e-mohon/",
-      "description": "Ministria e mbrojtjes e Rusisë tha të mërkurën se trupat e saj kishin pushtuar “rreth gjysmën” e qytetit të Kupiansk në rajonin verilindor të Kharkiv të Ukrainës, por ushtria e Ukrainës mohoi çdo përparim të tillë. Kupiansk ka qenë në qendër të muajve të aktivitetit të shtuar ushtarak rus dhe luftimeve të ashpra. Trupat ruse […]",
-      "published": "Thu, 04 Sep 2025 00:30:11 +0000",
+      "title": "Australia vendos masa ndëshkuese ndaj individëve rusë të lidhur me agresionin në Ukrainë",
+      "link": "https://www.balkanweb.com/australia-vendos-masa-ndeshkuese-ndaj-individeve-ruse-te-lidhur-me-agresionin-ne-ukraine/",
+      "description": "Australia tha të mërkurën se po vendos sanksione ndaj 14 qytetarëve rusë për përfshirjen e tyre të dyshuar në luftën e Ukrainës dhe “heshtjen” e shprehjes politike në Rusi. “Qeveria Australiane po vendos sanksione të mëtejshme financiare dhe ndalime udhëtimi kundër 14 individëve përgjegjës për heshtjen e shprehjes politike në Rusi, si dhe për mundësimin […]",
+      "published": "Thu, 04 Sep 2025 01:30:40 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796959",
-      "fetched_at": "2025-09-04T01:16:29.978372",
-      "ai_summary": "Ministria e mbrojtjes e Rusisë tha të mërkurën se trupat e saj kishin pushtuar “rreth gjysmën” e qytetit të Kupiansk në rajonin verilindor të Kharkiv të Ukrainës, por ushtria e Ukrainës mohoi çdo përp..."
-    },
-    {
-      "title": "Aktivistja marokene dënohet me 30 muaj burg për blasfemi për shkak të sloganit në bluzë",
-      "link": "https://www.balkanweb.com/aktivistja-marokene-denohet-me-30-muaj-burg-per-blasfemi-per-shkak-te-sloganit-ne-bluze/",
-      "description": "Aktivistja e njohur feministe dhe psikologe nga Maroku, Ibtissam “Betty” Lachgar, është dënuar me 30 muaj burg dhe një gjobë prej 50,000 dirhamesh (rreth 4,600 euro), pasi u shpall fajtore për blasfemi dhe fyerje ndaj Islamit. Dënimi u dha nga një gjykatë në kryeqytetin Rabat, si përgjigje ndaj një fotografie që ajo kishte postuar në […]",
-      "published": "Thu, 04 Sep 2025 00:00:30 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796917",
-      "fetched_at": "2025-09-04T01:16:29.978466",
-      "ai_summary": "Aktivistja e njohur feministe dhe psikologe nga Maroku, Ibtissam “Betty” Lachgar, është dënuar me 30 muaj burg dhe një gjobë prej 50,000 dirhamesh (rreth 4,600 euro), pasi u shpall fajtore për blasfem..."
-    },
-    {
-      "title": "Administrata Trump humb betejën ligjore ndaj Harvardit për fondet e ndërprera",
-      "link": "https://www.balkanweb.com/administrata-trump-humb-betejen-ligjore-ndaj-harvardit-per-fondet-e-nderprera/",
-      "description": "Një gjykatës federal në SHBA ka vendosur që administrata e presidentit Donald Trump veproi në mënyrë të paligjshme kur ndërpreu financimet federale për Universitetin e Harvardit – një vendim që përbën një goditje të rëndësishme ndaj përpjekjeve të qeverisë së mëparshme për të ushtruar presion mbi institucionet arsimore elitare. Në një vendim të publikuar më […]",
-      "published": "Wed, 03 Sep 2025 23:30:29 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796950",
-      "fetched_at": "2025-09-04T01:16:29.978554",
-      "ai_summary": "Një gjykatës federal në SHBA ka vendosur që administrata e presidentit Donald Trump veproi në mënyrë të paligjshme kur ndërpreu financimet federale për Universitetin e Harvardit – një vendim që përbën..."
-    },
-    {
-      "title": "Çfarë s’mund të jetë një ministër sot? (apo dje)",
-      "link": "https://www.balkanweb.com/cfare-smund-te-jete-nje-minister-sot-apo-dje/",
-      "description": "Nga Artan Fuga Është për të buzëqeshur kur dëgjon se debatohet se cili do të jetë profili i ministrave të 11 shtatorit. Gjëja më me pak rëndësi në botë. Njësoj si të shqetësohesh se cili do të jetë fatorino në autobuzin e Kinostudio – Kombinat sot! Nuk mund të jetë në asnjë rast sikurse e […]",
-      "published": "Wed, 03 Sep 2025 23:25:45 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796953",
-      "fetched_at": "2025-09-04T01:16:29.978633",
-      "ai_summary": "Nga Artan Fuga Është për të buzëqeshur kur dëgjon se debatohet se cili do të jetë profili i ministrave të 11 shtatorit. Gjëja më me pak rëndësi në botë. Njësoj si të shqetësohesh se cili do të jetë fa..."
-    },
-    {
-      "title": "Macron: Evropa është e gatshme t’i ofrojë Ukrainës garanci sigurie",
-      "link": "https://www.balkanweb.com/macron-evropa-eshte-e-gatshme-ti-ofroje-ukraines-garanci-sigurie/",
-      "description": "Evropa është gati t’i ofrojë garanci sigurie Ukrainës sapo të nënshkruhet një marrëveshje paqeje për t’i dhënë fund luftës së shkaktuar nga pushtimi rus në shkallë të plotë në vitin 2022, tha të mërkurën Presidenti Emmanuel Macron së bashku me homologun ukrainas Volodymyr Zelensky . “Ne jemi të gatshëm, ne evropianët, t’u ofrojmë garanci sigurie […]",
-      "published": "Wed, 03 Sep 2025 23:00:57 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796914",
-      "fetched_at": "2025-09-04T01:16:29.978709",
-      "ai_summary": "Evropa është gati t’i ofrojë garanci sigurie Ukrainës sapo të nënshkruhet një marrëveshje paqeje për t’i dhënë fund luftës së shkaktuar nga pushtimi rus në shkallë të plotë në vitin 2022, tha të mërku..."
-    },
-    {
-      "title": "Arrestohet shqiptari në Itali/ Kërcënoi se do të hidhte në erë një ndërtesë",
-      "link": "https://www.balkanweb.com/arrestohet-shqiptari-ne-itali-kercenoi-se-do-te-hidhte-ne-ere-nje-ndertese/",
-      "description": "Një shqiptar mbajti “peng” banorët e një ndërtese në Itali për disa minuta, duke kërcënuar se do të shpërthente bombolat e gazit. U desh ndërhyrja e karabinierëve për ta arrestuar atë dhe shmangur rrezikun. Incidenti ndodhi mbrëmjen e sotme në Acate të italisë. Një shtetas shqiptar (dyshohet me probleme të shëndetit mendor), kërcënoi të pranishmit […]",
-      "published": "Wed, 03 Sep 2025 22:52:01 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796944",
-      "fetched_at": "2025-09-04T01:16:29.978809",
-      "ai_summary": "Një shqiptar mbajti “peng” banorët e një ndërtese në Itali për disa minuta, duke kërcënuar se do të shpërthente bombolat e gazit. U desh ndërhyrja e karabinierëve për ta arrestuar atë dhe shmangur rre..."
-    },
-    {
-      "title": "Kultivuan 2 milionë euro kanabis në Skoci: Dënohen me rreth 20 vite burg 3 shqiptarët në Britani!",
-      "link": "https://www.balkanweb.com/kultivuan-2-milione-euro-kanabis-ne-skoci-denohen-me-rreth-20-vite-burg-3-shqiptaret-ne-britani/",
-      "description": "Tre shqiptarë janë dënuar në total me gati 20 vite burg në Skoci për kultivim të lëndëve narkotike, konkretisht të llojit kanabis sativa. Elton Skenderi, 30 vjeç, Gjovalin Toma, 31 vjeç, dhe Eduard Daja, 39 vjeç u njohën sot me vendimet të dhëna në Gjykatën e Lartë në Glasgow. Skenderi u dënua me 5 vite […]",
-      "published": "Wed, 03 Sep 2025 22:48:50 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796937",
-      "fetched_at": "2025-09-04T01:16:29.979138",
-      "ai_summary": "Tre shqiptarë janë dënuar në total me gati 20 vite burg në Skoci për kultivim të lëndëve narkotike, konkretisht të llojit kanabis sativa. Elton Skenderi, 30 vjeç, Gjovalin Toma, 31 vjeç, dhe Eduard Da..."
-    },
-    {
-      "title": "Trump i bën thirrje Hamasit të lirojë menjëherë pengjet",
-      "link": "https://www.balkanweb.com/trump-i-ben-thirrje-hamasit-te-liroje-menjehere-pengjet/",
-      "description": "Presidenti i SHBA-së, Donald Trump, i ka bërë thirrje Hamasit që të lirojë menjëherë 20 pengje izraelite. “Hamasi të kthejë menjëherë të 20 pengjet (jo 2, jo 5, jo 7!) dhe situata do të ndryshojë shumë shpejt. Kjo do të mbarojë!”, shkroi Trump në “Truth Social”. Kujtojmë se më 18 mars, ushtria izraelite rifilloi operacionet […]",
-      "published": "Wed, 03 Sep 2025 22:30:50 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2796930",
-      "fetched_at": "2025-09-04T01:16:29.979265",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, i ka bërë thirrje Hamasit që të lirojë menjëherë 20 pengje izraelite. “Hamasi të kthejë menjëherë të 20 pengjet (jo 2, jo 5, jo 7!) dhe situata do të ndryshojë shum..."
-    },
-    {
-      "title": "Sharm pa teprime: Veshjet që ndezin gjithmonë imagjinatën e meshkujve",
-      "link": "https://telegrafi.com/sharm-pa-teprime-veshjet-qe-ndezin-gjithmone-imagjinaten-e-meshkujve/",
-      "description": "Zgjedhja e duhur e veshjes nuk është rastësi, por një mesazh që flet pa fjalë Sa herë që vjen momenti i zgjedhjes së veshjes, mendësia e meshkujve shpesh ndryshon nga ajo e femrave. Për ta, veçanërisht takimi i parë është thelbësor, ndaj çdo detaj ka peshë dhe zgjedhja e veshjes nuk është një hap që […] The post Sharm pa teprime: Veshjet që ndezin gjithmonë imagjinatën e meshkujve appeared first on Telegrafi.",
-      "published": "Wed, 03 Sep 2025 22:44:59 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/?p=4364205",
-      "fetched_at": "2025-09-04T01:16:33.129762",
-      "ai_summary": "Zgjedhja e duhur e veshjes nuk është rastësi, por një mesazh që flet pa fjalë Sa herë që vjen momenti i zgjedhjes së veshjes, mendësia e meshkujve shpesh ndryshon nga ajo e femrave. Për ta, veçanërish..."
+      "guid": "https://www.balkanweb.com/?p=2796963",
+      "fetched_at": "2025-09-04T02:54:24.747864",
+      "ai_summary": "Australia tha të mërkurën se po vendos sanksione ndaj 14 qytetarëve rusë për përfshirjen e tyre të dyshuar në luftën e Ukrainës dhe “heshtjen” e shprehjes politike në Rusi. “Qeveria Australiane po ven..."
     }
   ],
-  "total_articles": 10,
+  "total_articles": 2,
   "sources": [
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
