@@ -1,6 +1,6 @@
 {
   "date": "2025-09-05",
-  "timestamp": "2025-09-05T01:18:20.835366",
+  "timestamp": "2025-09-05T02:57:45.152749",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,96 +9,44 @@
   },
   "articles": [
     {
-      "title": "Komuna e Prishtinës kërkesë në Kushtetuese për çështjen e buxhetit",
-      "link": "https://www.koha.net/arberi/komuna-e-prishtines-ankohet-ne-kushtetuese-per-ceshtjen-e-buxhetit",
-      "description": "Komuna e Prishtinës do të dorëzojë kërkesë në Gjykatën Kushtetuese të premten (sot). Çështja, siç ka mësuar KOHA, ka të bëjë me buxhetin e kryeqytetit.“Ju njoftojmë se nesër, më 05 shtator 2025, në ora 10:00, Kryetari i Kryeqytetit, z. Përparim Rama, do të dorëzojë një...",
-      "published": "",
-      "source": "Koha.net",
-      "source_url": "https://www.koha.net/rss/",
-      "language": "sq",
-      "guid": "https://www.koha.net/465881",
-      "fetched_at": "2025-09-05T01:18:10.222788",
-      "ai_summary": "Komuna e Prishtinës do të paraqesë kërkesë në Gjykatën Kushtetuese të premten, lidhur me buxhetin e qytetit.  Kryetari Rama do ta dorëzojë kërkesën personalisht."
-    },
-    {
-      "title": "Teresa Ribera: ‘Gjenocidi’ në Gaza ekspozon dështimin e Evropës për të vepruar",
-      "link": "https://www.balkanweb.com/teresa-ribera-gjenocidi-ne-gaza-ekspozon-deshtimin-e-evropes-per-te-vepruar/",
-      "description": "Një nga zyrtarët më të lartë të Bashkimit Evropian e quajti të enjten luftën në Gaza një “gjenocid”, duke shtuar kritikat ndaj Izraelit dhe duke kritikuar bllokun 27-vendesh për dështimin për të vepruar për ta ndaluar atë. “Gjenocidi në Gaza ekspozon dështimin e Evropës për të vepruar dhe për të folur me një zë”, tha […]",
-      "published": "Fri, 05 Sep 2025 01:00:49 +0000",
+      "title": "Algat që ndihmuan në ftohjen e Tokës 14,000 vjet më parë po zhduken në Antarktidë",
+      "link": "https://www.balkanweb.com/algat-qe-ndihmuan-ne-ftohjen-e-tokes-14000-vjet-me-pare-po-zhduken-ne-antarktide/",
+      "description": "Dikur aleatë të fuqishëm në luftën kundër ndryshimeve klimatike, algat mikroskopike të fshehura nën akullin detar të Antarktidës tani po veniten – dhe zhdukja e tyre mund të përshpejtojë krizën që ato ndihmuan në ngadalësimin e mijëra vjet më parë. Një studim i ri i botuar në Nature Geoscience zbulon se si këto alga, konkretisht […]",
+      "published": "Fri, 05 Sep 2025 02:30:34 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797638",
-      "fetched_at": "2025-09-05T01:18:13.046108",
-      "ai_summary": "Një zyrtar i lartë i BE-së e cilësoi konfliktin në Gaza si gjenocid, duke kritikuar ashpër Izraelin dhe paaftësinë e BE-së për të ndaluar atë.  Ky zyrtar theksoi dështimin e Evropës në reagimin ndaj situatës."
+      "guid": "https://www.balkanweb.com/?p=2797672",
+      "fetched_at": "2025-09-05T02:57:38.616346",
+      "ai_summary": "Algat mikroskopike në Antarktidë, dikur aleate kundër ndryshimeve klimatike, po zhduken, sipas një studimi të ri në Nature Geoscience, dhe kjo mund të përshpejtojë krizën klimatike."
     },
     {
-      "title": "Joe Biden i nënshtrohet një operacioni për të hequr kancerin e lëkurës në ballë",
-      "link": "https://www.balkanweb.com/joe-biden-i-nenshtrohet-nje-operacioni-per-te-hequr-kancerin-e-lekures-ne-balle/",
-      "description": "Joe Biden së fundmi iu nënshtrua një operacioni për të hequr lezionet e kancerit të lëkurës, tha një zëdhënës të enjten, sfida më e fundit shëndetësore për ish-presidentin. Zëdhënësja e tij Kelly Scully konfirmoi operacionin pasi Inside Edition publikoi një video të Biden duke u larguar nga kisha në Delaware me një shenjë të freskët […]",
-      "published": "Fri, 05 Sep 2025 00:30:20 +0000",
+      "title": "Uria rritet në Nigeri ndërsa shkurtimet e ndihmës zvogëlojnë furnizimet me ushqim",
+      "link": "https://www.balkanweb.com/uria-rritet-ne-nigeri-ndersa-shkurtimet-e-ndihmes-zvogelojne-furnizimet-me-ushqim/",
+      "description": "Familjet e varfra të zhvendosura nga konflikti në Nigerinë verilindore po gjejnë qendra ushqimore të mbyllura ose me pak ushqim si rezultat i një rënieje të fondeve të ndihmës nga Shtetet e Bashkuara dhe vendet e tjera perëndimore. Kombi më i populluar i Afrikës ka 31 milionë njerëz që përballet me mungesa ushqimore, më shumë […]",
+      "published": "Fri, 05 Sep 2025 02:00:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797675",
-      "fetched_at": "2025-09-05T01:18:13.046266",
-      "ai_summary": "Joe Biden së fundmi iu nënshtrua një operacioni për të hequr lezionet e kancerit të lëkurës, tha një zëdhënës të enjten, sfida më e fundit shëndetësore për ish-presidentin. Zëdhënësja e tij Kelly Scul..."
+      "guid": "https://www.balkanweb.com/?p=2797641",
+      "fetched_at": "2025-09-05T02:57:38.616490",
+      "ai_summary": "Familjet e varfra të zhvendosura nga konflikti në Nigerinë verilindore po gjejnë qendra ushqimore të mbyllura ose me pak ushqim si rezultat i një rënieje të fondeve të ndihmës nga Shtetet e Bashkuara ..."
     },
     {
-      "title": "Ebola rikthehet në Republikën Demokratike të Kongos, 15 të vdekur",
-      "link": "https://www.balkanweb.com/ebola-rikthehet-ne-republiken-demokratike-te-kongos-15-te-vdekur/",
-      "description": "Autoritetet shëndetësore në Republikën Demokratike të Kongos kanë shpallur një shpërthim të ri të virusit Ebola, ku 15 persona kanë humbur jetën që nga fundi i gushtit, tha ministri i shëndetësisë të enjten. Shpërthimi i ri është regjistruar në Provincën qendrore Kasai, u tha Samuel Roger Kamba gazetarëve në kryeqytetin Kinshasa. Shpërthimi i fundit i […]",
-      "published": "Fri, 05 Sep 2025 00:00:45 +0000",
+      "title": "Zjarri në një shtëpi vret 7 persona në kryeqytetin e Uruguait",
+      "link": "https://www.balkanweb.com/zjarri-ne-nje-shtepi-vret-7-persona-ne-kryeqytetin-e-uruguait/",
+      "description": "Të paktën shtatë persona humbën jetën, përfshirë pesë të mitur dhe dy të moshuar, pasi një zjarr shkatërroi një shtëpi në kryeqytetin e Uruguait, Montevideo, sipas departamentit kombëtar të zjarrfikësve. Zjarri shpërtheu rreth orës 6 të mëngjesit sipas orës lokale në një shtëpi në lagjen Villa Espanola, tha departamenti. “Po punojmë për të përcaktuar shkaqet […]",
+      "published": "Fri, 05 Sep 2025 01:30:42 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797634",
-      "fetched_at": "2025-09-05T01:18:13.046349",
-      "ai_summary": "Autoritetet shëndetësore në Republikën Demokratike të Kongos kanë shpallur një shpërthim të ri të virusit Ebola, ku 15 persona kanë humbur jetën që nga fundi i gushtit, tha ministri i shëndetësisë të ..."
-    },
-    {
-      "title": "Nepali do të bllokojë disa rrjete sociale, përfshirë Facebook-un",
-      "link": "https://www.balkanweb.com/nepali-do-te-bllokoje-disa-rrjete-sociale-perfshire-facebook-un/",
-      "description": "Nepali tha të enjten se do të bllokojë aksesin në disa platforma të mediave sociale, përfshirë Facebook-un, pasi ato nuk u regjistruan tek autoritetet në një goditje kundër keqpërdorimit. Qeveria thotë se përdoruesit me dokumente identiteti të falsifikuara po përhapin urrejtje dhe thashetheme, po kryejnë krime kibernetike dhe po prishin harmoninë sociale nëpërmjet disa platformave […]",
-      "published": "Thu, 04 Sep 2025 23:30:44 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797663",
-      "fetched_at": "2025-09-05T01:18:13.046425",
-      "ai_summary": "Nepali tha të enjten se do të bllokojë aksesin në disa platforma të mediave sociale, përfshirë Facebook-un, pasi ato nuk u regjistruan tek autoritetet në një goditje kundër keqpërdorimit. Qeveria thot..."
-    },
-    {
-      "title": "SHBA-të shpallin dy banda ekuadoriane si organizata terroriste të huaja",
-      "link": "https://www.balkanweb.com/shba-te-shpallin-dy-banda-ekuadoriane-si-organizata-terroriste-te-huaja/",
-      "description": "Sekretari i Shtetit i SHBA-së, Marco Rubio, të enjten i shpalli dy banda ekuadoriane , Los Lobos dhe Los Choneros, si organizata terroriste të huaja në përpjekjen e fundit të administratës Trump për të luftuar kartelet e drogës . Duke premtuar më shumë veprime kundër “kafshëve të liga” në krimin e organizuar, Rubio tha në […]",
-      "published": "Thu, 04 Sep 2025 23:00:32 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797631",
-      "fetched_at": "2025-09-05T01:18:13.046501",
-      "ai_summary": "Sekretari i Shtetit i SHBA-së, Marco Rubio, të enjten i shpalli dy banda ekuadoriane , Los Lobos dhe Los Choneros, si organizata terroriste të huaja në përpjekjen e fundit të administratës Trump për t..."
-    },
-    {
-      "title": "Përleshjet në Ganë shkaktojnë mbi 30 viktima dhe 48,000 të zhvendosur",
-      "link": "https://www.balkanweb.com/perleshjet-ne-gane-shkaktojne-mbi-30-viktima-dhe-48000-te-zhvendosur/",
-      "description": "Përleshjet komunale në Ganën veriore kanë vrarë të paktën 31 persona dhe kanë detyruar rreth 48,000 të largohen nga shtëpitë e tyre që nga fundi i gushtit, thanë zyrtarët qeveritarë. Ministri i Brendshëm Mubarak Mundaka tha se 13,253 banorë të zonës, ku shpërthyen trazira të përgjakshme për shkak të një mosmarrëveshjeje territoriale, kanë kaluar kufirin […]",
-      "published": "Thu, 04 Sep 2025 22:30:42 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797647",
-      "fetched_at": "2025-09-05T01:18:13.046608",
-      "ai_summary": "Përleshjet komunale në Ganën veriore kanë vrarë të paktën 31 persona dhe kanë detyruar rreth 48,000 të largohen nga shtëpitë e tyre që nga fundi i gushtit, thanë zyrtarët qeveritarë. Ministri i Brends..."
+      "guid": "https://www.balkanweb.com/?p=2797666",
+      "fetched_at": "2025-09-05T02:57:38.616576",
+      "ai_summary": "Të paktën shtatë persona humbën jetën, përfshirë pesë të mitur dhe dy të moshuar, pasi një zjarr shkatërroi një shtëpi në kryeqytetin e Uruguait, Montevideo, sipas departamentit kombëtar të zjarrfikës..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 3,
   "sources": [
-    "Koha.net",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
