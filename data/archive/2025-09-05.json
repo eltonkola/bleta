@@ -1,6 +1,6 @@
 {
   "date": "2025-09-05",
-  "timestamp": "2025-09-05T02:57:45.152749",
+  "timestamp": "2025-09-05T04:21:06.934034",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,45 +9,32 @@
   },
   "articles": [
     {
-      "title": "Algat që ndihmuan në ftohjen e Tokës 14,000 vjet më parë po zhduken në Antarktidë",
-      "link": "https://www.balkanweb.com/algat-qe-ndihmuan-ne-ftohjen-e-tokes-14000-vjet-me-pare-po-zhduken-ne-antarktide/",
-      "description": "Dikur aleatë të fuqishëm në luftën kundër ndryshimeve klimatike, algat mikroskopike të fshehura nën akullin detar të Antarktidës tani po veniten – dhe zhdukja e tyre mund të përshpejtojë krizën që ato ndihmuan në ngadalësimin e mijëra vjet më parë. Një studim i ri i botuar në Nature Geoscience zbulon se si këto alga, konkretisht […]",
-      "published": "Fri, 05 Sep 2025 02:30:34 +0000",
+      "title": "Trump e shtyn Evropën të ndalojë blerjen e naftës ruse dhe rrit presionin ndaj Kinës në përpjekje për t’i dhënë fund luftës në Ukrainë",
+      "link": "https://www.balkanweb.com/trump-i-kerkon-evropes-te-ushtroje-presion-ekonomik-mbi-kinen-per-shkak-te-ukraines/",
+      "description": "Presidenti i SHBA-së, Donald Trump, i tha të enjten një takimi me udhëheqësit botërorë se Evropa duhet të ndalojë blerjen e naftës ruse dhe të ushtrojë presion ekonomik mbi Kinën në përpjekje për t’i dhënë fund luftës në Ukrainë, tha një zyrtar i Shtëpisë së Bardhë për CNN, ndërsa administrata duket se ia ka vënë […]",
+      "published": "Fri, 05 Sep 2025 04:00:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797672",
-      "fetched_at": "2025-09-05T02:57:38.616346",
-      "ai_summary": "Algat mikroskopike në Antarktidë, dikur aleate kundër ndryshimeve klimatike, po zhduken, sipas një studimi të ri në Nature Geoscience, dhe kjo mund të përshpejtojë krizën klimatike."
+      "guid": "https://www.balkanweb.com/?p=2797655",
+      "fetched_at": "2025-09-05T04:21:00.498587",
+      "ai_summary": "Presidenti Trump i kërkoi Evropës të ndalojë blerjen e naftës ruse dhe të ushtrojë presion ekonomik ndaj Kinës për të përfunduar luftën në Ukrainë, sipas një zyrtari të Shtëpisë së Bardhë.  Administrata e tij po rrit presionin ndaj vendeve të tjera për të ndihmuar Ukrainën."
     },
     {
-      "title": "Uria rritet në Nigeri ndërsa shkurtimet e ndihmës zvogëlojnë furnizimet me ushqim",
-      "link": "https://www.balkanweb.com/uria-rritet-ne-nigeri-ndersa-shkurtimet-e-ndihmes-zvogelojne-furnizimet-me-ushqim/",
-      "description": "Familjet e varfra të zhvendosura nga konflikti në Nigerinë verilindore po gjejnë qendra ushqimore të mbyllura ose me pak ushqim si rezultat i një rënieje të fondeve të ndihmës nga Shtetet e Bashkuara dhe vendet e tjera perëndimore. Kombi më i populluar i Afrikës ka 31 milionë njerëz që përballet me mungesa ushqimore, më shumë […]",
-      "published": "Fri, 05 Sep 2025 02:00:58 +0000",
+      "title": "New York, ish-mësuesi dënohet me 27 vjet burg për torturim dhe abuzim seksual ndaj nxënësve",
+      "link": "https://www.balkanweb.com/new-york-ish-mesuesi-denohet-me-27-vjet-burg-per-torturim-dhe-abuzim-seksual-ndaj-nxenesve/",
+      "description": "Departamenti i Drejtësisë i Shteteve të Bashkuara njoftoi të enjten se një ish-mësues në veri të shtetit të Nju Jorkut është dënuar për krime seksuale kundër fëmijëve. Departamenti i Drejtësisë tha se Paul Geer, 57 vjeç, nga Hancock, Delaware County, NY, do të vuajë 27 vjet e tre muaj burg për dënimin e tij me […]",
+      "published": "Fri, 05 Sep 2025 03:00:11 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797641",
-      "fetched_at": "2025-09-05T02:57:38.616490",
-      "ai_summary": "Familjet e varfra të zhvendosura nga konflikti në Nigerinë verilindore po gjejnë qendra ushqimore të mbyllura ose me pak ushqim si rezultat i një rënieje të fondeve të ndihmës nga Shtetet e Bashkuara ..."
-    },
-    {
-      "title": "Zjarri në një shtëpi vret 7 persona në kryeqytetin e Uruguait",
-      "link": "https://www.balkanweb.com/zjarri-ne-nje-shtepi-vret-7-persona-ne-kryeqytetin-e-uruguait/",
-      "description": "Të paktën shtatë persona humbën jetën, përfshirë pesë të mitur dhe dy të moshuar, pasi një zjarr shkatërroi një shtëpi në kryeqytetin e Uruguait, Montevideo, sipas departamentit kombëtar të zjarrfikësve. Zjarri shpërtheu rreth orës 6 të mëngjesit sipas orës lokale në një shtëpi në lagjen Villa Espanola, tha departamenti. “Po punojmë për të përcaktuar shkaqet […]",
-      "published": "Fri, 05 Sep 2025 01:30:42 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2797666",
-      "fetched_at": "2025-09-05T02:57:38.616576",
-      "ai_summary": "Të paktën shtatë persona humbën jetën, përfshirë pesë të mitur dhe dy të moshuar, pasi një zjarr shkatërroi një shtëpi në kryeqytetin e Uruguait, Montevideo, sipas departamentit kombëtar të zjarrfikës..."
+      "guid": "https://www.balkanweb.com/?p=2797652",
+      "fetched_at": "2025-09-05T04:21:00.498740",
+      "ai_summary": "Departamenti i Drejtësisë i Shteteve të Bashkuara njoftoi të enjten se një ish-mësues në veri të shtetit të Nju Jorkut është dënuar për krime seksuale kundër fëmijëve. Departamenti i Drejtësisë tha se..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
