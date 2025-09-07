@@ -1,0 +1,41 @@
+{
+  "date": "2025-09-07",
+  "timestamp": "2025-09-07T01:23:50.738641",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Dosja “McGonigal” jehonë në mediat amerikane/ New York Post: Ish-agjenti dhe zyrtari shqiptar njoftuan kompaninë kineze që kishte lidhje biznesi me familjen Biden, se FBI do kryente arrestime",
+      "link": "https://www.balkanweb.com/dosja-mcgonigal-jehone-ne-mediat-amerikane-new-york-post-ish-agjenti-dhe-zyrtari-shqiptar-njoftuan-kompanine-kineze-qe-kishte-lidhje-biznesi-me-familjen-biden-se-fbi-do-kryente-arrestime/",
+      "description": "New York Post është media e radhës amerikane që ka publikuar një artikull për Charles McGonigal, ish-agjentin e kundërzbulimit në FBI në Nju Jork, i cili është përfshirë në një skandal të madh pasi i dha informacion sekret një zyrtari që punonte për kompaninë kineze CEFC, e cila ka lidhje me familjen Biden. Sipas raportit […]",
+      "published": "Sat, 06 Sep 2025 21:07:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2798825",
+      "fetched_at": "2025-09-07T01:23:44.545639",
+      "ai_summary": "New York Post raportoi për përfshirjen e ish-agjentit të FBI-së, Charles McGonigal, në një skandal ku ai i dha informacion sekret një zyrtari të CEFC, kompani kineze me lidhje të dyshuara me familjen Biden.  Ky veprim i McGonigal përbën një shkelje serioze."
+    },
+    {
+      "title": "“Hëna e përgjakur” e 7-të shtatorit: gjithçka që duhet të dini për eklipsin magjepsës",
+      "link": "https://telegrafi.com/hena-e-pergjakur-e-7-te-shtatorit-gjithcka-qe-duhet-te-dini-per-eklipsin-magjepses/",
+      "description": "Sot, qielli do të dhurojë një spektakël të rrallë – eklipsin e dytë të plotë të Hënës për këtë vit, i njohur si fenomeni i “Hënës së Kuqe” Sa do të zgjasë dhe ku do të shihet? Ky eklips do të zgjasë 5 orë e 27 minuta, ndërsa faza totale, kur Hëna zhytet e tëra […] The post “Hëna e përgjakur” e 7-të shtatorit: gjithçka që duhet të dini për eklipsin magjepsës appeared first on Telegrafi.",
+      "published": "Sat, 06 Sep 2025 23:20:59 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/?p=4365854",
+      "fetched_at": "2025-09-07T01:23:47.539326",
+      "ai_summary": "Sot, qielli do të dhurojë një spektakël të rrallë – eklipsin e dytë të plotë të Hënës për këtë vit, i njohur si fenomeni i “Hënës së Kuqe” Sa do të zgjasë dhe ku do të shihet? Ky eklips do të zgjasë 5..."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
