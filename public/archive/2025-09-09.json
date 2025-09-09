@@ -1,0 +1,106 @@
+{
+  "date": "2025-09-09",
+  "timestamp": "2025-09-09T01:19:40.061756",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Finlanda thërret mbledhje të jashtëzakonshme të Këshillit të Përhershëm të OSBE-së me kërkesë të Ukrainës",
+      "link": "https://www.balkanweb.com/finlanda-therret-mbledhje-te-jashtezakonshme-te-keshillit-te-perhershem-te-osbe-se-me-kerkese-te-ukraines/",
+      "description": "Finlanda, me kërkesë të Ukrainës, ka thirrur një takim të jashtëzakonshëm të Këshillit të Përhershëm të OSBE-së në përgjigje të sulmeve masive të fundit nga Forcat e Armatosura Ruse. Ministri i Jashtëm ukrainas Andriy Sibiga e bëri këtë deklaratë në rrjetin social “X”. “Sot më 9 shtator në orën 11:00 sipas orës së Kievit (12:00 […]",
+      "published": "Tue, 09 Sep 2025 01:00:44 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800053",
+      "fetched_at": "2025-09-09T01:19:33.394345",
+      "ai_summary": "Finlandë, me kërkesë të Ukrainës, mblodhi një takim të jashtëzakonshëm të Këshillit të Përhershëm të OSBE-së për shkak të sulmeve ruse.  Ministri i Jashtëm ukrainas njoftoi këtë në X (Twitter)."
+    },
+    {
+      "title": "Helmim masiv në Armeni, 8 persona të shtruar në spital",
+      "link": "https://www.balkanweb.com/helmim-masiv-ne-armeni-8-persona-te-shtruar-ne-spital/",
+      "description": "Tetë persona janë shtruar në spital pas një shpërthimi masiv të helmimit nga ushqimi në qytetin armen të Armavir. Ministria e Shëndetësisë e vendit publikoi informacion në lidhje me këtë. Gjendja e tyre vlerësohet si mesatarisht e rëndë dhe të gjithë pacientët po marrin ndihmën e nevojshme në qendrën mjekësore rajonale. Sipas Inspektoratit të Sigurisë […]",
+      "published": "Tue, 09 Sep 2025 00:30:43 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800074",
+      "fetched_at": "2025-09-09T01:19:33.394505",
+      "ai_summary": "Tetë persona janë shtruar në spital pas një shpërthimi masiv të helmimit nga ushqimi në qytetin armen të Armavir. Ministria e Shëndetësisë e vendit publikoi informacion në lidhje me këtë. Gjendja e ty..."
+    },
+    {
+      "title": "Lavrov: Rusia dëshiron një botë shumëpolare që përfshin Perëndimin",
+      "link": "https://www.balkanweb.com/lavrov-rusia-deshiron-nje-bote-shumepolare-qe-perfshin-perendimin/",
+      "description": "Pavarësisht tensioneve të vazhdueshme me Perëndimin për shkak të luftës në Ukrainë, diplomati më i lartë i Rusisë ka shprehur gatishmërinë për t’u angazhuar në dialog. Ministri i Jashtëm rus Sergei Lavrov u tha studentëve në universitetin elitar MGIMO të Moskës të hënën: “Ne nuk duam të ndërtojmë mure”. Ai tha se vizioni i Rusisë […]",
+      "published": "Tue, 09 Sep 2025 00:00:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800044",
+      "fetched_at": "2025-09-09T01:19:33.394588",
+      "ai_summary": "Pavarësisht tensioneve të vazhdueshme me Perëndimin për shkak të luftës në Ukrainë, diplomati më i lartë i Rusisë ka shprehur gatishmërinë për t’u angazhuar në dialog. Ministri i Jashtëm rus Sergei La..."
+    },
+    {
+      "title": "2 fëmijë palestinezë të vrarë dhe 4 të plagosur nga zjarri i ushtrisë izraelite në Jenin",
+      "link": "https://www.balkanweb.com/2-femije-palestineze-te-vrare-dhe-4-te-plagosur-nga-zjarri-i-ushtrise-izraelite-ne-jenin/",
+      "description": "Dy fëmijë palestinezë u vranë dhe katër të tjerë u plagosën nga zjarri i ushtrisë izraelite në qytetin Jenin të Bregut Perëndimor të hënën në mbrëmje, thanë mjekët. Një deklaratë e Ministrisë së Shëndetësisë tha se një 14-vjeçar u vra dhe dy persona u plagosën rëndë nga zjarri izraelit në kampin e refugjatëve në Jenin. […]",
+      "published": "Mon, 08 Sep 2025 23:30:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800040",
+      "fetched_at": "2025-09-09T01:19:33.394678",
+      "ai_summary": "Dy fëmijë palestinezë u vranë dhe katër të tjerë u plagosën nga zjarri i ushtrisë izraelite në qytetin Jenin të Bregut Perëndimor të hënën në mbrëmje, thanë mjekët. Një deklaratë e Ministrisë së Shënd..."
+    },
+    {
+      "title": "Zelensky: Ftesa e Putinit për takim në Moskë do të thotë se kjo nuk do të ndodhë",
+      "link": "https://www.balkanweb.com/zelensky-ftesa-e-putinit-per-takim-ne-moske-do-te-thote-se-kjo-nuk-do-te-ndodhe/",
+      "description": "Në përgjigje të ftesës së Presidentit rus Vladimir Putin për të ardhur në Moskë për negociata, Presidenti ukrainas Zelensky tha të enjten se “nëse doni që takimi të mos ndodhë, duhet të më ftoni në Moskë”. Duke folur në një konferencë për shtyp në Paris, pas një takimi të të ashtuquajturit “koalicion i vullnetit”, një […]",
+      "published": "Mon, 08 Sep 2025 23:00:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800032",
+      "fetched_at": "2025-09-09T01:19:33.394753",
+      "ai_summary": "Në përgjigje të ftesës së Presidentit rus Vladimir Putin për të ardhur në Moskë për negociata, Presidenti ukrainas Zelensky tha të enjten se “nëse doni që takimi të mos ndodhë, duhet të më ftoni në Mo..."
+    },
+    {
+      "title": "Masakra në Shkodër, flet shënjestra e atentatit Erogen Brajoviç: Viktimat ishin miqtë e mi! Aludimet për lidhjet e mia me grupe të tjera ia le drejtësisë…",
+      "link": "https://www.balkanweb.com/masakra-ne-shkoder-flet-shenjestra-e-atentatit-erogen-brajovic-viktimat-ishin-miqte-e-mi-aludimet-per-lidhjet-e-mia-me-grupe-te-tjera-ia-le-drejtesise/",
+      "description": "Erogen Vaso Brajovic, i cili ishte në shënjestër të atentatit që ndodhi mëngjesin e së hënës në qytetin e Shkodrës, përmes një reagimi publik ka sqaruar pozicionin e tij në këtë ngjarje të rëndë që tronditi opinionin publik. Brajovic teksa ka shprehur ngushëllimet për humbjet e jetës së 2 miqve të tij, e ka uruar […]",
+      "published": "Mon, 08 Sep 2025 22:34:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800059",
+      "fetched_at": "2025-09-09T01:19:33.394841",
+      "ai_summary": "Erogen Vaso Brajovic, i cili ishte në shënjestër të atentatit që ndodhi mëngjesin e së hënës në qytetin e Shkodrës, përmes një reagimi publik ka sqaruar pozicionin e tij në këtë ngjarje të rëndë që tr..."
+    },
+    {
+      "title": "Një tërmet me magnitudë 5.2 ballë trondit bregun jugperëndimor të ishullit Evia në Greqi",
+      "link": "https://www.balkanweb.com/nje-termet-me-magnitude-5-2-balle-trondit-bregun-jugperendimor-te-ishullit-evia-ne-greqi/",
+      "description": "Një tërmet me magnitudë 5.2 ballë goditi bregun jugperëndimor të ishullit Evia, i dyti më i madh në Greqi, duke tronditur kryeqytetin Athinë, në jugperëndim të epiqendrës së tërmetit. Nuk u raportuan menjëherë të lënduar apo dëme materiale. Dridhja u ndje pas mesnatës sipas orës lokale të së martës, duke u forcuar gradualisht. Në vlerësimin […]",
+      "published": "Mon, 08 Sep 2025 22:30:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800056",
+      "fetched_at": "2025-09-09T01:19:33.394926",
+      "ai_summary": "Një tërmet me magnitudë 5.2 ballë goditi bregun jugperëndimor të ishullit Evia, i dyti më i madh në Greqi, duke tronditur kryeqytetin Athinë, në jugperëndim të epiqendrës së tërmetit. Nuk u raportuan ..."
+    }
+  ],
+  "total_articles": 7,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
