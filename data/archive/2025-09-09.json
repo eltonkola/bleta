@@ -1,6 +1,6 @@
 {
   "date": "2025-09-09",
-  "timestamp": "2025-09-09T03:00:35.773612",
+  "timestamp": "2025-09-09T04:21:29.201368",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,45 +9,32 @@
   },
   "articles": [
     {
-      "title": "Kina po intensifikon përpjekjet për të mbrojtur Tokën nga asteroidet",
-      "link": "https://www.balkanweb.com/kina-po-intensifikon-perpjekjet-per-te-mbrojtur-token-nga-asteroidet/",
-      "description": "Kina po përshpejton përpjekjet e saj për të mbrojtur Tokën nga kërcënimi i asteroideve. Sipas një raporti të kohëve të fundit nga Interesting Engineering , Kina po përgatitet të nisë një mision që do të testojë mundësinë e ndryshimit të orbitës së një asteroidi pranë Tokës. Ky projekt ambicioz, i quajtur ” misioni demonstrues i […]",
-      "published": "Tue, 09 Sep 2025 02:30:08 +0000",
+      "title": "Ministri i Brendshëm i Nepalit, Ramesh Lekhak, jep dorëheqjen pas protestave që lanë 19 të vdekur",
+      "link": "https://www.balkanweb.com/ministri-i-brendshem-i-nepalit-ramesh-lekhak-jep-doreheqjen-pas-protestave-qe-lane-19-te-vdekur/",
+      "description": "Ministri i Brendshëm i Nepalit, Ramesh Lekhak, ka dhënë zyrtarisht dorëheqjen, duke marrë përgjegjësinë morale për vdekjen e 19 personave gjatë protestave të dhunshme të Gen-Z të së hënës. Ai ia paraqiti dorëheqjen kryeministrit KP Sharma Oli gjatë një mbledhjeje të kabinetit të mbajtur të hënën në mbrëmje, sipas një ministri të lartë. Protestat, të […]",
+      "published": "Tue, 09 Sep 2025 04:00:45 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2800088",
-      "fetched_at": "2025-09-09T03:00:23.331541",
-      "ai_summary": "Kina po planifikon një mision për të testuar devijimin e orbitës së një asteroidi pranë Tokës, si pjesë e përpjekjeve për të mbrojtur planetin nga kërcënimi i asteroideve.  Ky projekt ambicioz synon të demonstrojë teknologjinë e nevojshme për të ndryshuar trajektoren e asteroideve të rrezikshme."
+      "guid": "https://www.balkanweb.com/?p=2800078",
+      "fetched_at": "2025-09-09T04:21:23.104042",
+      "ai_summary": "Ministri i Brendshëm i Nepalit, Ramesh Lekhak, dha dorëheqjen duke marrë përgjegjësinë për vdekjen e 19 personave në protesta të dhunshme. Dorëheqja u paraqit pas protestave të së hënës."
     },
     {
-      "title": "Projekti global për të hartëzuar ADN-në e 1.67 milionë specieve hyn në një fazë të re",
-      "link": "https://www.balkanweb.com/projekti-global-per-te-hartezuar-adn-ne-e-1-67-milione-specieve-hyn-ne-nje-faze-te-re/",
-      "description": "Një përpjekje e paprecedentë ndërkombëtare për të kataloguar kodin gjenetik të jetës në Tokë po hyn në fazën e saj të dytë, me qëllim renditjen e ADN-së së 1.67 milionë specieve brenda dekadës së ardhshme, njoftuan shkencëtarët të hënën. Projekti BioGenome i Tokës (EBGP), i përshkruar si përgjigja e biologjisë për uljen në hënë të […]",
-      "published": "Tue, 09 Sep 2025 02:00:44 +0000",
+      "title": "Merz i bën thirrje Evropës të ndërtojë marrëdhënie me SHBA-në “pa nostalgji të rreme”",
+      "link": "https://www.balkanweb.com/merz-i-ben-thirrje-evropes-te-ndertoje-marredhenie-me-shba-ne-pa-nostalgji-te-rreme/",
+      "description": "Kancelari gjerman Friedrich Merz beson se një Evropë e bashkuar duhet të shmangë nostalgjinë e rreme dhe të përcaktojë qartë interesat e saj kur ndërton marrëdhënie me Shtetet e Bashkuara. Merz e tha këtë në një konferencë të ambasadorëve gjermanë të mbajtur në Ministrinë e Punëve të Jashtme të vendit. Mertz vuri në dukje se […]",
+      "published": "Tue, 09 Sep 2025 03:00:49 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2800064",
-      "fetched_at": "2025-09-09T03:00:23.331689",
-      "ai_summary": "Një përpjekje e paprecedentë ndërkombëtare për të kataloguar kodin gjenetik të jetës në Tokë po hyn në fazën e saj të dytë, me qëllim renditjen e ADN-së së 1.67 milionë specieve brenda dekadës së ardh..."
-    },
-    {
-      "title": "Arkeologët në Peru kanë zbuluar një mural mahnitës 3D 4,000-vjeçar në vendin Huaca Yolanda",
-      "link": "https://www.balkanweb.com/arkeologet-ne-peru-kane-zbuluar-nje-mural-mahnites-3d-4000-vjecar-ne-vendin-huaca-yolanda/",
-      "description": "Arkeologët në Peru kanë zbuluar një mural tre-dimensional shumëngjyrësh 4,000-vjeçar . I gjetur në vendin Huaca Yolanda në Luginën Tanguche, ky mural ofron njohuri të reja mbi periudhën formuese të qytetërimeve më të hershme të Perusë. Zbulimi u botua në The Guardian. Murali, i cili shtrihet gati 6 metra i gjatë dhe është 9.5 metra […]",
-      "published": "Tue, 09 Sep 2025 01:30:26 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2800081",
-      "fetched_at": "2025-09-09T03:00:23.331771",
-      "ai_summary": "Arkeologët në Peru kanë zbuluar një mural tre-dimensional shumëngjyrësh 4,000-vjeçar . I gjetur në vendin Huaca Yolanda në Luginën Tanguche, ky mural ofron njohuri të reja mbi periudhën formuese të qy..."
+      "guid": "https://www.balkanweb.com/?p=2800071",
+      "fetched_at": "2025-09-09T04:21:23.104188",
+      "ai_summary": "Kancelari gjerman Friedrich Merz beson se një Evropë e bashkuar duhet të shmangë nostalgjinë e rreme dhe të përcaktojë qartë interesat e saj kur ndërton marrëdhënie me Shtetet e Bashkuara. Merz e tha ..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
