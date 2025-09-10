@@ -1,6 +1,6 @@
 {
   "date": "2025-09-10",
-  "timestamp": "2025-09-10T02:54:32.278498",
+  "timestamp": "2025-09-10T04:20:21.699550",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,44 +9,57 @@
   },
   "articles": [
     {
-      "title": "Ministri i Jashtëm i Norvegjisë dënon sulmin izraelit në Katar",
-      "link": "https://www.balkanweb.com/ministri-i-jashtem-i-norvegjise-denon-sulmin-izraelit-ne-katar/",
-      "description": "Ministri i Jashtëm norvegjez Espen Barth Eide dënoi të martën një sulm izraelit në Katar. Eide e quajti sulmin “një shkelje shumë serioze të së drejtës ndërkombëtare”, sipas transmetuesit norvegjez NRK. Izraeli nisi një sulm ajror të paprecedentë në kryeqytetin e Katarit, Doha, të martën, duke synuar një ndërtesë të përdorur nga zyrtarë të lartë […]",
-      "published": "Wed, 10 Sep 2025 02:30:42 +0000",
+      "title": "Sulmi rus vret 24 persona në Ukrainë gjatë shpërndarjes së pensioneve",
+      "link": "https://www.balkanweb.com/sulmi-rus-vret-24-persona-ne-ukraine-gjate-shperndarjes-se-pensioneve/",
+      "description": "Një sulm rus të martën vrau 24 persona që prisnin pagesat e pensioneve në një qytet në vijën e frontit në Ukrainën lindore, ku forcat ruse po grumbullojnë forca për një ofensivë në shkallë të gjerë, thanë zyrtarët. Presidenti Volodymyr Zelensky postoi një video që tregon disa kufoma të shpërndara në tokë pranë një automjeti […]",
+      "published": "Wed, 10 Sep 2025 04:00:14 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2800895",
-      "fetched_at": "2025-09-10T02:54:06.759710",
-      "ai_summary": "Ministri i Jashtëm Norvegjez, Espen Barth Eide, dënoi sulmin ajror izraelit në Katar si shkelje serioze të së drejtës ndërkombëtare, duke e cilësuar atë si të paprecedentë. Sulmi synonte një ndërtesë në Doha ku punonin zyrtarë të lartë."
+      "guid": "https://www.balkanweb.com/?p=2800882",
+      "fetched_at": "2025-09-10T04:20:15.181528",
+      "ai_summary": "Një sulm rus në Ukrainën lindore vrau 24 persona që pritnin pensionet, në një qytet pranë vijës së frontit, ku Rusia po përqendron forca për një ofensivë të madhe.  Presidenti Zelensky publikoi pamje nga vendi i ngjarjes."
     },
     {
-      "title": "Gjermania kritikon sulmin e Izraelit në kryeqytetin e Katarit si “të papranueshëm”",
-      "link": "https://www.balkanweb.com/gjermania-kritikon-sulmin-izraelit-ndaj-katarit-si-te-papranueshem/",
-      "description": "Gjermania kritikoi të martën sulmin e Izraelit në kryeqytetin e Katarit, Doha, duke e quajtur atë “të papranueshëm”. “Sulmi i Izraelit në Doha jo vetëm që shkel sovranitetin territorial të Katarit, por rrezikon edhe të gjitha përpjekjet tona për të liruar pengjet. Ky goditje është e papranueshme”, tha Ministri i Jashtëm Johann Wadephul në një […]",
-      "published": "Wed, 10 Sep 2025 02:00:45 +0000",
+      "title": "Të paktën 60 persona u vranë në një sulm rebel në Kongon lindore",
+      "link": "https://www.balkanweb.com/te-pakten-60-persona-u-vrane-ne-nje-sulm-rebel-ne-kongon-lindore/",
+      "description": "Militantët në Kongon lindore të lidhur me grupin ISIS vranë të paktën 60 persona në një sulm gjatë natës, tha një zyrtar. Sulmi u krye nga Forcat Demokratike Aleate në Ntoyo, Kivu Verior, pasi banorët u mblodhën në një varrim. “Sulmi i ADF shkaktoi rreth 60 vdekje, por numri përfundimtar do të jepet më vonë […]",
+      "published": "Wed, 10 Sep 2025 03:45:52 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2800870",
-      "fetched_at": "2025-09-10T02:54:06.759866",
-      "ai_summary": "Gjermania e dënoi ashpër sulmin izraelit në Dohë, duke e cilësuar atë si të papranueshëm dhe duke theksuar shkeljen e sovranitetit të Katarit dhe rrezikun për lirimin e pengjeve."
+      "guid": "https://www.balkanweb.com/?p=2800908",
+      "fetched_at": "2025-09-10T04:20:15.181672",
+      "ai_summary": "Militantët në Kongon lindore të lidhur me grupin ISIS vranë të paktën 60 persona në një sulm gjatë natës, tha një zyrtar. Sulmi u krye nga Forcat Demokratike Aleate në Ntoyo, Kivu Verior, pasi banorët..."
     },
     {
-      "title": "Të shtëna me armë zjarri në Jerevan, një i vdekur",
-      "link": "https://www.balkanweb.com/te-shtena-me-arme-zjarri-ne-jerevan-nje-i-vdekur/",
-      "description": "Një person u vra në një të shtënë me armë në kryeqytetin e Armenisë, Jerevan. Sipas informacioneve fillestare, dy persona u përpoqën të hynin në apartamentin ku ndodhej një person që mbante një byzylyk elektronik. Burri në apartament hapi zjarr me pistoletë, duke plagosur njërin prej tyre. Personi i plagosur vdiq gjatë rrugës për në […]",
-      "published": "Wed, 10 Sep 2025 01:30:29 +0000",
+      "title": "Turizmi ndërkombëtar rritet me 5% pavarësisht pengesave globale",
+      "link": "https://www.balkanweb.com/turizmi-nderkombetar-rritet-me-5-pavaresisht-pengesave-globale/",
+      "description": "Turizmi ndërkombëtar global u rrit me 5 përqind në gjysmën e parë (H1) të vitit 2025 krahasuar me një vit më parë, raportoi të martën Organizata Botërore e Turizmit e Kombeve të Bashkuara (UN Tourism). Gati 690 milionë njerëz udhëtuan ndërkombëtarisht midis janarit dhe qershorit, 33 milionë më shumë se në të njëjtën periudhë të […]",
+      "published": "Wed, 10 Sep 2025 03:30:38 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2800892",
-      "fetched_at": "2025-09-10T02:54:06.759973",
-      "ai_summary": "Një person u vra në një të shtënë me armë në kryeqytetin e Armenisë, Jerevan. Sipas informacioneve fillestare, dy persona u përpoqën të hynin në apartamentin ku ndodhej një person që mbante një byzyly..."
+      "guid": "https://www.balkanweb.com/?p=2800901",
+      "fetched_at": "2025-09-10T04:20:15.181762",
+      "ai_summary": "Turizmi ndërkombëtar global u rrit me 5 përqind në gjysmën e parë (H1) të vitit 2025 krahasuar me një vit më parë, raportoi të martën Organizata Botërore e Turizmit e Kombeve të Bashkuara (UN Tourism)..."
+    },
+    {
+      "title": "Program rekord i KE: 150 miliardë euro për kapacitetet mbrojtëse",
+      "link": "https://www.balkanweb.com/program-rekord-i-ke-150-miliarde-euro-per-kapacitetet-mbrojtese/",
+      "description": "Komisioni Evropian (KE) miratoi një ndihmë fillestare financiare prej 150 miliardë eurosh për të forcuar gatishmërinë mbrojtëse të vendeve të Bashkimit Evropian (BE) në kuadër të programit “Veprimi i Sigurisë për Evropën” (SAFE). Kjo u deklarua nga Zëvendëspresidentja Ekzekutive Henna Virkkunen dhe Komisioneri Andrius Kubilius në një konferencë për shtyp të mbajtur në Strasburg pas […]",
+      "published": "Wed, 10 Sep 2025 03:00:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2800879",
+      "fetched_at": "2025-09-10T04:20:15.181839",
+      "ai_summary": "Komisioni Evropian (KE) miratoi një ndihmë fillestare financiare prej 150 miliardë eurosh për të forcuar gatishmërinë mbrojtëse të vendeve të Bashkimit Evropian (BE) në kuadër të programit “Veprimi i ..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 4,
   "sources": [
+    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
