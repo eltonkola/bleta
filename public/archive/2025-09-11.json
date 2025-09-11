@@ -1,6 +1,6 @@
 {
   "date": "2025-09-11",
-  "timestamp": "2025-09-11T02:59:03.884806",
+  "timestamp": "2025-09-11T04:21:23.631044",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,69 +9,56 @@
   },
   "articles": [
     {
-      "title": "Ushtria e Nepalit rimerr kontrollin e Katmandusë pas disa ditësh trazirash vdekjeprurëse, ndërsa fillojnë negociatat me udhëheqësit e protestave",
-      "link": "https://www.balkanweb.com/ushtria-e-nepalit-rimerr-kontrollin-e-katmanduse-pas-disa-ditesh-trazirash-vdekjeprurese-ndersa-fillojne-negociatat-me-udheheqesit-e-protestave/",
-      "description": "Ushtria e Nepalit ka rimarrë kontrollin e kryeqytetit Katmandu, pas dhunës më të keqe në dy dekada që vrau 30 persona, detyroi një kryeministër të largohej nga detyra dhe la ndërtesa kyçe, përfshirë parlamentin e vendit, të dëmtuara rëndë. Ushtarët patrulluan rrugët e kryeqytetit duke kërkuar t’i jepnin fund protestave vdekjeprurëse këtë javë, gjatë të […]",
-      "published": "Thu, 11 Sep 2025 02:45:37 +0000",
+      "title": "Fjalët e fundit të Charlie Kirk para se të merrte plumbin fatal. Pamjet mund ta kenë “kapur” vrasësin para dhe pas të shtënave",
+      "link": "https://www.balkanweb.com/fjalet-e-fundit-te-charlie-kirk-para-se-te-merrte-plumbin-fatal-pamjet-mund-ta-kene-kapur-vrasesin-para-dhe-pas-te-shtenave/",
+      "description": "Charlie Kirk, një aktivist konservator 31-vjeçar, po fliste hapur për dhunën me armë pak çaste përpara se të qëllohej për vdekje gjatë një eventi në Universitetin Valley në Orem, Utah, të mërkurën pasdite. Kirk, i cili ishte ulur nën një tendë dhe po u përgjigjej pyetjeve të publikut i veshur me një bluzë të thjeshtë […]",
+      "published": "Thu, 11 Sep 2025 04:00:11 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801765",
-      "fetched_at": "2025-09-11T02:58:57.457019",
-      "ai_summary": "Ushtria nepaleze ka rimarrë kontrollin e Katmandu pas dhunës së ashpër që la 30 të vdekur, detyroi dorëheqjen e kryeministrit dhe shkaktoi dëme të mëdha në ndërtesa publike.  Protestat e dhunshme janë shtypur nga ushtria."
+      "guid": "https://www.balkanweb.com/?p=2801770",
+      "fetched_at": "2025-09-11T04:21:15.640178",
+      "ai_summary": "Aktivist i konservator Charlie Kirk u qëllua për vdekje të mërkurën në Universitetin Valley në Utah, ndërsa po diskutonte publikisht për dhunën me armë.  Ngjarja ndodhi gjatë një eventi ku Kirk po përgjigjej në pyetje."
     },
     {
-      "title": "Pakistani nxiton të shpëtojë 1.6 milionë njerëz në rrezik për shkak të përmbytjeve që vazhdojnë",
-      "link": "https://www.balkanweb.com/pakistani-nxiton-te-shpetoje-1-6-milione-njerez-ne-rrezik-per-shkak-te-permbytjeve-qe-vazhdojne/",
-      "description": "Autoritetet pakistaneze janë të bllokuara në një garë të ngushtë me kohën për të shpëtuar të paktën 1.6 milionë njerëz në rrezik përmbytjesh masive, ndërsa lumenjtë e fryrë vazhdojnë të derdhen në fshatra, thanë zyrtarët dhe OKB të mërkurën. Lumenjtë e fryrë, përmbytjet e menjëhershme, përmbytjet urbane dhe rrëshqitjet e dheut të shkaktuara nga shirat […]",
-      "published": "Thu, 11 Sep 2025 02:30:53 +0000",
+      "title": "Starmer përballet me kritika të ashpra pas takimit me Herzog ndërsa kriza humanitare në Gaza përkeqësohet",
+      "link": "https://www.balkanweb.com/starmer-perballet-me-kritika-te-ashpra-pas-takimit-me-herzog-ndersa-kriza-humanitare-ne-gaza-perkeqesohet/",
+      "description": "Deputetët britanikë e qortuan kryeministrin e Mbretërisë së Bashkuar Keir Starmer për pritjen e presidentit izraelit të mërkurën “ndërsa fëmijët vdesin urie” në Gaza. Starmer u takua me Isaac Herzog në Londër për bisedime pavarësisht dhjetëra politikanëve, përfshirë edhe nga partia e tij, që vinin në dyshim se si iu lejua të hynte në vend. […]",
+      "published": "Thu, 11 Sep 2025 03:45:33 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801748",
-      "fetched_at": "2025-09-11T02:58:57.457189",
-      "ai_summary": "Autoritetet pakistaneze janë të bllokuara në një garë të ngushtë me kohën për të shpëtuar të paktën 1.6 milionë njerëz në rrezik përmbytjesh masive, ndërsa lumenjtë e fryrë vazhdojnë të derdhen në fsh..."
+      "guid": "https://www.balkanweb.com/?p=2801738",
+      "fetched_at": "2025-09-11T04:21:15.640322",
+      "ai_summary": "Deputetë britanikë e kritikuan kryeministrin Starmer për takimin me presidentin izraelit Herzog, pavarësisht shqetësimeve për situatën në Gaza dhe kundërshtimeve nga disa politikanë, duke e akuzuar për indiferencë ndaj tragjedisë humanitare.  Takimi u mbajt pavarësisht kritikave të shumta."
     },
     {
-      "title": "Numri i të vdekurve nga sulmet izraelite në Jemen arrin në 35",
-      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-sulmet-izraelite-ne-jemen-arrin-ne-35/",
-      "description": "Të paktën 35 persona janë vrarë pasi Izraeli kreu sulme ajrore në kryeqytetin e Jemenit, Sanaa, një ditë pasi shënjestroi udhëheqësit e Hamasit në kryeqytetin e Katarit, Doha. Ministria e Shëndetësisë e Jemenit tha të mërkurën se 131 persona u plagosën në agresionin izraelit në Sanaa dhe al-Jawf. Ajo i përshkroi shifrat si një numër […]",
-      "published": "Thu, 11 Sep 2025 02:00:30 +0000",
+      "title": "Protestat e Gjeneratës Z/ Pse paqëndrueshmëria është bërë një problem i përsëritur? Një vështrim në historinë politike të Nepalit",
+      "link": "https://www.balkanweb.com/protestat-e-gjenerates-z-pse-paqendrueshmeria-eshte-bere-nje-problem-i-perseritur-nje-veshtrim-ne-historine-politike-te-nepalit/",
+      "description": "Një ditë pasi një sërë udhëheqësish politikë, përfshirë KP Sharma Oli, dhanë dorëheqjen mes protestave të intensifikuara nga grupet e Gjeneratës Z, Ushtria e Nepalit vendosi të mërkurën një shtetrrethim në të gjithë vendin nga mëngjesi deri në orën 5 pasdite, e ndjekur nga një shtetrrethim deri në orën 6 të mëngjesit të ditës tjetër, […]",
+      "published": "Thu, 11 Sep 2025 03:30:09 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801729",
-      "fetched_at": "2025-09-11T02:58:57.457273",
-      "ai_summary": "Të paktën 35 persona janë vrarë pasi Izraeli kreu sulme ajrore në kryeqytetin e Jemenit, Sanaa, një ditë pasi shënjestroi udhëheqësit e Hamasit në kryeqytetin e Katarit, Doha. Ministria e Shëndetësisë..."
+      "guid": "https://www.balkanweb.com/?p=2801758",
+      "fetched_at": "2025-09-11T04:21:15.640435",
+      "ai_summary": "Pas dorëheqjes së disa udhëheqësve politikë, përfshirë KP Sharma Oli, nën presionin e protestave të Gjeneratës Z, ushtria nepaleze vendosi një shtetrrethim të përkohshëm në mbarë vendin."
     },
     {
-      "title": "Kush është Sushila Karki? ish-kryetarja e Gjykatës së Lartë që mori më shumë vota se Balen Shah për të udhëhequr qeverinë e përkohshme të Nepalit",
-      "link": "https://www.balkanweb.com/kush-eshte-sushila-karki-ish-kryetarja-e-gjykates-se-larte-qe-mori-me-shume-vota-se-balen-shah-per-te-udhehequr-qeverine-e-perkohshme-te-nepalit/",
-      "description": "Sushila Karki, Kryetarja e Gjykatës së Lartë e parë dhe e vetme femër në Nepal, është emëruar për të udhëhequr qeverinë e përkohshme pas rrëzimit të fundit të Kryeministrit KP Sharma Oli nga protestuesit e Gjeneratës Z. Karki e pranoi pozicionin pasi siguroi 31% të votave, duke e lënë pas me një diferencë të ngushtë […]",
-      "published": "Thu, 11 Sep 2025 01:45:41 +0000",
+      "title": "Kanadaja dënon shkeljen e hapësirës ajrore polake nga Rusia",
+      "link": "https://www.balkanweb.com/kanadaja-denon-shkeljen-e-hapesires-ajrore-polake-nga-rusia/",
+      "description": "Kanadaja denoncoi Rusinë të mërkurën pasi autoritetet polake thanë se dronët rusë shkelën hapësirën ajrore polake dhe të NATO-s gjatë sulmeve të natës kundër Ukrainës. “Gjatë natës, dronët rusë shkelën hapësirën ajrore polake dhe të NATO-s gjatë një sulmi kundër Ukrainës. Edhe një shembull i tmerrshëm i refuzimit të Putinit për të kërkuar paqe”, tha […]",
+      "published": "Thu, 11 Sep 2025 03:00:39 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801751",
-      "fetched_at": "2025-09-11T02:58:57.457352",
-      "ai_summary": "Sushila Karki, Kryetarja e Gjykatës së Lartë e parë dhe e vetme femër në Nepal, është emëruar për të udhëhequr qeverinë e përkohshme pas rrëzimit të fundit të Kryeministrit KP Sharma Oli nga protestue..."
-    },
-    {
-      "title": "Zemërim dhe frikë ndërsa dhuna e bandave shpërthen në Cape Town",
-      "link": "https://www.balkanweb.com/zemerim-dhe-frike-ndersa-dhuna-e-bandave-shperthen-ne-cape-town/",
-      "description": "Një seri vrasjesh në zonat e rrezikshme të bandave të Afrikës së Jugut në Cape Town ka bërë që komunitetet të kërkojnë mbrojtje, pasi zyrtarët e qytetit thonë se atyre u mungojnë burimet për të ndaluar dhunën. “Një gangster, një plumb”, brohoritën dhjetëra njerëz në një marshim të kohëve të fundit të udhëhequr nga një […]",
-      "published": "Thu, 11 Sep 2025 01:30:49 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801744",
-      "fetched_at": "2025-09-11T02:58:57.457436",
-      "ai_summary": "Një seri vrasjesh në zonat e rrezikshme të bandave të Afrikës së Jugut në Cape Town ka bërë që komunitetet të kërkojnë mbrojtje, pasi zyrtarët e qytetit thonë se atyre u mungojnë burimet për të ndalua..."
+      "guid": "https://www.balkanweb.com/?p=2801735",
+      "fetched_at": "2025-09-11T04:21:15.640520",
+      "ai_summary": "Kanadaja denoncoi Rusinë të mërkurën pasi autoritetet polake thanë se dronët rusë shkelën hapësirën ajrore polake dhe të NATO-s gjatë sulmeve të natës kundër Ukrainës. “Gjatë natës, dronët rusë shkelë..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 4,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
