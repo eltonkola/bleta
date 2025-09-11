@@ -1,6 +1,6 @@
 {
   "date": "2025-09-11",
-  "timestamp": "2025-09-11T01:19:35.846066",
+  "timestamp": "2025-09-11T02:59:03.884806",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,111 +9,72 @@
   },
   "articles": [
     {
-      "title": "Rreth 175,000 njerëz morën pjesë në protesta në Francë",
-      "link": "https://www.balkanweb.com/rreth-175000-njerez-moren-pjese-ne-protesta-ne-france/",
-      "description": "Të paktën 175,000 njerëz morën pjesë në protesta në Francë të mërkurën, si pjesë e lëvizjes “Blloko gjithçka”. Ministria e Brendshme Franceze lëshoi ​​një deklaratë në lidhje me këtë. Sipas ministrisë, në të gjithë vendin u mbajtën afërsisht 550 tubime dhe demonstrata. Sipas të dhënave paraprake, gjatë trazirave që ndodhën gjatë gjithë ditës u arrestuan […]",
-      "published": "Thu, 11 Sep 2025 01:00:51 +0000",
+      "title": "Ushtria e Nepalit rimerr kontrollin e Katmandusë pas disa ditësh trazirash vdekjeprurëse, ndërsa fillojnë negociatat me udhëheqësit e protestave",
+      "link": "https://www.balkanweb.com/ushtria-e-nepalit-rimerr-kontrollin-e-katmanduse-pas-disa-ditesh-trazirash-vdekjeprurese-ndersa-fillojne-negociatat-me-udheheqesit-e-protestave/",
+      "description": "Ushtria e Nepalit ka rimarrë kontrollin e kryeqytetit Katmandu, pas dhunës më të keqe në dy dekada që vrau 30 persona, detyroi një kryeministër të largohej nga detyra dhe la ndërtesa kyçe, përfshirë parlamentin e vendit, të dëmtuara rëndë. Ushtarët patrulluan rrugët e kryeqytetit duke kërkuar t’i jepnin fund protestave vdekjeprurëse këtë javë, gjatë të […]",
+      "published": "Thu, 11 Sep 2025 02:45:37 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801683",
-      "fetched_at": "2025-09-11T01:19:29.328326",
-      "ai_summary": "Më shumë se 175,000 persona protestuan në Francë të mërkurën si pjesë e lëvizjes \"Blloko gjithçka\", me rreth 550 tubime dhe demonstrata sipas Ministrisë së Brendshme franceze, ku pati edhe arrestime."
+      "guid": "https://www.balkanweb.com/?p=2801765",
+      "fetched_at": "2025-09-11T02:58:57.457019",
+      "ai_summary": "Ushtria nepaleze ka rimarrë kontrollin e Katmandu pas dhunës së ashpër që la 30 të vdekur, detyroi dorëheqjen e kryeministrit dhe shkaktoi dëme të mëdha në ndërtesa publike.  Protestat e dhunshme janë shtypur nga ushtria."
     },
     {
-      "title": "Më shumë se 13,500 të burgosur ikën nga burgjet gjatë protestave në Nepal",
-      "link": "https://www.balkanweb.com/me-shume-se-13500-te-burgosur-iken-nga-burgjet-gjate-protestave-ne-nepal/",
-      "description": "Policia e Nepalit tha të mërkurën se më shumë se 13,500 të burgosur u arratisën nga burgjet në të gjithë vendin gjatë protestave antiqeveritare këtë javë. “Tre policë vdiqën dje dhe më shumë se 13,500 të burgosur janë arratisur nga burgjet në të gjithë vendin”, tha për AFP zëdhënësi i Policisë së Nepalit, Binod Ghimire. […]",
-      "published": "Thu, 11 Sep 2025 00:45:41 +0000",
+      "title": "Pakistani nxiton të shpëtojë 1.6 milionë njerëz në rrezik për shkak të përmbytjeve që vazhdojnë",
+      "link": "https://www.balkanweb.com/pakistani-nxiton-te-shpetoje-1-6-milione-njerez-ne-rrezik-per-shkak-te-permbytjeve-qe-vazhdojne/",
+      "description": "Autoritetet pakistaneze janë të bllokuara në një garë të ngushtë me kohën për të shpëtuar të paktën 1.6 milionë njerëz në rrezik përmbytjesh masive, ndërsa lumenjtë e fryrë vazhdojnë të derdhen në fshatra, thanë zyrtarët dhe OKB të mërkurën. Lumenjtë e fryrë, përmbytjet e menjëhershme, përmbytjet urbane dhe rrëshqitjet e dheut të shkaktuara nga shirat […]",
+      "published": "Thu, 11 Sep 2025 02:30:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801762",
-      "fetched_at": "2025-09-11T01:19:29.328502",
-      "ai_summary": "Policia e Nepalit tha të mërkurën se më shumë se 13,500 të burgosur u arratisën nga burgjet në të gjithë vendin gjatë protestave antiqeveritare këtë javë. “Tre policë vdiqën dje dhe më shumë se 13,500..."
+      "guid": "https://www.balkanweb.com/?p=2801748",
+      "fetched_at": "2025-09-11T02:58:57.457189",
+      "ai_summary": "Autoritetet pakistaneze janë të bllokuara në një garë të ngushtë me kohën për të shpëtuar të paktën 1.6 milionë njerëz në rrezik përmbytjesh masive, ndërsa lumenjtë e fryrë vazhdojnë të derdhen në fsh..."
     },
     {
-      "title": "Aktivistja suedeze, Greta Thunberg, bën thirrje që gjenocidi në Gaza të mësohet në shkolla",
-      "link": "https://www.balkanweb.com/aktivistja-suedeze-greta-thunberg-ben-thirrje-qe-gjenocidi-ne-gaza-te-mesohet-ne-shkolla/",
-      "description": "Aktivistja suedeze Greta Thunberg ka bërë thirrje që gjenocidi në Gaza të mësohet në shkolla. 22-vjeçarja, duke folur ndërsa merrte pjesë në Flotiljen Globale Sumud që po dërgon ndihmë humanitare në Palestinë, tha: “Mendoj se shkollat duhet të sjellin shenja paralajmëruese të hershme të gjenocidit, siç është Holokausti, dhe t’i zbatojnë ato në atë që […]",
-      "published": "Thu, 11 Sep 2025 00:30:07 +0000",
+      "title": "Numri i të vdekurve nga sulmet izraelite në Jemen arrin në 35",
+      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-sulmet-izraelite-ne-jemen-arrin-ne-35/",
+      "description": "Të paktën 35 persona janë vrarë pasi Izraeli kreu sulme ajrore në kryeqytetin e Jemenit, Sanaa, një ditë pasi shënjestroi udhëheqësit e Hamasit në kryeqytetin e Katarit, Doha. Ministria e Shëndetësisë e Jemenit tha të mërkurën se 131 persona u plagosën në agresionin izraelit në Sanaa dhe al-Jawf. Ajo i përshkroi shifrat si një numër […]",
+      "published": "Thu, 11 Sep 2025 02:00:30 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801741",
-      "fetched_at": "2025-09-11T01:19:29.328588",
-      "ai_summary": "Aktivistja suedeze Greta Thunberg ka bërë thirrje që gjenocidi në Gaza të mësohet në shkolla. 22-vjeçarja, duke folur ndërsa merrte pjesë në Flotiljen Globale Sumud që po dërgon ndihmë humanitare në P..."
+      "guid": "https://www.balkanweb.com/?p=2801729",
+      "fetched_at": "2025-09-11T02:58:57.457273",
+      "ai_summary": "Të paktën 35 persona janë vrarë pasi Izraeli kreu sulme ajrore në kryeqytetin e Jemenit, Sanaa, një ditë pasi shënjestroi udhëheqësit e Hamasit në kryeqytetin e Katarit, Doha. Ministria e Shëndetësisë..."
     },
     {
-      "title": "Ministria e Brendshme polake njofton zbulimin e 16 mbetjeve të një droni",
-      "link": "https://www.balkanweb.com/ministria-e-brendshme-polake-njofton-zbulimin-e-16-mbetjeve-te-nje-droni/",
-      "description": "Që nga mbrëmja e 10 shtatorit, në Poloni u zbuluan mbetjet e 16 dronëve. Ministria e Punëve të Brendshme polake publikoi informacion në lidhje me këtë. “Mbetjet e 16 UAV-ve u zbuluan nga shërbimet e përbashkëta”, thuhet në deklaratë. Ministria shtoi se shërbimet në varësi të institucionit po punojnë në mënyrë aktive dhe janë vazhdimisht […]",
-      "published": "Thu, 11 Sep 2025 00:00:08 +0000",
+      "title": "Kush është Sushila Karki? ish-kryetarja e Gjykatës së Lartë që mori më shumë vota se Balen Shah për të udhëhequr qeverinë e përkohshme të Nepalit",
+      "link": "https://www.balkanweb.com/kush-eshte-sushila-karki-ish-kryetarja-e-gjykates-se-larte-qe-mori-me-shume-vota-se-balen-shah-per-te-udhehequr-qeverine-e-perkohshme-te-nepalit/",
+      "description": "Sushila Karki, Kryetarja e Gjykatës së Lartë e parë dhe e vetme femër në Nepal, është emëruar për të udhëhequr qeverinë e përkohshme pas rrëzimit të fundit të Kryeministrit KP Sharma Oli nga protestuesit e Gjeneratës Z. Karki e pranoi pozicionin pasi siguroi 31% të votave, duke e lënë pas me një diferencë të ngushtë […]",
+      "published": "Thu, 11 Sep 2025 01:45:41 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801686",
-      "fetched_at": "2025-09-11T01:19:29.328670",
-      "ai_summary": "Që nga mbrëmja e 10 shtatorit, në Poloni u zbuluan mbetjet e 16 dronëve. Ministria e Punëve të Brendshme polake publikoi informacion në lidhje me këtë. “Mbetjet e 16 UAV-ve u zbuluan nga shërbimet e p..."
+      "guid": "https://www.balkanweb.com/?p=2801751",
+      "fetched_at": "2025-09-11T02:58:57.457352",
+      "ai_summary": "Sushila Karki, Kryetarja e Gjykatës së Lartë e parë dhe e vetme femër në Nepal, është emëruar për të udhëhequr qeverinë e përkohshme pas rrëzimit të fundit të Kryeministrit KP Sharma Oli nga protestue..."
     },
     {
-      "title": "Zelensky nënshkruan dekretin që vendos sanksione ndaj individëve dhe firmave të lidhura me Rusinë",
-      "link": "https://www.balkanweb.com/zelensky-nenshkruan-dekretin-qe-vendos-sanksione-ndaj-individeve-dhe-firmave-te-lidhura-me-rusine/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky nënshkroi të mërkurën dekrete që vendosin sanksione të reja ndaj dhjetëra individëve dhe kompanive të akuzuara për mbështetjen e kompleksit ushtarako-industrial të Rusisë , sektorit të saj të energjisë dhe aktiviteteve të të ashtuquajturave “flotë në hije”. Masat u miratuan nëpërmjet vendimit të Këshillit të Sigurisë dhe Mbrojtjes Kombëtare mbi “masat […]",
-      "published": "Wed, 10 Sep 2025 23:30:22 +0000",
+      "title": "Zemërim dhe frikë ndërsa dhuna e bandave shpërthen në Cape Town",
+      "link": "https://www.balkanweb.com/zemerim-dhe-frike-ndersa-dhuna-e-bandave-shperthen-ne-cape-town/",
+      "description": "Një seri vrasjesh në zonat e rrezikshme të bandave të Afrikës së Jugut në Cape Town ka bërë që komunitetet të kërkojnë mbrojtje, pasi zyrtarët e qytetit thonë se atyre u mungojnë burimet për të ndaluar dhunën. “Një gangster, një plumb”, brohoritën dhjetëra njerëz në një marshim të kohëve të fundit të udhëhequr nga një […]",
+      "published": "Thu, 11 Sep 2025 01:30:49 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801732",
-      "fetched_at": "2025-09-11T01:19:29.328762",
-      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky nënshkroi të mërkurën dekrete që vendosin sanksione të reja ndaj dhjetëra individëve dhe kompanive të akuzuara për mbështetjen e kompleksit ushtarako-industrial ..."
-    },
-    {
-      "title": "Helikopteri që transportonte një ministër dhe një guvernator rrëzohet në Afganistan",
-      "link": "https://www.balkanweb.com/helikopteri-qe-transportonte-nje-minister-dhe-nje-guvernator-rrezohet-ne-afganistan/",
-      "description": "Një helikopter që transportonte Ministrin e Minierave dhe Naftës të Afganistanit, Hidayatullah Badri, dhe guvernatorin e provincës Ghor, Hayatullah Mubarak, është rrëzuar. Duke iu referuar agjencisë “Pajhwok”, kjo u raportua nga sekretari i shtypit i guvernatorit Mubarak, Rasas Badri. “Helikopteri u rrëzua në rajonin Nalbandan të distriktit Tulak të provincës Ghor. Askush nuk u lëndua”, […]",
-      "published": "Wed, 10 Sep 2025 23:00:29 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801680",
-      "fetched_at": "2025-09-11T01:19:29.328852",
-      "ai_summary": "Një helikopter që transportonte Ministrin e Minierave dhe Naftës të Afganistanit, Hidayatullah Badri, dhe guvernatorin e provincës Ghor, Hayatullah Mubarak, është rrëzuar. Duke iu referuar agjencisë “..."
-    },
-    {
-      "title": "Suedia do të dërgojë avionë dhe sisteme të mbrojtjes ajrore në Poloni",
-      "link": "https://www.balkanweb.com/suedia-do-te-dergoje-avione-dhe-sisteme-te-mbrojtjes-ajrore-ne-poloni/",
-      "description": "Suedia do të dërgojë urgjentisht avionë dhe sisteme të mbrojtjes ajrore në Poloni pas shkeljes së hapësirës ajrore të disa dronëve. Kjo u deklarua nga Ministri polak i Mbrojtjes Wladyslaw Kosyniak-Kamysz në TVN24. “Sapo kam marrë informacion nga Ministri suedez i Mbrojtjes në lidhje me dërgimin urgjent të ndihmës shtesë në Poloni, duke përfshirë sisteme […]",
-      "published": "Wed, 10 Sep 2025 22:30:51 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2801725",
-      "fetched_at": "2025-09-11T01:19:29.328943",
-      "ai_summary": "Suedia do të dërgojë urgjentisht avionë dhe sisteme të mbrojtjes ajrore në Poloni pas shkeljes së hapësirës ajrore të disa dronëve. Kjo u deklarua nga Ministri polak i Mbrojtjes Wladyslaw Kosyniak-Kam..."
-    },
-    {
-      "title": "Pamje dramatike, momentet kur Charlie Kirk i plagosur bartet nga disa persona dhe futet në veturë, pak më vonë u shpall i vdekur",
-      "link": "https://www.gazetaexpress.com/pamje-dramatike-momentet-kur-charlie-kirk-i-plagosur-bartet-nga-disa-persona-dhe-futet-ne-veture-pak-me-vone-u-shpall-i-vdekur/",
-      "description": "Pamje dramatike janë publikuar në media ku shihet momenti kur aktivisti konservator amerikan Charlie Kirk, i plagosur bartet nga disa persona dhe futet në veturë. Aty shihen shumë njerëz të frikësuar duke u larguar nga vendi i ngjarjes me vrap. Pak më vonë, ai edhe u shpall i vdekur, ku lajmin për vdekjen e tij e dha presidenti amerikan, Donald Trump. “I Madhi, madje edhe Legjendari, Charlie Kirk, ka vdekur”, ka postuar Presidenti Donald Trump në platformën e tij Truth Social. The post Pamje dramatike, momentet kur Charlie Kirk i plagosur bartet nga disa persona dhe futet në veturë, pak më vonë u shpall i vdekur appeared first on Gazeta Express.",
-      "published": "Wed, 10 Sep 2025 22:24:18 +0000",
-      "source": "Gazeta Express",
-      "source_url": "https://www.gazetaexpress.com/feed/",
-      "language": "sq",
-      "guid": "https://www.gazetaexpress.com/?p=2873726",
-      "fetched_at": "2025-09-11T01:19:31.065610",
-      "ai_summary": "Pamje dramatike janë publikuar në media ku shihet momenti kur aktivisti konservator amerikan Charlie Kirk, i plagosur bartet nga disa persona dhe futet në veturë. Aty shihen shumë njerëz të frikësuar ..."
+      "guid": "https://www.balkanweb.com/?p=2801744",
+      "fetched_at": "2025-09-11T02:58:57.457436",
+      "ai_summary": "Një seri vrasjesh në zonat e rrezikshme të bandave të Afrikës së Jugut në Cape Town ka bërë që komunitetet të kërkojnë mbrojtje, pasi zyrtarët e qytetit thonë se atyre u mungojnë burimet për të ndalua..."
     }
   ],
-  "total_articles": 8,
+  "total_articles": 5,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Gazeta Express"
+    "BalkanWeb"
   ]
 }
