@@ -1,6 +1,6 @@
 {
   "date": "2025-09-12",
-  "timestamp": "2025-09-12T02:53:48.072127",
+  "timestamp": "2025-09-12T04:20:38.795329",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,44 +9,57 @@
   },
   "articles": [
     {
-      "title": "Numri i të vdekurve nga shpërthimi i kamionit në Mexico City rritet në 8",
-      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-shperthimi-i-kamionit-ne-mexico-city-rritet-ne-8/",
-      "description": "Numri i të vdekurve nga shpërthimi i një kamioni që transportonte gaz të lëngshëm në Mexico City, kryeqytetin e Meksikës, ka arritur në 8 dhe 94 persona të tjerë janë plagosur. Kjo u njoftua nga Kryetarja e Bashkisë së Qytetit të Meksikos, Clara Brugada, në një konferencë për shtyp. “Fatkeqësisht, 94 persona u lënduan ose […]",
-      "published": "Fri, 12 Sep 2025 02:30:24 +0000",
+      "title": "OBSH: Gati 500,000 afganë kanë nevojë për ndihmë mjekësore pas tërmetit",
+      "link": "https://www.balkanweb.com/obsh-gati-500000-afgane-kane-nevoje-per-ndihme-mjekesore-pas-termetit/",
+      "description": "Gati 500,000 afganë kanë nevojë për ndihmë urgjente mjekësore pas një tërmeti që goditi Afganistanin lindor. Organizata Botërore e Shëndetësisë (OBSH) ka publikuar informacion në lidhje me këtë. “Më shumë se 498,000 njerëz, përfshirë më shumë se 11,600 gra shtatzëna, kanë nevojë për ndihmë urgjente mjekësore. Ato aktualisht jetojnë në strehimore të përkohshme të mbipopulluara […]",
+      "published": "Fri, 12 Sep 2025 04:00:03 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2802787",
-      "fetched_at": "2025-09-12T02:53:41.003576",
-      "ai_summary": "Shpërthimi i një kamioni me gaz të lëngshëm në Mexico City la 8 të vdekur dhe 94 të lënduar, sipas Kryetares së Bashkisë, Clara Brugada."
+      "guid": "https://www.balkanweb.com/?p=2802803",
+      "fetched_at": "2025-09-12T04:20:32.468545",
+      "ai_summary": "Tërmeti në Afganistanin lindor ka lënë gati 500,000 njerëz, përfshirë mbi 11,600 gra shtatzëna, me nevojë urgjente për ndihmë mjekësore, sipas OBSH-së.  Këta individë aktualisht jetojnë në strehimore të mbushura."
     },
     {
-      "title": "‘Çfarë po ndodh me shkeljen e hapësirës ajrore polake nga Rusia?’ Trump reagon ndaj inkursionit me dron të Moskës në një vend aleat të NATO-s",
-      "link": "https://www.balkanweb.com/cfare-po-ndodh-me-shkeljen-e-hapesires-ajrore-polake-nga-rusia-trump-reagon-ndaj-inkursionit-me-dron-te-moskes-ne-nje-vend-aleat-te-nato-s/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të enjten se inkursioni i dyshuar i dronëve rusë në Poloninë fqinje mund të ketë ndodhur “gabimisht”. “Mund të ketë qenë një gabim,” u tha Trump gazetarëve. Vërejtja e tij, që dukej se kërkonte justifikime për Rusinë, pasoi një përgjigje fillestare të paqartë ndaj aktit provokues të Moskës që […]",
-      "published": "Fri, 12 Sep 2025 02:00:54 +0000",
+      "title": "Protestat në Nepal/ Gruaja e ish-kryeministrit Khanal, Rabi Laxmi, po i nënshtrohet trajtimit, thashethemet për vdekjen e saj janë të rreme",
+      "link": "https://www.balkanweb.com/protestat-ne-nepal-gruaja-e-ish-kryeministrit-khanal-rabi-laxmi-po-i-nenshtrohet-trajtimit-thashethemet-per-vdekjen-e-saj-jane-te-rreme/",
+      "description": "Raportet e mëparshme për vdekjen e Rabi Laxmi Chitrakar, gruas së ish-kryeministrit të Nepalit Jhala Nath Khanal, kanë rezultuar të rreme. Raportet konfirmojnë se ajo është gjallë, por në gjendje kritike dhe aktualisht po merr trajtim në një spital. Raportet nga mediat lokale të Nepalit të martën pohuan se Rabi Laxmi kishte vdekur gjatë përleshjeve […]",
+      "published": "Fri, 12 Sep 2025 03:45:49 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2802778",
-      "fetched_at": "2025-09-12T02:53:41.003720",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të enjten se inkursioni i dyshuar i dronëve rusë në Poloninë fqinje mund të ketë ndodhur “gabimisht”. “Mund të ketë qenë një gabim,” u tha Trump gazetarëve. Vër..."
+      "guid": "https://www.balkanweb.com/?p=2802810",
+      "fetched_at": "2025-09-12T04:20:32.468700",
+      "ai_summary": "Raportet e mëparshme për vdekjen e Rabi Laxmi Chitrakar, gruas së ish-kryeministrit të Nepalit Jhala Nath Khanal, kanë rezultuar të rreme. Raportet konfirmojnë se ajo është gjallë, por në gjendje krit..."
     },
     {
-      "title": "Bimët dhe bakteret pushtuese kërcënojnë Eufratin e Irakut",
-      "link": "https://www.balkanweb.com/bimet-dhe-bakteret-pushtuese-kercenojne-eufratin-e-irakut/",
-      "description": "Lumi Eufrat i Irakut po rrjedh në nivele historikisht të ulëta, ndërsa vendi i goditur nga thatësira përballet me mungesën më të keqe të ujit. 46 milionë banorët e tij përballen me temperatura në rritje, mungesa kronike të ujit dhe thatësira vit pas viti, në një vend të prekur intensivisht nga ndryshimet klimatike. Ndikimi është […]",
-      "published": "Fri, 12 Sep 2025 01:30:43 +0000",
+      "title": "Ministri i Jashtëm: Italia është gati të vlerësojë propozimet e BE-së për sanksione kundër Izraelit",
+      "link": "https://www.balkanweb.com/ministri-i-jashtem-italia-eshte-gati-te-vleresoje-propozimet-e-be-se-per-sanksione-kunder-izraelit/",
+      "description": "Ministri i Jashtëm italian Antonio Tajani tha të enjten se Italia është e përgatitur të vlerësojë propozimet e reja të sanksioneve të BE-së kundër Izraelit, duke riafirmuar mbështetjen për një zgjidhje me dy shtete. Duke folur para ligjvënësve në Dhomën e Deputetëve pasi informoi Senatin, Tajani e përshkroi situatën në Gaza si “gjithnjë e më […]",
+      "published": "Fri, 12 Sep 2025 03:30:37 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2802784",
-      "fetched_at": "2025-09-12T02:53:41.003819",
-      "ai_summary": "Lumi Eufrat i Irakut po rrjedh në nivele historikisht të ulëta, ndërsa vendi i goditur nga thatësira përballet me mungesën më të keqe të ujit. 46 milionë banorët e tij përballen me temperatura në rrit..."
+      "guid": "https://www.balkanweb.com/?p=2802781",
+      "fetched_at": "2025-09-12T04:20:32.469032",
+      "ai_summary": "Ministri i Jashtëm italian Antonio Tajani tha të enjten se Italia është e përgatitur të vlerësojë propozimet e reja të sanksioneve të BE-së kundër Izraelit, duke riafirmuar mbështetjen për një zgjidhj..."
+    },
+    {
+      "title": "Gruaja e ish-senatorit amerikan Menendez dënohet me katër vjet e gjysmë burgim",
+      "link": "https://www.balkanweb.com/gruaja-e-ish-senatorit-amerikan-menendez-denohet-me-kater-vjet-e-gjysme-burgim/",
+      "description": "Nadine Menendez (Arslanian), gruaja e senatorit amerikan pro-armen Bob Menendez, është dënuar me 4.5 vjet burg nga një gjyqtar i distriktit të Nju Jorkut. Nadine Menendez, 58 vjeç, u shpall fajtore në prill për pranim ryshfeti në formën e parave të gatshme, shufrave të arit dhe makinave luksoze nga tre burra nga New Jersey në […]",
+      "published": "Fri, 12 Sep 2025 03:00:07 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2802790",
+      "fetched_at": "2025-09-12T04:20:32.469181",
+      "ai_summary": "Nadine Menendez (Arslanian), gruaja e senatorit amerikan pro-armen Bob Menendez, është dënuar me 4.5 vjet burg nga një gjyqtar i distriktit të Nju Jorkut. Nadine Menendez, 58 vjeç, u shpall fajtore në..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 4,
   "sources": [
+    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
