@@ -1,0 +1,28 @@
+{
+  "date": "2025-09-14",
+  "timestamp": "2025-09-14T01:23:17.677446",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Shtoni këtë përbërës në lakrat turshi: thartohen më shpejt dhe zgjasin deri në verë",
+      "link": "https://telegrafi.com/shtoni-kete-perberes-ne-lakrat-turshi-thartohen-me-shpejt-dhe-zgjasin-deri-ne-vere/",
+      "description": "Një përbërës i veçantë që shtohet te lakra e thartë jo vetëm që përshpejton procesin e fermentimit, por edhe e bën më jetëgjatë, duke parandaluar prishjenLakra e thartë shpesh quhet “superushqim”, sepse është e pasur me vitamina të shumta, sidomos me vitaminë C. Përveç saj, përmban edhe vitamina A1, B1, B2, B3, B6, B12, K dhe E. Në të gjenden gjithashtu minerale të rëndësishme si kalciumi, fosfori, kaliumi, magnezi dhe hekuri. Procesi i fermentimit krijon gjithashtu probiotikë natyralë, që përmirësojnë tretjen, forcojnë imunitetin dhe ndihmojnë mikroflorën e zorrëve.Nëse e përgatitni vetë në shtëpi, është mirë të dini se ekziston një përbërës që përmirëson shijen dhe rrit jetëgjatësinë e lakrës së thartë - rrika.Rrika është një rrënjë me aromë të fortë dhe shije pak pikante, e ngjashme me mustardën. Ajo ka veti antibakteriale dhe antifungale, prandaj ndihmon në ruajtjen e turshive dhe parandalon prishjen e tyre. Për më tepër, i jep lakrës një shije të veçantë dhe e bën më aromatike, transmeton Telegrafi. Përbërës shtesë që pasurojnë shijen: Një grusht misër i shtuar në kovë do t’i japë lakrës një ngjyrë të artë. Për ata që pëlqejnë shijet pikante, shtimi i specit djegës është një ide shumë e mirë. Gjethet e dafinës po ashtu mund të pasurojnë aromën dhe freskinë.Këshillë praktike:Në kavanoz ose vaskë mund të vendosni qese të mbushura me lakër të grirë dhe të kriposur. Qeset duhet të kenë disa vrima, në mënyrë që të qarkullojë lëngu i kripur. Ato futen ndërmjet kokave të lakrës dhe mbushin hapësirat bosh. Në këtë mënyrë, nga e njëjta enë do të merrni edhe kokat e lakrës së thartë, edhe lakër të grirë gati për përdorim.💡 Mos harroni: lakra duhet të qëndrojë gjithmonë nën nivelin e lëngut të kripur, sepse ekspozimi ndaj ajrit e prish shpejt. Enët duhet të jenë të pastra dhe pa detergjente kimike, që të mos ndikojnë në fermentim. /Telegrafi/",
+      "published": "Sat, 13 Sep 2025 22:25:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/shtoni-kete-perberes-ne-lakrat-turshi-thartohen-me-shpejt-dhe-zgjasin-deri-ne-vere/",
+      "fetched_at": "2025-09-14T01:23:14.473901",
+      "ai_summary": "Shtimi i rrrikës në lakër të thartë përshpejton fermentimin, e bën atë më jetëgjatë dhe i jep shije të veçantë, ndërsa këshilla praktike përgatitjen e saj në shtëpi theksojnë mbajtjen e lakrës nën lëngun e kripur për të parandaluar prishjen."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Telegrafi"
+  ]
+}
