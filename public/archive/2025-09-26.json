@@ -1,0 +1,28 @@
+{
+  "date": "2025-09-26",
+  "timestamp": "2025-09-26T01:18:28.873545",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Vetting zbërthen skemën “Xuex”/ Si përfunduan paratë e shqiptarëve te “profesori”, roli i Arbër Çelës e Ereledio Shebekut. Mesazhet në Telegram",
+      "link": "https://www.balkanweb.com/vetting-zberthen-skemen-xuex-si-perfunduan-parate-e-shqiptareve-te-profesori-roli-i-arber-celes-e-ereledio-shebekut-mesazhet-ne-telegram/",
+      "description": "Institucionet heshtën Duke iu referuar dosjes së Prokurorisë, një nga personazhet më të rëndësishëm në skemë, që ka arrestuar policia, por pretendon se është viktimë është Arbër Çela. Kontrolli në banesën dhe lokalin “La Bonta” të Çelës nxori në pah shuma të mëdha parash në valuta të ndryshme, dy telefona të shtrenjtë, një laptop, një […]",
+      "published": "Thu, 25 Sep 2025 21:26:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2812577",
+      "fetched_at": "2025-09-26T01:18:23.304709",
+      "ai_summary": "Institucionet heshtën Duke iu referuar dosjes së Prokurorisë, një nga personazhet më të rëndësishëm në skemë, që ka arrestuar policia, por pretendon se është viktimë është Arbër Çela. Kontrolli në ban..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
