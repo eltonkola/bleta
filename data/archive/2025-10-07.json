@@ -1,6 +1,6 @@
 {
   "date": "2025-10-07",
-  "timestamp": "2025-10-07T01:18:05.360146",
+  "timestamp": "2025-10-07T02:56:32.010082",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,137 +9,59 @@
   },
   "articles": [
     {
-      "title": "Dy të dyshuar arrestohen në Stamboll për spiunazh për agjencinë e inteligjencës izraelite Mossad",
-      "link": "https://www.balkanweb.com/dy-te-dyshuar-arrestohen-ne-stamboll-per-spiunazh-per-agjencine-e-inteligjences-izraelite-mossad/",
-      "description": "Autoritetet turke kanë arrestuar dy persona me akuzën e spiunazhit për agjencinë e inteligjencës izraelite, Mossad, gjatë një operacioni të përbashkët nga Organizata Kombëtare e Inteligjencës (MIT) , Zyra e Kryeprokurorit Publik të Stambollit dhe Departamenti i Policisë së Stambollit. Zyrtarët identifikuan një të dyshuar si Serkan Çiçek , i cili akuzohet se ka punuar […]",
-      "published": "Tue, 07 Oct 2025 01:00:33 +0000",
+      "title": "Greta: Më rrahën dhe më detyruan të puthja flamurin izraelit",
+      "link": "https://www.balkanweb.com/greta-me-rrahen-dhe-me-detyruan-te-puthja-flamurin-izraelit/",
+      "description": "Aktivistja suedeze për klimën, Greta Thunberg, foli publikisht për herë të parë të hënën pasi u lirua nga një burg izraelit, ku tha se ishte rrahur dhe detyruar të puthte flamurin izraelit. Thunberg ishte midis 171 personave të deportuar nga autoritetet izraelite pasi u ndaluan për pjesëmarrje në një flotilje ndihmash me destinacion Gazën. Grupi […]",
+      "published": "Tue, 07 Oct 2025 02:45:30 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820741",
-      "fetched_at": "2025-10-07T01:17:59.359921",
-      "ai_summary": "Autoritetet turke kanë arrestuar dy persona me akuzën e spiunazhit për agjencinë e inteligjencës izraelite, Mossad, gjatë një operacioni të përbashkët nga Organizata Kombëtare e Inteligjencës (MIT) , ..."
+      "guid": "https://www.balkanweb.com/?p=2820783",
+      "fetched_at": "2025-10-07T02:56:26.502204",
+      "ai_summary": "Aktivistja suedeze për klimën, Greta Thunberg, foli publikisht për herë të parë të hënën pasi u lirua nga një burg izraelit, ku tha se ishte rrahur dhe detyruar të puthte flamurin izraelit. Thunberg i..."
     },
     {
-      "title": "Berlini planifikon konferencë për rindërtimin e Gazës",
-      "link": "https://www.balkanweb.com/berlini-planifikon-konference-per-rindertimin-e-gazes/",
-      "description": "Gjermania po planifikon të organizojë një konferencë mbi rindërtimin e Rripit të Gazës, tha Ministri i Jashtëm Johann Vandeful, duke argumentuar se Berlini aktualisht pranohet si ndërmjetës nga të dyja palët. Z. Vandeful shprehu gjithashtu vlerësimin se një “marrëveshje në parim” mbi bazën e planit të Presidentit të SHBA-së Donald Trump mund të arrihet brenda […]",
-      "published": "Tue, 07 Oct 2025 00:45:31 +0000",
+      "title": "Sllovakia përgatit një paketë të re ndihme ushtarake për Ukrainën",
+      "link": "https://www.balkanweb.com/sllovakia-pergatit-nje-pakete-te-re-ndihme-ushtarake-per-ukrainen/",
+      "description": "Sllovakia po përgatit një paketë të re mbështetjeje ushtarake për Ukrainën, e cila përfshin ndihmë në inxhinieri dhe çminim. Ministri Sllovak i Mbrojtjes Robert Kalinak e deklaroi këtë gjatë fjalimit të tij hapës në Forumin e Tretë Ndërkombëtar të Industrisë së Mbrojtjes (DFNC3) në Kiev. “Kam kënaqësinë të njoftoj se unë dhe Ministri Šmygall sapo […]",
+      "published": "Tue, 07 Oct 2025 02:30:36 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820777",
-      "fetched_at": "2025-10-07T01:17:59.360065",
-      "ai_summary": "Gjermania po planifikon të organizojë një konferencë mbi rindërtimin e Rripit të Gazës, tha Ministri i Jashtëm Johann Vandeful, duke argumentuar se Berlini aktualisht pranohet si ndërmjetës nga të dyj..."
+      "guid": "https://www.balkanweb.com/?p=2820767",
+      "fetched_at": "2025-10-07T02:56:26.502365",
+      "ai_summary": "Sllovakia po përgatit një paketë të re mbështetjeje ushtarake për Ukrainën, e cila përfshin ndihmë në inxhinieri dhe çminim. Ministri Sllovak i Mbrojtjes Robert Kalinak e deklaroi këtë gjatë fjalimit ..."
     },
     {
-      "title": "Guvernatori i Alepos: Qeveria po përpiqet të tregojë durim",
-      "link": "https://www.balkanweb.com/guvernatori-i-alepos-qeveria-po-perpiqet-te-tregoje-durim/",
-      "description": "Guvernatori i Alepos, Azzam al-Qarib, tha se forcat e Ministrisë së Sigurisë së Brendshme dhe Mbrojtjes po përpiqen të mbrojnë sigurinë e qytetarëve dhe nuk kanë ndërmend të përshkallëzojnë situatën. Al-Gharib postoi për këtë në llogarinë e tij në Facebook. Ai deklaroi se konflikti i armatosur i vazhdueshëm midis ushtrisë siriane dhe anëtarëve të grupit […]",
-      "published": "Tue, 07 Oct 2025 00:30:20 +0000",
+      "title": "Trump: Hamasi ‘po pajtohet me gjëra shumë të rëndësishme’",
+      "link": "https://www.balkanweb.com/trump-hamasi-po-pajtohet-me-gjera-shume-te-rendesishme/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të hënën se ishte “mjaft i sigurt” se një marrëveshje paqeje në Gaza ishte e mundur dhe tha se Hamasi po binte dakord për çështje “shumë të rëndësishme” ndërsa fillonin bisedimet me Izraelin. “Kam vija të kuqe, nëse disa gjëra nuk përmbushen, ne nuk do ta bëjmë”, u tha […]",
+      "published": "Tue, 07 Oct 2025 02:00:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820759",
-      "fetched_at": "2025-10-07T01:17:59.360157",
-      "ai_summary": "Guvernatori i Alepos, Azzam al-Qarib, tha se forcat e Ministrisë së Sigurisë së Brendshme dhe Mbrojtjes po përpiqen të mbrojnë sigurinë e qytetarëve dhe nuk kanë ndërmend të përshkallëzojnë situatën. ..."
+      "guid": "https://www.balkanweb.com/?p=2820745",
+      "fetched_at": "2025-10-07T02:56:26.502454",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të hënën se ishte “mjaft i sigurt” se një marrëveshje paqeje në Gaza ishte e mundur dhe tha se Hamasi po binte dakord për çështje “shumë të rëndësishme” ndërsa ..."
     },
     {
-      "title": "Presidenti brazilian i kërkon Trumpit të heqë tarifat për mallrat braziliane",
-      "link": "https://www.balkanweb.com/presidenti-brazilian-i-kerkon-trumpit-te-heqe-tarifat-per-mallrat-braziliane/",
-      "description": "Presidenti brazilian Luiz Inácio Lula da Silva bëri thirrje për heqjen e një tarife shtesë prej 40% për mallrat vendase gjatë një telefonate me homologun e tij amerikan Donald Trump. Qeveria braziliane ka publikuar informacion në lidhje me këtë. “Presidenti Lula e pa bisedën si një mundësi për të rivendosur marrëdhënien miqësore 201-vjeçare midis dy […]",
-      "published": "Tue, 07 Oct 2025 00:00:30 +0000",
+      "title": "Presidentja e KE-së: Evropa ka nevojë për unitet për të kapërcyer sfidat",
+      "link": "https://www.balkanweb.com/presidentja-e-ke-se-evropa-ka-nevoje-per-unitet-per-te-kapercyer-sfidat/",
+      "description": "Presidenti rus Vladimir Putin po përdor metodën e vjetër – “përça dhe sundo”. Sipas byrosë evropiane të Raportit , kjo u deklarua nga Presidentja e Komisionit Evropian (KE), Ursula von der Leyen, në një takim parlamentar. Eventi shqyrtoi dy vota mosbesimi kundër KE-së. Ursula von der Leyen ka bërë edhe një herë thirrje për unitet […]",
+      "published": "Tue, 07 Oct 2025 01:30:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820733",
-      "fetched_at": "2025-10-07T01:17:59.360233",
-      "ai_summary": "Presidenti brazilian Luiz Inácio Lula da Silva bëri thirrje për heqjen e një tarife shtesë prej 40% për mallrat vendase gjatë një telefonate me homologun e tij amerikan Donald Trump. Qeveria brazilian..."
-    },
-    {
-      "title": "Raundi i parë i bisedimeve midis Hamasit dhe ndërmjetësit përfundoi në një atmosferë pozitive, sipas mediave egjiptiane",
-      "link": "https://www.balkanweb.com/raundi-i-pare-i-bisedimeve-midis-hamasit-dhe-ndermjetesit-perfundoi-ne-nje-atmosfere-pozitive-sipas-mediave-egjiptiane/",
-      "description": "Raundi i parë i bisedimeve midis Hamasit dhe ndërmjetësve – Egjiptit, Katarit, SHBA-së – përfundoi në një “atmosferë pozitive”, raportuan mediat shtetërore egjiptiane herët sot. Sipas Al Qahera News, një rrjet televiziv që konsiderohet i afërt me inteligjencën egjiptiane, bisedimet pritet të vazhdojnë sot në Sharm el-Sheikh, përsëri midis Hamasit dhe ndërmjetësve. Një delegacion izraelit […]",
-      "published": "Mon, 06 Oct 2025 23:45:45 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820774",
-      "fetched_at": "2025-10-07T01:17:59.360311",
-      "ai_summary": "Raundi i parë i bisedimeve midis Hamasit dhe ndërmjetësve – Egjiptit, Katarit, SHBA-së – përfundoi në një “atmosferë pozitive”, raportuan mediat shtetërore egjiptiane herët sot. Sipas Al Qahera News, ..."
-    },
-    {
-      "title": "Trump përshëndet përpjekjet e Erdoganit për planin e armëpushimit në Gaza",
-      "link": "https://www.balkanweb.com/trump-pershendet-perpjekjet-e-erdoganit-per-planin-e-armepushimit-ne-gaza/",
-      "description": "Presidenti i SHBA-së, Donald Trump, bëri deklarata të jashtëzakonshme për gazetarët në Zyrën Ovale në lidhje me planin e armëpushimit në Gaza . “Fola me Presidentin e Turqisë, Rexhep Tajip Erdoğan . Ai është një person i mrekullueshëm dhe shumë i fortë. Ai po bën një përpjekje të madhe që kjo marrëveshje të ndodhë në […]",
-      "published": "Mon, 06 Oct 2025 23:30:09 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820756",
-      "fetched_at": "2025-10-07T01:17:59.360404",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, bëri deklarata të jashtëzakonshme për gazetarët në Zyrën Ovale në lidhje me planin e armëpushimit në Gaza . “Fola me Presidentin e Turqisë, Rexhep Tajip Erdoğan . A..."
-    },
-    {
-      "title": "Presidenti i SHBA-së do të presë homologun finlandez në Shtëpinë e Bardhë",
-      "link": "https://www.balkanweb.com/presidenti-i-shba-se-do-te-prese-homologun-finlandez-ne-shtepine-e-bardhe/",
-      "description": "Presidenti i SHBA-së, Donald Trump, do të presë homologun e tij finlandez, Alexander Stubb, në Shtëpinë e Bardhë më 9 tetor. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Levitt, e tha këtë në një konferencë për shtyp. Vërehet se Presidenti i Finlandës do të zhvillojë një vizitë pune në Shtetet e Bashkuara. Sipas Levitt, […]",
-      "published": "Mon, 06 Oct 2025 23:00:17 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820729",
-      "fetched_at": "2025-10-07T01:17:59.360486",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, do të presë homologun e tij finlandez, Alexander Stubb, në Shtëpinë e Bardhë më 9 tetor. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Levitt, e tha këtë në n..."
-    },
-    {
-      "title": "Trump: Bisedimet për Gazën po shkojnë shumë mirë",
-      "link": "https://www.balkanweb.com/trump-bisedimet-per-gazen-po-shkojne-shume-mire/",
-      "description": "Presidenti i SHBA-së, Donald Trump, ka deklaruar se negociatat për një zgjidhje në Rripin e Gazës po shkojnë shumë mirë. Trump e tha këtë gjatë një fjalimi në Shtëpinë e Bardhë. “Mendoj se gjërat po shkojnë shumë mirë. Lëvizja palestineze Hamas po arrin një marrëveshje për çështje shumë të rëndësishme”, theksoi udhëheqësi amerikan. Trump tha […]",
-      "published": "Mon, 06 Oct 2025 22:30:55 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820736",
-      "fetched_at": "2025-10-07T01:17:59.360562",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka deklaruar se negociatat për një zgjidhje në Rripin e Gazës po shkojnë shumë mirë. Trump e tha këtë gjatë një fjalimi në Shtëpinë e Bardhë. “Mendoj se gjërat po s..."
-    },
-    {
-      "title": "Studimet zbulojnë se një ushtrim ndihmon kundër pagjumësisë - mjafton ta bëni vetëm dy herë në javë",
-      "link": "https://telegrafi.com/studimet-zbulojne-se-nje-ushtrim-ndihmon-kunder-pagjumesise-mjafton-ta-beni-vetem-dy-here-ne-jave/",
-      "description": "Pagjumësia është një nga çrregullimet më të shpeshta të gjumit dhe mund të jetë e përkohshme ose kronikeNdërsa vështirësitë e herëpashershme me gjumin zakonisht shkaktohen nga stresi, ndryshimet e ritmit jetësor apo problemet e përkohshme shëndetësore, pagjumësia e vazhdueshme është një problem më serioz që ndikon në cilësinë e jetës dhe përqendrimin.Në treg ekzistojnë shumë suplemente kundër pagjumësisë, por ekspertët theksojnë se nuk ka prova të forta që ato funksionojnë. Për këtë arsye, gjithnjë e më shpesh rekomandohet një zgjidhje më natyrale: aktiviteti fizik. Por cila lloj ushtrimi ndihmon më shumë?Ushtrimi më i mirë për gjuminNjë analizë e re, e botuar në revistën shkencore Sleep and Biological Rhythms, përfshiu 30 studime nga 13 vende me mbi 2.000 pjesëmarrës.Rezultatet treguan se joga me intensitet të lartë është ushtrimi më efektiv për përmirësimin e cilësisë së gjumit tek personat që vuajnë nga çrregullimet e gjumit, raporton Real Simple.Sipas studiuesve, sekreti qëndron në frymëmarrjen e thellë dhe të kontrolluar, që është thelbësore në jogë: ajo qetëson sistemin nervor, ngadalëson rrahjet e zemrës dhe ul presionin e gjakut, duke përgatitur trupin për pushim.Për më tepër, joga ndikon edhe në aktivitetin e trurit, duke nxitur prodhimin e valëve delta, të cilat lidhen me gjumin e thellë dhe rigjenerues, transmeton Telegrafi. Sa shpesh duhet praktikuar joga me intensitet të lartë?Rezultatet tregojnë se dy herë në javë është ritmi ideal.Edhe pse mund të duket logjike që “më shumë ushtrime” do të sjellin “më shumë gjumë”, shkencëtarët theksojnë se balanca është çelësi: mjaftueshëm aktivitet për të nxitur relaksin, por jo aq shumë sa të shkaktojë mbingarkesë.Një studim i publikuar në Frontiers in Psychology (2021) vërtetoi se stërvitjet e tepërta mund të shkaktojnë hiperaktivizim, një nga shkaqet e pagjumësisë, kur trupi mbetet “tepër i ngacmuar” për t’u qetësuar.Joga me intensitet të lartë, nuk ka të bëjë me shpejtësi apo forcë të tepërt, por me lidhjen midis lëvizjes dinamike, frymëmarrjes ritmike dhe aktivizimit të plotë fizik e mendor. Sa duhet të zgjasë seanca?Një nga zbulimet më interesante të analizës është se vetëm 30 minuta joga me intensitet të lartë janë të mjaftueshme për përmirësimin e gjumit. Ky përfundim përgënjeshtron studimet e mëparshme që rekomandonin 50–60 minuta.Sipas autorëve, kjo lidhet me nivelin e kortizolit, hormonit të stresit, i cili qëndron i lartë gjatë stërvitjeve të gjata dhe mund ta pengojë procesin e relaksimit.Në përputhje me kërkimet ekzistuese, studiuesit theksojnë se praktikimi i jogës për 8 deri në 10 javë është periudha optimale për të vërejtur përmirësime të dukshme në cilësinë e gjumit. Në përgjithësi, rreth 10 javë janë të nevojshme që një sjellje e re të kthehet në zakon të qëndrueshëm. /Telegrafi/",
-      "published": "Mon, 06 Oct 2025 22:25:13 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/studimet-zbulojne-se-nje-ushtrim-ndihmon-kunder-pagjumesise-mjafton-ta-beni-vetem-dy-here-ne-jave/",
-      "fetched_at": "2025-10-07T01:18:02.339344",
-      "ai_summary": "Pagjumësia është një nga çrregullimet më të shpeshta të gjumit dhe mund të jetë e përkohshme ose kronikeNdërsa vështirësitë e herëpashershme me gjumin zakonisht shkaktohen nga stresi, ndryshimet e rit..."
-    },
-    {
-      "title": "U vra pasi dha vendimin kundër familjes Shkambi, kjo është prona që “i mori” jetën gjyqtarit Astrit Kalaja",
-      "link": "https://telegrafi.com/u-vra-pasi-dha-vendimin-kunder-familjes-shkambi-kjo-eshte-prona-qe-i-mori-jeten-gjyqtarit-astrit-kalaja/",
-      "description": "Një ngjarje e rëndë ka ndodhur këtë pasdite në Gjykatën e Apelit, ku gjyqtari Astrit Kalaja u ekzekutua me armë zjarri brenda sallës së gjyqit.Autori i vrasjes së gjyqtarit të Apelit të Tiranës, është Elvis Shkambi, i cili u fut në ambientet e sallës së gjyqit me armën me vete, e cila nuk u pikas as nga detektori metalik, dhe as nga kontrolli fizik. 30-vjeçari më pas është kthyer nga kundërshtarët e tij në proces Ervis dhe Rakip Kurtaj duke hapur zjarr edhe në drejtim të tyre. Të dy mbetën të plagosur dhe u përcollën me urgjencë drejt spitalit ku ndodhen në gjendje të stabilizuar.Para bluve 30-vjeçari ka qëndruar i qetë dhe i pa penduar duke pranuar autorësinë e krimit të rëndë me pretendimin se reagoi ndaj padrejtësisë së kryer. Sipas tij familja e kishte trashëguar atë pronë e cila në komunizëm u shtetëzua dhe bashkia ua ka kaluar dhjetëra familjeve. Prona për të cilën bëhet fjalë, është godina që shihni në video, ku stresohen 31 familje në nevojë, me vendim të bashkisë, si pronë shtetërore. - YouTube www.youtube.com",
-      "published": "Mon, 06 Oct 2025 22:02:41 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/u-vra-pasi-dha-vendimin-kunder-familjes-shkambi-kjo-eshte-prona-qe-i-mori-jeten-gjyqtarit-astrit-kalaja/",
-      "fetched_at": "2025-10-07T01:18:02.340150",
-      "ai_summary": "Një ngjarje e rëndë ka ndodhur këtë pasdite në Gjykatën e Apelit, ku gjyqtari Astrit Kalaja u ekzekutua me armë zjarri brenda sallës së gjyqit.Autori i vrasjes së gjyqtarit të Apelit të Tiranës, është..."
+      "guid": "https://www.balkanweb.com/?p=2820762",
+      "fetched_at": "2025-10-07T02:56:26.502559",
+      "ai_summary": "Presidenti rus Vladimir Putin po përdor metodën e vjetër – “përça dhe sundo”. Sipas byrosë evropiane të Raportit , kjo u deklarua nga Presidentja e Komisionit Evropian (KE), Ursula von der Leyen, në n..."
     }
   ],
-  "total_articles": 10,
+  "total_articles": 4,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
