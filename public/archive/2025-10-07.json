@@ -1,6 +1,6 @@
 {
   "date": "2025-10-07",
-  "timestamp": "2025-10-07T02:56:32.010082",
+  "timestamp": "2025-10-07T04:21:33.698437",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,52 +9,52 @@
   },
   "articles": [
     {
-      "title": "Greta: Më rrahën dhe më detyruan të puthja flamurin izraelit",
-      "link": "https://www.balkanweb.com/greta-me-rrahen-dhe-me-detyruan-te-puthja-flamurin-izraelit/",
-      "description": "Aktivistja suedeze për klimën, Greta Thunberg, foli publikisht për herë të parë të hënën pasi u lirua nga një burg izraelit, ku tha se ishte rrahur dhe detyruar të puthte flamurin izraelit. Thunberg ishte midis 171 personave të deportuar nga autoritetet izraelite pasi u ndaluan për pjesëmarrje në një flotilje ndihmash me destinacion Gazën. Grupi […]",
-      "published": "Tue, 07 Oct 2025 02:45:30 +0000",
+      "title": "Trump për Greta Thunberg pas deportimit të saj nga Izraeli: “Ajo duhet të vizitohet nga një mjek, është e çmendur”",
+      "link": "https://www.balkanweb.com/trump-per-greta-thunberg-pas-deportimit-te-saj-nga-izraeli-ajo-duhet-te-vizitohet-nga-nje-mjek-eshte-e-cmendur/",
+      "description": "Presidenti i SHBA-së, Donald Trump, u pyet nga gazetarët në Zyrën Ovale në lidhje me deportimin e Greta Thunberg dhe aktivistëve të tjerë pro-palestinezë që u përpoqën të thyenin bllokadën detare të Gazës nga Izraeli. “Ajo është thjesht një shkaktare problemesh”, tha Trump, duke iu referuar aktivistes suedeze. “Do të thuash që ajo nuk shqetësohet […]",
+      "published": "Tue, 07 Oct 2025 04:00:44 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820783",
-      "fetched_at": "2025-10-07T02:56:26.502204",
-      "ai_summary": "Aktivistja suedeze për klimën, Greta Thunberg, foli publikisht për herë të parë të hënën pasi u lirua nga një burg izraelit, ku tha se ishte rrahur dhe detyruar të puthte flamurin izraelit. Thunberg i..."
+      "guid": "https://www.balkanweb.com/?p=2820780",
+      "fetched_at": "2025-10-07T04:21:28.238183",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, u pyet nga gazetarët në Zyrën Ovale në lidhje me deportimin e Greta Thunberg dhe aktivistëve të tjerë pro-palestinezë që u përpoqën të thyenin bllokadën detare të G..."
     },
     {
-      "title": "Sllovakia përgatit një paketë të re ndihme ushtarake për Ukrainën",
-      "link": "https://www.balkanweb.com/sllovakia-pergatit-nje-pakete-te-re-ndihme-ushtarake-per-ukrainen/",
-      "description": "Sllovakia po përgatit një paketë të re mbështetjeje ushtarake për Ukrainën, e cila përfshin ndihmë në inxhinieri dhe çminim. Ministri Sllovak i Mbrojtjes Robert Kalinak e deklaroi këtë gjatë fjalimit të tij hapës në Forumin e Tretë Ndërkombëtar të Industrisë së Mbrojtjes (DFNC3) në Kiev. “Kam kënaqësinë të njoftoj se unë dhe Ministri Šmygall sapo […]",
-      "published": "Tue, 07 Oct 2025 02:30:36 +0000",
+      "title": "Shefi i OKB-së: Plani i armëpushimit i Trumpit ‘një mundësi’ për t’i dhënë fund vuajtjeve të banorëve të Gazës",
+      "link": "https://www.balkanweb.com/shefi-i-okb-se-plani-i-armepushimit-i-trumpit-nje-mundesi-per-ti-dhene-fund-vuajtjeve-te-banoreve-te-gazes/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, tha të hënën se një propozim i kohëve të fundit për armëpushim në Gaza nga Presidenti i SHBA-së, Donald Trump, “paraqet një mundësi që duhet shfrytëzuar për t’i dhënë fund këtij konflikti tragjik”. Duke shënuar përvjetorin e dytë të luftës së Izraelit në Rripin e Gazës, Guterres, në […]",
+      "published": "Tue, 07 Oct 2025 03:45:24 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820767",
-      "fetched_at": "2025-10-07T02:56:26.502365",
-      "ai_summary": "Sllovakia po përgatit një paketë të re mbështetjeje ushtarake për Ukrainën, e cila përfshin ndihmë në inxhinieri dhe çminim. Ministri Sllovak i Mbrojtjes Robert Kalinak e deklaroi këtë gjatë fjalimit ..."
+      "guid": "https://www.balkanweb.com/?p=2820752",
+      "fetched_at": "2025-10-07T04:21:28.238340",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, tha të hënën se një propozim i kohëve të fundit për armëpushim në Gaza nga Presidenti i SHBA-së, Donald Trump, “paraqet një mundësi që duhet shfryt..."
     },
     {
-      "title": "Trump: Hamasi ‘po pajtohet me gjëra shumë të rëndësishme’",
-      "link": "https://www.balkanweb.com/trump-hamasi-po-pajtohet-me-gjera-shume-te-rendesishme/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të hënën se ishte “mjaft i sigurt” se një marrëveshje paqeje në Gaza ishte e mundur dhe tha se Hamasi po binte dakord për çështje “shumë të rëndësishme” ndërsa fillonin bisedimet me Izraelin. “Kam vija të kuqe, nëse disa gjëra nuk përmbushen, ne nuk do ta bëjmë”, u tha […]",
-      "published": "Tue, 07 Oct 2025 02:00:23 +0000",
+      "title": "Merz: Gjermania mund të bojkotojë Eurovision 2026 nëse Izraeli përjashtohet",
+      "link": "https://www.balkanweb.com/merz-gjermania-mund-te-bojkotoje-eurovision-2026-nese-izraeli-perjashtohet/",
+      "description": "Gjermania mund të tërhiqet nga Festivali i Këngës në Eurovision i vitit të ardhshëm nëse Izraeli përjashtohet, sipas kancelarit të saj, Friedrich Merz . “Do ta mbështesja këtë. Mendoj se është skandal që kjo po diskutohet fare. Izraeli ka një vend atje”, tha Merz të dielën duke folur për bojkotimin e eventit nëse Izraeli përjashtohet. […]",
+      "published": "Tue, 07 Oct 2025 03:30:55 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820745",
-      "fetched_at": "2025-10-07T02:56:26.502454",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të hënën se ishte “mjaft i sigurt” se një marrëveshje paqeje në Gaza ishte e mundur dhe tha se Hamasi po binte dakord për çështje “shumë të rëndësishme” ndërsa ..."
+      "guid": "https://www.balkanweb.com/?p=2820771",
+      "fetched_at": "2025-10-07T04:21:28.238438",
+      "ai_summary": "Gjermania mund të tërhiqet nga Festivali i Këngës në Eurovision i vitit të ardhshëm nëse Izraeli përjashtohet, sipas kancelarit të saj, Friedrich Merz . “Do ta mbështesja këtë. Mendoj se është skandal..."
     },
     {
-      "title": "Presidentja e KE-së: Evropa ka nevojë për unitet për të kapërcyer sfidat",
-      "link": "https://www.balkanweb.com/presidentja-e-ke-se-evropa-ka-nevoje-per-unitet-per-te-kapercyer-sfidat/",
-      "description": "Presidenti rus Vladimir Putin po përdor metodën e vjetër – “përça dhe sundo”. Sipas byrosë evropiane të Raportit , kjo u deklarua nga Presidentja e Komisionit Evropian (KE), Ursula von der Leyen, në një takim parlamentar. Eventi shqyrtoi dy vota mosbesimi kundër KE-së. Ursula von der Leyen ka bërë edhe një herë thirrje për unitet […]",
-      "published": "Tue, 07 Oct 2025 01:30:53 +0000",
+      "title": "Sondazhet në Francë tregojnë se shumica e të anketuarve mbështesin dorëheqjen e Macron",
+      "link": "https://www.balkanweb.com/sondazhet-ne-france-tregojne-se-shumica-e-te-anketuarve-mbeshtesin-doreheqjen-e-macron/",
+      "description": "Shumica e francezëve mbështesin dorëzimin e parakohshëm të pushtetit nga Presidenti francez Emmanuel Macron në mes të krizës së thellë politike në vend. Kjo u pasqyrua në disa sondazhe të opinionit publik të publikuara në median franceze. Kështu, 73% e të anketuarve nga Toluna-Harris Interactive thanë se mbështesnin një hap të tillë nga kreu i […]",
+      "published": "Tue, 07 Oct 2025 03:00:16 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2820762",
-      "fetched_at": "2025-10-07T02:56:26.502559",
-      "ai_summary": "Presidenti rus Vladimir Putin po përdor metodën e vjetër – “përça dhe sundo”. Sipas byrosë evropiane të Raportit , kjo u deklarua nga Presidentja e Komisionit Evropian (KE), Ursula von der Leyen, në n..."
+      "guid": "https://www.balkanweb.com/?p=2820748",
+      "fetched_at": "2025-10-07T04:21:28.238523",
+      "ai_summary": "Shumica e francezëve mbështesin dorëzimin e parakohshëm të pushtetit nga Presidenti francez Emmanuel Macron në mes të krizës së thellë politike në vend. Kjo u pasqyrua në disa sondazhe të opinionit pu..."
     }
   ],
   "total_articles": 4,
