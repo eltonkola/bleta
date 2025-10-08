@@ -1,6 +1,6 @@
 {
   "date": "2025-10-08",
-  "timestamp": "2025-10-08T01:17:58.907021",
+  "timestamp": "2025-10-08T02:56:32.200565",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,137 +9,46 @@
   },
   "articles": [
     {
-      "title": "Putin: U vërtetua se kishim të drejtë ta sulmonim Ukrainën",
-      "link": "https://www.koha.net/bote/putin-u-vertetua-se-kishim-te-drejte-ta-sulmonim-ukrainen",
-      "description": "Presidenti rus, Vladimir Putin, deklaroi se dëshira e popullsisë së Donbasit dhe Novorosisë për të lidhur të ardhmen e tyre me Rusinë ka treguar se vendimet e marra në shkurt të vitit 2022 për ta sulmuar Ukrainën ishin të sakta.Ai bëri këto deklarata gjatë hapjes...",
-      "published": "",
-      "source": "Koha.net",
-      "source_url": "https://www.koha.net/rss/",
-      "language": "sq",
-      "guid": "https://www.koha.net/469678",
-      "fetched_at": "2025-10-08T01:17:50.645511",
-      "ai_summary": "Presidenti rus, Vladimir Putin, deklaroi se dëshira e popullsisë së Donbasit dhe Novorosisë për të lidhur të ardhmen e tyre me Rusinë ka treguar se vendimet e marra në shkurt të vitit 2022 për ta sulm..."
-    },
-    {
-      "title": "Dorëheqja e Le Cornuin do t’i kushtojë Francës 15 miliardë euro",
-      "link": "https://www.balkanweb.com/doreheqja-e-le-cornuin-do-ti-kushtoje-frances-15-miliarde-euro/",
-      "description": "Kriza politike që filloi në Francë në qershor të vitit të kaluar dhe u thellua me dorëheqjen e kryeministrit Sebastien Le Corneille do t’i kushtojë vendit 15 miliardë euro. Kjo u raportua nga agjencia France Presse, duke cituar OFCE. “Sipas të dhënave të OFCE-së që vlerësojnë pasojat e pasigurisë që rezulton, kriza politike që filloi […]",
-      "published": "Wed, 08 Oct 2025 01:00:09 +0000",
+      "title": "Kalimet e paligjshme të kufirit SHBA-Meksikë kanë arritur nivelin më të ulët në 50 vjet",
+      "link": "https://www.balkanweb.com/kalimet-e-paligjshme-te-kufirit-shba-meksike-kane-arritur-nivelin-me-te-ulet-ne-50-vjet/",
+      "description": "Kalimet e paligjshme në kufirin SHBA – Meksikë kanë arritur nivelin e tyre më të ulët në më shumë se gjysmë shekulli, sipas të dhënave federale të marra nga CBS News. Në vitin fiskal 2025, i cili përfshinte katër muaj të administratës së ish-Presidentit Joe Biden, agjentët e Patrullës Kufitare të SHBA-së ndaluan 238,000 migrantë […]",
+      "published": "Wed, 08 Oct 2025 02:30:26 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821598",
-      "fetched_at": "2025-10-08T01:17:53.187299",
-      "ai_summary": "Kriza politike që filloi në Francë në qershor të vitit të kaluar dhe u thellua me dorëheqjen e kryeministrit Sebastien Le Corneille do t’i kushtojë vendit 15 miliardë euro. Kjo u raportua nga agjencia..."
+      "guid": "https://www.balkanweb.com/?p=2821624",
+      "fetched_at": "2025-10-08T02:56:26.784212",
+      "ai_summary": "Kalimet e paligjshme në kufirin SHBA – Meksikë kanë arritur nivelin e tyre më të ulët në më shumë se gjysmë shekulli, sipas të dhënave federale të marra nga CBS News. Në vitin fiskal 2025, i cili përf..."
     },
     {
-      "title": "Trump: Ekziston një “shans real” për një marrëveshje paqeje në Gaza",
-      "link": "https://www.balkanweb.com/trump-ekziston-nje-shans-real-per-nje-marreveshje-paqeje-ne-gaza/",
-      "description": "Presidenti Donald Trump shprehu optimizëm të martën në lidhje me progresin drejt një marrëveshjeje për Gazën dhe tha se një ekip amerikan sapo është larguar për të marrë pjesë në negociata. Duke folur me gazetarët në Zyrën Ovale , Trump tha: “Mendoj se ekziston mundësia që të kemi paqe në Lindjen e Mesme” përtej Gazës […]",
-      "published": "Wed, 08 Oct 2025 00:30:43 +0000",
+      "title": "10 të plagosur, 4 të zhdukur pas shembjes së një ndërtese në Madrid",
+      "link": "https://www.balkanweb.com/10-te-plagosur-4-te-zhdukur-pas-shembjes-se-nje-ndertese-ne-madrid/",
+      "description": "Katër persona rezultojnë të zhdukur dhe të paktën dhjetë të tjerë u plagosën në Madrid të Spanjës , të martën, kur një ndërtesë u shemb pjesërisht gjatë punimeve ndërtimore. Sipas autoriteteve lokale, incidenti ndodhi pranë Plaza Mayor, një shesh qendror në kryeqytetin spanjoll. Vendndodhja u rrethua dhe ndërtesat fqinje u evakuuan, ndërsa u vendosën edhe […]",
+      "published": "Wed, 08 Oct 2025 02:00:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821614",
-      "fetched_at": "2025-10-08T01:17:53.187460",
-      "ai_summary": "Presidenti Donald Trump shprehu optimizëm të martën në lidhje me progresin drejt një marrëveshjeje për Gazën dhe tha se një ekip amerikan sapo është larguar për të marrë pjesë në negociata. Duke folur..."
+      "guid": "https://www.balkanweb.com/?p=2821602",
+      "fetched_at": "2025-10-08T02:56:26.784358",
+      "ai_summary": "Katër persona rezultojnë të zhdukur dhe të paktën dhjetë të tjerë u plagosën në Madrid të Spanjës , të martën, kur një ndërtesë u shemb pjesërisht gjatë punimeve ndërtimore. Sipas autoriteteve lokale,..."
     },
     {
-      "title": "Araqchi: Nëse Izraeli nuk do të kishte ndërhyrë, Teherani dhe Uashingtoni do të kishin nënshkruar një marrëveshje bërthamore",
-      "link": "https://www.balkanweb.com/araqchi-nese-izraeli-nuk-do-te-kishte-nderhyre-teherani-dhe-uashingtoni-do-te-kishin-nenshkruar-nje-marreveshje-berthamore/",
-      "description": "Nëse Izraeli nuk do të kishte ndërhyrë, Teherani dhe Uashingtoni do të kishin nënshkruar një marrëveshje bërthamore. Ministri i Jashtëm iranian, Abbas Araqchi, shkroi për këtë në rrjetet sociale. “Më 23 maj, duke hyrë në raundin e 5-të të bisedimeve, shkrova: ‘Zero armë bërthamore = kemi një marrëveshje. Zero pasurim = nuk kemi asnjë marrëveshje. […]",
-      "published": "Wed, 08 Oct 2025 00:00:56 +0000",
+      "title": "Trump: Disa punonjës të pezulluar nga puna mund të mos i marrin pagat e tyre",
+      "link": "https://www.balkanweb.com/trump-disa-punonjes-te-pezulluar-nga-puna-mund-te-mos-i-marrin-pagat-e-tyre/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të martën se disa punonjës federalë të pezulluar nga puna mund të mos i marrin pagat e prapambetura sapo qeveria të rihapet, pas kërcënimeve të mëparshme për të pushuar nga puna punonjësit federalë gjatë mbylljes. “Do të thoja se varet nga kush po flasim. Mund t’ju them këtë, demokratët […]",
+      "published": "Wed, 08 Oct 2025 01:30:59 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821590",
-      "fetched_at": "2025-10-08T01:17:53.187552",
-      "ai_summary": "Nëse Izraeli nuk do të kishte ndërhyrë, Teherani dhe Uashingtoni do të kishin nënshkruar një marrëveshje bërthamore. Ministri i Jashtëm iranian, Abbas Araqchi, shkroi për këtë në rrjetet sociale. “Më ..."
-    },
-    {
-      "title": "Putin: Rusia ka pushtuar gati 5,000 km katrorë në Ukrainë këtë vit",
-      "link": "https://www.balkanweb.com/putin-rusia-ka-pushtuar-gati-5000-km-katrore-ne-ukraine-kete-vit/",
-      "description": "Presidenti rus Vladimir Putin tha të martën se forcat ruse kishin pushtuar pothuajse 5,000 km katrorë tokë në Ukrainë në vitin 2025 dhe se Moska ruajti iniciativën e plotë strategjike në fushën e betejës. Putin, duke iu drejtuar një takimi me komandantët e lartë ushtarakë rusë, tha se forcat ukrainase po tërhiqeshin në të gjithë […]",
-      "published": "Tue, 07 Oct 2025 23:30:27 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821608",
-      "fetched_at": "2025-10-08T01:17:53.187643",
-      "ai_summary": "Presidenti rus Vladimir Putin tha të martën se forcat ruse kishin pushtuar pothuajse 5,000 km katrorë tokë në Ukrainë në vitin 2025 dhe se Moska ruajti iniciativën e plotë strategjike në fushën e bete..."
-    },
-    {
-      "title": "Tërmet me magnitudë 6.6 godet Papua Guinenë e Re, nuk ka paralajmërim për cunami",
-      "link": "https://www.balkanweb.com/termet-me-magnitude-6-6-godet-papua-guinene-e-re-nuk-ka-paralajmerim-per-cunami/",
-      "description": "Një tërmet me magnitudë 6.6 ballë goditi pranë Lae, qytetit të dytë më të madh në Papua Guinea e Re, të martën, tha Shërbimi Gjeologjik i SHBA-së (USGS). Zyrtarja e policisë së qytetit, Mildred Ongige, i tha Reuters në telefon se u ndje një tërmet “shumë i madh”. “Ndodhi disa minuta më parë, kështu që […]",
-      "published": "Tue, 07 Oct 2025 23:20:25 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821637",
-      "fetched_at": "2025-10-08T01:17:53.187720",
-      "ai_summary": "Një tërmet me magnitudë 6.6 ballë goditi pranë Lae, qytetit të dytë më të madh në Papua Guinea e Re, të martën, tha Shërbimi Gjeologjik i SHBA-së (USGS). Zyrtarja e policisë së qytetit, Mildred Ongige..."
-    },
-    {
-      "title": "22 persona u arrestuan në lidhje me trazirat në Tbilisi",
-      "link": "https://www.balkanweb.com/22-persona-te-arrestuar-ne-lidhje-me-trazirat-ne-tbilisi/",
-      "description": "Në Gjeorgji, 22 persona u arrestuan në lidhje me trazirat që ndodhën në Tbilisi më 4 tetor. Kjo u deklarua nga Zëvendës Ministri i Punëve të Brendshme të Gjeorgjisë Alexander Darakhvelidze. Sipas tij, kërkimi për tre persona të tjerë të identifikuar është duke vazhduar. “Një hetim është duke u zhvilluar sipas Nenit 4 të Kodit […]",
-      "published": "Tue, 07 Oct 2025 23:00:27 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821576",
-      "fetched_at": "2025-10-08T01:17:53.187807",
-      "ai_summary": "Në Gjeorgji, 22 persona u arrestuan në lidhje me trazirat që ndodhën në Tbilisi më 4 tetor. Kjo u deklarua nga Zëvendës Ministri i Punëve të Brendshme të Gjeorgjisë Alexander Darakhvelidze. Sipas tij,..."
-    },
-    {
-      "title": "Meloni denoncohet në GJND për bashkëpunim në gjenocidin në Gaza",
-      "link": "https://www.balkanweb.com/meloni-denoncohet-ne-gjnd-per-bashkepunim-ne-gjenocidin-ne-gaza/",
-      "description": "Kryeministrja italiane Giorgia Meloni tha të martën se ajo dhe dy nga ministrat e saj ishin raportuar në Gjykatën Ndërkombëtare Penale për bashkëpunim të dyshuar në gjenocid në lidhje me ofensivën izraelite në Gaza. Duke folur në një intervistë me transmetuesin shtetëror RAI, Meloni tha se Ministri i Mbrojtjes Guido Crosetto dhe Ministri i Jashtëm […]",
-      "published": "Tue, 07 Oct 2025 22:45:38 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821605",
-      "fetched_at": "2025-10-08T01:17:53.187887",
-      "ai_summary": "Kryeministrja italiane Giorgia Meloni tha të martën se ajo dhe dy nga ministrat e saj ishin raportuar në Gjykatën Ndërkombëtare Penale për bashkëpunim të dyshuar në gjenocid në lidhje me ofensivën izr..."
-    },
-    {
-      "title": "Armeni/ Përplaset një automjet me personel ushtarak, duke plagosur shtatë persona",
-      "link": "https://www.balkanweb.com/armeni-perplaset-nje-automjet-me-personel-ushtarak-duke-plagosur-shtate-persona/",
-      "description": "Një automjet UAZ që i përkiste Ministrisë së Mbrojtjes së Armenisë u përfshi në një aksident. Sipas raportit, aksidenti ka ndodhur në autostradën Mehri-Sisian. Gjashtë ushtarakë dhe një infermiere u plagosën në incident. Njëri prej ushtarakëve është në gjendje të rëndë. Detajet nuk bëhen të ditura. Shkaku i aksidentit është i panjohur.",
-      "published": "Tue, 07 Oct 2025 22:30:31 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2821593",
-      "fetched_at": "2025-10-08T01:17:53.187964",
-      "ai_summary": "Një automjet UAZ që i përkiste Ministrisë së Mbrojtjes së Armenisë u përfshi në një aksident. Sipas raportit, aksidenti ka ndodhur në autostradën Mehri-Sisian. Gjashtë ushtarakë dhe një infermiere u p..."
-    },
-    {
-      "title": "Telegrafi serb ia bën profilin Xhulit pas deklaratës në T7 se do të shkojë me flamur të UÇK’së në Leskovc, e quan “premtim brutal”",
-      "link": "https://www.gazetaexpress.com/telegrafi-serb-ia-ben-profilin-xhulit-pas-deklarates-ne-t7-se-do-te-shkoje-me-flamur-te-uckse-ne-leskovc-e-quan-premtim-brutal/",
-      "description": "Deklarata e bërë nga Xhuliana Nura në emisionin “Favorit” në Televizionin T7 ka bërë jehonë të madhe në mediat serbe. Portali Telegraf.rs i ka kushtuar një artikull të gjatë modeles dhe influencueses nga Kosova, duke e quajtur “premtim brutal” paralajmërimin e saj se do të udhëtojë në Leskovc me flamurin e Ushtrisë Çlirimtare të Kosovës. Në artikullin e Telegrafit thuhet se “për ndeshjen vendimtare mes Serbisë dhe Shqipërisë ka interesim të madh në gjithë rajonin”, ndërsa theksohet se Xhuliana Nura, ish-pjesëmarrëse e Big Brother dhe modele e njohur, ka siguruar biletë për ndeshjen dhe ka dhënë “një premtim që ka ngritur tensionet në Serbi”. Media serbe kujton se deklarata e Nurës u bë në emisionin “Favorit” në T7, ku ajo tha se do të jetë në stadiumin e Leskovcit me flamurin e UÇK-së, pavarësisht rrezikut. “Do të jem në ndeshje kundër Serbisë me flamurin e UÇK-së. Kam pasaportë finlandeze, nuk më pengon askush, sepse kam njerëz atje”, është citimi që Telegraf.rs e ka përfshirë në artikullin e tij. Aty përmendet edhe një deklaratë që Nura e kishte dhënë më herët në \"Favorit\" për ndeshjen e Shqipërisë ndaj Serbisë të zhvilluar në qershor në Tiranë, ku kishte thënë se biletën ia kishte siguruar presidenti i Federatës Shqiptare të Futbollit, Armand Duka. The post Telegrafi serb ia bën profilin Xhulit pas deklaratës në T7 se do të shkojë me flamur të UÇK’së në Leskovc, e quan “premtim brutal” appeared first on Gazeta Express.",
-      "published": "Tue, 07 Oct 2025 22:35:20 +0000",
-      "source": "Gazeta Express",
-      "source_url": "https://www.gazetaexpress.com/feed/",
-      "language": "sq",
-      "guid": "https://www.gazetaexpress.com/?p=2899694",
-      "fetched_at": "2025-10-08T01:17:54.925767",
-      "ai_summary": "Deklarata e bërë nga Xhuliana Nura në emisionin “Favorit” në Televizionin T7 ka bërë jehonë të madhe në mediat serbe. Portali Telegraf.rs i ka kushtuar një artikull të gjatë modeles dhe influencueses ..."
+      "guid": "https://www.balkanweb.com/?p=2821617",
+      "fetched_at": "2025-10-08T02:56:26.784442",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të martën se disa punonjës federalë të pezulluar nga puna mund të mos i marrin pagat e prapambetura sapo qeveria të rihapet, pas kërcënimeve të mëparshme për të..."
     }
   ],
-  "total_articles": 10,
+  "total_articles": 3,
   "sources": [
-    "Koha.net",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Gazeta Express"
+    "BalkanWeb"
   ]
 }
