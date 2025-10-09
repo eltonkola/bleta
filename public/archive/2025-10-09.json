@@ -1,0 +1,158 @@
+{
+  "date": "2025-10-09",
+  "timestamp": "2025-10-09T01:18:53.785532",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Historike: Izraeli dhe Hamasi dakordohen për fazën e parë të planit të paqes",
+      "link": "https://www.koha.net/bote/lajmi-i-fundit-izraeli-dhe-hamasi-dakordohen-per-fazen-e-pare-te-planit-te-paqes",
+      "description": "Presidenti i SHBA-së, Donald Trump, ka njoftuar se \"Izraeli dhe Hamasi kanë nënshkruar Fazën e parë të Planit tonë të Paqes\".Kjo fazë përfshin lirimin e pengjeve dhe tërheqjen e trupave izraelite sipas dakordimit. “Kjo do të thotë që TË GJITHË pengjet do të lirohen shumë...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/469791",
+      "fetched_at": "2025-10-09T01:18:45.696508",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka njoftuar se \"Izraeli dhe Hamasi kanë nënshkruar Fazën e parë të Planit tonë të Paqes\".Kjo fazë përfshin lirimin e pengjeve dhe tërheqjen e trupave izraelite sipa..."
+    },
+    {
+      "title": "Lirohet shtetasi franko-gjerman i akuzuar për spiunazh në Iran",
+      "link": "https://www.balkanweb.com/lirohet-shtetasi-franko-gjerman-i-akuzuar-per-spiunazh-ne-iran/",
+      "description": "Një shtetas franko-gjerman i akuzuar për spiunazh në Iran është liruar. Ministri i Jashtëm Francez Jean-Noel Barrot shkroi për këtë në faqen e tij “X”. Ministri njoftoi se shtetasi 19-vjeçar franko-gjerman Lennart Monterlos ishte kthyer në atdheun e tij pasi u ndalua në Iran. Sipas raportimeve, ai po udhëtonte me biçikletë nga Evropa. Lennart Monterlos […]",
+      "published": "Thu, 09 Oct 2025 01:00:22 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822456",
+      "fetched_at": "2025-10-09T01:18:48.044877",
+      "ai_summary": "Një shtetas franko-gjerman i akuzuar për spiunazh në Iran është liruar. Ministri i Jashtëm Francez Jean-Noel Barrot shkroi për këtë në faqen e tij “X”. Ministri njoftoi se shtetasi 19-vjeçar franko-gj..."
+    },
+    {
+      "title": "Hamasi pranon marrëveshjen e armëpushimit në Gaza dhe do të lirojë pengjet e gjalla të shtunën",
+      "link": "https://www.balkanweb.com/hamasi-pranon-marreveshjen-e-armepushimit-ne-gaza-dhe-do-te-liroje-pengjet-e-gjalla-te-shtunen/",
+      "description": "Hamasi ka pranuar një marrëveshje armëpushimi në Rripin e Gazës, sipas burimeve në “rezistencën palestineze” që folën për median al-Mayadeen të lidhur me Hezbollahun. Sipas të njëjtave burime, marrëveshja pritet të nënshkruhet sot në Egjipt. Lideri i Hamasit, Khalil al-Hayya, u takua me kreun e inteligjencës egjiptiane, me qëllim finalizimin e një marrëveshjeje “historike” mbi […]",
+      "published": "Thu, 09 Oct 2025 00:30:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822500",
+      "fetched_at": "2025-10-09T01:18:48.045062",
+      "ai_summary": "Hamasi ka pranuar një marrëveshje armëpushimi në Rripin e Gazës, sipas burimeve në “rezistencën palestineze” që folën për median al-Mayadeen të lidhur me Hezbollahun. Sipas të njëjtave burime, marrëve..."
+    },
+    {
+      "title": "Rusia sulmon uzinën e përpunimit të qymyrit në Ukrainë",
+      "link": "https://www.balkanweb.com/rusia-sulmon-uzinen-e-perpunimit-te-qymyrit-ne-ukraine/",
+      "description": "Personeli ushtarak rus sulmoi një fabrikë përpunimi qymyri në pronësi të DTEK Energy në Ukrainë. Goditja shkaktoi zjarr, shkatërroi një pjesë të ndërtesës së fabrikës dhe dëmtoi pajisjet teknologjike. Personeli në detyrë është në strehimore dhe nuk pati viktima. Ky është sulmi i tretë në shkallë të gjerë ndaj uzinës në gjashtë javët e fundit: […]",
+      "published": "Thu, 09 Oct 2025 00:00:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822449",
+      "fetched_at": "2025-10-09T01:18:48.045173",
+      "ai_summary": "Personeli ushtarak rus sulmoi një fabrikë përpunimi qymyri në pronësi të DTEK Energy në Ukrainë. Goditja shkaktoi zjarr, shkatërroi një pjesë të ndërtesës së fabrikës dhe dëmtoi pajisjet teknologjike...."
+    },
+    {
+      "title": "Trump: Nënshkruhet faza e parë e marrëveshjes Izrael-Hamas",
+      "link": "https://www.balkanweb.com/trump-nenshkruhet-faza-e-pare-e-marreveshjes-izrael-hamas/",
+      "description": "Donald Trump njoftoi të mërkurën se Izraeli dhe Hamasi kanë miratuar fazën e parë të propozimit të paqes të SHBA-së për Gazën, i cili bën thirrje për lirimin e të gjithë pengjeve izraelite. “Jam shumë krenar të njoftoj se Izraeli dhe Hamasi kanë miratuar fazën e parë të planit tonë të paqes”, tha Trump nëpërmjet […]",
+      "published": "Wed, 08 Oct 2025 23:45:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822496",
+      "fetched_at": "2025-10-09T01:18:48.045255",
+      "ai_summary": "Donald Trump njoftoi të mërkurën se Izraeli dhe Hamasi kanë miratuar fazën e parë të propozimit të paqes të SHBA-së për Gazën, i cili bën thirrje për lirimin e të gjithë pengjeve izraelite. “Jam shumë..."
+    },
+    {
+      "title": "Rusia paralajmëron për reagim të ashpër nëse BE transferon asetet e ngrira në Ukrainë",
+      "link": "https://www.balkanweb.com/rusia-paralajmeron-per-reagim-te-ashper-nese-be-transferon-asetet-e-ngrira-ne-ukraine/",
+      "description": "Rusia do të ndërmarrë “masa shumë të ashpra hakmarrëse” nëse BE- ja vazhdon me planet për të transferuar asetet e ngrira ruse në Ukrainë, paralajmëroi të mërkurën zëdhënësja e Ministrisë së Jashtme Maria Zakharova . “Zyrtarët evropianë po përpiqen të përvetësojnë në mënyrë të paturpshme fondet ruse – sa më shumë, besojnë ata, aq më […]",
+      "published": "Wed, 08 Oct 2025 23:30:13 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822476",
+      "fetched_at": "2025-10-09T01:18:48.045341",
+      "ai_summary": "Rusia do të ndërmarrë “masa shumë të ashpra hakmarrëse” nëse BE- ja vazhdon me planet për të transferuar asetet e ngrira ruse në Ukrainë, paralajmëroi të mërkurën zëdhënësja e Ministrisë së Jashtme Ma..."
+    },
+    {
+      "title": "Numri i personave të arrestuar si pasojë e trazirave në Tbilisi ka arritur në 35",
+      "link": "https://www.balkanweb.com/numri-i-personave-te-arrestuar-si-pasoje-e-trazirave-ne-tbilisi-ka-arritur-ne-35/",
+      "description": "Agjencitë e zbatimit të ligjit në Gjeorgji deri më tani kanë arrestuar 35 persona në lidhje me ngjarjet që ndodhën në Tbilisi më 4 tetor. Këtë e deklaroi zëvendësministri i Punëve të Brendshme të Gjeorgjisë, Alexander Darakhvelidze, në një konferencë për shtyp. Sipas tij, midis të ndaluarve janë si organizatorët e tubimit ashtu edhe pjesëmarrësit […]",
+      "published": "Wed, 08 Oct 2025 23:00:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822444",
+      "fetched_at": "2025-10-09T01:18:48.045432",
+      "ai_summary": "Agjencitë e zbatimit të ligjit në Gjeorgji deri më tani kanë arrestuar 35 persona në lidhje me ngjarjet që ndodhën në Tbilisi më 4 tetor. Këtë e deklaroi zëvendësministri i Punëve të Brendshme të Gjeo..."
+    },
+    {
+      "title": "Trump: Autoritetet amerikane do të ndërmarrin veprime kundër atyre që financojnë lëvizjen Antifa",
+      "link": "https://www.balkanweb.com/trump-autoritetet-amerikane-do-te-ndermarrin-veprime-kunder-atyre-qe-financojne-levizjen-antifa/",
+      "description": "“Administrata e Uashingtonit synon të ndërmarrë veprime kundër atyre që financojnë lëvizjen antifashiste Antifa.” Presidenti i SHBA-së Donald Trump e bëri këtë deklaratë në një takim në Shtëpinë e Bardhë në lidhje me njohjen e lëvizjes Antifa si një organizatë terroriste nga administrata amerikane. “Ne do të ndërmarrim veprime kundër kriminelëve të Antifa-s dhe kujtdo […]",
+      "published": "Wed, 08 Oct 2025 22:50:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822472",
+      "fetched_at": "2025-10-09T01:18:48.045513",
+      "ai_summary": "“Administrata e Uashingtonit synon të ndërmarrë veprime kundër atyre që financojnë lëvizjen antifashiste Antifa.” Presidenti i SHBA-së Donald Trump e bëri këtë deklaratë në një takim në Shtëpinë e Bar..."
+    },
+    {
+      "title": "Maroku nënshkruan një marrëveshje për të forcuar mekanizmat për parandalimin dhe luftimin e korrupsionit pas protestave mbarëkombëtare",
+      "link": "https://www.balkanweb.com/maroku-nenshkruan-nje-marreveshje-per-te-forcuar-mekanizmat-per-parandalimin-dhe-luftimin-e-korrupsionit-pas-protestave-mbarekombetare/",
+      "description": "Autoritetet marokene kanë nënshkruar një marrëveshje për të forcuar mekanizmat për parandalimin dhe luftimin e korrupsionit pas protestave të fundit të udhëhequra nga të rinjtë që kërkojnë reforma dhe transparencë. Sipas një deklarate qeveritare, Autoriteti Kombëtar për Ndërgjegjësimin, Parandalimin dhe Luftën kundër Korrupsionit (INPPLC) nënshkroi marrëveshjen me Drejtorinë e Përgjithshme për Sigurinë Kombëtare (DGSN) dhe […]",
+      "published": "Wed, 08 Oct 2025 22:45:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822485",
+      "fetched_at": "2025-10-09T01:18:48.045606",
+      "ai_summary": "Autoritetet marokene kanë nënshkruar një marrëveshje për të forcuar mekanizmat për parandalimin dhe luftimin e korrupsionit pas protestave të fundit të udhëhequra nga të rinjtë që kërkojnë reforma dhe..."
+    },
+    {
+      "title": "Britania dënon pushtimin e territoreve gjeorgjiane",
+      "link": "https://www.balkanweb.com/britania-denon-pushtimin-e-territoreve-gjeorgjiane/",
+      "description": "Mbretëria e Bashkuar ka dënuar me forcë aktivitetet ushtarake të Rusisë në territoret e pushtuara të Gjeorgjisë. Ambasada Britanike në Gjeorgji lëshoi ​​një deklaratë në lidhje me këtë. Në deklaratën e ambasadës thuhej se Mbretëria e Bashkuar riafirmoi mbështetjen e saj për sovranitetin e Gjeorgjisë në takimin e Këshillit të të Drejtave të Njeriut të […]",
+      "published": "Wed, 08 Oct 2025 22:30:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822453",
+      "fetched_at": "2025-10-09T01:18:48.045686",
+      "ai_summary": "Mbretëria e Bashkuar ka dënuar me forcë aktivitetet ushtarake të Rusisë në territoret e pushtuara të Gjeorgjisë. Ambasada Britanike në Gjeorgji lëshoi ​​një deklaratë në lidhje me këtë. Në deklaratën ..."
+    },
+    {
+      "title": "Trump jep lajmin: Izraeli dhe Hamasi kanë rënë dakord për fazën e parë të planit të paqes në Gaza",
+      "link": "https://telegrafi.com/trump-jep-lajmin-izraeli-dhe-hamasi-kane-rene-dakord-per-fazen-e-pare-te-planit-te-paqes-ne-gaza/",
+      "description": "Donald Trump ka njoftuar se Izraeli dhe Hamasi kanë rënë dakord për fazën e parë të planit të paqes në Gaza.Presidenti amerikan ka thënë se \"kjo do të thotë që të gjithë pengjet do të lirohen shumë shpejt dhe Izraeli do të tërheqë trupat e tij në një vijë të rënë dakord si hapat e parë drejt një paqeje të qëndrueshme dhe të përjetshme\".Ai më pas shton se \"të gjitha palët do të trajtohen në mënyrë të drejtë\" përpara se të falënderojë ndërmjetësit dhe kombet e përfshira \"që punuan me ne për ta bërë të mundur këtë ngjarje historike dhe të paparë\".Dhe pas kësaj kanë ardhur reagimet e pare. Kryeministri i Katarit ka qenë ndër të parët që ka bërë një deklaratë mbi planin e paqes në Gaza.\"Ndërmjetësit njoftuan se sonte u arrit një marrëveshje mbi të gjitha kushtet dhe mekanizmat për zbatimin e fazës së parë të marrëveshjes së armëpushimit në Gaza\", ka bërë të ditur ai.Ai ka shtuar se ajo po \"çon në fund të luftës, lirimin e të paraburgosurve izraelitë dhe të burgosurve palestinezë dhe hyrjen e ndihmave\".Kryeministri thotë se detaje të mëtejshme do të publikohen më vonë.Ndërkohë edhe kryeministri izraelit Benjamin Netanyahu i është përgjigjur marrëveshjes me një deklaratë me një rresht duke iu referuar pengjeve izraelite në Gaza.\"Me ndihmën e Zotit, do t'i kthejmë të gjithë në shtëpi\", tha ai në një deklaratë të lëshuar nga zyra e shtypit e qeverisë izraelite.Në anën tjetër, Hamasi ka thënë se është pajtuar me propozimin \"me qëllimin e arritjes së një fundi të luftës shfarosëse kundër popullit tonë palestinez dhe tërheqjes së pushtuesit nga Rripi i Gazës\".Grupi militant më pas thekson: \"Ne i vlerësojmë shumë përpjekjet e vëllezërve tanë ndërmjetësues në Katar, Egjipt dhe Turqi. Ne gjithashtu i vlerësojmë përpjekjet e presidentit të SHBA-së, Donald Trump, i cili kërkon të sjellë një fund përfundimtar të luftës dhe një tërheqje të plotë të pushtimit nga Rripi i Gazës\".Hamasi më pas i ka bërë thirrje Trump dhe kombeve të tjera që \"ta detyrojnë qeverinë pushtuese të zbatojë plotësisht kërkesat e marrëveshjes dhe të mos e lejojë atë të shmangë ose vonojë zbatimin e asaj për të cilën është rënë dakord\". /Telegrafi/",
+      "published": "Wed, 08 Oct 2025 23:40:21 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/trump-jep-lajmin-izraeli-dhe-hamasi-kane-rene-dakord-per-fazen-e-pare-te-planit-te-paqes-ne-gaza/",
+      "fetched_at": "2025-10-09T01:18:50.920287",
+      "ai_summary": "Donald Trump ka njoftuar se Izraeli dhe Hamasi kanë rënë dakord për fazën e parë të planit të paqes në Gaza.Presidenti amerikan ka thënë se \"kjo do të thotë që të gjithë pengjet do të lirohen shumë sh..."
+    }
+  ],
+  "total_articles": 11,
+  "sources": [
+    "Koha.net",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
