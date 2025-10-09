@@ -1,6 +1,6 @@
 {
   "date": "2025-10-09",
-  "timestamp": "2025-10-09T02:58:43.029693",
+  "timestamp": "2025-10-09T04:21:33.579347",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,56 +9,69 @@
   },
   "articles": [
     {
-      "title": "Ekipi mjekësor kinez kryen transplantimin e parë të gishtërinjve në Sierra Leone",
-      "link": "https://www.balkanweb.com/ekipi-mjekesor-kinez-kryen-transplantimin-e-pare-te-gishterinjve-ne-sierra-leone/",
-      "description": "Grupi i 26-të i ekipit mjekësor kinez në Sierra Leone ka kryer operacionin e parë të riplantimit të gishtërinjve në vendin e Afrikës Perëndimore. Operacioni u zhvillua të premten pasi një elektricist vendas, Sallieu Sorious Yusifu Conteh, pësoi një amputim të rëndë të gishtit ndërsa punonte në një minierë në distriktin Port Loko në Provincën […]",
-      "published": "Thu, 09 Oct 2025 02:30:03 +0000",
+      "title": "Netanyahu dhe Trump përshëndesin ‘arritjen historike’ të marrëveshjes së Gazës",
+      "link": "https://www.balkanweb.com/netanyahu-dhe-trump-pershendesin-arritjen-historike-te-marreveshjes-se-gazes/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu foli me Presidentin e SHBA-së Donald Trump dhe të dy shkëmbyen urime për “arritjen historike” të arritjes së një marrëveshjeje që parashikon një armëpushim në Rripin e Gazës dhe lirimin e të gjithë pengjeve të mbetura në enklavën palestineze, njoftoi zyra e të parit. Deklarata e Netanyahut “Me miratimin e fazës […]",
+      "published": "Thu, 09 Oct 2025 04:00:16 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2822488",
-      "fetched_at": "2025-10-09T02:58:37.541411",
-      "ai_summary": "Grupi i 26-të i ekipit mjekësor kinez në Sierra Leone ka kryer operacionin e parë të riplantimit të gishtërinjve në vendin e Afrikës Perëndimore. Operacioni u zhvillua të premten pasi një elektricist ..."
+      "guid": "https://www.balkanweb.com/?p=2822508",
+      "fetched_at": "2025-10-09T04:21:28.243067",
+      "ai_summary": "Kryeministri izraelit Benjamin Netanyahu foli me Presidentin e SHBA-së Donald Trump dhe të dy shkëmbyen urime për “arritjen historike” të arritjes së një marrëveshjeje që parashikon një armëpushim në ..."
     },
     {
-      "title": "UNICEF paralajmëron se fëmijët e Gazës përballen me ‘vuajtje të paimagjinueshme’ pas 2 vitesh luftë",
-      "link": "https://www.balkanweb.com/unicef-paralajmeron-se-femijet-e-gazes-perballen-me-vuajtje-te-paimagjinueshme-pas-2-vitesh-lufte/",
-      "description": "Fondi i OKB -së për Fëmijë (UNICEF) paralajmëroi të mërkurën se fëmijët e Gazës kanë duruar “dy vjet luftë djallëzore”, me dhjetëra mijëra të vrarë, të gjymtuar ose të zhvendosur për shkak të bombardimeve të vazhdueshme izraelite dhe urisë në thellim . “Për më shumë se 700 ditë, fëmijët në Gaza janë vrarë, gjymtuar dhe […]",
-      "published": "Thu, 09 Oct 2025 02:00:04 +0000",
+      "title": "Trump: Të gjithë pengjet ka të ngjarë të lirohen të hënën",
+      "link": "https://www.balkanweb.com/trump-te-gjithe-pengjet-ka-te-ngjare-te-lirohen-te-henen/",
+      "description": "Presidenti i Shteteve të Bashkuara, Donald Trump, i tha Hannity të Fox News se pengjet e mbajtura në Gaza ka të ngjarë të lirohen të hënën, si pjesë e fazës së parë të marrëveshjes së armëpushimit midis Izraelit dhe Hamasit . “Pengjet do të lirohen – ndoshta koha jonë do të jetë e hëna… Tani […]",
+      "published": "Thu, 09 Oct 2025 03:50:10 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2822460",
-      "fetched_at": "2025-10-09T02:58:37.541558",
-      "ai_summary": "Fondi i OKB -së për Fëmijë (UNICEF) paralajmëroi të mërkurën se fëmijët e Gazës kanë duruar “dy vjet luftë djallëzore”, me dhjetëra mijëra të vrarë, të gjymtuar ose të zhvendosur për shkak të bombardi..."
+      "guid": "https://www.balkanweb.com/?p=2822514",
+      "fetched_at": "2025-10-09T04:21:28.243224",
+      "ai_summary": "Presidenti i Shteteve të Bashkuara, Donald Trump, i tha Hannity të Fox News se pengjet e mbajtura në Gaza ka të ngjarë të lirohen të hënën, si pjesë e fazës së parë të marrëveshjes së armëpushimit mid..."
     },
     {
-      "title": "Hamasi është gati të presë vëzhgues në Gaza",
-      "link": "https://www.balkanweb.com/hamasi-eshte-gati-te-prese-vezhgues-ne-gaza/",
-      "description": "Hamasi është gati të pranojë vendosjen e vëzhguesve të paarmatosur në Rripin e Gazës. Kjo u raportua nga kanali televiziv Sky News Arabia. Kjo përfshin vendosjen e vëzhguesve të paarmatosur, jo vetëm nga shtetet arabe ose islamike, por edhe nga vende të tjera që mund të jenë pjesë e një grupi ndërkombëtar për të monitoruar […]",
-      "published": "Thu, 09 Oct 2025 01:45:48 +0000",
+      "title": "Netanyahu: Qeveria do të mblidhet sot për të miratuar marrëveshjen për kthimin e të gjithë pengjeve",
+      "link": "https://www.balkanweb.com/netanyahu-qeveria-do-te-mblidhet-sot-per-te-miratuar-marreveshjen-per-kthimin-e-te-gjithe-pengjeve/",
+      "description": "Hamasi ra dakord të enjten herët për fazën e parë të planit amerikan për t’i dhënë fund luftës në Gaza , me kryeministrin izraelit Benjamin Netanyahu që e përshëndeti si një “ditë të madhe për Izraelin ” dhe tha se do të mblidhte qeverinë për të miratuar marrëveshjen. “Një ditë e madhe për Izraelin. Sot […]",
+      "published": "Thu, 09 Oct 2025 03:45:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2822479",
-      "fetched_at": "2025-10-09T02:58:37.541656",
-      "ai_summary": "Hamasi është gati të pranojë vendosjen e vëzhguesve të paarmatosur në Rripin e Gazës. Kjo u raportua nga kanali televiziv Sky News Arabia. Kjo përfshin vendosjen e vëzhguesve të paarmatosur, jo vetëm ..."
+      "guid": "https://www.balkanweb.com/?p=2822504",
+      "fetched_at": "2025-10-09T04:21:28.243319",
+      "ai_summary": "Hamasi ra dakord të enjten herët për fazën e parë të planit amerikan për t’i dhënë fund luftës në Gaza , me kryeministrin izraelit Benjamin Netanyahu që e përshëndeti si një “ditë të madhe për Izraeli..."
     },
     {
-      "title": "Somalia hedh poshtë ‘vendosmërisht’ akuzat për marrëveshje ‘sekrete’ deportimi me Suedinë",
-      "link": "https://www.balkanweb.com/somalia-hedh-poshte-vendosmerisht-akuzat-per-marreveshje-sekrete-deportimi-me-suedine/",
-      "description": "Somalia hodhi poshtë “vendosmërisht” të mërkurën se kishte një “marrëveshje sekrete” me Suedinë , duke përfshirë një marrëveshje të kushtëzuar për ndihmë zhvillimore mbi dëbimin e shtetasve somalezë, tha zyra e kryeministrit. “Somalia nuk ka asnjë marrëveshje sekrete ose të kushtëzuar me asnjë partner në lidhje me kthimin e shtetasve të saj ose ndarjen e […]",
-      "published": "Thu, 09 Oct 2025 01:30:30 +0000",
+      "title": "Banka Botërore do të vazhdojë financimin e projekteve të reja energjetike në Turqi",
+      "link": "https://www.balkanweb.com/banka-boterore-do-te-vazhdoje-financimin-e-projekteve-te-reja-energjetike-ne-turqi/",
+      "description": "Banka Botërore do të vazhdojë të mbështesë tranzicionin e energjisë së pastër të Turqisë me projekte të reja, pas nënshkrimit të një kredie prej 750 milionë dollarësh për të forcuar rrjetin e transmetimit të energjisë elektrike të vendit, tha Drejtori i Bankës Botërore për Vendin, Humberto Lopez. Lopez foli në kuadër të Forumit dhe Ekspozitës […]",
+      "published": "Thu, 09 Oct 2025 03:30:33 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2822482",
-      "fetched_at": "2025-10-09T02:58:37.541733",
-      "ai_summary": "Somalia hodhi poshtë “vendosmërisht” të mërkurën se kishte një “marrëveshje sekrete” me Suedinë , duke përfshirë një marrëveshje të kushtëzuar për ndihmë zhvillimore mbi dëbimin e shtetasve somalezë, ..."
+      "guid": "https://www.balkanweb.com/?p=2822493",
+      "fetched_at": "2025-10-09T04:21:28.243414",
+      "ai_summary": "Banka Botërore do të vazhdojë të mbështesë tranzicionin e energjisë së pastër të Turqisë me projekte të reja, pas nënshkrimit të një kredie prej 750 milionë dollarësh për të forcuar rrjetin e transmet..."
+    },
+    {
+      "title": "Le Pen e quan situatën politike në Francë një “spektakël”",
+      "link": "https://www.balkanweb.com/le-pen-e-quan-situaten-politike-ne-france-nje-spektakel/",
+      "description": "Marine Le Pen, udhëheqësja e fraksionit parlamentar të partisë së krahut të djathtë Uniteti Kombëtar, e quajti situatën politike në vend një “spektakël”. Le Pen, e tha këtë gjatë një vizite në qytetin Cournon-d’Auvergne. Ajo deklaroi gjithashtu se pret shpërbërjen e parlamentit ose dorëheqjen e Presidentit francez Emmanuel Macron. “Spektakli që po dëshmojmë në realitet […]",
+      "published": "Thu, 09 Oct 2025 03:00:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2822469",
+      "fetched_at": "2025-10-09T04:21:28.243489",
+      "ai_summary": "Marine Le Pen, udhëheqësja e fraksionit parlamentar të partisë së krahut të djathtë Uniteti Kombëtar, e quajti situatën politike në vend një “spektakël”. Le Pen, e tha këtë gjatë një vizite në qytetin..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 5,
   "sources": [
+    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
