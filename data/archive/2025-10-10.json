@@ -1,0 +1,158 @@
+{
+  "date": "2025-10-10",
+  "timestamp": "2025-10-10T01:18:56.088634",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Turqia diskuton me Rusinë ndërtimin e centralit bërthamor",
+      "link": "https://www.balkanweb.com/turqia-diskuton-me-rusine-ndertimin-e-centralit-berthamor/",
+      "description": "Turqia po diskuton me Rusinë ndërtimin e tetë reaktorëve bërthamorë në qytetin bregdetar të Detit të Zi, Sinopit, dhe në Traki, në pjesën evropiane të vendit. Ministri turk i Energjisë Alparslan Bayraktar e njoftoi këtë në një intervistë për kanalin televiziv Rossiya-24. Ministri kujtoi se Centrali Bërthamor Akkuyu (NPP) po ndërtohet së bashku me korporatën […]",
+      "published": "Fri, 10 Oct 2025 01:00:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823500",
+      "fetched_at": "2025-10-10T01:18:49.482935",
+      "ai_summary": "Turqia po diskuton me Rusinë ndërtimin e tetë reaktorëve bërthamorë në qytetin bregdetar të Detit të Zi, Sinopit, dhe në Traki, në pjesën evropiane të vendit. Ministri turk i Energjisë Alparslan Bayra..."
+    },
+    {
+      "title": "Trump: Unë ndalova tetë luftëra, por nuk e bëra për Çmimin Nobel për Paqen",
+      "link": "https://www.balkanweb.com/trump-une-ndalova-tete-luftera-por-nuk-e-bera-per-cmimin-nobel-per-paqen/",
+      "description": "Ne patëm gjashtë luftëra , të cilat më vonë u bënë shtatë, por Trump thotë se ai tashmë ka fituar një “trofe” të tetë. Duke i uruar mirëseardhjen Presidentit të Finlandës, Alexander Stubb, Trump tha të enjten se nuk i dha fund tetë luftërave për të fituar Çmimin Nobel për Paqen, i cili do të […]",
+      "published": "Fri, 10 Oct 2025 00:45:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823534",
+      "fetched_at": "2025-10-10T01:18:49.483092",
+      "ai_summary": "Ne patëm gjashtë luftëra , të cilat më vonë u bënë shtatë, por Trump thotë se ai tashmë ka fituar një “trofe” të tetë. Duke i uruar mirëseardhjen Presidentit të Finlandës, Alexander Stubb, Trump tha t..."
+    },
+    {
+      "title": "Franca mirëpret marrëveshjen Izrael-Hamas për fazën e parë të planit të armëpushimit në Gaza",
+      "link": "https://www.balkanweb.com/franca-mirepret-marreveshjen-izrael-hamas-per-fazen-e-pare-te-planit-te-armepushimit-ne-gaza/",
+      "description": "Presidenti francez Emmanuel Macron përshëndeti të enjten marrëveshjen Izrael-Hamas mbi fazën e parë të një plani për armëpushim në Gaza, duke thënë se ajo sjell “shpresë të madhe”. “Shpresë e madhe për pengjet dhe familjet e tyre, për palestinezët në Gaza dhe për rajonin”, tha Macron përmes kompanisë amerikane të mediave sociale X. “E përshëndes […]",
+      "published": "Fri, 10 Oct 2025 00:30:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823531",
+      "fetched_at": "2025-10-10T01:18:49.483190",
+      "ai_summary": "Presidenti francez Emmanuel Macron përshëndeti të enjten marrëveshjen Izrael-Hamas mbi fazën e parë të një plani për armëpushim në Gaza, duke thënë se ajo sjell “shpresë të madhe”. “Shpresë e madhe pë..."
+    },
+    {
+      "title": "Gjykata Federale bllokon vendosjen e Gardës Kombëtare të urdhëruar nga Trump në Çikago",
+      "link": "https://www.balkanweb.com/gjykata-federale-bllokon-vendosjen-e-gardes-kombetare-te-urdheruar-nga-trump-ne-cikago/",
+      "description": "Një gjyqtar federal bllokoi të enjten urdhrin e Presidentit Donald Trump për të vendosur Gardën Kombëtare në Çikago dhe zonën përreth, duke thënë se situata kishte pak të bënte me kërcënimin e “kryengritjes” që administrata e tij kishte cituar për të justifikuar masën, sipas raporteve të medias. “Nuk kam gjetur prova të besueshme se ekziston […]",
+      "published": "Fri, 10 Oct 2025 00:15:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823556",
+      "fetched_at": "2025-10-10T01:18:49.483291",
+      "ai_summary": "Një gjyqtar federal bllokoi të enjten urdhrin e Presidentit Donald Trump për të vendosur Gardën Kombëtare në Çikago dhe zonën përreth, duke thënë se situata kishte pak të bënte me kërcënimin e “kryeng..."
+    },
+    {
+      "title": "Kryetari i bashkisë së Tbilisit: Ambasadori i një vendi perëndimor i sugjeroi Gjeorgjisë të fillonte një luftë me Rusinë",
+      "link": "https://www.balkanweb.com/kryetari-i-bashkise-se-tbilisit-ambasadori-i-nje-vendi-perendimor-i-sugjeroi-gjeorgjise-te-fillonte-nje-lufte-me-rusine/",
+      "description": "Pas fillimit të armiqësive në Ukrainë në vitin 2022, ambasadori i njërit prej vendeve perëndimore sugjeroi që Gjeorgjia të fillonte një luftë me Federatën Ruse, “të zgjaste për 10 ditë, dhe pastaj të kalonte në luftë guerile”. Kjo u deklarua nga Sekretari i Përgjithshëm i Partisë në pushtet “Ëndrra Gjeorgjiane”, Kryetari i Bashkisë së Tbilisit, […]",
+      "published": "Fri, 10 Oct 2025 00:00:44 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823497",
+      "fetched_at": "2025-10-10T01:18:49.483379",
+      "ai_summary": "Pas fillimit të armiqësive në Ukrainë në vitin 2022, ambasadori i njërit prej vendeve perëndimore sugjeroi që Gjeorgjia të fillonte një luftë me Federatën Ruse, “të zgjaste për 10 ditë, dhe pastaj të ..."
+    },
+    {
+      "title": "Orban paralajmëron se pakti për migracionin do të shkaktojë ‘rebelim’ në Evropë",
+      "link": "https://www.balkanweb.com/orban-paralajmeron-se-pakti-per-migracionin-do-te-shkaktoje-rebelim-ne-evrope/",
+      "description": "Kryeministri hungarez Viktor Orban ka paralajmëruar se refuzimi i Polonisë për të zbatuar paktin e migracionit të Bashkimit Evropian (BE) do të shndërrohet në një “rebelim” në Evropë. Orban e bëri këtë të ditur në një postim në llogarinë e tij në rrjetet sociale “X”. Ai tha se Evropa po ndryshon: “Presidenti Karol Nawrocki refuzon […]",
+      "published": "Thu, 09 Oct 2025 23:45:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823494",
+      "fetched_at": "2025-10-10T01:18:49.483471",
+      "ai_summary": "Kryeministri hungarez Viktor Orban ka paralajmëruar se refuzimi i Polonisë për të zbatuar paktin e migracionit të Bashkimit Evropian (BE) do të shndërrohet në një “rebelim” në Evropë. Orban e bëri kët..."
+    },
+    {
+      "title": "OKB: Më pak se 20% e ndihmës së nevojshme arrin në Gaza",
+      "link": "https://www.balkanweb.com/okb-me-pak-se-20-e-ndihmes-se-nevojshme-arrin-ne-gaza/",
+      "description": "Vëllimi i ndihmës humanitare që arrin në Rripin e Gazës është aktualisht më pak se 20% e nivelit të kërkuar. Nënsekretari i Përgjithshëm i OKB-së për Çështjet Humanitare dhe Koordinatori i Ndihmës Emergjente Tom Fletcher bëri një deklaratë për gazetarët. “Po dorëzojmë më pak se 20% të vëllimit që duhet të dorëzojmë. Na duhen qindra […]",
+      "published": "Thu, 09 Oct 2025 23:30:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823509",
+      "fetched_at": "2025-10-10T01:18:49.483564",
+      "ai_summary": "Vëllimi i ndihmës humanitare që arrin në Rripin e Gazës është aktualisht më pak se 20% e nivelit të kërkuar. Nënsekretari i Përgjithshëm i OKB-së për Çështjet Humanitare dhe Koordinatori i Ndihmës Eme..."
+    },
+    {
+      "title": "Qeveria izraelite miraton marrëveshjen, pengjet do të lirohen 72 orë pas tërheqjes së IDF-së nga Gaza",
+      "link": "https://www.balkanweb.com/qeveria-izraelite-miraton-marreveshjen-pengjet-do-te-lirohen-72-ore-pas-terheqjes-se-idf-se-nga-gaza/",
+      "description": "Qeveria izraelite miraton marrëveshjen, pengjet do të lirohen 72 orë pas tërheqjes së IDF-së nga Gaza. Qeveria izraelite ka miratuar një marrëveshje për lirimin e të 48 pengjeve të mbetura në Gaza nga Hamasi, tha zyra e kryeministrit në një deklaratë. Votimi e vë armëpushimin në fuqi. Lirimi i pengjeve, në këmbim të rreth 2,000 […]",
+      "published": "Thu, 09 Oct 2025 23:00:09 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823537",
+      "fetched_at": "2025-10-10T01:18:49.483645",
+      "ai_summary": "Qeveria izraelite miraton marrëveshjen, pengjet do të lirohen 72 orë pas tërheqjes së IDF-së nga Gaza. Qeveria izraelite ka miratuar një marrëveshje për lirimin e të 48 pengjeve të mbetura në Gaza nga..."
+    },
+    {
+      "title": "Një dron i paidentifikuar është parë mbi bazën ajrore të NATO-s në Gjermani",
+      "link": "https://www.balkanweb.com/nje-dron-i-paidentifikuar-eshte-pare-mbi-bazen-ajrore-te-nato-s-ne-gjermani/",
+      "description": "Një mjet ajror pa pilot (UAV) i paidentifikuar është parë mbi një bazë ajrore të NATO-s në Geilenkirchen (North Rhine-Westphalia) në Gjermaninë perëndimore. Revista Der Spiegel e raportoi këtë, duke cituar burimet e saj. Sipas tyre, radarët zbuluan një UAV në zonën e sigurisë së bazës rreth orës 19:00 sipas orës lokale (21:00 sipas orës […]",
+      "published": "Thu, 09 Oct 2025 22:45:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823512",
+      "fetched_at": "2025-10-10T01:18:49.483720",
+      "ai_summary": "Një mjet ajror pa pilot (UAV) i paidentifikuar është parë mbi një bazë ajrore të NATO-s në Geilenkirchen (North Rhine-Westphalia) në Gjermaninë perëndimore. Revista Der Spiegel e raportoi këtë, duke c..."
+    },
+    {
+      "title": "Hamasi: Kalimi kufitar në Rafah do të rihapet në të dyja drejtimet",
+      "link": "https://www.balkanweb.com/hamasi-kalimi-kufitar-ne-rafah-do-te-rihapet-ne-te-dyja-drejtimet/",
+      "description": "Kalimi kufitar Rafah midis Egjiptit dhe Rripit të Gazës do të rifillojë operacionet në të dyja drejtimet. Khalil al-Hayya, anëtar i Byrosë Politike të lëvizjes Hamas dhe kreu i delegacionit në negociatat për Gazën, e bëri këtë deklaratë për kanalin televiziv Al-Jazeera. “Marrëveshja që arritëm përfshin zbatimin e një armëpushimi të përhershëm në Gaza, tërheqjen […]",
+      "published": "Thu, 09 Oct 2025 22:30:41 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2823506",
+      "fetched_at": "2025-10-10T01:18:49.483792",
+      "ai_summary": "Kalimi kufitar Rafah midis Egjiptit dhe Rripit të Gazës do të rifillojë operacionet në të dyja drejtimet. Khalil al-Hayya, anëtar i Byrosë Politike të lëvizjes Hamas dhe kreu i delegacionit në negocia..."
+    },
+    {
+      "title": "Të flasësh për shëndetin mendor nuk është turp, por nevojë që shpëton jetë",
+      "link": "https://telegrafi.com/te-flasesh-per-shendetin-mendor-nuk-eshte-turp-por-nevoje-qe-shpeton-jete/",
+      "description": "Në Ditën e Shëndetit Mendor le të kujtojmë se kujdesi për mendjen është po aq i rëndësishëm sa kujdesi për trupin: Heshtja shpesh dhemb më shumë se vetë ankthi – është koha të kërkojmë ndihmë!Miradije StatovciPsikologe KlinikeDrejtoreshë e Poliklinikës GalaxyNë një kohë kur flasim hapur për çdo aspekt të jetës, shëndeti mendor ende mbetet një nga temat më pak të diskutueshme, megjithëse ndikimi i tij në cilësinë e jetës është i pamasë.Si psikologe klinike, çdo ditë përballem me histori që dëshmojnë se sa shumë njerëz vuajnë në heshtje, pa kërkuar ndihmën që meritojnë.Trupi dhe mendja ecin bashkëShpesh kujdesemi për trupin, bëjmë analiza, kontrollojmë presionin e gjakut, por harrojmë të analizojmë gjendjen tonë shpirtërore.Ankthi, stresi, lodhja emocionale apo mungesa e motivit nuk janë thjesht “fazë”, por sinjale të qarta që trupi dhe mendja kërkojnë pushim, qetësi dhe përkujdesje.Në kulturën tonë, shpesh dëgjojmë: “mos u mërzit, do kalojë”, por për disa njerëz nuk kalon vetvetiu.Për ta, duhet mbështetje, terapi, kuptim dhe mbi të gjitha – mosgjykim. Të kërkosh ndihmë është forcë, jo dobësiNë praktikën time profesionale, kam parë dhjetëra njerëz që kanë ardhur me frikë e pasiguri, por që janë larguar me shpresë dhe qetësi. Sepse ndonjëherë mjafton vetëm një hap, një bisedë, një dëgjim i sinqertë për të ndryshuar gjithçka.Kërkimi i ndihmës psikologjike nuk është shenjë dobësie, por akt guximi dhe respekti ndaj vetvetes.Askush nuk është imun ndaj vështirësive emocionale.Prandaj, sa më herët ta pranojmë këtë realitet, aq më shpejt do ndërtojmë një shoqëri të shëndetshme mendërisht. /Telegrafi/",
+      "published": "Thu, 09 Oct 2025 23:07:49 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/te-flasesh-per-shendetin-mendor-nuk-eshte-turp-por-nevoje-qe-shpeton-jete/",
+      "fetched_at": "2025-10-10T01:18:52.452251",
+      "ai_summary": "Në Ditën e Shëndetit Mendor le të kujtojmë se kujdesi për mendjen është po aq i rëndësishëm sa kujdesi për trupin: Heshtja shpesh dhemb më shumë se vetë ankthi – është koha të kërkojmë ndihmë!Miradije..."
+    }
+  ],
+  "total_articles": 11,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
