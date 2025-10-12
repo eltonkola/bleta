@@ -1,6 +1,6 @@
 {
   "date": "2025-10-12",
-  "timestamp": "2025-10-12T03:01:16.254061",
+  "timestamp": "2025-10-12T04:20:23.606382",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,20 +9,20 @@
   },
   "articles": [
     {
-      "title": "Sylvinho: Jemi shumë të lumtur, kam pirë pesë shishe ujë me gaz gjatë ndeshjes",
-      "link": "https://www.gazetaexpress.com/sylvinho-jemi-shume-te-lumtur-kam-pire-pese-shishe-uje-me-gaz-gjate-ndeshjes/",
-      "description": "Kombëtarja e Shqipërisë shënoi një fitore të madhe në Leskovc ndaj Serbisë, në kuadër të kualifikimeve për Kupën e Botës 2026. Pas ndeshjes, përzgjedhësi i Shqipërisë, Sylvinho doli në konferencë për media. \"Sot ishte një hap shumë i mirë, nuk ka mbaruar asgjë. Por, jemi shumë të lumtur dhe të gëzuar. Punuam në çdo detaj. Në këtë ndeshje ishte e rëndësishme të bindim lojtarët të shkojmë drejt fitores. Piva pesë shishe ujë me gaz gjatë ndeshjes\", tha Sylvinho. The post Sylvinho: Jemi shumë të lumtur, kam pirë pesë shishe ujë me gaz gjatë ndeshjes appeared first on Gazeta Express.",
-      "published": "Sat, 11 Oct 2025 22:19:05 +0000",
-      "source": "Gazeta Express",
-      "source_url": "https://www.gazetaexpress.com/feed/",
+      "title": "LIVE: Kosova voton për udhëheqësit e komunave",
+      "link": "https://www.koha.net/zgjedhjet-lokale-1/kosova-voton-per-udheheqesit-e-komunave",
+      "description": "LIVE: Kosova voton për udhëheqësit e komunave",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
       "language": "sq",
-      "guid": "https://www.gazetaexpress.com/?p=2903939",
-      "fetched_at": "2025-10-12T03:01:12.583297",
-      "ai_summary": "Kombëtarja e Shqipërisë shënoi një fitore të madhe në Leskovc ndaj Serbisë, në kuadër të kualifikimeve për Kupën e Botës 2026. Pas ndeshjes, përzgjedhësi i Shqipërisë, Sylvinho doli në konferencë për ..."
+      "guid": "https://www.koha.net/470112",
+      "fetched_at": "2025-10-12T04:20:15.335494",
+      "ai_summary": "LIVE: Kosova voton për udhëheqësit e komunave"
     }
   ],
   "total_articles": 1,
   "sources": [
-    "Gazeta Express"
+    "Koha.net"
   ]
 }
