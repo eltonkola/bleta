@@ -1,6 +1,6 @@
 {
   "date": "2025-10-14",
-  "timestamp": "2025-10-14T02:59:31.367693",
+  "timestamp": "2025-10-14T04:21:22.423623",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,70 +9,44 @@
   },
   "articles": [
     {
-      "title": "Ministri i Jashtëm gjerman: Palestinezët duhet të heqin dorë nga Hamasi nëse duan një të ardhme të mirë",
-      "link": "https://www.balkanweb.com/ministri-i-jashtem-gjerman-palestinezet-duhet-te-heqin-dore-nga-hamasi-nese-duan-nje-te-ardhme-te-mire/",
-      "description": "Ministri i Jashtëm gjerman Johannes Vandeful tha vonë të hënën se nuk e ndante plotësisht euforinë e Presidentit të SHBA-së Donald Trump për situatën në Lindjen e Mesme dhe theksoi se ishte e rëndësishme që Hamasi të çarmatoset dhe që vetë palestinezët ta heqin dorë prej tij. “Fundi i përkohshëm” i konfliktit është megjithatë një […]",
-      "published": "Tue, 14 Oct 2025 02:45:19 +0000",
+      "title": "BE-ja ndan 11 milionë dollarë për një gjykatë speciale për të ndjekur penalisht kriminelët e luftës në Ukrainë",
+      "link": "https://www.balkanweb.com/be-ja-ndan-11-milione-dollare-per-nje-gjykate-speciale-per-te-ndjekur-penalisht-kriminelet-e-luftes-ne-ukraine/",
+      "description": "BE njoftoi të hënën 10 milionë eurot e para (11 milionë dollarë) për të ngritur “Tribunalin Special për Krimin e Agresionit” kundër Ukrainës , tha shefja e politikës së jashtme të bllokut Kaja Kallas . Duke folur në një konferencë të përbashkët për shtyp me Ministrin e Jashtëm ukrainas Andriy Sybiha , Kallas tha se […]",
+      "published": "Tue, 14 Oct 2025 04:00:59 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2826362",
-      "fetched_at": "2025-10-14T02:59:26.149952",
-      "ai_summary": "Ministri i Jashtëm gjerman Johannes Vandeful tha vonë të hënën se nuk e ndante plotësisht euforinë e Presidentit të SHBA-së Donald Trump për situatën në Lindjen e Mesme dhe theksoi se ishte e rëndësis..."
+      "guid": "https://www.balkanweb.com/?p=2826332",
+      "fetched_at": "2025-10-14T04:21:17.424346",
+      "ai_summary": "BE njoftoi të hënën 10 milionë eurot e para (11 milionë dollarë) për të ngritur “Tribunalin Special për Krimin e Agresionit” kundër Ukrainës , tha shefja e politikës së jashtme të bllokut Kaja Kallas ..."
     },
     {
-      "title": "Pengjet izraelite ribashkohen me familjet e tyre, të panjohur pas dy vitesh në duart e Hamasit",
-      "link": "https://www.balkanweb.com/pengjet-izraelite-ribashkohen-me-familjet-e-tyre-te-panjohur-pas-dy-vitesh-ne-duart-e-hamasit/",
-      "description": "Pas 738 ditësh paraburgimi në Gaza , 20 pengjet e fundit izraelite të mbajtura nga Hamasi janë liruar, duke u kthyer te familjet e tyre në një gjendje tronditëse të ndryshuar. Skenat e ribashkimeve, të mbushura me lot, përqafime dhe lehtësim, shënuan fundin e një periudhe të tmerrshme dyvjeçare që filloi me sulmin e përgjakshëm […]",
-      "published": "Tue, 14 Oct 2025 02:30:29 +0000",
+      "title": "Presidenti i Madagaskarit njofton se është në një vend të sigurt pas atentatit",
+      "link": "https://www.balkanweb.com/presidenti-i-madagaskarit-njofton-se-eshte-ne-nje-vend-te-sigurt-pas-atentatit/",
+      "description": "Presidenti i Madagaskarit, Andry Rajoelina, të hënën në mbrëmje bëri thirrje për “respektim të kushtetutës” në mesazhin e tij të parë që kur ushtria u rreshtua në anën e protestuesve antiqeveritarë gjatë fundjavës. Në një fjalim të transmetuar në mediat sociale, por jo në televizionin shtetëror, Rajoelina tha se ishte “në një vend të sigurt” […]",
+      "published": "Tue, 14 Oct 2025 03:30:35 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2826350",
-      "fetched_at": "2025-10-14T02:59:26.150109",
-      "ai_summary": "Pas 738 ditësh paraburgimi në Gaza , 20 pengjet e fundit izraelite të mbajtura nga Hamasi janë liruar, duke u kthyer te familjet e tyre në një gjendje tronditëse të ndryshuar. Skenat e ribashkimeve, t..."
+      "guid": "https://www.balkanweb.com/?p=2826359",
+      "fetched_at": "2025-10-14T04:21:17.424499",
+      "ai_summary": "Presidenti i Madagaskarit, Andry Rajoelina, të hënën në mbrëmje bëri thirrje për “respektim të kushtetutës” në mesazhin e tij të parë që kur ushtria u rreshtua në anën e protestuesve antiqeveritarë gj..."
     },
     {
-      "title": "Numri i të vdekurve në Meksikë rritet në 64, ndërsa 65 rezultojnë të zhdukur",
-      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-ne-meksike-rritet-ne-64-ndersa-65-rezultojne-te-zhdukur/",
-      "description": "Numri i të vdekurve nga përmbytjet dhe rrëshqitjet e dheut në pesë shtete meksikane ka arritur në 64, ndërsa më shumë se 65 persona rezultojnë të zhdukur. Kjo u raportua nga koordinatori kombëtar për mbrojtjen civile. Shtetet e Veracruz, Puebla, Hidalgo, San Luis Potosi dhe Querétaro ishin më të prekurat. Në Veracruz, shirat kanë prekur […]",
-      "published": "Tue, 14 Oct 2025 02:00:37 +0000",
+      "title": "Rrëzohet një aeroplan në SHBA, të paktën 10 persona humbën jetën",
+      "link": "https://www.balkanweb.com/rrezohet-nje-aeroplan-ne-shba-te-pakten-10-persona-humben-jeten/",
+      "description": "Dy persona humbën jetën pasi një avion i lehtë u rrëzua dhe u përfshi nga flakët në Dartmouth të Massachusetts, SHBA. Besohet se avioni po përpiqej të ulej në Aeroportin Rajonal të New Bedford. Videoja nga vendi i ngjarjes tregon avionin duke u djegur në autostradë. Policia tha se piloti as nuk paraqiti një plan […]",
+      "published": "Tue, 14 Oct 2025 03:00:40 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2826319",
-      "fetched_at": "2025-10-14T02:59:26.150192",
-      "ai_summary": "Numri i të vdekurve nga përmbytjet dhe rrëshqitjet e dheut në pesë shtete meksikane ka arritur në 64, ndërsa më shumë se 65 persona rezultojnë të zhdukur. Kjo u raportua nga koordinatori kombëtar për ..."
-    },
-    {
-      "title": "Human Rights Watch bën thirrje për drejtësi për sulmin vdekjeprurës të Izraelit ndaj gazetarit në Liban në vitin 2023",
-      "link": "https://www.balkanweb.com/human-rights-watch-ben-thirrje-per-drejtesi-per-sulmin-vdekjeprures-te-izraelit-ndaj-gazetarit-ne-liban-ne-vitin-2023/",
-      "description": "Human Rights Watch (HRW) i kërkoi qeverisë libaneze të hënën të kërkojë drejtësi për një sulm ushtarak izraelit që vrau një gazetar të Reuters dhe plagosi rëndë të tjerë, përfshirë dy nga Agence France-Presse, dy vjet më parë. Më 13 tetor 2023, një sulm vrau kameramanin e Reuters Issam Abdallah dhe plagosi gjashtë gazetarë të […]",
-      "published": "Tue, 14 Oct 2025 01:45:51 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2826365",
-      "fetched_at": "2025-10-14T02:59:26.150269",
-      "ai_summary": "Human Rights Watch (HRW) i kërkoi qeverisë libaneze të hënën të kërkojë drejtësi për një sulm ushtarak izraelit që vrau një gazetar të Reuters dhe plagosi rëndë të tjerë, përfshirë dy nga Agence Franc..."
-    },
-    {
-      "title": "Zyrtari polak: Jemi në luftë me Rusinë në hapësirën kibernetike",
-      "link": "https://www.balkanweb.com/zyrtari-polak-jemi-ne-lufte-me-rusine-ne-hapesiren-kibernetike/",
-      "description": "Varshava është në luftë me Rusinë në hapësirën kibernetike dhe e vetmja aleancë ushtarake e dobishme për vendin është NATO. Kjo u deklarua nga Slawomir Czenskevich, kreu i Byrosë së Sigurisë Kombëtare Polake (BBN). “Polonia është aktualisht në luftë me Rusinë në hapësirën kibernetike, e cila nuk është më një situatë kërcënuese”, tha ai. Sipas […]",
-      "published": "Tue, 14 Oct 2025 01:30:47 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2826342",
-      "fetched_at": "2025-10-14T02:59:26.150345",
-      "ai_summary": "Varshava është në luftë me Rusinë në hapësirën kibernetike dhe e vetmja aleancë ushtarake e dobishme për vendin është NATO. Kjo u deklarua nga Slawomir Czenskevich, kreu i Byrosë së Sigurisë Kombëtare..."
+      "guid": "https://www.balkanweb.com/?p=2826326",
+      "fetched_at": "2025-10-14T04:21:17.424598",
+      "ai_summary": "Dy persona humbën jetën pasi një avion i lehtë u rrëzua dhe u përfshi nga flakët në Dartmouth të Massachusetts, SHBA. Besohet se avioni po përpiqej të ulej në Aeroportin Rajonal të New Bedford. Videoj..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
