@@ -1,0 +1,106 @@
+{
+  "date": "2025-10-15",
+  "timestamp": "2025-10-15T01:20:42.509133",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Trump: Putini nuk ka ndërmend t’i japë fund luftës me Ukrainën",
+      "link": "https://www.balkanweb.com/trump-putini-nuk-ka-ndermend-ti-jape-fund-luftes-me-ukrainen/",
+      "description": "Presidenti i SHBA-së, Donald Trump, ka deklaruar se Rusia nuk është e interesuar të përfundojë luftën me Ukrainën. “Kam një marrëdhënie shumë të mirë me presidentin rus Vladimir Putin. Por ai thjesht nuk dëshiron ta përfundojë këtë luftë”, tha Trump. Sipas mendimit të tij, Rusia mund ta kishte përfunduar këtë krizë shpejt nëse do të […]",
+      "published": "Wed, 15 Oct 2025 01:00:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827065",
+      "fetched_at": "2025-10-15T01:20:36.716493",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka deklaruar se Rusia nuk është e interesuar të përfundojë luftën me Ukrainën. “Kam një marrëdhënie shumë të mirë me presidentin rus Vladimir Putin. Por ai thjesht ..."
+    },
+    {
+      "title": "Google bashkëpunon me Bankën Botërore për infrastrukturën dixhitale për tregjet në zhvillim",
+      "link": "https://www.balkanweb.com/google-bashkepunon-me-banken-boterore-per-infrastrukturen-dixhitale-per-tregjet-ne-zhvillim/",
+      "description": "Google njoftoi të martën bashkëpunimin e saj me Grupin e Bankës Botërore për të ndërtuar infrastrukturë dixhitale publike të mundësuar nga inteligjenca artificiale për ekonomitë e tregjeve në zhvillim. “Bashkëpunimi përqendrohet në vendosjen e Open Network Stacks, të cilat veprojnë si infrastrukturë dixhitale për të ndihmuar qytetarët të kenë akses në shërbime jetësore”, thuhet në […]",
+      "published": "Wed, 15 Oct 2025 00:30:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827090",
+      "fetched_at": "2025-10-15T01:20:36.716649",
+      "ai_summary": "Google njoftoi të martën bashkëpunimin e saj me Grupin e Bankës Botërore për të ndërtuar infrastrukturë dixhitale publike të mundësuar nga inteligjenca artificiale për ekonomitë e tregjeve në zhvillim..."
+    },
+    {
+      "title": "Bessent: Uashingtoni është gati të rrisë presionin ndaj Moskës",
+      "link": "https://www.balkanweb.com/bessent-uashingtoni-eshte-gati-te-rrise-presionin-ndaj-moskes/",
+      "description": "Sekretari i Thesarit i SHBA-së, Scott Bessent, deklaroi gjatë një takimi me kryeministren ukrainase, Yulia Sviridenko, se Uashingtoni është gati të bashkëpunojë me vendet e G7-ës për të rritur ndjeshëm presionin ndaj Rusisë. Kjo u tha në një deklaratë me shkrim të lëshuar nga shërbimi për shtyp i Departamentit të Thesarit të SHBA-së. Dokumenti vuri […]",
+      "published": "Wed, 15 Oct 2025 00:00:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827060",
+      "fetched_at": "2025-10-15T01:20:36.716744",
+      "ai_summary": "Sekretari i Thesarit i SHBA-së, Scott Bessent, deklaroi gjatë një takimi me kryeministren ukrainase, Yulia Sviridenko, se Uashingtoni është gati të bashkëpunojë me vendet e G7-ës për të rritur ndjeshë..."
+    },
+    {
+      "title": "Koalicioni qeverisës i Gjermanisë përçahet për shkak të shërbimit ushtarak",
+      "link": "https://www.balkanweb.com/koalicioni-qeverises-i-gjermanise-percahet-per-shkak-te-sherbimit-ushtarak/",
+      "description": "Ligji i ri për shërbimin ushtarak u hoq papritur nga rendi i ditës i Bundestagut më herët këtë mbrëmje, për shkak të mosmarrëveshjeve midis partive në koalicionin qeverisës . Një konferencë për shtyp në të cilën propozimi i qeverisë do të paraqitej në tërësi u anulua gjithashtu në minutën e fundit. Sipas një raportimi nga […]",
+      "published": "Tue, 14 Oct 2025 23:45:47 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827109",
+      "fetched_at": "2025-10-15T01:20:36.716823",
+      "ai_summary": "Ligji i ri për shërbimin ushtarak u hoq papritur nga rendi i ditës i Bundestagut më herët këtë mbrëmje, për shkak të mosmarrëveshjeve midis partive në koalicionin qeverisës . Një konferencë për shtyp ..."
+    },
+    {
+      "title": "Greva e punonjësve të transportit në Bruksel shndërrohet në trazira",
+      "link": "https://www.balkanweb.com/greva-e-punonjesve-te-transportit-ne-bruksel-shnderrohet-ne-trazira/",
+      "description": "Një grevë mbarëkombëtare e punonjësve të transportit në Bruksel, e cila filloi paqësisht në mëngjes, pas një thirrjeje nga sindikatat, u shndërrua në trazira deri në mesditë. Përleshje me policinë dhe akte vandalizmi ndodhën në pjesë të ndryshme të qytetit. Deri në pasdite, situata ishte tensionuar aq shumë sa njësitë speciale të policisë kishin përdorur […]",
+      "published": "Tue, 14 Oct 2025 23:30:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827083",
+      "fetched_at": "2025-10-15T01:20:36.716902",
+      "ai_summary": "Një grevë mbarëkombëtare e punonjësve të transportit në Bruksel, e cila filloi paqësisht në mëngjes, pas një thirrjeje nga sindikatat, u shndërrua në trazira deri në mesditë. Përleshje me policinë dhe..."
+    },
+    {
+      "title": "Trump: Do t’i ndërpresim ndihmën financiare Argjentinës nëse Miley largohet nga pushteti",
+      "link": "https://www.balkanweb.com/trump-do-ti-nderpresim-ndihmen-financiare-argjentines-nese-miley-largohet-nga-pushteti/",
+      "description": "Shtetet e Bashkuara (SHBA) nuk do t’i ofrojnë Argjentinës ndihmën e premtuar financiare nëse presidenti aktual Javier Milagrosa largohet nga pushteti. Presidenti i SHBA-së, Donald Trump, e bëri këtë deklaratë gjatë një takimi me Miley-n në Shtëpinë e Bardhë. “E di kundër kujt po kandidon Miley. Ky person ka pikëpamje jashtëzakonisht të majta dhe i […]",
+      "published": "Tue, 14 Oct 2025 23:00:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827057",
+      "fetched_at": "2025-10-15T01:20:36.716995",
+      "ai_summary": "Shtetet e Bashkuara (SHBA) nuk do t’i ofrojnë Argjentinës ndihmën e premtuar financiare nëse presidenti aktual Javier Milagrosa largohet nga pushteti. Presidenti i SHBA-së, Donald Trump, e bëri këtë d..."
+    },
+    {
+      "title": "18 persona të plagosur në një aksident të rëndë rrugor në Turqi",
+      "link": "https://www.balkanweb.com/18-persona-te-plagosur-ne-nje-aksident-te-rende-rrugor-ne-turqi/",
+      "description": "Një minibus që transportonte punëtorë bujqësorë u përplas me një makinë pasagjerësh në qytetin turk të Konyas. Incidenti është regjistruar në lagjen Kadınhanı. Shërbimet e urgjencës mjekësore dhe personeli i xhandarmërisë u thirrën në vendngjarje. Nga 18 personat e plagosur në aksident, 4 u shtruan në Spitalin Shtetëror të Konyas në gjendje të rëndë, ndërsa […]",
+      "published": "Tue, 14 Oct 2025 22:30:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827068",
+      "fetched_at": "2025-10-15T01:20:36.717092",
+      "ai_summary": "Një minibus që transportonte punëtorë bujqësorë u përplas me një makinë pasagjerësh në qytetin turk të Konyas. Incidenti është regjistruar në lagjen Kadınhanı. Shërbimet e urgjencës mjekësore dhe pers..."
+    }
+  ],
+  "total_articles": 7,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
