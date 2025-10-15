@@ -1,6 +1,6 @@
 {
   "date": "2025-10-15",
-  "timestamp": "2025-10-15T03:03:42.471047",
+  "timestamp": "2025-10-15T04:21:54.369234",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,58 +9,32 @@
   },
   "articles": [
     {
-      "title": "Charlie Kirk nderohet pas vdekjes me Medaljen Presidenciale të Lirisë",
-      "link": "https://www.balkanweb.com/charlie-kirk-nderohet-pas-vdekjes-me-medaljen-e-lirise/",
-      "description": "Presidenti i SHBA-së, Donald Trump, i ka dhënë pas vdekjes Medaljen Presidenciale të Lirisë Charlie Kirk, një aktivisti politik konservator i cili u vra. Trump ia dorëzoi çmimin gruas së të ndjerit, Erica Kirk. “Charles James Kirk ishte një vizionar dhe një nga përfaqësuesit më të shquar të gjeneratës së tij”, tha Trump në ceremoninë […]",
-      "published": "Wed, 15 Oct 2025 03:00:32 +0000",
+      "title": "Trump: Hamasi do të çarmatoset vetë ose do ta bëjmë me forcë",
+      "link": "https://www.balkanweb.com/trump-hamasi-do-te-carmatoset-vete-ose-do-ta-bejme-me-force/",
+      "description": "Hamasi dhe perspektiva e çarmatimit të tij u përmendën nga Donald Trump , i cili mirëpriti homologun e tij argjentinas, Javier Milley , në Shtëpinë e Bardhë . ” Nëse ata nuk çarmatosen vetë, ne do t’i çarmatosim “, tha presidenti amerikan në lidhje me Hamasin. “Kjo do të bëhet shpejt dhe ndoshta me dhunë”, […]",
+      "published": "Wed, 15 Oct 2025 04:00:44 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2827075",
-      "fetched_at": "2025-10-15T03:03:37.080276",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, i ka dhënë pas vdekjes Medaljen Presidenciale të Lirisë Charlie Kirk, një aktivisti politik konservator i cili u vra. Trump ia dorëzoi çmimin gruas së të ndjerit, E..."
+      "guid": "https://www.balkanweb.com/?p=2827106",
+      "fetched_at": "2025-10-15T04:21:19.218424",
+      "ai_summary": "Hamasi dhe perspektiva e çarmatimit të tij u përmendën nga Donald Trump , i cili mirëpriti homologun e tij argjentinas, Javier Milley , në Shtëpinë e Bardhë . ” Nëse ata nuk çarmatosen vetë, ne do t’i..."
     },
     {
-      "title": "Hamasi i dorëzon Izraelit trupat e katër pengjeve",
-      "link": "https://www.balkanweb.com/hamasi-i-dorezon-izraelit-trupat-e-kater-pengjeve/",
-      "description": "Mediat izraelite dhe katariane raportuan të martën se Hamasi do të dorëzonte trupat e “disa” pengjeve sot, pas presionit nga Izraeli . Informacioni u raportua për herë të parë nga kanali Al-Arabi i Katarit dhe Kanali 12 i Izraelit. Në fund të fundit, ishin katër trupa që u dorëzuan në Izrael nëpërmjet Kryqit të Kuq […]",
-      "published": "Wed, 15 Oct 2025 02:30:14 +0000",
+      "title": "Indi, 20 të vdekur pasi autobusi përfshihet nga flakët",
+      "link": "https://www.balkanweb.com/indi-20-te-vdekur-pasi-autobusi-perfshihet-nga-flaket/",
+      "description": "Të paktën 20 persona kanë humbur jetën dhe më shumë se 10 të tjerë janë plagosur pasi një autobus pasagjerësh shpërtheu në autostradën Jaisalmer-Jodhpur në shtetin perëndimor indian të Rajasthanit. Autobus që transportonte 57 pasagjerë u përfshi papritur nga flakët ndërsa udhëtonte. Sipas dëshmitarëve, fillimisht kishte tym që vinte nga pjesa e pasme e automjetit. […]",
+      "published": "Wed, 15 Oct 2025 03:30:32 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2827103",
-      "fetched_at": "2025-10-15T03:03:37.080436",
-      "ai_summary": "Mediat izraelite dhe katariane raportuan të martën se Hamasi do të dorëzonte trupat e “disa” pengjeve sot, pas presionit nga Izraeli . Informacioni u raportua për herë të parë nga kanali Al-Arabi i Ka..."
-    },
-    {
-      "title": "Trump kërcënon Spanjën me tarifa për shkak të refuzimit për të rritur shpenzimet e mbrojtjes",
-      "link": "https://www.balkanweb.com/trump-kercenon-spanjen-me-tarifa-per-shkak-te-refuzimit-per-te-rritur-shpenzimet-e-mbrojtjes/",
-      "description": "Presidenti i SHBA-së, Donald Trump, ka njoftuar qëllimin e tij për të vendosur tarifa mbi importet spanjolle, pasi vendi refuzoi të rriste shpenzimet e mbrojtjes në 5% të PBB-së. Udhëheqësi amerikan e tha këtë në një deklaratë për gazetarët në Shtëpinë e Bardhë. “Jam shumë i pakënaqur me Spanjën. Ata janë i vetmi vend i […]",
-      "published": "Wed, 15 Oct 2025 02:00:31 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2827071",
-      "fetched_at": "2025-10-15T03:03:37.080520",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka njoftuar qëllimin e tij për të vendosur tarifa mbi importet spanjolle, pasi vendi refuzoi të rriste shpenzimet e mbrojtjes në 5% të PBB-së. Udhëheqësi amerikan e..."
-    },
-    {
-      "title": "Dhjetëra mijëra punonjës të kujdesit shëndetësor në grevë në të gjithë Bregun Perëndimor të SHBA-së",
-      "link": "https://www.balkanweb.com/dhjetera-mijera-punonjes-te-kujdesit-shendetesor-ne-greve-ne-te-gjithe-bregun-perendimor-te-shba-se/",
-      "description": "Dhjetëra mijëra punonjës të kujdesit shëndetësor Kaiser Permanente hynë në grevë të martën në mëngjes në të gjithë Bregun Perëndimor të SHBA-së. Greva prek më shumë se 500 spitale dhe institucione mjekësore, kryesisht në Kaliforni dhe Hawaii, përfshirë disa në zonën e Los Angeles, sipas raportimeve të mediave lokale. Greva pesëditore filloi në orën 7 […]",
-      "published": "Wed, 15 Oct 2025 01:30:18 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2827099",
-      "fetched_at": "2025-10-15T03:03:37.080604",
-      "ai_summary": "Dhjetëra mijëra punonjës të kujdesit shëndetësor Kaiser Permanente hynë në grevë të martën në mëngjes në të gjithë Bregun Perëndimor të SHBA-së. Greva prek më shumë se 500 spitale dhe institucione mje..."
+      "guid": "https://www.balkanweb.com/?p=2827078",
+      "fetched_at": "2025-10-15T04:21:19.218581",
+      "ai_summary": "Të paktën 20 persona kanë humbur jetën dhe më shumë se 10 të tjerë janë plagosur pasi një autobus pasagjerësh shpërtheu në autostradën Jaisalmer-Jodhpur në shtetin perëndimor indian të Rajasthanit. Au..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
