@@ -1,0 +1,145 @@
+{
+  "date": "2025-10-16",
+  "timestamp": "2025-10-16T01:20:15.407090",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Më shumë se gjysma e vendeve të NATO-s janë gati të bashkohen me programin PURL",
+      "link": "https://www.balkanweb.com/me-shume-se-gjysma-e-vendeve-te-nato-s-jane-gati-te-bashkohen-me-programin-purl/",
+      "description": "Më shumë se gjysma e shteteve anëtare të NATO-s kanë shprehur gatishmërinë e tyre për t’u bashkuar me programin e Listës së Kërkesave me Prioritet për Ukrainën (PURL), i cili parashikon blerjen e armëve për Ukrainën nga Shtetet e Bashkuara. Sekretari i Përgjithshëm i NATO-s Mark Rutte e deklaroi këtë në një konferencë për shtyp […]",
+      "published": "Thu, 16 Oct 2025 01:00:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827810",
+      "fetched_at": "2025-10-16T01:20:09.778154",
+      "ai_summary": "Më shumë se gjysma e shteteve anëtare të NATO-s kanë shprehur gatishmërinë e tyre për t’u bashkuar me programin e Listës së Kërkesave me Prioritet për Ukrainën (PURL), i cili parashikon blerjen e armë..."
+    },
+    {
+      "title": "Finlanda do t’i bashkohet nismës së NATO-s për të blerë armë amerikane për Ukrainën",
+      "link": "https://www.balkanweb.com/finlanda-do-ti-bashkohet-nismes-se-nato-s-per-te-blere-arme-amerikane-per-ukrainen/",
+      "description": "Finlanda do të marrë pjesë në iniciativën e NATO-s për të blerë armë amerikane për Ukrainën, raportoi të mërkurën transmetuesi publik finlandez YLE. Ministri i Mbrojtjes, Antti Hakkanen, tha se Helsinki do t’i bashkohet programit të aleancës “Lista e Kërkesave me Prioritet për Ukrainën” (PURL), sipas të cilit anëtarët e NATO-s blejnë armë të prodhuara […]",
+      "published": "Thu, 16 Oct 2025 00:45:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827847",
+      "fetched_at": "2025-10-16T01:20:09.778322",
+      "ai_summary": "Finlanda do të marrë pjesë në iniciativën e NATO-s për të blerë armë amerikane për Ukrainën, raportoi të mërkurën transmetuesi publik finlandez YLE. Ministri i Mbrojtjes, Antti Hakkanen, tha se Helsin..."
+    },
+    {
+      "title": "Personat e dënuar për krime financiare dhe ekonomike do të ndalohen të largohen nga Gjeorgjia",
+      "link": "https://www.balkanweb.com/personat-e-denuar-per-krime-financiare-dhe-ekonomike-do-te-ndalohen-te-largohen-nga-gjeorgjia/",
+      "description": "Parlamenti i Gjeorgjisë ka miratuar në lexim të parë ndryshimet në Kodin e Procedurës Penale. Sipas amendamentit, individëve të shpallur fajtorë për krime të caktuara financiare dhe ekonomike do t’u ndalohet të largohen nga vendi derisa dëmet të kompensohen plotësisht. Tornike Cheishvili, Zëvendëskryetari i Parë i Komitetit të Çështjeve Ligjore, tha se qëllimi kryesor i […]",
+      "published": "Thu, 16 Oct 2025 00:30:15 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827828",
+      "fetched_at": "2025-10-16T01:20:09.778419",
+      "ai_summary": "Parlamenti i Gjeorgjisë ka miratuar në lexim të parë ndryshimet në Kodin e Procedurës Penale. Sipas amendamentit, individëve të shpallur fajtorë për krime të caktuara financiare dhe ekonomike do t’u n..."
+    },
+    {
+      "title": "Trump mund të lejojë Izraelin të rifillojë luftimet në Gaza nëse Hamasi nuk zbaton marrëveshjen",
+      "link": "https://www.balkanweb.com/trump-mund-te-lejoje-izraelin-te-rifilloje-luftimet-ne-gaza-nese-hamasi-nuk-zbaton-marreveshjen/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se mund t’i thotë ushtrisë izraelite të rifillojë luftimet në Gaza nëse Hamasi nuk zbaton pjesën e tij të marrëveshjes së armëpushimit të kohëve të fundit. Në një telefonatë me CNN, presidentit amerikan iu bë pyetja se çfarë do të ndodhte nëse Hamasi refuzonte të çarmatosej. “Mendoj […]",
+      "published": "Thu, 16 Oct 2025 00:15:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827869",
+      "fetched_at": "2025-10-16T01:20:09.778503",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se mund t’i thotë ushtrisë izraelite të rifillojë luftimet në Gaza nëse Hamasi nuk zbaton pjesën e tij të marrëveshjes së armëpushimit të kohëve të ..."
+    },
+    {
+      "title": "Erdogan: Prodhimi i energjisë elektrike do të fillojë së shpejti në termocentralin bërthamor Akkuyu",
+      "link": "https://www.balkanweb.com/erdogan-prodhimi-i-energjise-elektrike-do-te-filloje-se-shpejti-ne-termocentralin-berthamor-akkuyu/",
+      "description": "Prodhimi i energjisë elektrike do të fillojë së shpejti në Centralin Bërthamor Akkuyu (NPP). Presidenti turk Rexhep Tajip Erdogan e tha këtë në fjalimin e tij drejtuar popullit dhe qeverisë pas rezultateve të mbledhjes së Kabinetit të Ministrave. “Së shpejti do të fillojmë prodhimin e energjisë elektrike në Centralin Bërthamor Akkuyu. Por kemi edhe projekte […]",
+      "published": "Thu, 16 Oct 2025 00:00:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827807",
+      "fetched_at": "2025-10-16T01:20:09.778588",
+      "ai_summary": "Prodhimi i energjisë elektrike do të fillojë së shpejti në Centralin Bërthamor Akkuyu (NPP). Presidenti turk Rexhep Tajip Erdogan e tha këtë në fjalimin e tij drejtuar popullit dhe qeverisë pas rezult..."
+    },
+    {
+      "title": "Vendet kryesore myslimane mbështesin planin e Trump për paqe në Gaza",
+      "link": "https://www.balkanweb.com/vendet-kryesore-myslimane-mbeshtesin-planin-e-trump-per-paqe-ne-gaza/",
+      "description": "Kombet kryesore myslimane të hënën dhanë mbështetjen e tyre për një plan të Presidentit të SHBA-së, Donald Trump, për t’i dhënë fund luftës në Gaza, edhe pse disa palestinezë e quajtën propozimin një “farsë”. Aleatët evropianë të Uashingtonit i kërkuan Hamasit të pranonte planin, të cilin kryeministri izraelit Benjamin Netanyahu tha se e mbështeste, ndërsa […]",
+      "published": "Wed, 15 Oct 2025 23:45:39 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827843",
+      "fetched_at": "2025-10-16T01:20:09.778669",
+      "ai_summary": "Kombet kryesore myslimane të hënën dhanë mbështetjen e tyre për një plan të Presidentit të SHBA-së, Donald Trump, për t’i dhënë fund luftës në Gaza, edhe pse disa palestinezë e quajtën propozimin një ..."
+    },
+    {
+      "title": "Guterres: Veprimi humanitar i OKB-së në prag të kolapsit",
+      "link": "https://www.balkanweb.com/guterres-veprimi-humanitar-i-okb-se-ne-prag-te-kolapsit/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, ka thënë se puna humanitare e organizatës është në prag të kolapsit për shkak të nevojave në rritje dhe pakësimit të fondeve. Guterres e deklaroi këtë gjatë prezantimit të propozimeve të tij mbi reformën e komponentit humanitar të OKB-së. “Veprimi humanitar është në prag të kolapsit, të falimentimit. […]",
+      "published": "Wed, 15 Oct 2025 23:30:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827822",
+      "fetched_at": "2025-10-16T01:20:09.778816",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, ka thënë se puna humanitare e organizatës është në prag të kolapsit për shkak të nevojave në rritje dhe pakësimit të fondeve. Guterres e deklaroi k..."
+    },
+    {
+      "title": "Rasti i parë i etheve chikungunya është zbuluar në shtetin e Nju Jorkut, SHBA",
+      "link": "https://www.balkanweb.com/rasti-i-pare-i-etheve-chikungunya-eshte-zbuluar-ne-shtetin-e-nju-jorkut-shba/",
+      "description": "Rasti i parë i infeksionit nga ethet chikungunya është regjistruar në shtetin e Nju Jorkut, SHBA. Departamenti i Shëndetësisë i Shtetit publikoi informacion në lidhje me këtë. Sipas New York Times, virusi u zbulua në shtator tek një grua 60-vjeçare nga Hempstead, New York. Gruaja i tha gazetës në një intervistë se nuk kishte udhëtuar […]",
+      "published": "Wed, 15 Oct 2025 23:00:08 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827804",
+      "fetched_at": "2025-10-16T01:20:09.778926",
+      "ai_summary": "Rasti i parë i infeksionit nga ethet chikungunya është regjistruar në shtetin e Nju Jorkut, SHBA. Departamenti i Shëndetësisë i Shtetit publikoi informacion në lidhje me këtë. Sipas New York Times, vi..."
+    },
+    {
+      "title": "Rusia mirëpret përparimin e armëpushimit në Gaza, kërkon zbatimin e plotë të marrëveshjeve të samitit Sharm el-Sheikh",
+      "link": "https://www.balkanweb.com/rusia-mirepret-perparimin-e-armepushimit-ne-gaza-kerkon-zbatimin-e-plote-te-marreveshjeve-te-samitit-sharm-el-sheikh/",
+      "description": "Zëdhënësja e Ministrisë së Jashtme ruse, Maria Zakharova, tha të mërkurën se Moska mirëpret “zhvillimet pozitive” në Rripin e Gazës pas zbatimit të marrëveshjes së armëpushimit midis Izraelit dhe Hamasit , duke përfshirë tërheqjen e trupave dhe shkëmbimin e të burgosurve. “Jemi të kënaqur të vërejmë se ka pasur ndryshime pozitive në zhvillimin e situatës […]",
+      "published": "Wed, 15 Oct 2025 22:45:21 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827840",
+      "fetched_at": "2025-10-16T01:20:09.779004",
+      "ai_summary": "Zëdhënësja e Ministrisë së Jashtme ruse, Maria Zakharova, tha të mërkurën se Moska mirëpret “zhvillimet pozitive” në Rripin e Gazës pas zbatimit të marrëveshjes së armëpushimit midis Izraelit dhe Hama..."
+    },
+    {
+      "title": "Inteligjenca izraelite njofton se Hamasi ka qasje në më shumë trupa pengjesh sesa pretendon",
+      "link": "https://www.balkanweb.com/inteligjenca-izraelite-thote-se-hamasi-ka-qasje-ne-me-shume-trupa-pengjesh-sesa-pretendon/",
+      "description": "Inteligjenca izraelite u ka thënë Shteteve të Bashkuara se Hamasi ka pasur qasje në më shumë trupa pengjesh sesa pretendon, sipas Axios. Duke cituar dy zyrtarë izraelitë dhe një zyrtar amerikan, agjencia e lajmeve raporton se Izraeli u ka thënë Shteteve të Bashkuara se Hamasi nuk po bën mjaftueshëm për të rikuperuar trupat e pengjeve […]",
+      "published": "Wed, 15 Oct 2025 22:40:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2827860",
+      "fetched_at": "2025-10-16T01:20:09.779091",
+      "ai_summary": "Inteligjenca izraelite u ka thënë Shteteve të Bashkuara se Hamasi ka pasur qasje në më shumë trupa pengjesh sesa pretendon, sipas Axios. Duke cituar dy zyrtarë izraelitë dhe një zyrtar amerikan, agjen..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
