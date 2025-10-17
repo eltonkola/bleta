@@ -1,6 +1,6 @@
 {
   "date": "2025-10-17",
-  "timestamp": "2025-10-17T03:00:46.024902",
+  "timestamp": "2025-10-17T04:21:29.223392",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,44 +9,70 @@
   },
   "articles": [
     {
-      "title": "Presidenti i Gjeorgjisë miraton ligjin që shtrëngon rregullat për mbajtjen e tubimeve",
-      "link": "https://www.balkanweb.com/presidenti-i-gjeorgjise-miraton-ligjin-qe-shtrengon-rregullat-per-mbajtjen-e-tubimeve/",
-      "description": "Presidenti i Gjeorgjisë, Mikheil Kavelashvili, ka nënshkruar një projektligj mbi amendamentet që shtrëngojnë rregullat për mbajtjen e tubimeve. Dokumenti u botua në Legislative Herald dhe ligji hyri zyrtarisht në fuqi. Sipas ligjit, fshehja e fytyrës pas maskave, fyerja e një oficeri të zbatimit të ligjit, si dhe prania e sendeve të ndaluara midis demonstruesve do […]",
-      "published": "Fri, 17 Oct 2025 02:00:43 +0000",
+      "title": "Trump: SHBA-të nuk do të marrin pjesë drejtpërdrejt në operacionet ushtarake kundër Hamasit",
+      "link": "https://www.balkanweb.com/trump-shba-te-nuk-do-te-marrin-pjese-drejtperdrejt-ne-operacionet-ushtarake-kunder-hamasit/",
+      "description": "Shtetet e Bashkuara nuk do të marrin pjesë drejtpërdrejt në operacionet ushtarake kundër lëvizjes radikale palestineze Hamas në Rripin e Gazës; këtë do ta trajtojnë aktorët rajonalë. Presidenti i SHBA-së Donald Trump e njoftoi këtë qëndrim gjatë një takimi me gazetarët në Shtëpinë e Bardhë. Ndërsa diskutonte operacionet e mundshme ushtarake kundër Hamasit, ai tha: […]",
+      "published": "Fri, 17 Oct 2025 04:00:14 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2828822",
-      "fetched_at": "2025-10-17T03:00:40.816941",
-      "ai_summary": "Presidenti i Gjeorgjisë, Mikheil Kavelashvili, ka nënshkruar një projektligj mbi amendamentet që shtrëngojnë rregullat për mbajtjen e tubimeve. Dokumenti u botua në Legislative Herald dhe ligji hyri z..."
+      "guid": "https://www.balkanweb.com/?p=2828868",
+      "fetched_at": "2025-10-17T04:21:23.625691",
+      "ai_summary": "Shtetet e Bashkuara nuk do të marrin pjesë drejtpërdrejt në operacionet ushtarake kundër lëvizjes radikale palestineze Hamas në Rripin e Gazës; këtë do ta trajtojnë aktorët rajonalë. Presidenti i SHBA..."
     },
     {
-      "title": "John Bolton akuzohet për keqpërdorim të informacionit të klasifikuar",
-      "link": "https://www.balkanweb.com/john-bolton-akuzohet-per-keqperdorim-te-informacionit-te-klasifikuar/",
-      "description": "Një juri e madhe në Merilend ka ngritur padi ndaj ish-këshilltarit të sigurisë kombëtare, John Bolton, për keqpërdorim të informacionit të klasifikuar. Sipas burimeve, Bolton mund të ketë ndarë informacione konfidenciale në korrespondencën me email me gruan dhe vajzën e tij. Ndërkohë, The New York Post vuri në dukje se Bolton me vetëdije u kaloi […]",
-      "published": "Fri, 17 Oct 2025 01:45:51 +0000",
+      "title": "Zëvendëspresidentja e Venezuelës mohon se ka negociuar me SHBA-në për të larguar Maduron nga pushteti",
+      "link": "https://www.balkanweb.com/zevendespresidentja-e-venezueles-mohon-se-ka-negociuar-me-shba-ne-per-te-larguar-maduron-nga-pushteti/",
+      "description": "Zëvendëspresidentja e Venezuelës, Delcy Rodriguez, mohoi të enjten se kishte negociuar me Shtetet e Bashkuara për të larguar Presidentin Nicolas Maduro nga pushteti, siç pretendoi një gazetë amerikane. Gazeta Miami Herald raportoi më herët të enjten se Rodriguez dhe vëllai i saj Jorge, kryetari i parlamentit, kishin negociuar me Uashingtonin për të larguar Presidentin Maduro […]",
+      "published": "Fri, 17 Oct 2025 03:50:16 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2828871",
-      "fetched_at": "2025-10-17T03:00:40.817105",
-      "ai_summary": "Një juri e madhe në Merilend ka ngritur padi ndaj ish-këshilltarit të sigurisë kombëtare, John Bolton, për keqpërdorim të informacionit të klasifikuar. Sipas burimeve, Bolton mund të ketë ndarë inform..."
+      "guid": "https://www.balkanweb.com/?p=2828874",
+      "fetched_at": "2025-10-17T04:21:23.625840",
+      "ai_summary": "Zëvendëspresidentja e Venezuelës, Delcy Rodriguez, mohoi të enjten se kishte negociuar me Shtetet e Bashkuara për të larguar Presidentin Nicolas Maduro nga pushteti, siç pretendoi një gazetë amerikane..."
     },
     {
-      "title": "Hamasi kërkon pajisje për të hequr rrënojat dhe për të gjetur trupat e pengjeve të mbetura",
-      "link": "https://www.balkanweb.com/hamasi-kerkon-pajisje-per-te-hequr-rrenojat-dhe-per-te-gjetur-trupat-e-pengjeve-te-mbetura/",
-      "description": "Hamasi pretendon se kthimi i trupave të pengjeve nga Gaza mund të kërkojë kohë, pasi trupat janë varrosur në tunele që dyshohet se janë shkatërruar nga Izraeli ose nën rrënojat e ndërtesave që grupi terrorist thotë se janë dëmtuar në sulmet izraelite. Rimëkëmbja e trupave të mbetur kërkon pajisje për të hequr rrënojat, të cilat […]",
-      "published": "Fri, 17 Oct 2025 01:30:15 +0000",
+      "title": "Boris Johnson pranon se ka përdorur ChatGPT për të shkruar librat e tij",
+      "link": "https://www.balkanweb.com/boris-johnson-pranon-se-ka-perdorur-chatgpt-per-te-shkruar-librat-e-tij/",
+      "description": "Ish-kryeministri i Mbretërisë së Bashkuar, Boris Johnson, ka zbuluar se përdor inteligjencën artificiale për të ndihmuar në shkrimin e librave të tij, duke shprehur entuziazmin e tij për teknologjinë dhe dashurinë e tij për ChatGPT . Në një intervistë me kanalin anglisht të AI Arabiya, Johnson tha: “Një gjë që më inkurajon vërtet është IA. […]",
+      "published": "Fri, 17 Oct 2025 03:45:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2828845",
-      "fetched_at": "2025-10-17T03:00:40.817187",
-      "ai_summary": "Hamasi pretendon se kthimi i trupave të pengjeve nga Gaza mund të kërkojë kohë, pasi trupat janë varrosur në tunele që dyshohet se janë shkatërruar nga Izraeli ose nën rrënojat e ndërtesave që grupi t..."
+      "guid": "https://www.balkanweb.com/?p=2828828",
+      "fetched_at": "2025-10-17T04:21:23.625925",
+      "ai_summary": "Ish-kryeministri i Mbretërisë së Bashkuar, Boris Johnson, ka zbuluar se përdor inteligjencën artificiale për të ndihmuar në shkrimin e librave të tij, duke shprehur entuziazmin e tij për teknologjinë ..."
+    },
+    {
+      "title": "Një i vdekur dhe 7 të plagosur nga sulmet izraelite në Liban",
+      "link": "https://www.balkanweb.com/nje-i-vdekur-dhe-7-te-plagosur-nga-sulmet-izraelite-ne-liban/",
+      "description": "Sulmet izraelite në Libanin jugor vranë të paktën një person dhe plagosën shtatë të tjerë të enjten, me ushtrinë izraelite që tha se kishte në shënjestër Hezbollahun dhe aleatët e tij, por presidenti i vendit tha në vend të kësaj se sulmet ishin në “vendndodhje politike”. Ministria libaneze e shëndetësisë tha se një person u […]",
+      "published": "Fri, 17 Oct 2025 03:30:25 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2828859",
+      "fetched_at": "2025-10-17T04:21:23.626006",
+      "ai_summary": "Sulmet izraelite në Libanin jugor vranë të paktën një person dhe plagosën shtatë të tjerë të enjten, me ushtrinë izraelite që tha se kishte në shënjestër Hezbollahun dhe aleatët e tij, por presidenti ..."
+    },
+    {
+      "title": "Shefi i OKB-së mirëpret armëpushimin ‘e përkohshëm’ Pakistan-Afganistan",
+      "link": "https://www.balkanweb.com/shefi-i-okb-se-mirepret-armepushimin-e-perkohshem-pakistan-afganistan/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, përshëndeti të enjten armëpushimin e përkohshëm të arritur së fundmi midis Pakistanit dhe Afganistanit , duke kërkuar “një fund të qëndrueshëm të luftimeve”. “Sekretari i Përgjithshëm ka ndjekur me shqetësim raportet për përleshje të armatosura midis Afganistanit dhe Pakistanit, të cilat kanë vrarë dhe plagosur shumë civilë, dhe […]",
+      "published": "Fri, 17 Oct 2025 03:00:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2828832",
+      "fetched_at": "2025-10-17T04:21:23.626091",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, përshëndeti të enjten armëpushimin e përkohshëm të arritur së fundmi midis Pakistanit dhe Afganistanit , duke kërkuar “një fund të qëndrueshëm të l..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 5,
   "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
