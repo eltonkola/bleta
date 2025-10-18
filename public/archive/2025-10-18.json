@@ -1,0 +1,28 @@
+{
+  "date": "2025-10-18",
+  "timestamp": "2025-10-18T01:16:16.731157",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "“Po ta takoja sot Hashim Thaçin do i thoja…”, Dilaver Goxhaj: Ja pse nuk duhej të votohej Gjykata Speciale",
+      "link": "https://www.balkanweb.com/po-ta-takoja-sot-hashim-thacin-do-i-thoja-dilaver-goxhaj-ja-pse-nuk-duhej-te-votohej-gjykata-speciale/",
+      "description": "Ish-zv/shefi i Shtabit të Përgjithshëm i UÇK-së Dilaver Goxhaj, i pyetur në “Kjo Javë”, se çfarë do t’i thonte sot Hashim Thaçit nëse do ta takonte sot. Goxhaj u shpreh se ajo që s’duhet të bënte ish-Presidenti i Kosovës ishte mosvotimi i Gjykatës Speciale. “O Hashim, do t’i thoja, koka bën, koka pëson, ç’ke moj […]",
+      "published": "Fri, 17 Oct 2025 20:54:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2829551",
+      "fetched_at": "2025-10-18T01:16:11.978799",
+      "ai_summary": "Ish-zv/shefi i Shtabit të Përgjithshëm i UÇK-së Dilaver Goxhaj, i pyetur në “Kjo Javë”, se çfarë do t’i thonte sot Hashim Thaçit nëse do ta takonte sot. Goxhaj u shpreh se ajo që s’duhet të bënte ish-..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
