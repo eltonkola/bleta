@@ -1,6 +1,6 @@
 {
   "date": "2025-10-21",
-  "timestamp": "2025-10-21T03:04:54.921040",
+  "timestamp": "2025-10-21T04:21:27.473649",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,71 +9,32 @@
   },
   "articles": [
     {
-      "title": "Rusia mirëpret armëpushimin midis Pakistanit dhe Afganistanit pas tensioneve kufitare",
-      "link": "https://www.balkanweb.com/rusia-mirepret-armepushimin-midis-pakistanit-dhe-afganistanit-pas-tensioneve-kufitare/",
-      "description": "Rusia përshëndeti të hënën një armëpushim midis Pakistanit dhe Afganistanit të ndërmjetësuar nga Katari dhe Turqia . “Ne mirëpresim marrëveshjen për një armëpushim të ndërsjellë përgjatë kufirit afgano-pakistanez, të arritur midis Kabulit dhe Islamabadit me ndërmjetësimin e autoriteteve të Katarit dhe Turqisë”, tha zëdhënësja e Ministrisë së Jashtme Maria Zakharova në një deklaratë. Zakharova argumentoi […]",
-      "published": "Tue, 21 Oct 2025 03:00:26 +0000",
+      "title": "“Nëna jote”, iu përgjigj zëdhënësja e Trump një gazetari i cili e pyeti se kush e sugjeroi Budapestin për takimin me Putinin",
+      "link": "https://www.balkanweb.com/nena-jote-iu-pergjigj-zedhenesja-e-trump-nje-gazetari-i-cili-e-pyeti-se-kush-e-sugjeroi-budapestin-per-takimin-me-putinin/",
+      "description": "Me një koment të pabesueshëm që vetëm një nxënës i shkollës fillore mund ta kishte bërë, zëdhënësja e Shtëpisë së Bardhë iu përgjigj pyetjes së një gazetari në lidhje me takimin e ardhshëm të Donald Trump me Vladimir Putin. Pyetja u bë nga një redaktor i HuffPost në lidhje me zgjedhjen e Budapestit, si më […]",
+      "published": "Tue, 21 Oct 2025 04:00:03 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831232",
-      "fetched_at": "2025-10-21T03:04:49.741304",
-      "ai_summary": "Rusia përshëndeti të hënën një armëpushim midis Pakistanit dhe Afganistanit të ndërmjetësuar nga Katari dhe Turqia . “Ne mirëpresim marrëveshjen për një armëpushim të ndërsjellë përgjatë kufirit afgan..."
+      "guid": "https://www.balkanweb.com/?p=2831235",
+      "fetched_at": "2025-10-21T04:21:22.604326",
+      "ai_summary": "Me një koment të pabesueshëm që vetëm një nxënës i shkollës fillore mund ta kishte bërë, zëdhënësja e Shtëpisë së Bardhë iu përgjigj pyetjes së një gazetari në lidhje me takimin e ardhshëm të Donald T..."
     },
     {
-      "title": "Trump: Konflikti Rusi-Ukrainë është i komplikuar nga armiqësia personale midis udhëheqësve të tyre",
-      "link": "https://www.balkanweb.com/trump-konflikti-rusi-ukraine-eshte-i-komplikuar-nga-armiqesia-personale-midis-udheheqesve-te-tyre/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha se konflikti Rusi-Ukrainë është i ndërlikuar nga armiqësia personale midis udhëheqësve të dy vendeve, por ai është i bindur se paqja është e mundur. Ai e bëri këtë deklaratë gjatë një darke dypalëshe me kryeministrin australian Anthony Albanese. “Mendoj se do ta arrijmë dëshirën tonë për të gjetur një […]",
-      "published": "Tue, 21 Oct 2025 02:30:30 +0000",
+      "title": "Gjykata e Apelit i lejon Trumpit të dërgojë Gardën Kombëtare në Portland",
+      "link": "https://www.balkanweb.com/gjykata-e-apelit-i-lejon-trumpit-te-dergoje-garden-kombetare-ne-portland/",
+      "description": "Një gjykatë apeli e ndarë vendosi të mërkurën që Presidenti Donald Trump mund të dërgojë Gardën Kombëtare në Portland , Oregon, pavarësisht kundërshtimeve nga shteti dhe qyteti, duke i dhënë presidentit republikan një fitore të madhe ligjore, ndërsa ai vendos trupa në një numër gjithnjë e në rritje të qyteteve të drejtuara nga demokratët. Gjykata […]",
+      "published": "Tue, 21 Oct 2025 03:30:44 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831258",
-      "fetched_at": "2025-10-21T03:04:49.741456",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se konflikti Rusi-Ukrainë është i ndërlikuar nga armiqësia personale midis udhëheqësve të dy vendeve, por ai është i bindur se paqja është e mundur. Ai e bëri k..."
-    },
-    {
-      "title": "Zelensky paraqet në parlament projektligje për zgjatjen e gjendjes ushtarake dhe mobilizimin në Ukrainë",
-      "link": "https://www.balkanweb.com/zelensky-paraqet-ne-parlament-projektligje-per-zgjatjen-e-gjendjes-ushtarake-dhe-mobilizimin-ne-ukraine/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky të hënën i paraqiti parlamentit dy projektligje për zgjatjen e gjendjes së jashtëzakonshme dhe mobilizimin e përgjithshëm ndërsa lufta me Rusinë vazhdon. Projektligjet u postuan në faqen e internetit të parlamentit, të njohur si Verkhovna Rada , duke thënë se ligji ushtarak dhe mobilizimi do të zgjaten për 90 ditë të […]",
-      "published": "Tue, 21 Oct 2025 02:00:09 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831229",
-      "fetched_at": "2025-10-21T03:04:49.741546",
-      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky të hënën i paraqiti parlamentit dy projektligje për zgjatjen e gjendjes së jashtëzakonshme dhe mobilizimin e përgjithshëm ndërsa lufta me Rusinë vazhdon. Projekt..."
-    },
-    {
-      "title": "Trump sinjalizon ulje të mundshme të tarifave në këmbim të lëshimeve nga Kina",
-      "link": "https://www.balkanweb.com/trump-sinjalizon-ulje-te-mundshme-te-tarifave-ne-kembim-te-leshimeve-nga-kina/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të dielën se Kina po i paguan “një shumë të jashtëzakonshme parash” në tarifa Shteteve të Bashkuara dhe sugjeroi se mund të marrë në konsideratë uljen e tyre nëse Pekini bën lëshime të reja ndërsa përgatitet për një udhëtim në Azi. “Ne kemi një marrëdhënie shumë të mirë me […]",
-      "published": "Tue, 21 Oct 2025 01:45:33 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831267",
-      "fetched_at": "2025-10-21T03:04:49.741626",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të dielën se Kina po i paguan “një shumë të jashtëzakonshme parash” në tarifa Shteteve të Bashkuara dhe sugjeroi se mund të marrë në konsideratë uljen e tyre në..."
-    },
-    {
-      "title": "Britania e Madhe është gati të ndajë 135 milionë dollarë për të dërguar trupa në Ukrainë",
-      "link": "https://www.balkanweb.com/britania-e-madhe-eshte-gati-te-ndaje-135-milione-dollare-per-te-derguar-trupa-ne-ukraine/",
-      "description": "Britania nuk po heq dorë nga ideja e dërgimit të trupave në Ukrainë pas ndërprerjes së armiqësive. Kostoja e vendosjes së një kontingjenti ushtarak vlerësohet në më shumë se 100 milionë paund (135 milionë dollarë). Kjo u deklarua nga Ministri Britanik i Mbrojtjes, John Healy. “Paqja është e mundur. Nëse Presidenti i SHBA-së Donald Trump […]",
-      "published": "Tue, 21 Oct 2025 01:30:48 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831252",
-      "fetched_at": "2025-10-21T03:04:49.741718",
-      "ai_summary": "Britania nuk po heq dorë nga ideja e dërgimit të trupave në Ukrainë pas ndërprerjes së armiqësive. Kostoja e vendosjes së një kontingjenti ushtarak vlerësohet në më shumë se 100 milionë paund (135 mil..."
+      "guid": "https://www.balkanweb.com/?p=2831238",
+      "fetched_at": "2025-10-21T04:21:22.604474",
+      "ai_summary": "Një gjykatë apeli e ndarë vendosi të mërkurën që Presidenti Donald Trump mund të dërgojë Gardën Kombëtare në Portland , Oregon, pavarësisht kundërshtimeve nga shteti dhe qyteti, duke i dhënë president..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
