@@ -1,6 +1,6 @@
 {
   "date": "2025-10-21",
-  "timestamp": "2025-10-21T01:22:13.384776",
+  "timestamp": "2025-10-21T03:04:54.921040",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,137 +9,72 @@
   },
   "articles": [
     {
-      "title": "Hamasi i dorëzon Izraelit trupin e një pengu tjetër",
-      "link": "https://www.balkanweb.com/hamasi-i-dorezon-izraelit-trupin-e-nje-pengu-tjeter/",
-      "description": "Organizata palestineze Hamas ia ka dorëzuar trupin e një pengu tjetër izraelit përfaqësuesve të Komitetit Ndërkombëtar të Kryqit të Kuq në Rripin e Gazës. Shërbimi për shtyp i Forcave të Mbrojtjes së Izraelit lëshoi ​​një deklaratë në lidhje me këtë. Emri i të ndjerit do të bëhet i ditur pas procedurës së identifikimit. Ky është […]",
-      "published": "Tue, 21 Oct 2025 01:00:33 +0000",
+      "title": "Rusia mirëpret armëpushimin midis Pakistanit dhe Afganistanit pas tensioneve kufitare",
+      "link": "https://www.balkanweb.com/rusia-mirepret-armepushimin-midis-pakistanit-dhe-afganistanit-pas-tensioneve-kufitare/",
+      "description": "Rusia përshëndeti të hënën një armëpushim midis Pakistanit dhe Afganistanit të ndërmjetësuar nga Katari dhe Turqia . “Ne mirëpresim marrëveshjen për një armëpushim të ndërsjellë përgjatë kufirit afgano-pakistanez, të arritur midis Kabulit dhe Islamabadit me ndërmjetësimin e autoriteteve të Katarit dhe Turqisë”, tha zëdhënësja e Ministrisë së Jashtme Maria Zakharova në një deklaratë. Zakharova argumentoi […]",
+      "published": "Tue, 21 Oct 2025 03:00:26 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831223",
-      "fetched_at": "2025-10-21T01:22:07.689042",
-      "ai_summary": "Organizata palestineze Hamas ia ka dorëzuar trupin e një pengu tjetër izraelit përfaqësuesve të Komitetit Ndërkombëtar të Kryqit të Kuq në Rripin e Gazës. Shërbimi për shtyp i Forcave të Mbrojtjes së ..."
+      "guid": "https://www.balkanweb.com/?p=2831232",
+      "fetched_at": "2025-10-21T03:04:49.741304",
+      "ai_summary": "Rusia përshëndeti të hënën një armëpushim midis Pakistanit dhe Afganistanit të ndërmjetësuar nga Katari dhe Turqia . “Ne mirëpresim marrëveshjen për një armëpushim të ndërsjellë përgjatë kufirit afgan..."
     },
     {
-      "title": "SHBA-ja dhe Australia do të investojnë 3 miliardë dollarë në nxjerrjen e mineraleve thelbësore",
-      "link": "https://www.balkanweb.com/shba-ja-dhe-australia-do-te-investojne-3-miliarde-dollare-ne-nxjerrjen-e-mineraleve-thelbesore/",
-      "description": "Qeveritë e SHBA-së dhe Australisë do të investojnë 3 miliardë dollarë në projekte për të nxjerrë minerale thelbësore. Sipas një dokumenti të publikuar pas një takimi midis Presidentit të SHBA-së Donald Trump dhe Kryeministrit Australian Anthony Albanese, vlera e burimeve që mund të nxirren nga këto projekte vlerësohet në 53 miliardë dollarë. Shtetet e Bashkuara […]",
-      "published": "Tue, 21 Oct 2025 00:30:51 +0000",
+      "title": "Trump: Konflikti Rusi-Ukrainë është i komplikuar nga armiqësia personale midis udhëheqësve të tyre",
+      "link": "https://www.balkanweb.com/trump-konflikti-rusi-ukraine-eshte-i-komplikuar-nga-armiqesia-personale-midis-udheheqesve-te-tyre/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha se konflikti Rusi-Ukrainë është i ndërlikuar nga armiqësia personale midis udhëheqësve të dy vendeve, por ai është i bindur se paqja është e mundur. Ai e bëri këtë deklaratë gjatë një darke dypalëshe me kryeministrin australian Anthony Albanese. “Mendoj se do ta arrijmë dëshirën tonë për të gjetur një […]",
+      "published": "Tue, 21 Oct 2025 02:30:30 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831249",
-      "fetched_at": "2025-10-21T01:22:07.689184",
-      "ai_summary": "Qeveritë e SHBA-së dhe Australisë do të investojnë 3 miliardë dollarë në projekte për të nxjerrë minerale thelbësore. Sipas një dokumenti të publikuar pas një takimi midis Presidentit të SHBA-së Donal..."
+      "guid": "https://www.balkanweb.com/?p=2831258",
+      "fetched_at": "2025-10-21T03:04:49.741456",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se konflikti Rusi-Ukrainë është i ndërlikuar nga armiqësia personale midis udhëheqësve të dy vendeve, por ai është i bindur se paqja është e mundur. Ai e bëri k..."
     },
     {
-      "title": "Trump: SHBA-të janë të gatshme të përdorin forcën kundër Hamasit",
-      "link": "https://www.balkanweb.com/trump-shba-te-jane-te-gatshme-te-perdorin-forcen-kunder-hamasit/",
-      "description": "Presidenti i SHBA-së, Donald Trump, është i bindur se shkeljet e armëpushimit në Rripin e Gazës nuk u sanksionuan nga udhëheqja e Hamasit. Ai e bëri këtë deklaratë ndërsa komentonte situatën në Rripin e Gazës me gazetarët gjatë një takimi me kryeministrin australian Anthony Albanese në Shtëpinë e Bardhë. “Nuk besoj se udhëheqja e Hamasit […]",
-      "published": "Tue, 21 Oct 2025 00:00:00 +0000",
+      "title": "Zelensky paraqet në parlament projektligje për zgjatjen e gjendjes ushtarake dhe mobilizimin në Ukrainë",
+      "link": "https://www.balkanweb.com/zelensky-paraqet-ne-parlament-projektligje-per-zgjatjen-e-gjendjes-ushtarake-dhe-mobilizimin-ne-ukraine/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky të hënën i paraqiti parlamentit dy projektligje për zgjatjen e gjendjes së jashtëzakonshme dhe mobilizimin e përgjithshëm ndërsa lufta me Rusinë vazhdon. Projektligjet u postuan në faqen e internetit të parlamentit, të njohur si Verkhovna Rada , duke thënë se ligji ushtarak dhe mobilizimi do të zgjaten për 90 ditë të […]",
+      "published": "Tue, 21 Oct 2025 02:00:09 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831218",
-      "fetched_at": "2025-10-21T01:22:07.689269",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, është i bindur se shkeljet e armëpushimit në Rripin e Gazës nuk u sanksionuan nga udhëheqja e Hamasit. Ai e bëri këtë deklaratë ndërsa komentonte situatën në Rripin..."
+      "guid": "https://www.balkanweb.com/?p=2831229",
+      "fetched_at": "2025-10-21T03:04:49.741546",
+      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky të hënën i paraqiti parlamentit dy projektligje për zgjatjen e gjendjes së jashtëzakonshme dhe mobilizimin e përgjithshëm ndërsa lufta me Rusinë vazhdon. Projekt..."
     },
     {
-      "title": "Trump miraton ndërtimin e sallës së re të banketeve në Shtëpinë e Bardhë",
-      "link": "https://www.balkanweb.com/trump-miraton-ndertimin-e-salles-se-re-te-banketeve-ne-shtepine-e-bardhe/",
-      "description": "Presidenti i SHBA-së, Donald Trump, ka konfirmuar se kanë filluar punimet në shkallë të gjerë për një projekt të ri salle banketesh në Shtëpinë e Bardhë. Udhëheqësi amerikan e bëri këtë deklaratë ndërsa priti dy ekipe bejsbolli me studentë në Sallën Lindore të Shtëpisë së Bardhë. “Po ndërtojmë një sallë banketesh menjëherë pas saj. Ata […]",
-      "published": "Mon, 20 Oct 2025 23:45:19 +0000",
+      "title": "Trump sinjalizon ulje të mundshme të tarifave në këmbim të lëshimeve nga Kina",
+      "link": "https://www.balkanweb.com/trump-sinjalizon-ulje-te-mundshme-te-tarifave-ne-kembim-te-leshimeve-nga-kina/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të dielën se Kina po i paguan “një shumë të jashtëzakonshme parash” në tarifa Shteteve të Bashkuara dhe sugjeroi se mund të marrë në konsideratë uljen e tyre nëse Pekini bën lëshime të reja ndërsa përgatitet për një udhëtim në Azi. “Ne kemi një marrëdhënie shumë të mirë me […]",
+      "published": "Tue, 21 Oct 2025 01:45:33 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831264",
-      "fetched_at": "2025-10-21T01:22:07.689352",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka konfirmuar se kanë filluar punimet në shkallë të gjerë për një projekt të ri salle banketesh në Shtëpinë e Bardhë. Udhëheqësi amerikan e bëri këtë deklaratë ndër..."
+      "guid": "https://www.balkanweb.com/?p=2831267",
+      "fetched_at": "2025-10-21T03:04:49.741626",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të dielën se Kina po i paguan “një shumë të jashtëzakonshme parash” në tarifa Shteteve të Bashkuara dhe sugjeroi se mund të marrë në konsideratë uljen e tyre në..."
     },
     {
-      "title": "Kolumbia tërheq ambasadorin nga SHBA-ja për shkak të debatit për tarifat dhe drogën",
-      "link": "https://www.balkanweb.com/kolumbia-terheq-ambasadorin-nga-shba-ja-per-shkak-te-debatit-per-tarifat-dhe-drogen/",
-      "description": "Ministria e Jashtme e Kolumbisë tha të hënën se vendi ka tërhequr ambasadorin e saj nga Shtetet e Bashkuara, pasi Presidenti i SHBA-së, Donald Trump, tha se do të rriste tarifat ndaj kombit të Amerikës së Jugut dhe do të ndalonte të gjitha pagesat ndaj tij, në një grindje që rrjedh nga sulmet ushtarake amerikane […]",
-      "published": "Mon, 20 Oct 2025 23:30:23 +0000",
+      "title": "Britania e Madhe është gati të ndajë 135 milionë dollarë për të dërguar trupa në Ukrainë",
+      "link": "https://www.balkanweb.com/britania-e-madhe-eshte-gati-te-ndaje-135-milione-dollare-per-te-derguar-trupa-ne-ukraine/",
+      "description": "Britania nuk po heq dorë nga ideja e dërgimit të trupave në Ukrainë pas ndërprerjes së armiqësive. Kostoja e vendosjes së një kontingjenti ushtarak vlerësohet në më shumë se 100 milionë paund (135 milionë dollarë). Kjo u deklarua nga Ministri Britanik i Mbrojtjes, John Healy. “Paqja është e mundur. Nëse Presidenti i SHBA-së Donald Trump […]",
+      "published": "Tue, 21 Oct 2025 01:30:48 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831244",
-      "fetched_at": "2025-10-21T01:22:07.689431",
-      "ai_summary": "Ministria e Jashtme e Kolumbisë tha të hënën se vendi ka tërhequr ambasadorin e saj nga Shtetet e Bashkuara, pasi Presidenti i SHBA-së, Donald Trump, tha se do të rriste tarifat ndaj kombit të Amerikë..."
-    },
-    {
-      "title": "Kishin shënuar në 18 ndeshje radhazi, Egnatia dhe Dinamo u ndanë pa gola për herë të fundit në…",
-      "link": "https://www.balkanweb.com/kishin-shenuar-ne-18-ndeshje-radhazi-egnatia-dhe-dinamo-u-ndane-pa-gola-per-here-te-fundit-ne/",
-      "description": "Egnatia dhe Dinamo ndanë nga një pikë në “Arena Egnatia” pasditen e së shtunës, me sfidën që u mbyll në barazim pa gola. Të dyja ekipet, po mundoheshin të mos gabonin ndërkohë që për herë të parë pas më shumë se 5 vitesh, një sfidë mes tyre mbyllet në barazim pa gola. Hera e […]",
-      "published": "Mon, 20 Oct 2025 23:22:36 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831275",
-      "fetched_at": "2025-10-21T01:22:07.689506",
-      "ai_summary": "Egnatia dhe Dinamo ndanë nga një pikë në “Arena Egnatia” pasditen e së shtunës, me sfidën që u mbyll në barazim pa gola. Të dyja ekipet, po mundoheshin të mos gabonin ndërkohë që për herë të parë pas ..."
-    },
-    {
-      "title": "Ministria e Jashtme hungareze: Nuk do ta bllokojmë paketën e re të sanksioneve të BE-së kundër Rusisë",
-      "link": "https://www.balkanweb.com/ministria-e-jashtme-hungareze-nuk-do-ta-bllokojme-paketen-e-re-te-sanksioneve-te-be-se-kunder-rusise/",
-      "description": "Budapesti zyrtar nuk ka ndërmend të bllokojë paketën e 19-të të sanksioneve të Bashkimit Evropian (BE) kundër Rusisë, pasi ka arritur të eliminojë të gjitha dispozitat me të cilat nuk pajtohet. “Nuk kemi plane ta bllokojmë këtë. Kemi arritur të eliminojmë të gjitha masat që janë në kundërshtim me interesat tona kombëtare”, tha ministri i […]",
-      "published": "Mon, 20 Oct 2025 23:00:36 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831215",
-      "fetched_at": "2025-10-21T01:22:07.715257",
-      "ai_summary": "Budapesti zyrtar nuk ka ndërmend të bllokojë paketën e 19-të të sanksioneve të Bashkimit Evropian (BE) kundër Rusisë, pasi ka arritur të eliminojë të gjitha dispozitat me të cilat nuk pajtohet. “Nuk k..."
-    },
-    {
-      "title": "Kaya Kallas: Kremlini do të fillojë negociatat me Ukrainën vetëm nëse ajo humbet",
-      "link": "https://www.balkanweb.com/kaya-kallas-kremlini-do-te-filloje-negociatat-me-ukrainen-vetem-nese-ajo-humbet/",
-      "description": "Situata me Ukrainën nuk ka ndryshuar, me Kievin gati për një armëpushim që nga shkurti. Por Moska nuk do të fillojë negociata të vërteta derisa të humbasë luftën. Sipas byrosë evropiane të Raportit , kjo u deklarua nga shefja e diplomacisë evropiane, Kaya Kallas, në një konferencë për shtyp mbi rezultatet e Këshillit të Punëve […]",
-      "published": "Mon, 20 Oct 2025 22:45:24 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831261",
-      "fetched_at": "2025-10-21T01:22:07.715376",
-      "ai_summary": "Situata me Ukrainën nuk ka ndryshuar, me Kievin gati për një armëpushim që nga shkurti. Por Moska nuk do të fillojë negociata të vërteta derisa të humbasë luftën. Sipas byrosë evropiane të Raportit , ..."
-    },
-    {
-      "title": "Zelensky: Ukraina planifikon të blejë 25 sisteme anti-ajrore Patriot nga SHBA-të",
-      "link": "https://www.balkanweb.com/zelensky-ukraina-planifikon-te-bleje-25-sisteme-anti-ajrore-patriot-nga-shba-te/",
-      "description": "Presidenti ukrainas Volodymyr Zelenskyy e përshkroi takimin e tij me Presidentin e SHBA-së Donald Trump në Uashington javën e kaluar si “të suksesshëm”, duke thënë se ishte bërë përparim në blerjen e sistemeve të reja kundërajrore nga Kievi. Vërejtjet kundërshtuan raportet se Trump e kishte abuzuar verbalisht në Shtëpinë e Bardhë. Udhëheqësi ukrainas bëri disa […]",
-      "published": "Mon, 20 Oct 2025 22:30:19 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831241",
-      "fetched_at": "2025-10-21T01:22:07.715460",
-      "ai_summary": "Presidenti ukrainas Volodymyr Zelenskyy e përshkroi takimin e tij me Presidentin e SHBA-së Donald Trump në Uashington javën e kaluar si “të suksesshëm”, duke thënë se ishte bërë përparim në blerjen e ..."
-    },
-    {
-      "title": "Kur babë e bir luajnë për të njëjtin klub të madh evropian - 10 raste fantastike",
-      "link": "https://telegrafi.com/kur-babe-e-bir-luajne-per-te-njejtin-klub-te-madh-evropian-10-raste-fantastike/",
-      "description": "Për shumë futbollistë, është një ëndërr që fëmijët e tyre të ndjekin hapat e tyre dhe të luajnë për klube të njohura, duke vazhduar trashëgiminë në futboll. Jo çdo fëmijë i një futbollisti të madh arrin të bëjë karrierë të shquar, por ka pasur shumë raste kur fëmijët e yjeve të futbollit kanë bërë ndikim në lojë.Në këto raste, genet dhe talenti natyror kanë luajtur rol, duke mundësuar që djali i futbollistit të trashëgojë cilësitë e babait dhe të mbajë emrin e familjes të shkëlqejë në fushë. Ja 10 nga çiftet më të njohura babë-djalë që kanë luajtur për të njëjtin klub, që konsiderohen si prej më të mëdhenjëve evropianë. 10. Zinedine Zidane dhe Enzo ZidaneZinedine Zidane pati një karrierë të jashtëzakonshme, veçanërisht te Real Madrid, ku luajti një rol kyç në fitimin e Ligës së Kampionëve 2001/02. Djali i tij, Enzo Zidane, debutoi te Real Madrid në sezonin 2015/16, por nuk arriti të bëjë karrierë të suksesshme dhe u tërhoq nga futbolli në 2023. 9. George Weah dhe Timothy WeahGeorge Weah është i vetmi afrikan që ka fituar Topin e Artë dhe ka luajtur për PSG, Marseille dhe AC Milan. Djali i tij, Timothy Weah, debutoi te PSG në sezonin 2017/18 dhe tani luan për Marseille, duke ndjekur hapat e babait. Dy klubet të njëjta për dyshen Weah. 8. Danny Blind dhe Daley Blind Danny Blind ishte një nga mbrojtësit më të mirë të kohës së tij te Ajax. Djali i tij, Daley Blind, u rrit në akademinë e Ajax dhe ka luajtur për Manchester United, duke rikthyer më pas te Ajax dhe aktualisht te Girona. 7. Frank Lampard Sr dhe Frank LampardFrank Lampard është një nga mesfushorët më të mëdhenj të Ligës Premier, ndërsa babai i tij, Frank Lampard Sr, luajti mbi 600 ndeshje për West Ham United. Të dy kanë luajtur te West Ham, por Frank Jr pati sukses të madh te Chelsea. 6. Carles Busquets dhe Sergio BusquetsCarles Busquets luajti për Barcelona dhe ishte një nga të preferuarit e Johan Cruyff. Djali i tij, Sergio Busquets, e tejkaloi babain me suksese, duke fituar La Liga, Ligë të Kampionëve dhe Kupën e Botës me Spanjën. 5. Diego Simeone dhe Giuliano SimeoneDiego Simeone është i njohur për lidhjen e gjatë me Atletico Madrid si lojtar dhe trajner. Djali i tij, Giuliano Simeone, ka luajtur për Atletico që nga 2022, duke u bërë një pjesë e rëndësishme e ekipit. 4. Lilian Thuram dhe Khephren ThuramLillian Thuram ishte një mbrojtës inteligjent dhe i fortë për Francën dhe klubet si Juventus dhe Barcelona. Djali i tij, Khephren, luan te Juventus dhe po përpiqet të vazhdojë trashëgiminë e familjes në futboll. 3. Alf-Inge Haaland dhe Erling HaalandAlf-Inge Haaland luajti për Leeds United dhe Man City, ndërsa djali i tij, Erling Haaland, u bë një fenomen te Manchester City, duke fituar dy tituj Ligës Premier dhe Ligën e Kampionve dhe duke 96 gola në 105 ndeshje Ligën Premier deri tani. 2. Johan Cruyff dhe Jordi CruyffJohan Cruyff është legjendë holandeze dhe pionier i futbollit total. Djali i tij, Jordi, debutoi te Barcelona nën drejtimin e babait të tij dhe luajti për klubin, megjithëse nuk arriti të arrijë nivelin e pabesueshëm të Johan. 1. Cesare Maldini dhe Paolo MaldiniCesare Maldini ishte një mbrojtës i madh për AC Milan dhe fitues i Ligës së Kampionëve. Djali i tij, Paolo Maldini, pati një karrierë legjendare 25-vjeçare te AC Milan, duke fituar shtatë tituj Serie A dhe pesë Liga të Kampionëve. Trashëgimia e familjes Maldini vazhdoi me Daniel Maldini, i cili aktualisht luan për Atalanta. /Telegrafi/",
-      "published": "Mon, 20 Oct 2025 22:35:01 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/kur-babe-e-bir-luajne-per-te-njejtin-klub-te-madh-evropian-10-raste-fantastike/",
-      "fetched_at": "2025-10-21T01:22:10.276813",
-      "ai_summary": "Për shumë futbollistë, është një ëndërr që fëmijët e tyre të ndjekin hapat e tyre dhe të luajnë për klube të njohura, duke vazhduar trashëgiminë në futboll. Jo çdo fëmijë i një futbollisti të madh arr..."
+      "guid": "https://www.balkanweb.com/?p=2831252",
+      "fetched_at": "2025-10-21T03:04:49.741718",
+      "ai_summary": "Britania nuk po heq dorë nga ideja e dërgimit të trupave në Ukrainë pas ndërprerjes së armiqësive. Kostoja e vendosjes së një kontingjenti ushtarak vlerësohet në më shumë se 100 milionë paund (135 mil..."
     }
   ],
-  "total_articles": 10,
+  "total_articles": 5,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
