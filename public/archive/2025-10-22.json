@@ -1,6 +1,6 @@
 {
   "date": "2025-10-22",
-  "timestamp": "2025-10-22T03:09:51.967570",
+  "timestamp": "2025-10-22T04:21:32.418718",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,71 +9,32 @@
   },
   "articles": [
     {
-      "title": "Spanja zotohet për mbështetje të vazhdueshme për Ukrainën deri në “paqe të drejtë dhe të qëndrueshme”",
-      "link": "https://www.balkanweb.com/spanja-zotohet-per-mbeshtetje-te-vazhdueshme-per-ukrainen-deri-ne-paqe-te-drejte-dhe-te-qendrueshme/",
-      "description": "Kryeministri spanjoll Pedro Sanchez riafirmoi të martën se Spanja do të vazhdojë të mbështesë Ukrainën “derisa të arrihet një paqe e drejtë dhe e qëndrueshme”. Në një postim në platformën amerikane të mediave sociale X, Sanchez tha se Spanja do të “vazhdojë të ofrojë ndihmë në koordinim me Ukrainën për të siguruar që ajo të […]",
-      "published": "Wed, 22 Oct 2025 03:00:32 +0000",
+      "title": "Kancelari gjerman Merz zbulon se ka filluar të testojë inteligjencën artificiale për të hartuar projektligje",
+      "link": "https://www.balkanweb.com/kancelari-gjerman-merz-zbulon-se-ka-filluar-te-testoje-inteligjencen-artificiale-per-te-hartuar-projektligje/",
+      "description": "Kancelari i Gjermanisë zbuloi të martën se ka filluar të eksperimentojë me inteligjencën artificiale për të hartuar legjislacion, duke thënë se teknologjia ofron aftësi “të mahnitshme”, por ka edhe kufizime. “Po, aktualisht po eksperimentoj me një sistem të inteligjencës artificiale në kompjuterin tim dhe po e testoj atë”, u tha Friedrich Merz gazetarëve gjatë një […]",
+      "published": "Wed, 22 Oct 2025 04:00:50 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831985",
-      "fetched_at": "2025-10-22T03:09:46.756237",
-      "ai_summary": "Kryeministri spanjoll Pedro Sanchez riafirmoi të martën se Spanja do të vazhdojë të mbështesë Ukrainën “derisa të arrihet një paqe e drejtë dhe e qëndrueshme”. Në një postim në platformën amerikane të..."
+      "guid": "https://www.balkanweb.com/?p=2831992",
+      "fetched_at": "2025-10-22T04:21:27.276710",
+      "ai_summary": "Kancelari i Gjermanisë zbuloi të martën se ka filluar të eksperimentojë me inteligjencën artificiale për të hartuar legjislacion, duke thënë se teknologjia ofron aftësi “të mahnitshme”, por ka edhe ku..."
     },
     {
-      "title": "Një tjetër varr masiv zbulohet në Siri. Shumica e viktimave ishin gra dhe fëmijë",
-      "link": "https://www.balkanweb.com/nje-tjeter-varr-masiv-zbulohet-ne-siri-shumica-e-viktimave-ishin-gra-dhe-femije/",
-      "description": "Ekipet e mbrojtjes civile siriane nxorën të martën mbetjet e 20 personave nga një varr masiv në lindje të qytetit të Doumës, në periferi të Damaskut. Shumica e mbetjeve duket se janë ato të fëmijëve dhe grave, raportoi rrjeti shtetëror, duke shtuar se hetuesit nuk ishin në gjendje të identifikonin viktimat. Ekipet e mbrojtjes civile […]",
-      "published": "Wed, 22 Oct 2025 02:30:21 +0000",
+      "title": "OKB: Ruajtja e armëpushimit në Gaza është ‘jetike’ për të ofruar ndihma dhe për të shpëtuar jetë",
+      "link": "https://www.balkanweb.com/okb-ruajtja-e-armepushimit-ne-gaza-eshte-jetike-per-te-ofruar-ndihma-dhe-per-te-shpetuar-jete/",
+      "description": "Mbajtja e armëpushimit në Gaza është thelbësore për ofrimin e ndihmës humanitare që shpëton jetë në territor, thanë të martën Kombet e Bashkuara, duke përsëritur një thirrje për hapjen e të gjitha kalimeve kufitare. “Ruajtja e armëpushimit është jetike; në të vërtetë është e vetmja mënyrë që mund të shpëtojmë jetë”, tha Abeer Etefa, zëdhënëse […]",
+      "published": "Wed, 22 Oct 2025 03:30:29 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832004",
-      "fetched_at": "2025-10-22T03:09:46.756408",
-      "ai_summary": "Ekipet e mbrojtjes civile siriane nxorën të martën mbetjet e 20 personave nga një varr masiv në lindje të qytetit të Doumës, në periferi të Damaskut. Shumica e mbetjeve duket se janë ato të fëmijëve d..."
-    },
-    {
-      "title": "KE nuk ka ndërmend të ndalojë furnizimin me gaz rus për Serbinë",
-      "link": "https://www.balkanweb.com/ke-nuk-ka-ndermend-te-ndaloje-furnizimin-me-gaz-rus-per-serbine/",
-      "description": "Komisioni Evropian nuk ka ndërmend të ndalojë furnizimin me gaz rus për Serbinë. Kjo u deklarua nga Komisionerja e Zgjerimit të Bashkimit Evropian, Marta Cos, gjatë fjalimit të saj në Parlamentin Evropian. Sipas tij, ditën tjetër, Këshilli i Bashkimit Evropian miratoi qëndrimin e tij mbi planin “RePowerEU”, i cili përfshin një ndalim të plotë të […]",
-      "published": "Wed, 22 Oct 2025 02:00:51 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831982",
-      "fetched_at": "2025-10-22T03:09:46.756494",
-      "ai_summary": "Komisioni Evropian nuk ka ndërmend të ndalojë furnizimin me gaz rus për Serbinë. Kjo u deklarua nga Komisionerja e Zgjerimit të Bashkimit Evropian, Marta Cos, gjatë fjalimit të saj në Parlamentin Evro..."
-    },
-    {
-      "title": "Prania ushtarake turke në Siri dhe Irak zgjatet edhe për tre vjet të tjera",
-      "link": "https://www.balkanweb.com/prania-ushtarake-turke-ne-siri-dhe-irak-zgjatet-edhe-per-tre-vjet-te-tjera/",
-      "description": "Asambleja e Madhe Kombëtare Turke ka miratuar zgjatjen e vendosjes ushtarake turke në Irak dhe Siri për tre vjet të tjera, duke filluar nga 30 tetori 2025. Dekreti përkatës iu dërgua Parlamentit për votim nga Presidenti Rexhep Tajip Erdogan, duke vënë në dukje se “kërcënimi i vazhdueshëm terrorist në zonat që kufizohen me kufijtë tokësorë […]",
-      "published": "Wed, 22 Oct 2025 01:45:26 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832017",
-      "fetched_at": "2025-10-22T03:09:46.756580",
-      "ai_summary": "Asambleja e Madhe Kombëtare Turke ka miratuar zgjatjen e vendosjes ushtarake turke në Irak dhe Siri për tre vjet të tjera, duke filluar nga 30 tetori 2025. Dekreti përkatës iu dërgua Parlamentit për v..."
-    },
-    {
-      "title": "55 persona që punojnë për inteligjencën e huaj janë ndaluar në Poloni në muajt e fundit",
-      "link": "https://www.balkanweb.com/55-persona-qe-punojne-per-inteligjencen-e-huaj-jane-ndaluar-ne-poloni-ne-muajt-e-fundit/",
-      "description": "Zyrtarët e Agjencisë Polake të Sigurisë së Brendshme kanë arrestuar 55 persona të dyshuar se punojnë për inteligjencën e huaj në muajt e fundit. Kjo u deklarua nga Jacek Dobzinski, sekretari i shtypit i koordinatorit të shërbimeve speciale, në një konferencë për shtyp. “Në muajt e fundit, punonjësit e Agjencisë së Sigurisë së Brendshme kanë […]",
-      "published": "Wed, 22 Oct 2025 01:30:08 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2831998",
-      "fetched_at": "2025-10-22T03:09:46.756661",
-      "ai_summary": "Zyrtarët e Agjencisë Polake të Sigurisë së Brendshme kanë arrestuar 55 persona të dyshuar se punojnë për inteligjencën e huaj në muajt e fundit. Kjo u deklarua nga Jacek Dobzinski, sekretari i shtypit..."
+      "guid": "https://www.balkanweb.com/?p=2832007",
+      "fetched_at": "2025-10-22T04:21:27.276878",
+      "ai_summary": "Mbajtja e armëpushimit në Gaza është thelbësore për ofrimin e ndihmës humanitare që shpëton jetë në territor, thanë të martën Kombet e Bashkuara, duke përsëritur një thirrje për hapjen e të gjitha kal..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
