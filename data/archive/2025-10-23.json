@@ -1,0 +1,145 @@
+{
+  "date": "2025-10-23",
+  "timestamp": "2025-10-23T01:21:40.487783",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Scott Bessent: SHBA-të do të shtrëngojnë sanksionet ndaj Rusisë",
+      "link": "https://www.balkanweb.com/scott-bessent-shba-te-do-te-shtrengojne-sanksionet-ndaj-rusise/",
+      "description": "Sekretari i Thesarit i SHBA-së, Scott Bessent, njoftoi se administrata Trump do të shtrëngojë sanksionet ndaj Rusisë, pasi një takim i planifikuar midis Presidentit të SHBA-së, Donald Trump, dhe homologut të tij rus u anulua papritur. “Do të njoftojmë, qoftë pas mbylljes së kësaj pasdite, ose gjëja e parë që do të bëjmë nesër në […]",
+      "published": "Thu, 23 Oct 2025 01:00:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832752",
+      "fetched_at": "2025-10-23T01:21:34.771186",
+      "ai_summary": "Sekretari i Thesarit i SHBA-së, Scott Bessent, njoftoi se administrata Trump do të shtrëngojë sanksionet ndaj Rusisë, pasi një takim i planifikuar midis Presidentit të SHBA-së, Donald Trump, dhe homol..."
+    },
+    {
+      "title": "Numri i të vdekurve nga ethet Lassa në Nigeri rritet në 172",
+      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-ethet-lassa-ne-nigeri-rritet-ne-172/",
+      "description": "Numri i të vdekurve nga shpërthimi i etheve Lassa në Nigeri, vendi më i populluar i Afrikës, është rritur në 172 që nga fillimi i këtij viti, thanë të mërkurën autoritetet e shëndetit publik. Qendra Nigeriane për Kontrollin dhe Parandalimin e Sëmundjeve (NCDC) tha në përditësimin e saj të fundit se 924 raste të konfirmuara […]",
+      "published": "Thu, 23 Oct 2025 00:45:37 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832822",
+      "fetched_at": "2025-10-23T01:21:34.771329",
+      "ai_summary": "Numri i të vdekurve nga shpërthimi i etheve Lassa në Nigeri, vendi më i populluar i Afrikës, është rritur në 172 që nga fillimi i këtij viti, thanë të mërkurën autoritetet e shëndetit publik. Qendra N..."
+    },
+    {
+      "title": "Sllovenia dhe Norvegjia i kërkojnë Izraelit të përmbushë vendimin e GJND-së mbi detyrimet në territoret e pushtuara palestineze",
+      "link": "https://www.balkanweb.com/sllovenia-dhe-norvegjia-i-kerkojne-izraelit-te-permbushe-vendimin-e-gjnd-se-mbi-detyrimet-ne-territoret-e-pushtuara-palestineze/",
+      "description": "Sllovenia dhe Norvegjia mirëpritën të mërkurën sqarimin e fundit të Gjykatës Ndërkombëtare të Drejtësisë (GJND) mbi detyrimet ligjore të Izraelit në territoret e pushtuara palestineze , duke i kërkuar Tel Avivit të përmbushë plotësisht ligjin ndërkombëtar humanitar dhe të të drejtave të njeriut. Ministria e Jashtme e Sllovenisë tha se vendi “mirëpret sqarimin gjithëpërfshirës të […]",
+      "published": "Thu, 23 Oct 2025 00:30:15 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832797",
+      "fetched_at": "2025-10-23T01:21:34.771413",
+      "ai_summary": "Sllovenia dhe Norvegjia mirëpritën të mërkurën sqarimin e fundit të Gjykatës Ndërkombëtare të Drejtësisë (GJND) mbi detyrimet ligjore të Izraelit në territoret e pushtuara palestineze , duke i kërkuar..."
+    },
+    {
+      "title": "Studiuesit japonezë zbulojnë një specie të re të anemonit të detit",
+      "link": "https://www.balkanweb.com/studiuesit-japoneze-zbulojne-nje-specie-te-re-te-anemonit-te-detit/",
+      "description": "Një ekip studiuesish nga Universiteti Kumamoto ka identifikuar një specie të re të anemonit të detit të gjetur në shtratin e thellë të detit pranë brigjeve të Japonisë , sipas një studimi të botuar të mërkurën në revistën Open Science të Shoqërisë Mbretërore Britanike. Anemona e detit ngjitet në guaskën e një specie specifike të […]",
+      "published": "Thu, 23 Oct 2025 00:00:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832749",
+      "fetched_at": "2025-10-23T01:21:34.771519",
+      "ai_summary": "Një ekip studiuesish nga Universiteti Kumamoto ka identifikuar një specie të re të anemonit të detit të gjetur në shtratin e thellë të detit pranë brigjeve të Japonisë , sipas një studimi të botuar të..."
+    },
+    {
+      "title": "Senati amerikan dështon përsëri të miratojë projektligjin për financimin e qeverisë",
+      "link": "https://www.balkanweb.com/senati-amerikan-deshton-perseri-te-miratoje-projektligjin-per-financimin-e-qeverise/",
+      "description": "Senati i SHBA-së më 22 tetor hodhi poshtë një projektligj të udhëhequr nga republikanët për të financuar qeverinë federale për herë të dymbëdhjetë në javët e fundit. Qeveria aktualisht është pjesërisht e mbyllur. Mbledhja ku u mor vendimi u transmetua nga C-SPAN. Gjatë votimit procedural, dokumenti, i hartuar nga republikanët dhe i miratuar fillimisht nga […]",
+      "published": "Wed, 22 Oct 2025 23:50:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832833",
+      "fetched_at": "2025-10-23T01:21:34.771598",
+      "ai_summary": "Senati i SHBA-së më 22 tetor hodhi poshtë një projektligj të udhëhequr nga republikanët për të financuar qeverinë federale për herë të dymbëdhjetë në javët e fundit. Qeveria aktualisht është pjesërish..."
+    },
+    {
+      "title": "Shumica e amerikanëve mbështesin njohjen e shtetësisë palestineze nga SHBA-ja",
+      "link": "https://www.balkanweb.com/shumica-e-amerikaneve-mbeshtesin-njohjen-e-shtetesise-palestineze-nga-shba-ja/",
+      "description": "Shumica e amerikanëve – përfshirë 80% të demokratëve dhe 41% të republikanëve – mendojnë se SHBA-të duhet ta njohin shtetësinë palestineze, një shenjë se kundërshtimi i Presidentit Donald Trump për ta bërë këtë nuk është në përputhje me opinionin publik, zbuloi një sondazh i Reuters/Ipsos. Sondazhi gjashtëditor, i cili u mbyll të hënën, zbuloi se […]",
+      "published": "Wed, 22 Oct 2025 23:45:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832815",
+      "fetched_at": "2025-10-23T01:21:34.771673",
+      "ai_summary": "Shumica e amerikanëve – përfshirë 80% të demokratëve dhe 41% të republikanëve – mendojnë se SHBA-të duhet ta njohin shtetësinë palestineze, një shenjë se kundërshtimi i Presidentit Donald Trump për ta..."
+    },
+    {
+      "title": "Shefi i OKB-së: Ngrohja globale po e çon planetin drejt greminës",
+      "link": "https://www.balkanweb.com/shefi-i-okb-se-ngrohja-globale-po-e-con-planetin-drejt-gremines/",
+      "description": "Sekretari i Përgjithshëm i Kombeve të Bashkuara, Antonio Guterres, paralajmëroi të mërkurën se ngrohja globale po e çon planetin drejt greminës dhe u bëri thirrje vendeve të zbatojnë sisteme paralajmërimi për fatkeqësi për të mbrojtur njerëzit nga moti ekstrem. “Çdo njëri prej dhjetë viteve të fundit ka qenë më i nxehti në histori. Nxehtësia e […]",
+      "published": "Wed, 22 Oct 2025 23:30:37 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832780",
+      "fetched_at": "2025-10-23T01:21:34.771761",
+      "ai_summary": "Sekretari i Përgjithshëm i Kombeve të Bashkuara, Antonio Guterres, paralajmëroi të mërkurën se ngrohja globale po e çon planetin drejt greminës dhe u bëri thirrje vendeve të zbatojnë sisteme paralajmë..."
+    },
+    {
+      "title": "37 të arrestuar në Greqi për mashtrim me subvencionet bujqësore të BE-së",
+      "link": "https://www.balkanweb.com/37-te-arrestuar-ne-greqi-per-mashtrim-me-subvencionet-bujqesore-te-be-se/",
+      "description": "Policia greke ka arrestuar 37 persona në një operacion mbarëkombëtar që synonte një rrjet kriminal të akuzuar për mashtrim të sistemit të subvencioneve bujqësore të Bashkimit Evropian (BE), thanë autoritetet të mërkurën. Sipas Policisë Helenike, operacioni u krye nga Divizioni i Krimit të Organizuar në Selanik, Pella, Janinë, Atikë dhe Kretë. Të dyshuarit dyshohet se […]",
+      "published": "Wed, 22 Oct 2025 23:00:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832746",
+      "fetched_at": "2025-10-23T01:21:34.771843",
+      "ai_summary": "Policia greke ka arrestuar 37 persona në një operacion mbarëkombëtar që synonte një rrjet kriminal të akuzuar për mashtrim të sistemit të subvencioneve bujqësore të Bashkimit Evropian (BE), thanë auto..."
+    },
+    {
+      "title": "Trump do të mbërrijë në Japoni të hënën për një vizitë tre-ditore",
+      "link": "https://www.balkanweb.com/trump-do-te-mberrije-ne-japoni-te-henen-per-nje-vizite-tre-ditore/",
+      "description": "Qeveria japoneze tha të mërkurën se Presidenti i SHBA-së, Donald Trump, do të mbërrijë në Japoni të hënën për një vizitë tre-ditore. Sekretari i Përgjithshëm i Kabinetit, Minoru Kihara, tha se Trump do të takohet me Perandorin Naruhito dhe Kryeministrin e sapozgjedhur Sanae Takaichi gjatë vizitës së tij, sipas Kyodo News. Trump do të vizitojë […]",
+      "published": "Wed, 22 Oct 2025 22:45:01 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832812",
+      "fetched_at": "2025-10-23T01:21:34.771918",
+      "ai_summary": "Qeveria japoneze tha të mërkurën se Presidenti i SHBA-së, Donald Trump, do të mbërrijë në Japoni të hënën për një vizitë tre-ditore. Sekretari i Përgjithshëm i Kabinetit, Minoru Kihara, tha se Trump d..."
+    },
+    {
+      "title": "Arrestohet figura kryesore e opozitës në Tanzani",
+      "link": "https://www.balkanweb.com/arrestohet-figura-kryesore-e-opozites-ne-tanzani/",
+      "description": "Një figurë kyçe në partinë kryesore të opozitës në Tanzani u arrestua të mërkurën, ndalimi i fundit në një goditje të vazhdueshme ndaj zërave disidentë përpara zgjedhjeve të përgjithshme të javës së ardhshme. Presidentja Samia Suluhu Hassan po kërkon zgjedhje më 29 tetor, pasi u bë udhëheqëse pas vdekjes së paraardhësit autoritar John Magafuli në […]",
+      "published": "Wed, 22 Oct 2025 22:30:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2832775",
+      "fetched_at": "2025-10-23T01:21:34.771991",
+      "ai_summary": "Një figurë kyçe në partinë kryesore të opozitës në Tanzani u arrestua të mërkurën, ndalimi i fundit në një goditje të vazhdueshme ndaj zërave disidentë përpara zgjedhjeve të përgjithshme të javës së a..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
