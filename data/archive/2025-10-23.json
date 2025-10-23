@@ -1,6 +1,6 @@
 {
   "date": "2025-10-23",
-  "timestamp": "2025-10-23T03:02:36.450538",
+  "timestamp": "2025-10-23T04:21:14.119203",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,69 +9,56 @@
   },
   "articles": [
     {
-      "title": "Shefi i NATO-s mirëpret sanksionet e Trump ndaj kompanive ruse të naftës",
-      "link": "https://www.balkanweb.com/shefi-i-nato-s-mirepret-sanksionet-e-trump-ndaj-kompanive-ruse-te-naftes/",
-      "description": "Sekretari i Përgjithshëm i NATO-s, Mark Rutte, përshëndeti të mërkurën vendimin e administratës Trump për të vendosur sanksione ndaj dy kompanive më të mëdha të naftës në Rusi, ndërsa bëri thirrje për më shumë presion mbi Moskën për të ndaluar luftën e saj në Ukrainë. “Ajo që presidenti po bën sot me këto sanksione është […]",
-      "published": "Thu, 23 Oct 2025 02:45:55 +0000",
+      "title": "Donald Trump vendos sanksione ndaj dy firmave më të mëdha të naftës në Rusi",
+      "link": "https://www.balkanweb.com/donald-trump-vendos-sanksione-ndaj-dy-firmave-me-te-medha-te-naftes-ne-rusi/",
+      "description": "Zyra e Kontrollit të Aseteve të Huaja (OFAC) e Departamentit të Thesarit të SHBA-së njoftoi sot sanksione të reja ndaj dy prej kompanive më të mëdha të naftës ruse, Rosneft dhe Lukoil, për shkak të refuzimit të Rusisë për të marrë angazhime serioze për të zgjidhur në mënyrë paqësore konfliktin në Ukrainë . Presidenti i […]",
+      "published": "Thu, 23 Oct 2025 04:00:19 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832830",
-      "fetched_at": "2025-10-23T03:02:31.078150",
-      "ai_summary": "Sekretari i Përgjithshëm i NATO-s, Mark Rutte, përshëndeti të mërkurën vendimin e administratës Trump për të vendosur sanksione ndaj dy kompanive më të mëdha të naftës në Rusi, ndërsa bëri thirrje për..."
+      "guid": "https://www.balkanweb.com/?p=2832762",
+      "fetched_at": "2025-10-23T04:21:09.180871",
+      "ai_summary": "Zyra e Kontrollit të Aseteve të Huaja (OFAC) e Departamentit të Thesarit të SHBA-së njoftoi sot sanksione të reja ndaj dy prej kompanive më të mëdha të naftës ruse, Rosneft dhe Lukoil, për shkak të re..."
     },
     {
-      "title": "Rreth 20 protestues të arrestuar në Tbilisi",
-      "link": "https://www.balkanweb.com/rreth-20-protestues-te-arrestuar-ne-tbilisi/",
-      "description": "Rreth 20 persona u arrestuan gjatë një proteste tjetër në kryeqytetin gjeorgjian, Tbilisi. Shërbimi për shtyp i Ministrisë së Punëve të Brendshme të Gjeorgjisë lëshoi ​​një deklaratë në lidhje me këtë. “Pavarësisht paralajmërimeve të përsëritura nga policia patrulluese për papranueshmërinë e veprimeve të paligjshme, protestuesit bllokuan rrugën në Rustaveli Avenue pa baza ligjore”, thuhet në […]",
-      "published": "Thu, 23 Oct 2025 02:30:34 +0000",
+      "title": "Shpërthime të gripit të shpendëve u zbuluan në Holandë, Belgjikë dhe Sllovaki",
+      "link": "https://www.balkanweb.com/shperthime-te-gripit-te-shpendeve-u-zbuluan-ne-holande-belgjike-dhe-sllovaki/",
+      "description": "Autoritetet holandeze do të therrin rreth 161,000 pula në një fermë shpendësh në pjesën qendrore-lindore të vendit, pasi atje u zbulua një shpërthim i gripit të shpendëve , tha qeveria të premten. Shpërthimi ka çuar në një ndalim udhëtimi prej 10 kilometrash (6 milje) përreth fermës, gjë që prek edhe 26 të tjera në të […]",
+      "published": "Thu, 23 Oct 2025 03:45:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832806",
-      "fetched_at": "2025-10-23T03:02:31.078302",
-      "ai_summary": "Rreth 20 persona u arrestuan gjatë një proteste tjetër në kryeqytetin gjeorgjian, Tbilisi. Shërbimi për shtyp i Ministrisë së Punëve të Brendshme të Gjeorgjisë lëshoi ​​një deklaratë në lidhje me këtë..."
+      "guid": "https://www.balkanweb.com/?p=2832818",
+      "fetched_at": "2025-10-23T04:21:09.181034",
+      "ai_summary": "Autoritetet holandeze do të therrin rreth 161,000 pula në një fermë shpendësh në pjesën qendrore-lindore të vendit, pasi atje u zbulua një shpërthim i gripit të shpendëve , tha qeveria të premten. Shp..."
     },
     {
-      "title": "Eksperti i OKB-së dënon sulmet ‘e paligjshme’ të SHBA-së ndaj anijeve të dyshuara për drogë",
-      "link": "https://www.balkanweb.com/eksperti-i-okb-se-denon-sulmet-e-paligjshme-te-shba-se-ndaj-anijeve-te-dyshuara-per-droge/",
-      "description": "Eksperti më i lartë i OKB – së për antiterrorizëm dhe të drejta të njeriut dënoi të mërkurën sulmet e fundit të SHBA-së ndaj anijeve të dyshuara për drogë në Karaibe dhe Paqësor, duke i quajtur ato “vrasje të paligjshme” sipas ligjit ndërkombëtar. Ben Saul u tha gazetarëve në një konferencë për shtyp në selinë […]",
-      "published": "Thu, 23 Oct 2025 02:00:50 +0000",
+      "title": "Vaksinat kundër COVID-19 mund të ndihmojnë disa pacientë me kancer të luftojnë tumoret",
+      "link": "https://www.balkanweb.com/vaksinat-kunder-covid-19-mund-te-ndihmojne-disa-paciente-me-kancer-te-luftojne-tumoret/",
+      "description": "Vaksinat më të përdorura kundër COVID-19 mund të ofrojnë një përfitim surprizë për disa pacientë me kancer – duke rritur sistemin e tyre imunitar për të ndihmuar në luftimin e tumoreve. Njerëzit me kancer të avancuar të mushkërive ose të lëkurës që merrnin ilaçe të caktuara imunoterapie jetonin dukshëm më gjatë nëse merrnin edhe një […]",
+      "published": "Thu, 23 Oct 2025 03:30:16 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832756",
-      "fetched_at": "2025-10-23T03:02:31.078399",
-      "ai_summary": "Eksperti më i lartë i OKB – së për antiterrorizëm dhe të drejta të njeriut dënoi të mërkurën sulmet e fundit të SHBA-së ndaj anijeve të dyshuara për drogë në Karaibe dhe Paqësor, duke i quajtur ato “v..."
+      "guid": "https://www.balkanweb.com/?p=2832809",
+      "fetched_at": "2025-10-23T04:21:09.181119",
+      "ai_summary": "Vaksinat më të përdorura kundër COVID-19 mund të ofrojnë një përfitim surprizë për disa pacientë me kancer – duke rritur sistemin e tyre imunitar për të ndihmuar në luftimin e tumoreve. Njerëzit me ka..."
     },
     {
-      "title": "Trump: Është koha për të arritur një marrëveshje për zgjidhjen e konfliktit Rusi-Ukrainë",
-      "link": "https://www.balkanweb.com/trump-eshte-koha-per-te-arritur-nje-marreveshje-per-zgjidhjen-e-konfliktit-rusi-ukraine/",
-      "description": "Presidenti i SHBA-së, Donald Trump, ka deklaruar se është koha për të arritur marrëveshje për t’i dhënë fund konfliktit Rusi-Ukrainë. Udhëheqësi amerikan e bëri këtë deklaratë për gazetarët në Shtëpinë e Bardhë pas një takimi me Sekretarin e Përgjithshëm të NATO-s Mark Rutte. “Do të thoja se është koha për të bërë një marrëveshje”, theksoi […]",
-      "published": "Thu, 23 Oct 2025 01:45:17 +0000",
+      "title": "OKB paralajmëron se ndihmat po pengohen në Gaza, pasi kalimet e mbyllura bllokojnë dërgesat",
+      "link": "https://www.balkanweb.com/okb-paralajmeron-se-ndihmat-po-pengohen-ne-gaza-pasi-kalimet-e-mbyllura-bllokojne-dergesat/",
+      "description": "OKB -ja paralajmëroi të mërkurën se ndihma humanitare në Rripin e Gazës po pengohet nga kalimet kufitare të mbyllura nga Izraeli , edhe pse familjet lëvizin në zona që janë bërë të arritshme që nga armëpushimi i 10 tetorit. Duke cituar Zyrën për Koordinimin e Çështjeve Humanitare (OCHA) , zëdhënësi i OKB-së, Farhan Haq, raportoi […]",
+      "published": "Thu, 23 Oct 2025 03:00:00 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832825",
-      "fetched_at": "2025-10-23T03:02:31.078493",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka deklaruar se është koha për të arritur marrëveshje për t’i dhënë fund konfliktit Rusi-Ukrainë. Udhëheqësi amerikan e bëri këtë deklaratë për gazetarët në Shtëpin..."
-    },
-    {
-      "title": "Bessent shpreson që takimi midis udhëheqësve amerikanë dhe kinezë do të jetë pozitiv",
-      "link": "https://www.balkanweb.com/bessent-shpreson-qe-takimi-midis-udheheqesve-amerikane-dhe-kineze-do-te-jete-pozitiv/",
-      "description": "Sekretari i Thesarit i SHBA-së, Scott Bessent, tha se bisedimet e ardhshme me zëvendëskryeministrin kinez He Lifeng do të hapin rrugën për një takim më pozitiv midis Donald Trump dhe Xi Jinping. Bessent e tha këtë në një intervistë me kanalin televiziv Fox Business. “Përfaqësuesi i Tregtisë i SHBA-së, Jamieson Greer, është nisur tashmë për […]",
-      "published": "Thu, 23 Oct 2025 01:30:35 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2832802",
-      "fetched_at": "2025-10-23T03:02:31.078583",
-      "ai_summary": "Sekretari i Thesarit i SHBA-së, Scott Bessent, tha se bisedimet e ardhshme me zëvendëskryeministrin kinez He Lifeng do të hapin rrugën për një takim më pozitiv midis Donald Trump dhe Xi Jinping. Besse..."
+      "guid": "https://www.balkanweb.com/?p=2832759",
+      "fetched_at": "2025-10-23T04:21:09.181202",
+      "ai_summary": "OKB -ja paralajmëroi të mërkurën se ndihma humanitare në Rripin e Gazës po pengohet nga kalimet kufitare të mbyllura nga Izraeli , edhe pse familjet lëvizin në zona që janë bërë të arritshme që nga ar..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 4,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
