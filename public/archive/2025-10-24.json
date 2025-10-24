@@ -1,0 +1,119 @@
+{
+  "date": "2025-10-24",
+  "timestamp": "2025-10-24T01:18:00.178016",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Ministria e Mbrojtjes e Lituanisë: Avionët rusë shkelën hapësirën ajrore të vendit",
+      "link": "https://www.balkanweb.com/ministria-e-mbrojtjes-e-lituanise-avionet-ruse-shkelen-hapesiren-ajrore-te-vendit/",
+      "description": "Avionët luftarakë të misionit të NATO-s në Lituani u ngritën në ajër pasi avionë të Forcave Hapësinore Ruse shkelën hapësirën ajrore të vendit. Shërbimi për Shtyp i Ministrisë së Mbrojtjes lituaneze e raportoi këtë. “Më 23 tetor, rreth orës 18:00, Forcat Ajrore Lituaneze zbuluan një shkelje të kufirit shtetëror pranë Kibartai (një qytet që kufizohet […]",
+      "published": "Fri, 24 Oct 2025 01:00:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833545",
+      "fetched_at": "2025-10-24T01:17:54.476542",
+      "ai_summary": "Avionët luftarakë të misionit të NATO-s në Lituani u ngritën në ajër pasi avionë të Forcave Hapësinore Ruse shkelën hapësirën ajrore të vendit. Shërbimi për Shtyp i Ministrisë së Mbrojtjes lituaneze e..."
+    },
+    {
+      "title": "Ministri i Mbrojtjes i Venezuelës zotohet se çdo operacion i CIA-s kundër vendit ‘do të dështojë’",
+      "link": "https://www.balkanweb.com/ministri-i-mbrojtjes-i-venezueles-zotohet-se-cdo-operacion-i-cia-s-kunder-vendit-do-te-deshtoje/",
+      "description": "Ministri i mbrojtjes i Venezuelës tha të enjten se çdo operacion i CIA-s kundër vendit të tij “do të dështojë”, pasi Presidenti i SHBA-së Donald Trump autorizoi veprime të fshehta kundër kombit të Amerikës së Jugut. “Ne e dimë që CIA është e pranishme” në Venezuelë, tha Ministri Vladimir Padrino. “Ata mund të vendosin, nuk […]",
+      "published": "Fri, 24 Oct 2025 00:45:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833583",
+      "fetched_at": "2025-10-24T01:17:54.476693",
+      "ai_summary": "Ministri i mbrojtjes i Venezuelës tha të enjten se çdo operacion i CIA-s kundër vendit të tij “do të dështojë”, pasi Presidenti i SHBA-së Donald Trump autorizoi veprime të fshehta kundër kombit të Ame..."
+    },
+    {
+      "title": "ICE arreston 4 qytetarë amerikanë gjatë bastisjes në Manhattan",
+      "link": "https://www.balkanweb.com/ice-arreston-4-qytetare-amerikane-gjate-bastisjes-ne-manhattan/",
+      "description": "Katër qytetarë amerikanë u ndaluan për gati 24 orë pa u akuzuar gjatë një bastisjeje të Zyrave të Imigracionit dhe Doganave në lagjen kineze të Nju Jorkut të martën, raportoi ABC News. Gjatë një konference për shtyp të mërkurën, kongresmeni demokrat Dan Goldman e dënoi incidentin si një “terror të paligjshëm”, duke thënë se “ICE […]",
+      "published": "Fri, 24 Oct 2025 00:30:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833565",
+      "fetched_at": "2025-10-24T01:17:54.476787",
+      "ai_summary": "Katër qytetarë amerikanë u ndaluan për gati 24 orë pa u akuzuar gjatë një bastisjeje të Zyrave të Imigracionit dhe Doganave në lagjen kineze të Nju Jorkut të martën, raportoi ABC News. Gjatë një konfe..."
+    },
+    {
+      "title": "India ul importet e naftës nga Rusia me kërkesë të Trump",
+      "link": "https://www.balkanweb.com/india-ul-importet-e-naftes-nga-rusia-me-kerkese-te-trump/",
+      "description": "India ka ulur importet e naftës ruse me kërkesë të Presidentit të SHBA-së, Donald Trump. Kjo u deklarua nga Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt, gjatë një konference për shtyp të enjten. “Ne e dimë që India ka bërë të njëjtën gjë me kërkesë të Presidentit për të ulur blerjet e naftës […]",
+      "published": "Fri, 24 Oct 2025 00:00:07 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833536",
+      "fetched_at": "2025-10-24T01:17:54.476879",
+      "ai_summary": "India ka ulur importet e naftës ruse me kërkesë të Presidentit të SHBA-së, Donald Trump. Kjo u deklarua nga Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt, gjatë një konference për shtyp ..."
+    },
+    {
+      "title": "Spanja gjen viktimën e përmbytjeve një vit pas tragjedisë",
+      "link": "https://www.balkanweb.com/spanja-gjen-viktimen-e-permbytjeve-nje-vit-pas-tragjedise/",
+      "description": "Autoritetet spanjolle thanë të enjten se kishin gjetur trupin e një burri 56-vjeçar, i cili vdiq pasi u rrëmbye nga përmbytjet në rajonin lindor të Valencias vitin e kaluar, katastrofa më vdekjeprurëse e këtij lloji në vend në dekada. Analiza e ADN-së konfirmoi se një kufomë e gjetur të martën në lumin Turia i përkiste […]",
+      "published": "Thu, 23 Oct 2025 23:45:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833580",
+      "fetched_at": "2025-10-24T01:17:54.476958",
+      "ai_summary": "Autoritetet spanjolle thanë të enjten se kishin gjetur trupin e një burri 56-vjeçar, i cili vdiq pasi u rrëmbye nga përmbytjet në rajonin lindor të Valencias vitin e kaluar, katastrofa më vdekjeprurës..."
+    },
+    {
+      "title": "Trump tërhiqet nga vendimi për të dërguar agjentë anti-krim në San Francisko",
+      "link": "https://www.balkanweb.com/trump-terhiqet-nga-vendimi-per-te-derguar-agjente-anti-krim-ne-san-francisko/",
+      "description": "Donald Trump njoftoi se po tërheq një mision federal të planifikuar në San Francisko, pas një bisede me kryetarin e bashkisë së qytetit. Në një postim në rrjetet sociale, kryetari i bashkisë Daniel Lurie tha se qyteti po bën përparim në uljen e krimit. Trump tha se pranoi ta linte qytetin të provonte vetë. Postimi […]",
+      "published": "Thu, 23 Oct 2025 23:30:46 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833558",
+      "fetched_at": "2025-10-24T01:17:54.477033",
+      "ai_summary": "Donald Trump njoftoi se po tërheq një mision federal të planifikuar në San Francisko, pas një bisede me kryetarin e bashkisë së qytetit. Në një postim në rrjetet sociale, kryetari i bashkisë Daniel Lu..."
+    },
+    {
+      "title": "Shtëpia e Bardhë: Mbyllja mund të shkaktojë ndërprerje serioze në operacionet e aeroportit",
+      "link": "https://www.balkanweb.com/shtepia-e-bardhe-mbyllja-mund-te-shkaktoje-nderprerje-serioze-ne-operacionet-e-aeroportit/",
+      "description": "Shtëpia e Bardhë beson se nëse mbyllet, Shtetet e Bashkuara do të përballen me vonesa dhe anulime masive të fluturimeve, përfshirë gjatë festave. Kjo u deklarua nga zëdhënësja e Shtëpisë së Bardhë, Caroline Leavitt . “Nëse demokratët e zgjasin mbylljen, do të përballemi me vonesa dhe anulime të konsiderueshme fluturimesh në aeroportet kryesore në të […]",
+      "published": "Thu, 23 Oct 2025 23:00:09 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833539",
+      "fetched_at": "2025-10-24T01:17:54.477107",
+      "ai_summary": "Shtëpia e Bardhë beson se nëse mbyllet, Shtetet e Bashkuara do të përballen me vonesa dhe anulime masive të fluturimeve, përfshirë gjatë festave. Kjo u deklarua nga zëdhënësja e Shtëpisë së Bardhë, Ca..."
+    },
+    {
+      "title": "Lula da Silva do të kandidojë për mandatin e katërt në Brazil. Është 80 vjeç, thotë se ka energjinë e një 30-vjeçari",
+      "link": "https://www.balkanweb.com/lula-da-silva-do-te-kandidoje-per-mandatin-e-katert-ne-brazil-eshte-80-vjec-thote-se-ka-energjine-e-nje-30-vjecari/",
+      "description": "Presidenti brazilian Luiz Inacio Lula da Silva ka njoftuar se do të kandidojë për një mandat të katërt në zgjedhjet presidenciale të vitit 2026. Lula da Silva, i cili u rikthye në presidencë në vitin 2023 pasi mundi presidentin e ekstremit të djathtë Jair Bolsonaro, e konfirmoi vendimin e tij gjatë një fjalimi në kryeqytetin […]",
+      "published": "Thu, 23 Oct 2025 22:30:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2833555",
+      "fetched_at": "2025-10-24T01:17:54.477190",
+      "ai_summary": "Presidenti brazilian Luiz Inacio Lula da Silva ka njoftuar se do të kandidojë për një mandat të katërt në zgjedhjet presidenciale të vitit 2026. Lula da Silva, i cili u rikthye në presidencë në vitin ..."
+    }
+  ],
+  "total_articles": 8,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
