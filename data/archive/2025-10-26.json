@@ -1,0 +1,80 @@
+{
+  "date": "2025-10-26",
+  "timestamp": "2025-10-26T06:25:30.280340",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Sot ndryshon ora, akrepat kthehen 60 minuta pas",
+      "link": "https://www.balkanweb.com/sot-ndryshon-ora-akrepat-kthehen-60-minuta-pas/",
+      "description": "Sot akrepat e orës do të kthehen pas 60 minuta. Ndërrimi i orës më 26 tetor do të ndodhë në orën 03:00, kur akrepat do të zhvendosen në orën 02:00, duke na dhënë mundësinë të flemë një orë më shumë. Një tjetër ndryshim është fakti se pasdite do të ketë një orë më pak dritë […]",
+      "published": "Sun, 26 Oct 2025 06:18:29 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2831452",
+      "fetched_at": "2025-10-26T06:25:25.264712",
+      "ai_summary": "Sot akrepat e orës do të kthehen pas 60 minuta. Ndërrimi i orës më 26 tetor do të ndodhë në orën 03:00, kur akrepat do të zhvendosen në orën 02:00, duke na dhënë mundësinë të flemë një orë më shumë. N..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, 26 tetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-26-tetor-2025/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet alternime vranësirash mesatare deri të dendura të cilat do të shoqërohen me reshje shiu me intensitet mesatar prej orëve të para të 24 orëshit deri në orët e mëngjesit në të gjithë vendin. Gjatë ditës, pritet që reshjet e shiut […]",
+      "published": "Sun, 26 Oct 2025 06:12:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2834674",
+      "fetched_at": "2025-10-26T06:25:25.264856",
+      "ai_summary": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet alternime vranësirash mesatare deri të dendura të cilat do të shoqërohen me reshje shiu me intensitet ..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 26 tetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-26-tetor-2025/",
+      "description": "Dashi Çështjet që kanë të bëjnë me punën dhe shtëpinë pritet të shkojnë mjaft mirë. Fizikisht, ndiheni mirë dhe të fortë pavarësisht lodhjes ditët e fundit. Lajmet për sukses në gjërat për të cilat keni punuar prej muajsh duhet t’jua bëjnë ditën më të mirë. Mund të dëshironi ta kaloni pjesën tjetër të ditës duke […]",
+      "published": "Sun, 26 Oct 2025 06:05:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2834228",
+      "fetched_at": "2025-10-26T06:25:25.264942",
+      "ai_summary": "Dashi Çështjet që kanë të bëjnë me punën dhe shtëpinë pritet të shkojnë mjaft mirë. Fizikisht, ndiheni mirë dhe të fortë pavarësisht lodhjes ditët e fundit. Lajmet për sukses në gjërat për të cilat ke..."
+    },
+    {
+      "title": "“Daut Gurra strehoi për disa kohë, shtatë partizanë që kishin ngrirë, por pas 1944-ës, familja e tij u masakrua, dy djemtë ia burgosën, ‘për atentat ndaj Hrushovit’ …”/ Historia e trishtë e fisit nga Librazhdi",
+      "link": "https://www.balkanweb.com/daut-gurra-strehoi-per-disa-kohe-shtate-partizane-qe-kishin-ngrire-por-pas-1944-es-familja-e-tij-u-masakrua-dy-djemte-ia-burgosen-per-atentat-ndaj-hrushovit/",
+      "description": "Nga Ali Buzra Një fakt i jetuar, dhe që dihet në Dragostunjë, është ai i dimrit të vitit 1944. Aty nga fundi i muajit janar, apo mundet fillimi i shkurtit 1944, shtatë partizanë të lodhur, të pangrënë e të ngrirë nga të ftohtit, kalojnë nëpër Dragostunjë. Ata gjenden mbas dite vonë, në rrugë, nga një […]",
+      "published": "Sun, 26 Oct 2025 05:24:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2834721",
+      "fetched_at": "2025-10-26T06:25:25.265025",
+      "ai_summary": "Nga Ali Buzra Një fakt i jetuar, dhe që dihet në Dragostunjë, është ai i dimrit të vitit 1944. Aty nga fundi i muajit janar, apo mundet fillimi i shkurtit 1944, shtatë partizanë të lodhur, të pangrënë..."
+    },
+    {
+      "title": "E ndieni sikur zemra ju “kërcen”? Ja kur duhet të shqetësoheni",
+      "link": "https://telegrafi.com/e-ndieni-sikur-zemra-ju-kercen-ja-kur-duhet-te-shqetesoheni/",
+      "description": "Diçka, padyshim, po ndodh kur zemra rreh fort, por kjo nuk do të thotë domosdoshmërisht se bëhet fjalë për diçka seriozeKur trupi është i qetë dhe në gjendje pushimi, mund të vërehet ndonjëherë një dridhje e lehtë e kraharorit, më shpesh e barkut, që ndjek ritmin e rrahjeve të zemrës. Kjo është një dukuri e zakonshme dhe nuk përbën arsye për shqetësim. Zemra, edhe kur rreh fort, jo gjithmonë tregon ndonjë sëmundje; shpesh është reagim normal ndaj emocioneve, lodhjes apo ndryshimeve të përkohshme në organizëm.Në mjekësi ekziston termi palpitacion, që nënkupton vetëdijen e njeriut për rrahjet e veta të zemrës, ndjesinë se zemra rreh më fort, më shpejt ose në mënyrë të çrregullt.Sipas Cleveland Clinic, palpitacionet janë shumë të zakonshme dhe shpesh të padëmshme, por në disa raste mund të jenë shenjë e një çrregullimi të ritmit të zemrës. Njerëzit shpesh frikësohen kur ndiejnë rrahje të parregullta, sikur zemra u “kërcen” një rrahje apo ndalet për një çast e pastaj rifillon me forcë.Nëse keni vrapuar menjëherë para kësaj, shikoni ndeshjen e ekipit tuaj të preferuar apo ndjeni emocione të forta, kjo është krejtësisht normale. Siç shpjegon Mayo Clinic, organizmi është ndërtuar që të reagojë me rritje të ritmit të zemrës kur jemi nën stres, gjatë aktivitetit fizik apo kur sekretohet adrenalinë. Por nëse rrahjet dhe rrahjet e parregullta të zemrës shfaqen shpesh gjatë ditës, në pushim, ose kur pulsi është mbi 110–120 në minutë, apo kur shoqërohen me marramendje, djersitje dhe dhimbje në gjoks, duhet patjetër të konsultoheni me mjekun, transmeton Telegrafi. Shkaqe të tjera të mundshme të rrahjeve të zemrës Një shkak i zakonshëm i rrahjeve të shpejta është anemia, mungesa e qelizave të kuqe të gjakut që bartin oksigjen. Në këtë rast zemra detyrohet të punojë më shumë për të kompensuar mungesën e oksigjenit në inde, gjë që shkakton palpitacione. Kardiologët, për këtë arsye, kërkojnë shpesh analizat e gjakut dhe vlerësimin e hormoneve të tiroides.Harvard Health raporton se palpitacionet mund të lidhen edhe me stresin, ankthin dhe sulmet e panikut, që shkaktojnë çlirimin e adrenalinës dhe rrisin ndjeshëm ritmin e zemrës. Përdorimi i tepërt i kafeinës, duhanit, alkoolit apo ilaçeve që përmbajnë efedrinë (si disa ilaçe kundër të ftohtit), gjithashtu mund të ndikojë. Edhe substancat stimuluese si kokaina dhe amfetaminat janë ndër shkaqet më të rrezikshme të palpitacioneve.Heart.org thekson se problemet hormonale, si tirotoksikoza (gjëndra tiroide tepër aktive), dehidratimi ose mungesa e elektroliteve si kaliumi e magnezi, mund të përshpejtojnë ritmin e zemrës.Nëse mjeku përjashton këto shkaqe, por simptomat vazhdojnë, rekomandohet kontroll më i thelluar kardiologjik. Edhe fibrilacioni atrial në listë Fibrilacioni atrial është ndoshta aritmia më e shpeshtë te të rriturit dhe karakterizohet nga rrahje krejtësisht të çrregullta, shpesh edhe të shpejta. Kur matet pulsi, rrahjet janë të parregullta dhe pa ritëm të qëndrueshëm, ndaj quhet “aritmi absolute”.Sipas Heart.org, me plakjen e popullsisë kjo gjendje po bëhet gjithnjë e më e zakonshme dhe tashmë konsiderohet “epidemi kardiake moderne”. Fibrilacioni atrial ndikon në cilësinë e jetës, dobëson muskulaturën e zemrës dhe, më e rrezikshmja, mund të shkaktojë mpiksje gjaku që shkojnë në tru dhe sjellin goditje cerebrale. Diagnostikimi Hapi i parë për diagnostikim është EKG-ja (elektrokardiogrami), që ndihmon të zbulohen aritmitë serioze si fibrilacioni atrial. Nëse ekziston dyshim për ndonjë shkak organik, bëhet ekografia e zemrës (ECHO), që zbulon ndryshime strukturore si prolapsin e valvulës mitrale apo dobësimin e muskulit të zemrës.Në raste të tjera, kardiologu mund të rekomandojë Holter-monitorimin 24-orësh, që regjistron aktivitetin elektrik të zemrës gjatë ditës dhe natës. Tashmë përdoren edhe pajisje telemetrike që lidhen me telefonin dhe dërgojnë të dhënat e zemrës në kohë reale te mjeku. Këto monitorime, në vendet e zhvilluara, zgjasin 3 deri në 7 ditë për një vlerësim më të plotë. Si trajtohet zemra që rreh fort, kur është e nevojshme Është e rëndësishme të dihet se fibrilacioni atrial rrit rrezikun për formimin e mpiksjeve që mund të kalojnë në tru. Sipas Mayo Clinic, në këto raste përdoren antikoagulantë, të njohur si “ilaçe për hollim gjaku” për të parandaluar goditjet cerebrale. Në trajtimet më të zakonshme përfshihen beta-bllokuesit (si presololi), të cilët ulin ritmin e zemrës dhe ndihmojnë në stabilizimin e pulsit.Në raste më serioze, Cleveland Clinic përmend përdorimin e antiaritmikëve të klasave të ndryshme ose ablacionin me kateter, një procedurë minimale invazive që “neutralizon” zonat e zemrës që prodhojnë impulse të gabuara elektrike. Në disa raste, mund të vendoset pejsmejker për të ruajtur ritmin normal të zemrës. Çfarë është “manovra Valsava”? Një metodë e thjeshtë, por efektive për ndalimin e palpitacioneve të menjëhershme, është manovra Valsava. Kjo teknikë përdoret për të stimuluar nervin vagus dhe për të ulur ritmin e zemrës. Pacienti duhet të mbyllë hundën dhe gojën dhe të fryjë lehtë si për të fryrë një tullumbace. Kjo rrit presionin brenda kraharorit dhe ndihmon zemrën të kthehet në ritmin normal.Edhe pse duket si ushtrim argëtues, është një metodë e bazuar në prova klinike dhe përdoret shpesh nga mjekët në urgjenca. Që zemra të na rrahë gjatë… Në radhë të parë – ndaloni duhanin! Nikotina stimulon sistemin nervor dhe rrit ndjeshëm frekuencën e zemrës. Përveçse dëmton mushkëritë dhe enët e gjakut, duhani përshpejton plakjen e lëkurës dhe ul elasticitetin e saj.Gjithashtu, ulni stresin. Zemra mund të rrisë rrahjet deri në 20 % vetëm nga sinjali i një telefoni që bie. Kjo tregon sa ndjeshëm reagon trupi ndaj stresit dhe mbingarkesës nervore. Përpiquni të shmangni përdorimin e telefonit gjatë natës, mungesën e gjumit dhe orët e gjata të punës.Siç raporton Cleveland Clinic, zemra është si një motor që zgjat më shumë kur punon në ritëm të qëndrueshëm dhe jo në “marshin e pestë” pa pushim.Siguroni gjumë të plotë prej 7–8 orësh, pushime të rregullta, aktivitet fizik të moderuar, si ecja, noti apo çiklizmi dhe shmangni abuzimin me kafeinë. Në fund të ditës, siç theksojnë ekspertët e Harvard Health, shëndeti i zemrës nuk varet vetëm nga mjekimet, por edhe nga ritmi me të cilin jetojmë. /Telegrafi/",
+      "published": "Sun, 26 Oct 2025 06:02:05 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/e-ndieni-sikur-zemra-ju-kercen-ja-kur-duhet-te-shqetesoheni/",
+      "fetched_at": "2025-10-26T06:25:27.839419",
+      "ai_summary": "Diçka, padyshim, po ndodh kur zemra rreh fort, por kjo nuk do të thotë domosdoshmërisht se bëhet fjalë për diçka seriozeKur trupi është i qetë dhe në gjendje pushimi, mund të vërehet ndonjëherë një dr..."
+    }
+  ],
+  "total_articles": 5,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
