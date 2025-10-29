@@ -1,6 +1,6 @@
 {
   "date": "2025-10-29",
-  "timestamp": "2025-10-29T03:14:28.744649",
+  "timestamp": "2025-10-29T04:25:23.488425",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,57 +9,44 @@
   },
   "articles": [
     {
-      "title": "SHBA-të do të blejnë sistemet suedeze Giraffe 1X për 46 milionë dollarë",
-      "link": "https://www.balkanweb.com/shba-te-do-te-blejne-sistemet-suedeze-giraffe-1x-per-46-milione-dollare/",
-      "description": "SHBA-të do të blejnë radarët “Giraffe 1X” nga kompania suedeze e industrisë së mbrojtjes SAAB për 46 milionë dollarë. Kompania e njoftoi këtë në një njoftim për shtyp. Dorëzimi i sistemeve për Ushtrinë Amerikane do të fillojë në vitin 2026. “Radarët Giraffe 1X i ofrojnë ushtrisë amerikane teknologjinë për t’iu përgjigjur shpejt një game të […]",
-      "published": "Wed, 29 Oct 2025 03:00:50 +0000",
+      "title": "Uragani Melissa i kategorisë 5 sjell përmbytje dhe erëra katastrofike në Xhamajka",
+      "link": "https://www.balkanweb.com/uragani-melissa-i-kategorise-5-sjell-permbytje-dhe-erera-katastrofike-ne-xhamajka/",
+      "description": "Ujëra të dendura përmbytjesh përfshiu Xhamajkën jugperëndimore, erërat shkulën çatitë e ndërtesave dhe gurë të mëdhenj u rrëzuan në rrugë të martën, ndërsa Uragani Melissa erdhi në breg si një stuhi katastrofike e Kategorisë 5, një nga uraganet më të forta të Atlantikut të regjistruara ndonjëherë. Desmond McKenzie, nënkryetar i Këshillit të Menaxhimit të Rrezikut […]",
+      "published": "Wed, 29 Oct 2025 04:00:51 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837032",
-      "fetched_at": "2025-10-29T03:14:23.757303",
-      "ai_summary": "SHBA-të do të blejnë radarët “Giraffe 1X” nga kompania suedeze e industrisë së mbrojtjes SAAB për 46 milionë dollarë. Kompania e njoftoi këtë në një njoftim për shtyp. Dorëzimi i sistemeve për Ushtrin..."
+      "guid": "https://www.balkanweb.com/?p=2837036",
+      "fetched_at": "2025-10-29T04:25:18.635965",
+      "ai_summary": "Ujëra të dendura përmbytjesh përfshiu Xhamajkën jugperëndimore, erërat shkulën çatitë e ndërtesave dhe gurë të mëdhenj u rrëzuan në rrugë të martën, ndërsa Uragani Melissa erdhi në breg si një stuhi k..."
     },
     {
-      "title": "Koreja e Veriut lëshon raketa lundruese përpara vizitës së Trump në Korenë e Jugut",
-      "link": "https://www.balkanweb.com/koreja-e-veriut-leshon-raketa-lundruese-perpara-vizites-se-trump-ne-korene-e-jugut/",
-      "description": "Koreja e Veriut qëlloi raketa lundrimi drejt bregdetit perëndimor të Gadishullit Korean të martën, njoftoi Agjencia Qendrore Koreane e Lajmeve e Veriut (KCNA), përpara vizitës së Presidentit të SHBA-së Donald Trump në Korenë e Jugut . Presidenti i SHBA-së pritet të shkojë në Gyeongju sot për të marrë pjesë në samitin e Bashkëpunimit Ekonomik Azi-Paqësor […]",
-      "published": "Wed, 29 Oct 2025 02:30:07 +0000",
+      "title": "Rrëzohen dronë ukrainas që po shkonin drejt Moskës. Dy aeroporte të mbyllura përkohësisht",
+      "link": "https://www.balkanweb.com/rrezohen-drone-ukrainas-qe-po-shkonin-drejt-moskes-dy-aeroporte-te-mbyllura-perkohesisht/",
+      "description": "Ukraina nisi sulme me dronë ndaj Moskës për të tretën natë radhazi, duke ndërprerë funksionimin e aeroporteve në kryeqytetin rus. Ministria ruse e Mbrojtjes tha se mbrojtja ajrore rrëzoi 57 dronë ukrainas në një periudhë tre-orëshe të martën në mbrëmje, përfshirë katër në periferi të Moskës dhe tetë në rajonet fqinje. Forcat e armatosura ukrainase […]",
+      "published": "Wed, 29 Oct 2025 03:45:56 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837042",
-      "fetched_at": "2025-10-29T03:14:23.757464",
-      "ai_summary": "Koreja e Veriut qëlloi raketa lundrimi drejt bregdetit perëndimor të Gadishullit Korean të martën, njoftoi Agjencia Qendrore Koreane e Lajmeve e Veriut (KCNA), përpara vizitës së Presidentit të SHBA-s..."
+      "guid": "https://www.balkanweb.com/?p=2837052",
+      "fetched_at": "2025-10-29T04:25:18.636129",
+      "ai_summary": "Ukraina nisi sulme me dronë ndaj Moskës për të tretën natë radhazi, duke ndërprerë funksionimin e aeroporteve në kryeqytetin rus. Ministria ruse e Mbrojtjes tha se mbrojtja ajrore rrëzoi 57 dronë ukra..."
     },
     {
-      "title": "Numri i të vdekurve në përleshjet midis policisë dhe kriminelëve në Brazil arrin në 64",
-      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-ne-perleshjet-midis-policise-dhe-krimineleve-ne-brazil-arrin-ne-64/",
-      "description": "Numri i të vdekurve nga një operacion policor në shkallë të gjerë në lagjet e varfra Alemao dhe Peña në Rio de Janeiro, Brazil, më 28 tetor ka arritur në 64. “Sipas qeverisë së Rio de Janeiros, ky është operacioni më i madh në historinë e shtetit”. Midis të vdekurve ishin 60 kriminelë dhe katër […]",
-      "published": "Wed, 29 Oct 2025 02:00:42 +0000",
+      "title": "Përfaqësuesi i SHBA-së në NATO: Ukraina së shpejti do të marrë armë me vlerë 2 miliardë dollarë",
+      "link": "https://www.balkanweb.com/perfaqesuesi-i-shba-se-ne-nato-ukraina-se-shpejti-do-te-marre-arme-me-vlere-2-miliarde-dollare/",
+      "description": "Ukraina do të marrë armë me vlerë rreth 2 miliardë dollarë në muajt e ardhshëm, si pjesë e angazhimeve të reja për ndihmë ushtarake. Matthew Whitaker, Përfaqësuesi i Përhershëm i SHBA-së në NATO, e tha këtë në një intervistë me Bloomberg TV. Ai tha se Shtetet e Bashkuara kanë krijuar një sistem ku angazhimet për […]",
+      "published": "Wed, 29 Oct 2025 03:15:14 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837025",
-      "fetched_at": "2025-10-29T03:14:23.757549",
-      "ai_summary": "Numri i të vdekurve nga një operacion policor në shkallë të gjerë në lagjet e varfra Alemao dhe Peña në Rio de Janeiro, Brazil, më 28 tetor ka arritur në 64. “Sipas qeverisë së Rio de Janeiros, ky ësh..."
-    },
-    {
-      "title": "SHBA-të paralajmërojnë qytetarët e tyre të largohen menjëherë nga Mali",
-      "link": "https://www.balkanweb.com/shba-te-paralajmerojne-qytetaret-e-tyre-te-largohen-menjehere-nga-mali/",
-      "description": "Shtetet e Bashkuara i paralajmëruan amerikanët në Mali të martën që të largohen menjëherë nga vendi duke përdorur fluturime komerciale, pasi qeveria e tij është nën presion në rritje nga kryengritësit e lidhur me Al-Kaedën, të cilët po vendosin një bllokadë karburanti. Militantët e Jama’at Nusrat Al-Islam wal-Muslimin njoftuan një bllokadë mbi importet e karburantit […]",
-      "published": "Wed, 29 Oct 2025 01:30:01 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837039",
-      "fetched_at": "2025-10-29T03:14:23.757639",
-      "ai_summary": "Shtetet e Bashkuara i paralajmëruan amerikanët në Mali të martën që të largohen menjëherë nga vendi duke përdorur fluturime komerciale, pasi qeveria e tij është nën presion në rritje nga kryengritësit..."
+      "guid": "https://www.balkanweb.com/?p=2837055",
+      "fetched_at": "2025-10-29T04:25:18.636224",
+      "ai_summary": "Ukraina do të marrë armë me vlerë rreth 2 miliardë dollarë në muajt e ardhshëm, si pjesë e angazhimeve të reja për ndihmë ushtarake. Matthew Whitaker, Përfaqësuesi i Përhershëm i SHBA-së në NATO, e th..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
