@@ -1,6 +1,6 @@
 {
   "date": "2025-10-29",
-  "timestamp": "2025-10-29T04:25:23.488425",
+  "timestamp": "2025-10-29T06:29:14.117608",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,98 @@
   },
   "articles": [
     {
-      "title": "Uragani Melissa i kategorisë 5 sjell përmbytje dhe erëra katastrofike në Xhamajka",
-      "link": "https://www.balkanweb.com/uragani-melissa-i-kategorise-5-sjell-permbytje-dhe-erera-katastrofike-ne-xhamajka/",
-      "description": "Ujëra të dendura përmbytjesh përfshiu Xhamajkën jugperëndimore, erërat shkulën çatitë e ndërtesave dhe gurë të mëdhenj u rrëzuan në rrugë të martën, ndërsa Uragani Melissa erdhi në breg si një stuhi katastrofike e Kategorisë 5, një nga uraganet më të forta të Atlantikut të regjistruara ndonjëherë. Desmond McKenzie, nënkryetar i Këshillit të Menaxhimit të Rrezikut […]",
-      "published": "Wed, 29 Oct 2025 04:00:51 +0000",
+      "title": "“Në Kosovë diçka po zien, por në çfarë mënyre do shpërthejë, nuk dihet, kurse Fadil Hoxhës i kanë dërguar letra anonime, ku…”/ Zbulohet dokumenti i Sigurimit, 6 muaj para demonstratave të ‘81-it",
+      "link": "https://www.balkanweb.com/ne-kosove-dicka-po-zien-por-ne-cfare-menyre-do-shpertheje-nuk-dihet-kurse-fadil-hoxhes-i-kane-derguar-letra-anonime-ku-zbulohet-dokumenti-i-sigurimit-6-muaj-para-demo/",
+      "description": "Nga DASHNOR KALOÇI Ngjarjet e Kosovës të pranverës së vitit 1981, që nisën në fillimin e muajit mars me protestat dhe demonstratat e rinisë studentore e më pas edhe të popullit të Kosovës, të cilët u ngritën për të kërkuar liritë dhe të drejtat e tyre të ligjshme, ashtu si të gjithë popujt dhe etnitë […]",
+      "published": "Wed, 29 Oct 2025 06:18:55 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837036",
-      "fetched_at": "2025-10-29T04:25:18.635965",
-      "ai_summary": "Ujëra të dendura përmbytjesh përfshiu Xhamajkën jugperëndimore, erërat shkulën çatitë e ndërtesave dhe gurë të mëdhenj u rrëzuan në rrugë të martën, ndërsa Uragani Melissa erdhi në breg si një stuhi k..."
+      "guid": "https://www.balkanweb.com/?p=2836299",
+      "fetched_at": "2025-10-29T06:29:09.200968",
+      "ai_summary": "Nga DASHNOR KALOÇI Ngjarjet e Kosovës të pranverës së vitit 1981, që nisën në fillimin e muajit mars me protestat dhe demonstratat e rinisë studentore e më pas edhe të popullit të Kosovës, të cilët u ..."
     },
     {
-      "title": "Rrëzohen dronë ukrainas që po shkonin drejt Moskës. Dy aeroporte të mbyllura përkohësisht",
-      "link": "https://www.balkanweb.com/rrezohen-drone-ukrainas-qe-po-shkonin-drejt-moskes-dy-aeroporte-te-mbyllura-perkohesisht/",
-      "description": "Ukraina nisi sulme me dronë ndaj Moskës për të tretën natë radhazi, duke ndërprerë funksionimin e aeroporteve në kryeqytetin rus. Ministria ruse e Mbrojtjes tha se mbrojtja ajrore rrëzoi 57 dronë ukrainas në një periudhë tre-orëshe të martën në mbrëmje, përfshirë katër në periferi të Moskës dhe tetë në rajonet fqinje. Forcat e armatosura ukrainase […]",
-      "published": "Wed, 29 Oct 2025 03:45:56 +0000",
+      "title": "Parashikimi i motit për sot, 29 tetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-29-tetor-2025/",
+      "description": "Ditën e sotme vendi ynë do të jetë në ndikimin e kushteve atmosferike të qëndrueshme. Moti parashikohet i kthjellët në të gjithë territorin. Era do të fryjë me drejtim kryesor nga kuadrati i jugut me shpejtësi mesatare 5m/s, në bregdet dhe lugina hera-herës do të arrijë deri në 9m/s Deti pritet të ketë valëzim të […]",
+      "published": "Wed, 29 Oct 2025 06:11:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837052",
-      "fetched_at": "2025-10-29T04:25:18.636129",
-      "ai_summary": "Ukraina nisi sulme me dronë ndaj Moskës për të tretën natë radhazi, duke ndërprerë funksionimin e aeroporteve në kryeqytetin rus. Ministria ruse e Mbrojtjes tha se mbrojtja ajrore rrëzoi 57 dronë ukra..."
+      "guid": "https://www.balkanweb.com/?p=2837059",
+      "fetched_at": "2025-10-29T06:29:09.201326",
+      "ai_summary": "Ditën e sotme vendi ynë do të jetë në ndikimin e kushteve atmosferike të qëndrueshme. Moti parashikohet i kthjellët në të gjithë territorin. Era do të fryjë me drejtim kryesor nga kuadrati i jugut me ..."
     },
     {
-      "title": "Përfaqësuesi i SHBA-së në NATO: Ukraina së shpejti do të marrë armë me vlerë 2 miliardë dollarë",
-      "link": "https://www.balkanweb.com/perfaqesuesi-i-shba-se-ne-nato-ukraina-se-shpejti-do-te-marre-arme-me-vlere-2-miliarde-dollare/",
-      "description": "Ukraina do të marrë armë me vlerë rreth 2 miliardë dollarë në muajt e ardhshëm, si pjesë e angazhimeve të reja për ndihmë ushtarake. Matthew Whitaker, Përfaqësuesi i Përhershëm i SHBA-së në NATO, e tha këtë në një intervistë me Bloomberg TV. Ai tha se Shtetet e Bashkuara kanë krijuar një sistem ku angazhimet për […]",
-      "published": "Wed, 29 Oct 2025 03:15:14 +0000",
+      "title": "Horoskopi për ditën e sotme, 29 tetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-29-tetor-2025/",
+      "description": "Dashi Tani është koha për të reflektuar dhe për të parë të kaluarën. Gjatë kësaj kohe reflektimi, do të gjeni njohuri të rëndësishme që do t’ju ndihmojnë të lundroni nëpër ujërat e pasigurta të së ardhmes. Mund t’ju duhet t’i largoni të tjerët gjatë këtij procesi. Demi Je në pozicion për të marrë një vlerësim […]",
+      "published": "Wed, 29 Oct 2025 06:05:03 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837055",
-      "fetched_at": "2025-10-29T04:25:18.636224",
-      "ai_summary": "Ukraina do të marrë armë me vlerë rreth 2 miliardë dollarë në muajt e ardhshëm, si pjesë e angazhimeve të reja për ndihmë ushtarake. Matthew Whitaker, Përfaqësuesi i Përhershëm i SHBA-së në NATO, e th..."
+      "guid": "https://www.balkanweb.com/?p=2836293",
+      "fetched_at": "2025-10-29T06:29:09.201463",
+      "ai_summary": "Dashi Tani është koha për të reflektuar dhe për të parë të kaluarën. Gjatë kësaj kohe reflektimi, do të gjeni njohuri të rëndësishme që do t’ju ndihmojnë të lundroni nëpër ujërat e pasigurta të së ard..."
+    },
+    {
+      "title": "I burgosuri 65-vjeçar i dënuar me vdekje ekzekutohet me injeksion vdekjeprurës në Florida",
+      "link": "https://www.balkanweb.com/i-burgosuri-65-vjecar-i-denuar-me-vdekje-ekzekutohet-me-injeksion-vdekjeprures-ne-florida/",
+      "description": "Një burrë 65-vjeçar amerikan, i cili u dënua me vdekje për vrasjen e fqinjit të tij në vitin 1998, u ekzekutua në Florida të martën . Norman Grimm u dënua me vdekje për vrasjen e 41-vjeçares Cynthia Campbell, të cilën e kishte ftuar në shtëpinë e tij për kafe. Pas vrasjes, ai e hodhi trupin […]",
+      "published": "Wed, 29 Oct 2025 05:00:49 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2837049",
+      "fetched_at": "2025-10-29T06:29:09.201607",
+      "ai_summary": "Një burrë 65-vjeçar amerikan, i cili u dënua me vdekje për vrasjen e fqinjit të tij në vitin 1998, u ekzekutua në Florida të martën . Norman Grimm u dënua me vdekje për vrasjen e 41-vjeçares Cynthia C..."
+    },
+    {
+      "title": "U trajnua inteligjenca artificiale se si punojnë punëtorët më të mirë, në vend të 10 personave - puna tani bëhet nga një person dhe një robot",
+      "link": "https://telegrafi.com/u-trajnua-inteligjenca-artificiale-se-si-punojne-punetoret-me-te-mire-ne-vend-te-10-personave-puna-tani-behet-nga-nje-person-dhe-nje-robot/",
+      "description": "Ndërsa kompanitë garojnë për të përdorur inteligjencën artificiale, Vercel thotë se ka gjetur një mënyrë për të ecur përpara: Ata po trajnojnë agjentët e inteligjencës artificiale se si punojnë punonjësit e tyre më të mirë, shkruan Business Insider.Kompania prej 9.3 miliardë dollarësh, e themeluar nga koduesi Guillermo Rauch në vitin 2015, është një platformë e bazuar në cloud për zhvilluesit për të ndërtuar dhe vendosur faqe interneti dhe aplikacione, transmeton Telegrafi.Tani po përdor agjentë të inteligjencës artificiale për të automatizuar punën rutinë të shumë prej roleve të saj të nivelit fillestar, duke i lejuar asaj të zvogëlojë një ekip dikur prej 10 personash në vetëm një person dhe një robot.Agjentët zakonisht përcaktohen si asistentë virtualë që mund të kryejnë detyrat në mënyrë autonome. Ata i analizojnë problemet, përshkruajnë planet dhe ndërmarrin veprime pa u nxitur nga një përdorues.\"Nëse mund të dokumentoni një rrjedhë pune, tani është mjaft e thjeshtë të keni një agjent që ta bëjë këtë\", tha Jeanne DeWitt Grosser, drejtoresha operative e Vercel, për Business Insider.Procesi i zhvillimit të një agjenti të inteligjencës artificiale filloi në qershor, kur kompania nisi një iniciativë të brendshme brenda departamentit të saj të shitjeve. Grosser, i cili ishte bashkuar në mars, rekrutoi tre inxhinierë për të zhvilluar agjentë që do të kopjonin dhe përmirësonin rrjedhat kritike të punës së shitjeve.Në atë kohë, kompania kishte 10 përfaqësues të zhvillimit të shitjeve që merreshin me pyetje hyrëse, përgjithësisht një detyrë e nivelit fillestar, dhe njëri prej tyre ishte një performues i shquar. Inxhinierët e ndoqën atë performues të lartë për gjashtë javë dhe dokumentuan çdo hap të punës së tyre. Pastaj ata ndërtuan një agjent për të imituar procesin e tyre.Tani, \"agjenti kryesor\" i Vercel automatizon pjesën më të madhe të punës që dikur trajtohej nga përfaqësues të shumtë të zhvillimit të shitjeve, tha Grosser. Ai shqyrton mesazhet hyrëse, filtron spam-in dhe kualifikon klientët duke pyetur bazat e të dhënave të brendshme dhe duke hulumtuar detajet e kompanisë përmes mjetit të Kërkimit të Thellë të OpenAI. Agjenti më pas harton përgjigje të personalizuara dhe drejton automatikisht pyetjet e mbështetjes.Një menaxher njerëzor shqyrton punën e agjentit në Slack dhe ofron reagime që ndihmojnë sistemin të mësojë tonin e Vercel dhe të përmirësohet me kalimin e kohës.Që nga vendosja e tij, agjenti ka ndihmuar Vercel të zvogëlojë ekipin prej 10 personash në vetëm një person që e mbikëqyr atë. Nëntë të tjerët u zhvendosën në role kërkimi për punonjës të rinj, të cilat Grosser i quan punë shitjesh me vlerë më të lartë dhe më komplekse.\"Modelimi sipas punonjësve me performancë më të lartë ka qenë gjithmonë një praktikë standarde biznesi. Dallimi tani është se teknologjia na lejon ta përshpejtojmë atë\", tha David Totten, një ish-student i Databricks dhe Microsoft, i cili sapo iu bashkua Vercel si nënkryetar i ri i inxhinierisë globale në terren të hënën.Qasja ndaj trajnimit të AI-së, tha Grosser, nuk është shumë ndryshe nga mënyra se si kompanitë dikur trajnonin praktikantët - veçanërisht ata që shpresonin t'i punësonin me kohë të plotë.\"Nuk do të vendosnit një praktikant me dikë që nuk vinte në punë çdo ditë, nuk kishte qëndrimin e duhur, nuk e kuptonte vizionin e kompanisë. Vendosnit një praktikant me performuesit tuaj më të mirë\", tha Grosser. Grosser dhe Totten thanë se qëllimi i strategjisë së brendshme të AI-së të Vercel nuk është të zvogëlojë fuqinë punëtore. Ata thanë se numri i punonjësve të kompanisë është rritur në fakt gjatë vitit të kaluar.Vercel ka gjashtë agjentë të AI-së të vendosur tani, por synon të vendosë qindra brenda 6 deri në 12 muajve të ardhshëm - të gjithë të modeluar sipas performancës më të mirë.Grosser tha se kompania ka identifikuar tashmë tipare specifike që përcaktojnë një rast të fortë përdorimi për agjentët: të replikueshëm dhe determinist, që do të thotë se prodhon vazhdimisht të njëjtin rezultat për të njëjtin input.Ajo që mbetet për njerëzit, pra, është puna krijuese, intelektualisht sfiduese dhe nganjëherë e paqartë.\"Pikëpamja ime personale është se njerëzit janë të aftë për shumë më tepër sesa shumica e vendeve të punës ua lejojnë të bëjnë\", tha Grosser. /Telegrafi/",
+      "published": "Wed, 29 Oct 2025 06:20:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/u-trajnua-inteligjenca-artificiale-se-si-punojne-punetoret-me-te-mire-ne-vend-te-10-personave-puna-tani-behet-nga-nje-person-dhe-nje-robot/",
+      "fetched_at": "2025-10-29T06:29:11.607510",
+      "ai_summary": "Ndërsa kompanitë garojnë për të përdorur inteligjencën artificiale, Vercel thotë se ka gjetur një mënyrë për të ecur përpara: Ata po trajnojnë agjentët e inteligjencës artificiale se si punojnë punonj..."
+    },
+    {
+      "title": "Reperi Marin rrëfen mes të qarash humbjen tragjike të fëmijës: Dhimbja ishte e madhe, por forca nga Zoti ishte edhe më e madhe",
+      "link": "https://telegrafi.com/reperi-marin-rrefen-mes-te-qarash-humbjen-tragjike-te-femijes-dhimbja-ishte-e-madhe-por-forca-nga-zoti-ishte-edhe-me-e-madhe/",
+      "description": "Reperi i njohur shqiptar, Marin, ka ndarë me publikun një nga përjetimet më të dhimbshme të jetës së tij – humbjen e fëmijës menjëherë pas lindjes. Në një intervistë emocionuese për emisionin “Goca dhe Gra”, ai rrëfehet mes lotësh për ngjarjen që e tronditi thellë dhe falënderon Zotin për forcën që ia dha për ta përballuar këtë dhimbje të madhe.“Falënderoj Zotin që ma bëri të mundur të isha i fortë dhe të mos humbja mendtë e kokës. Shpresoj mos t’i ndodhë askujt, sepse është një ngjarje shumë e rëndë. Ja kisha vendosur emrin”, rrëfen reperi. - YouTube youtu.be Marin tregoi se ndodhej në Angli, ku doktori që po ndiqte bashkëshorten e tij ishte fetar, dhe se përballja me dhimbjen ishte jashtëzakonisht e vështirë. Megjithatë, ai thekson se forca e dhënë nga Zoti e ndihmoi të qëndronte i fortë: “Dhimbja ishte e madhe, por forca nga Zoti ishte 2-3 herë më e madhe”.Ai gjithashtu falënderoi familjen, miqtë dhe fansat për mbështetjen dhe komentet ngushëlluese: “Kur lexoja fansat që më ngushëlluan, isha i lumtur sepse ka akoma mirësi. Do të doja që të bënim më shumë për njëri-tjetrin. Ndjenja më e mirë se e të marrit është ajo e të dhënit”, shtoi Marin.Rrëfimi i reperit tregon jo vetëm dhimbjen e humbjes, por edhe rëndësinë e forcës shpirtërore dhe mbështetjes së njerëzve përreth në momentet më të vështira të jetës. /Telegrafi/",
+      "published": "Wed, 29 Oct 2025 06:20:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/reperi-marin-rrefen-mes-te-qarash-humbjen-tragjike-te-femijes-dhimbja-ishte-e-madhe-por-forca-nga-zoti-ishte-edhe-me-e-madhe/",
+      "fetched_at": "2025-10-29T06:29:11.608299",
+      "ai_summary": "Reperi i njohur shqiptar, Marin, ka ndarë me publikun një nga përjetimet më të dhimbshme të jetës së tij – humbjen e fëmijës menjëherë pas lindjes. Në një intervistë emocionuese për emisionin “Goca dh..."
+    },
+    {
+      "title": "Mot me diell, temperaturat deri në 16 gradë",
+      "link": "https://telegrafi.com/mot-me-diell-temperaturat-deri-ne-16-grade-2674244654/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira të shpërndara.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 0-2 gradë Celsius, ndërkaq ato maksimale nga 13 deri në 16°C.Era: kryesisht nga jugperëndimi me shpejtësi 1-5m/s. /Telegrafi/",
+      "published": "Wed, 29 Oct 2025 06:06:27 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mot-me-diell-temperaturat-deri-ne-16-grade-2674244654/",
+      "fetched_at": "2025-10-29T06:29:11.608866",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell dhe vranësira të shpërndara.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 0-2 gradë Celsius, ndërkaq a..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 7,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
