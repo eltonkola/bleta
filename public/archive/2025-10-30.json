@@ -1,6 +1,6 @@
 {
   "date": "2025-10-30",
-  "timestamp": "2025-10-30T03:10:05.631436",
+  "timestamp": "2025-10-30T04:21:04.352441",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,84 +9,32 @@
   },
   "articles": [
     {
-      "title": "Hamasi dhe Izraeli deklarojnë se janë të gatshëm të respektojnë armëpushimin në Gaza",
-      "link": "https://www.balkanweb.com/hamasi-dhe-izraeli-deklarojne-se-jane-te-gatshem-te-respektojne-armepushimin-ne-gaza/",
-      "description": "Hamasi dhe Izraeli kanë konfirmuar angazhimin e tyre për të respektuar armëpushimin në Rripin e Gazës. Kryeministri dhe Ministri i Jashtëm i Katarit, Sheikh Mohammed bin Abdulrahman Al Thani, e tha këtë gjatë një fjalimi në një takim të Këshillit për Marrëdhëniet me Jashtë në Nju Jork. Ai tha se shkelja e fundit e armëpushimit […]",
-      "published": "Thu, 30 Oct 2025 03:00:00 +0000",
+      "title": "Policia spanjolle sekuestron 20 ton kanabis të fshehur në kamionë që transportonin speca",
+      "link": "https://www.balkanweb.com/policia-spanjolle-sekuestron-20-ton-kanabis-te-fshehur-ne-kamione-qe-transportonin-speca/",
+      "description": "Policia spanjolle tha të mërkurën se kishte sekuestruar 20 ton kanabis të fshehur në kamionë frigoriferikë që transportonin speca nga Maroku. Oficerët ndaluan një kamion që transportonte 12 ton rrëshirë kanabisi në ndarje të rreme pas kutive me speca të gjelbër në provincën jugore të Cadiz më 21 tetor, tha Policia Kombëtare e Spanjës në […]",
+      "published": "Thu, 30 Oct 2025 04:00:32 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837869",
-      "fetched_at": "2025-10-30T03:10:00.142642",
-      "ai_summary": "Hamasi dhe Izraeli kanë konfirmuar angazhimin e tyre për të respektuar armëpushimin në Rripin e Gazës. Kryeministri dhe Ministri i Jashtëm i Katarit, Sheikh Mohammed bin Abdulrahman Al Thani, e tha kë..."
+      "guid": "https://www.balkanweb.com/?p=2837873",
+      "fetched_at": "2025-10-30T04:20:59.543221",
+      "ai_summary": "Policia spanjolle tha të mërkurën se kishte sekuestruar 20 ton kanabis të fshehur në kamionë frigoriferikë që transportonin speca nga Maroku. Oficerët ndaluan një kamion që transportonte 12 ton rrëshi..."
     },
     {
-      "title": "Trump: Koreja e Jugut do t’i paguajë 350 miliardë dollarë SHBA-së për uljen e tarifave, dritën “jeshile” për ndërtimin e një nëndetëseje me energji bërthamore",
-      "link": "https://www.balkanweb.com/trump-koreja-e-jugut-do-ti-paguaje-350-miliarde-dollare-shba-se-per-uljen-e-tarifave-driten-jeshile-per-ndertimin-e-nje-nendeteseje-me-energji-berthamore/",
-      "description": "Në një postim në Twitter, Donald Trump tha se Koreja e Jugut kishte rënë dakord të paguante 350 miliardë dollarë amerikanë në këmbim të uljes së tarifave, ndërsa njoftoi marrëveshje të reja tregtare dhe mbrojtëse. Ai tha gjithashtu se Seuli do të bënte blerje masive të naftës dhe gazit amerikan , ndërsa investimet nga kompanitë […]",
-      "published": "Thu, 30 Oct 2025 02:45:22 +0000",
+      "title": "Britania e Madhe shpreh shqetësim për sulmet e reja izraelite në Gaza",
+      "link": "https://www.balkanweb.com/britania-e-madhe-shpreh-shqetesim-per-sulmet-e-reja-izraelite-ne-gaza/",
+      "description": "Kryeministri britanik shprehu shqetësim të mërkurën për sulmet e fundit izraelite në Gaza , duke e quajtur shkallën e shkatërrimit në enklavën e rrethuar “të paimagjinueshme”. “Jam thellësisht i shqetësuar… nga sulmet, dhe kjo nënvizon brishtësinë e marrëveshjes së armëpushimit”, tha Keir Starmer gjatë seancës javore të Pyetjeve të Kryeministrit në Dhomën e Komunave. Duke […]",
+      "published": "Thu, 30 Oct 2025 03:30:52 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837901",
-      "fetched_at": "2025-10-30T03:10:00.142839",
-      "ai_summary": "Në një postim në Twitter, Donald Trump tha se Koreja e Jugut kishte rënë dakord të paguante 350 miliardë dollarë amerikanë në këmbim të uljes së tarifave, ndërsa njoftoi marrëveshje të reja tregtare d..."
-    },
-    {
-      "title": "Trump: Marrëveshja tregtare SHBA-Kore e Jugut ‘pothuajse është finalizuar’",
-      "link": "https://www.balkanweb.com/trump-marreveshja-tregtare-shba-kore-e-jugut-pothuajse-eshte-finalizuar/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se një marrëveshje tregtare e pakapshme me Korenë e Jugut është “pothuajse e finalizuar” gjatë vizitës së tij në kombin e Azisë Lindore. Trump tha se “shumë gjëra u përcaktuan” gjatë takimit të tij me Presidentin Lee Jae Myung, por nuk tha se udhëheqësit arritën një marrëveshje […]",
-      "published": "Thu, 30 Oct 2025 02:30:08 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837886",
-      "fetched_at": "2025-10-30T03:10:00.142943",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se një marrëveshje tregtare e pakapshme me Korenë e Jugut është “pothuajse e finalizuar” gjatë vizitës së tij në kombin e Azisë Lindore. Trump tha s..."
-    },
-    {
-      "title": "Spanja do të blejë 45 avionë HÜRJET nga Turqia",
-      "link": "https://www.balkanweb.com/spanja-do-te-bleje-45-avione-hurjet-nga-turqia/",
-      "description": "Qeveria spanjolle ka miratuar blerjen e avionit të parë kombëtar reaktiv stërvitor dhe sulmues të lehtë të Turqisë, HÜRJET. U raportua se vendimi për blerjen e 45 avionëve HÜRJET nga Turqia nga Spanja u mor në një mbledhje të Këshillit të Ministrave. Vlera e kontratës është 3 miliardë e 120 milionë euro, dhe zbatimi i […]",
-      "published": "Thu, 30 Oct 2025 02:00:34 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837866",
-      "fetched_at": "2025-10-30T03:10:00.143055",
-      "ai_summary": "Qeveria spanjolle ka miratuar blerjen e avionit të parë kombëtar reaktiv stërvitor dhe sulmues të lehtë të Turqisë, HÜRJET. U raportua se vendimi për blerjen e 45 avionëve HÜRJET nga Turqia nga Spanja..."
-    },
-    {
-      "title": "Një burrë që kaloi 43 vjet në burg para se dënimi i tij të përmbysej, tani përballet me deportim",
-      "link": "https://www.balkanweb.com/nje-burre-qe-kaloi-43-vjet-ne-burg-para-se-denimi-i-tij-te-permbysej-tani-perballet-me-deportim/",
-      "description": "Pasi priti më shumë se katër dekada për të pastruar emrin e tij në vrasjen e një miku në vitin 1980, Subramanyam Vedam ishte gati të lirohej nga një burg në Pensilvani këtë muaj. Vedam dhe Thomas Kinser ishin fëmijët 19-vjeçarë të fakultetit të Universitetit Shtetëror të Pensilvanisë. Vedam ishte personi i fundit që u […]",
-      "published": "Thu, 30 Oct 2025 01:45:38 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837898",
-      "fetched_at": "2025-10-30T03:10:00.143165",
-      "ai_summary": "Pasi priti më shumë se katër dekada për të pastruar emrin e tij në vrasjen e një miku në vitin 1980, Subramanyam Vedam ishte gati të lirohej nga një burg në Pensilvani këtë muaj. Vedam dhe Thomas Kins..."
-    },
-    {
-      "title": "Gjermania u bën thirrje Izraelit dhe Hamasit të respektojnë marrëveshjen e armëpushimit në Gaza",
-      "link": "https://www.balkanweb.com/gjermania-u-ben-thirrje-izraelit-dhe-hamasit-te-respektojne-marreveshjen-e-armepushimit-ne-gaza/",
-      "description": "Gjermania i bëri thirrje të mërkurën Izraelit dhe Hamasit që t’i përmbahen marrëveshjes së armëpushimit në Gaza , pasi sulmet ushtarake izraelite vranë mbi 100 palestinezë në Rripin e Gazës. Duke folur në një konferencë për shtyp në Berlin, zëvendëszëdhënësi i qeverisë Steffen Meyer tha se Gjermania pret që të gjitha palët në konflikt të […]",
-      "published": "Thu, 30 Oct 2025 01:30:33 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837883",
-      "fetched_at": "2025-10-30T03:10:00.143250",
-      "ai_summary": "Gjermania i bëri thirrje të mërkurën Izraelit dhe Hamasit që t’i përmbahen marrëveshjes së armëpushimit në Gaza , pasi sulmet ushtarake izraelite vranë mbi 100 palestinezë në Rripin e Gazës. Duke folu..."
+      "guid": "https://www.balkanweb.com/?p=2837889",
+      "fetched_at": "2025-10-30T04:20:59.543382",
+      "ai_summary": "Kryeministri britanik shprehu shqetësim të mërkurën për sulmet e fundit izraelite në Gaza , duke e quajtur shkallën e shkatërrimit në enklavën e rrethuar “të paimagjinueshme”. “Jam thellësisht i shqet..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
