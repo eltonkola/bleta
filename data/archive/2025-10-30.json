@@ -1,6 +1,6 @@
 {
   "date": "2025-10-30",
-  "timestamp": "2025-10-30T04:21:04.352441",
+  "timestamp": "2025-10-30T06:27:54.845733",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,33 +9,111 @@
   },
   "articles": [
     {
-      "title": "Policia spanjolle sekuestron 20 ton kanabis të fshehur në kamionë që transportonin speca",
-      "link": "https://www.balkanweb.com/policia-spanjolle-sekuestron-20-ton-kanabis-te-fshehur-ne-kamione-qe-transportonin-speca/",
-      "description": "Policia spanjolle tha të mërkurën se kishte sekuestruar 20 ton kanabis të fshehur në kamionë frigoriferikë që transportonin speca nga Maroku. Oficerët ndaluan një kamion që transportonte 12 ton rrëshirë kanabisi në ndarje të rreme pas kutive me speca të gjelbër në provincën jugore të Cadiz më 21 tetor, tha Policia Kombëtare e Spanjës në […]",
-      "published": "Thu, 30 Oct 2025 04:00:32 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
+      "title": "Trumpi takohet me Xi-në, zvogëlon tarifat ndaj Kinës",
+      "link": "https://www.koha.net/bote/trumpi-takohet-me-xi-ne-zvogelon-tarifat-ndaj-kines",
+      "description": "Presidenti amerikan, Donald Trump, ka deklaruar se SHBA-ja mund të nënshkruajnë “shumë shpejt” një marrëveshje tregtare me Kinën, pas bisedimeve me presidentin kinez, Xi Jinping në Korenë e Jugut të enjten.Trumpi ka njoftuar tarifa më të ulëta për importet kineze dhe ka thënë se çështja...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837873",
-      "fetched_at": "2025-10-30T04:20:59.543221",
-      "ai_summary": "Policia spanjolle tha të mërkurën se kishte sekuestruar 20 ton kanabis të fshehur në kamionë frigoriferikë që transportonin speca nga Maroku. Oficerët ndaluan një kamion që transportonte 12 ton rrëshi..."
+      "guid": "https://www.koha.net/472019",
+      "fetched_at": "2025-10-30T06:27:46.974348",
+      "ai_summary": "Presidenti amerikan, Donald Trump, ka deklaruar se SHBA-ja mund të nënshkruajnë “shumë shpejt” një marrëveshje tregtare me Kinën, pas bisedimeve me presidentin kinez, Xi Jinping në Korenë e Jugut të e..."
     },
     {
-      "title": "Britania e Madhe shpreh shqetësim për sulmet e reja izraelite në Gaza",
-      "link": "https://www.balkanweb.com/britania-e-madhe-shpreh-shqetesim-per-sulmet-e-reja-izraelite-ne-gaza/",
-      "description": "Kryeministri britanik shprehu shqetësim të mërkurën për sulmet e fundit izraelite në Gaza , duke e quajtur shkallën e shkatërrimit në enklavën e rrethuar “të paimagjinueshme”. “Jam thellësisht i shqetësuar… nga sulmet, dhe kjo nënvizon brishtësinë e marrëveshjes së armëpushimit”, tha Keir Starmer gjatë seancës javore të Pyetjeve të Kryeministrit në Dhomën e Komunave. Duke […]",
-      "published": "Thu, 30 Oct 2025 03:30:52 +0000",
+      "title": "“Në Kosovë po thellohen kontraditat me serbët, por kosovarët…”/ Dokumenti i Sigurimit për ngjarjet e ’81-it; Enver Hoxha kishte dijeni, por…!",
+      "link": "https://www.balkanweb.com/ne-kosove-po-thellohen-kontraditat-me-serbet-por-kosovaret-dokumenti-i-sigurimit-per-ngjarjet-e-81-it-enver-hoxha-kishte-dijeni-por/",
+      "description": "Ngjarjet e Kosovës të pranverës së vitit 1981, që nisën në fillimin e muajit mars me protestat dhe demonstratat e rinisë studentore e më pas edhe të popullit të Kosovës, të cilët u ngritën për të kërkuar liritë dhe të drejtat e tyre të ligjshme, ashtu si të gjithë popujt dhe etnitë e tjerë që […]",
+      "published": "Thu, 30 Oct 2025 06:18:48 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2837889",
-      "fetched_at": "2025-10-30T04:20:59.543382",
-      "ai_summary": "Kryeministri britanik shprehu shqetësim të mërkurën për sulmet e fundit izraelite në Gaza , duke e quajtur shkallën e shkatërrimit në enklavën e rrethuar “të paimagjinueshme”. “Jam thellësisht i shqet..."
+      "guid": "https://www.balkanweb.com/?p=2837818",
+      "fetched_at": "2025-10-30T06:27:49.370293",
+      "ai_summary": "Ngjarjet e Kosovës të pranverës së vitit 1981, që nisën në fillimin e muajit mars me protestat dhe demonstratat e rinisë studentore e më pas edhe të popullit të Kosovës, të cilët u ngritën për të kërk..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, 30 tetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-30-tetor-2025/",
+      "description": "Ditën e sotme vendi ynë do të jetë në ndikimin e kushteve atmosferike të qëndrueshme. Moti parashikohet me kthjellime dhe alternime vranësirash, kryesisht në relievet malore të vendit. Era do të fryjë me drejtim kryesor nga kuadrati i jugut me shpejtësi mesatare 7m/s, në bregdet dhe lugina hera-herës do të arrijë deri në 15m/s Deti […]",
+      "published": "Thu, 30 Oct 2025 06:12:04 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2837837",
+      "fetched_at": "2025-10-30T06:27:49.370445",
+      "ai_summary": "Ditën e sotme vendi ynë do të jetë në ndikimin e kushteve atmosferike të qëndrueshme. Moti parashikohet me kthjellime dhe alternime vranësirash, kryesisht në relievet malore të vendit. Era do të fryjë..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 30 tetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-30-tetor-2025/",
+      "description": "Dashi Ndërsa gjithnjë e më shumë informacion ju vjen në ndihmë, ka të ngjarë të ngatërroheni në lidhje me rrugën që duhet të ndiqni. Mos kini frikë të kërkoni këshilla. Kërkoni këshilla nga dikush që është më i vjetër dhe më me përvojë se ju. Besojini atij personi. Demi Ke krijuar një situatë për veten […]",
+      "published": "Thu, 30 Oct 2025 06:05:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2837258",
+      "fetched_at": "2025-10-30T06:27:49.370529",
+      "ai_summary": "Dashi Ndërsa gjithnjë e më shumë informacion ju vjen në ndihmë, ka të ngjarë të ngatërroheni në lidhje me rrugën që duhet të ndiqni. Mos kini frikë të kërkoni këshilla. Kërkoni këshilla nga dikush që ..."
+    },
+    {
+      "title": "Trump miraton ndërtimin e një nëndetëseje me energji bërthamore në Korenë e Jugut",
+      "link": "https://www.balkanweb.com/trump-miraton-ndertimin-e-nje-nendeteseje-me-energji-berthamore-ne-korene-e-jugut/",
+      "description": "Presidenti i SHBA-së, Donald Trump, njoftoi në një postim në platformën Truth Social se i ka dhënë dritën jeshile Koresë së Jugut për të ndërtuar një nëndetëse me energji bërthamore . Trump, i cili ndodhet në qytetin Gyeongju për samitin e Bashkëpunimit Ekonomik Azi-Paqësor (APEC), tha gjithashtu se Seuli ka rënë dakord të blejë sasi […]",
+      "published": "Thu, 30 Oct 2025 05:00:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2837904",
+      "fetched_at": "2025-10-30T06:27:49.370611",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, njoftoi në një postim në platformën Truth Social se i ka dhënë dritën jeshile Koresë së Jugut për të ndërtuar një nëndetëse me energji bërthamore . Trump, i cili nd..."
+    },
+    {
+      "title": "Ylli televiziv iranian shkakton debat të nxehtë rreth pabarazisë",
+      "link": "https://www.balkanweb.com/ylli-televiziv-iranian-shkakton-debat-te-nxehte-rreth-pabarazise/",
+      "description": "Vërejtjet kontroverse nga një aktore e vlerësuar me çmime kanë shkaktuar një debat të nxehtë rreth drejtësisë sociale në Iran. Të enjten e kaluar, Fariba Naderi zhvilloi një bisedë njëorëshe në emisionin “Pump” në YouTube, i cili është i bllokuar në Iran. Ajo foli me prezantuesin Amirhussein Ghiasi rreth punës së saj, por edhe rreth […]",
+      "published": "Thu, 30 Oct 2025 04:30:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2837892",
+      "fetched_at": "2025-10-30T06:27:49.370690",
+      "ai_summary": "Vërejtjet kontroverse nga një aktore e vlerësuar me çmime kanë shkaktuar një debat të nxehtë rreth drejtësisë sociale në Iran. Të enjten e kaluar, Fariba Naderi zhvilloi një bisedë njëorëshe në emisio..."
+    },
+    {
+      "title": "Mëngjesi ftohtë, mesdita me temperatura pranverore",
+      "link": "https://telegrafi.com/mengjesi-ftohte-mesdita-me-temperatura-pranverore/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot me diell dhe vranësira të shpërndara.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 1 dhe 2 gradë Celsius, ndërkaq ato maksimale nga 15-18°CEra do të fryjë nga juglindja, 1-3 m/s. /Telegrafi/",
+      "published": "Thu, 30 Oct 2025 06:08:00 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mengjesi-ftohte-mesdita-me-temperatura-pranverore/",
+      "fetched_at": "2025-10-30T06:27:51.776911",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot me diell dhe vranësira të shpërndara.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 1 dhe 2 gradë Celsius, ndërkaq ato mak..."
+    },
+    {
+      "title": "Vokalisti i \"Maneskin\" fejohet me aktoren Dove Cameron",
+      "link": "https://telegrafi.com/vokalisti-i-maneskin-fejohet-me-aktoren-dove-cameron/",
+      "description": "Aktorja dhe këngëtarja Dove Cameron, e njohur për rolin e saj në serialin e Disneyt \"Descendants\" dhe Damiano David, vokalisti i grupit italian \"Maneskin\" dhe fitues i Festivalit të Këngës Eurovision 2021, janë fejuar pas dy vitesh lidhje.Sipas TMZ, çifti u pa në Sydney, Australi, ku Cameron mbante një unazë diamanti, duke shkaktuar thashetheme për fejesë. Fotot e çiftit u bënë shpejt virale në rrjetet sociale dhe megjithëse përfaqësuesit e tyre nuk kanë komentuar, TMZ pretendon se është një unazë fejese. View this post on Instagram A post shared by DOVE (@dovecameron)Cameron (29 vjeçe) dhe David (26 vjeçar) u fotografuan duke ecur dorë për dore.Lidhja e çiftit të famshëm filloi në vitin 2023, kur Cameron u pa në një koncert të grupit Maneskin në New York. 🚨Dove Cameron & Damiano David are engaged, TMZ reports. pic.twitter.com/9oT67hSdUq— Pop Crave (@PopCrave) October 29, 2025 Pas kësaj, çifti u panë bashkë gjithnjë e më shpesh, dhe e konfirmuan romancën e tyre në shkurt të vitit 2024 duke u shfaqur së bashku në tapetin e kuq në galanë para-Grammy të Clive Davis.Dove më parë ishte e fejuar me Ryan McCartan, me të cilin ishte në një lidhje nga viti 2013 deri në vitin 2016. /Telegrafi/",
+      "published": "Wed, 29 Oct 2025 22:55:05 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vokalisti-i-maneskin-fejohet-me-aktoren-dove-cameron/",
+      "fetched_at": "2025-10-30T06:27:51.777222",
+      "ai_summary": "Aktorja dhe këngëtarja Dove Cameron, e njohur për rolin e saj në serialin e Disneyt \"Descendants\" dhe Damiano David, vokalisti i grupit italian \"Maneskin\" dhe fitues i Festivalit të Këngës Eurovision ..."
     }
   ],
-  "total_articles": 2,
+  "total_articles": 8,
   "sources": [
+    "Koha.net",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
