@@ -1,6 +1,6 @@
 {
   "date": "2025-10-31",
-  "timestamp": "2025-10-31T03:09:40.952319",
+  "timestamp": "2025-10-31T04:22:36.305767",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,84 +9,32 @@
   },
   "articles": [
     {
-      "title": "Arrestohet ish-zëvendësministri i Infrastrukturës në Gjeorgji",
-      "link": "https://www.balkanweb.com/arrestohet-ish-zevendesministri-i-infrastruktures-ne-gjeorgji/",
-      "description": "Ish-zëvendësministri i Zhvillimit Rajonal dhe Infrastrukturës së Gjeorgjisë, Koba Gabunia, është arrestuar me akuzën e shpërdorimit të detyrës, dhe shtëpia e ish-ministrit Irakli Karseladze është kontrolluar. Kjo u deklarua nga Iya Akhalay, Zëvendës Shef i Shërbimit Hetimor të Ministrisë së Financave të Gjeorgjisë, në një konferencë për shtyp. “Si pjesë e një operacioni të kryer […]",
-      "published": "Fri, 31 Oct 2025 03:00:01 +0000",
+      "title": "OKB paralajmëron për sfidat e vazhdueshme humanitare në Gaza",
+      "link": "https://www.balkanweb.com/okb-paralajmeron-per-sfidat-e-vazhdueshme-humanitare-ne-gaza/",
+      "description": "Një zëdhënës i OKB-së tha të enjten se operacionet humanitare në Rripin e Gazës mbeten shumë të kufizuara pavarësisht armëpushimit , duke përmendur kufizimet e vazhdueshme dhe infrastrukturën e dëmtuar. “Zyra për Koordinimin e Çështjeve Humanitare (OCHA) thotë se shkalla e zgjerimit të operacioneve humanitare vazhdon sipas armëpushimit, por mbetet e kufizuar nga kufizimet e […]",
+      "published": "Fri, 31 Oct 2025 04:00:15 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2838786",
-      "fetched_at": "2025-10-31T03:09:35.347764",
-      "ai_summary": "Ish-zëvendësministri i Zhvillimit Rajonal dhe Infrastrukturës së Gjeorgjisë, Koba Gabunia, është arrestuar me akuzën e shpërdorimit të detyrës, dhe shtëpia e ish-ministrit Irakli Karseladze është kont..."
+      "guid": "https://www.balkanweb.com/?p=2838797",
+      "fetched_at": "2025-10-31T04:22:31.244288",
+      "ai_summary": "Një zëdhënës i OKB-së tha të enjten se operacionet humanitare në Rripin e Gazës mbeten shumë të kufizuara pavarësisht armëpushimit , duke përmendur kufizimet e vazhdueshme dhe infrastrukturën e dëmtua..."
     },
     {
-      "title": "Moska dhe Astana planifikojnë të ndërtojnë një linjë komunikimi me fibra optike përgjatë fundit të Detit Kaspik",
-      "link": "https://www.balkanweb.com/moska-dhe-astana-planifikojne-te-ndertojne-nje-linje-komunikimi-me-fibra-optike-pergjate-fundit-te-detit-kaspik/",
-      "description": "Ministritë e Zhvillimit Dixhital të Rusisë dhe Kazakistanit, Rostelecom dhe Kazakhtelecom, po diskutojnë mundësinë e zbatimit të një projekti të përbashkët për të hedhur një linjë komunikimi me fibra optike përgjatë fundit të Detit Kaspik. Kjo u deklarua nga Ministri rus i Zhvillimit Dixhital Maksut Shadayev në Forumin e Tretë Dixhital Kaspik. “Tani po diskutojmë […]",
-      "published": "Fri, 31 Oct 2025 02:45:21 +0000",
+      "title": "Papa u drejtohet studentëve: ‘Mos e lini teknologjinë t’ju përdorë’",
+      "link": "https://www.balkanweb.com/papa-u-drejtohet-studenteve-mos-e-lini-teknologjine-tju-perdore/",
+      "description": "Papa Leo XIV i nxiti studentët ta përdorin arsimin si mjet për ndërtimin e një shoqërie më të mirë dhe paralajmëroi kundër lejimit që teknologjia të dominojë jetën e tyre, raportoi të enjten Vatican News. Papa, duke iu drejtuar studentëve në Sallën e Audiencës së Palit VI në Romë, theksoi shembullin e studentit italian të […]",
+      "published": "Fri, 31 Oct 2025 03:30:55 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2838832",
-      "fetched_at": "2025-10-31T03:09:35.347906",
-      "ai_summary": "Ministritë e Zhvillimit Dixhital të Rusisë dhe Kazakistanit, Rostelecom dhe Kazakhtelecom, po diskutojnë mundësinë e zbatimit të një projekti të përbashkët për të hedhur një linjë komunikimi me fibra ..."
-    },
-    {
-      "title": "BE feston 40 vjetorin e zonës Shengen me bileta falas për të rinjtë",
-      "link": "https://www.balkanweb.com/be-feston-40-vjetorin-e-zones-shengen-me-bileta-falas-per-te-rinjte/",
-      "description": "Komisioni Evropian ka njoftuar një fazë të re të nismës së saj “DiscoverEU”, kushtuar 40-vjetorit të zonës Shengen dhe e cila do t’u japë 40,000 të rinjve mundësinë të udhëtojnë falas në të gjithë kontinentin. Kjo u deklarua nga përfaqësuesja zyrtare e Bashkimit Evropian (BE) në Bruksel, Anna-Kaisa Itkonen. Të rinjtë e lindur në vitin […]",
-      "published": "Fri, 31 Oct 2025 02:45:13 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2838829",
-      "fetched_at": "2025-10-31T03:09:35.347984",
-      "ai_summary": "Komisioni Evropian ka njoftuar një fazë të re të nismës së saj “DiscoverEU”, kushtuar 40-vjetorit të zonës Shengen dhe e cila do t’u japë 40,000 të rinjve mundësinë të udhëtojnë falas në të gjithë kon..."
-    },
-    {
-      "title": "Argjentina rrit sigurinë kufitare me Brazilin mes operacionit kundër bandave kriminale në Rio",
-      "link": "https://www.balkanweb.com/argjentina-rrit-sigurine-kufitare-me-brazilin-mes-operacionit-kunder-bandave-kriminale-ne-rio/",
-      "description": "Qeveria argjentinase ka rritur gatishmërinë kufitare në nivelin maksimal me Brazilin pas një operacioni masiv policor kundër bandës Comando Vermelho në Rio de Janeiro , i cili thuhet se ka rezultuar në mbi 100 vdekje që nga fillimi i tij të martën. “Do të lëshoj një alarm maksimal në kufij, në mënyrë që të mos […]",
-      "published": "Fri, 31 Oct 2025 02:30:00 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2838803",
-      "fetched_at": "2025-10-31T03:09:35.348065",
-      "ai_summary": "Qeveria argjentinase ka rritur gatishmërinë kufitare në nivelin maksimal me Brazilin pas një operacioni masiv policor kundër bandës Comando Vermelho në Rio de Janeiro , i cili thuhet se ka rezultuar n..."
-    },
-    {
-      "title": "Vance: SHBA-të duhet të kryejnë teste bërthamore periodikisht",
-      "link": "https://www.balkanweb.com/vance-shba-te-duhet-te-kryejne-teste-berthamore-periodikisht/",
-      "description": "Shtetet e Bashkuara duhet të kryejnë teste bërthamore periodikisht. “Ne kemi një arsenal të madh. Natyrisht, rusët kanë një arsenal të madh bërthamor. Kinezët kanë një të tillë. Ndonjëherë duhet ta testosh për t’u siguruar që funksionon, ose më saktë, funksionon siç duhet”, theksoi Vance. Megjithatë, zëvendëspresidenti amerikan nuk specifikoi nëse vendi i tij planifikonte […]",
-      "published": "Fri, 31 Oct 2025 02:00:06 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2838782",
-      "fetched_at": "2025-10-31T03:09:35.348138",
-      "ai_summary": "Shtetet e Bashkuara duhet të kryejnë teste bërthamore periodikisht. “Ne kemi një arsenal të madh. Natyrisht, rusët kanë një arsenal të madh bërthamor. Kinezët kanë një të tillë. Ndonjëherë duhet ta te..."
-    },
-    {
-      "title": "Parandalohet një sulm terrorist në burgun e Rostovit",
-      "link": "https://www.balkanweb.com/parandalohet-nje-sulm-terrorist-ne-burgun-e-rostovit/",
-      "description": "Një komplot për të kryer një akt terrorist dhe për të marrë pengje në një burg në rajonin e Rostovit të Rusisë është penguar. Shërbimi për shtyp i Departamentit Rajonal të Hetimit të Komitetit Hetues lëshoi ​​një deklaratë për këtë. “Një çështje penale është hapur për faktin e kryerjes së një krimi të parashikuar nga […]",
-      "published": "Fri, 31 Oct 2025 01:30:04 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2838793",
-      "fetched_at": "2025-10-31T03:09:35.348214",
-      "ai_summary": "Një komplot për të kryer një akt terrorist dhe për të marrë pengje në një burg në rajonin e Rostovit të Rusisë është penguar. Shërbimi për shtyp i Departamentit Rajonal të Hetimit të Komitetit Hetues ..."
+      "guid": "https://www.balkanweb.com/?p=2838806",
+      "fetched_at": "2025-10-31T04:22:31.244441",
+      "ai_summary": "Papa Leo XIV i nxiti studentët ta përdorin arsimin si mjet për ndërtimin e një shoqërie më të mirë dhe paralajmëroi kundër lejimit që teknologjia të dominojë jetën e tyre, raportoi të enjten Vatican N..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
