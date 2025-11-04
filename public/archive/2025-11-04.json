@@ -1,6 +1,6 @@
 {
   "date": "2025-11-04",
-  "timestamp": "2025-11-04T03:09:05.628550",
+  "timestamp": "2025-11-04T04:21:09.798250",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,71 +9,32 @@
   },
   "articles": [
     {
-      "title": "Sierra Leone merr presidencën e Këshillit të Sigurimit të OKB-së",
-      "link": "https://www.balkanweb.com/sierra-leone-merr-presidencen-e-keshillit-te-sigurimit-te-okb-se/",
-      "description": "Sierra Leone do të kryesojë Këshillin e Sigurimit të OKB-së. Përfaqësuesi i përhershëm i vendit në OKB dhe kryetari i Këshillit për nëntorin, Ambasadori Michael Imran Kanu, e bëri këtë deklaratë në një konferencë për shtyp në Nju Jork. Ambasadori tha se gjatë muajit, Këshilli do të diskutojë një numër çështjesh të rëndësishme. Më 17 […]",
-      "published": "Tue, 04 Nov 2025 03:00:22 +0000",
+      "title": "Kamioni përplaset me autobusin në Indinë jugore, duke vrarë të paktën 20 persona",
+      "link": "https://www.balkanweb.com/kamioni-perplaset-me-autobusin-ne-indine-jugore-duke-vrare-te-pakten-20-persona/",
+      "description": "Një kamion i ngarkuar me copa betoni u përplas me një autobus pasagjerësh në Indinë jugore të hënën në mëngjes, duke vrarë të paktën 20 persona dhe duke plagosur shumë të tjerë, thanë autoritetet lokale. Autobusi shtetëror i transportit po transportonte rreth 70 pasagjerë në rrugën për në qytetin Hyderabad në shtetin jugor Telangana kur […]",
+      "published": "Tue, 04 Nov 2025 04:00:37 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2841697",
-      "fetched_at": "2025-11-04T03:08:59.462781",
-      "ai_summary": "Sierra Leone do të kryesojë Këshillin e Sigurimit të OKB-së. Përfaqësuesi i përhershëm i vendit në OKB dhe kryetari i Këshillit për nëntorin, Ambasadori Michael Imran Kanu, e bëri këtë deklaratë në nj..."
+      "guid": "https://www.balkanweb.com/?p=2841714",
+      "fetched_at": "2025-11-04T04:21:04.345859",
+      "ai_summary": "Një kamion i ngarkuar me copa betoni u përplas me një autobus pasagjerësh në Indinë jugore të hënën në mëngjes, duke vrarë të paktën 20 persona dhe duke plagosur shumë të tjerë, thanë autoritetet loka..."
     },
     {
-      "title": "SHBA-të pezullojnë përkohësisht pagesat për OKB-në",
-      "link": "https://www.balkanweb.com/shba-te-pezullojne-perkohesisht-pagesat-per-okb-ne/",
-      "description": "Administrata e Presidentit të SHBA-së, Donald Trump, ka pezulluar përkohësisht pagesat për OKB-në, ndërsa pret reformat në organizatë. Kjo u deklarua nga Mike Waltz, Përfaqësuesi i Përhershëm i SHBA-së në OKB, në një intervistë me Breitbart News. “Presidenti po pezullon fondet amerikane derisa të shohim reforma”, shtoi diplomati. Sipas diplomatit, nën presionin e Shteteve të […]",
-      "published": "Tue, 04 Nov 2025 02:45:51 +0000",
+      "title": "Rrëfimi prekës i të vetmit të mbijetuar nga tragjedia e Air India",
+      "link": "https://www.balkanweb.com/rrefimi-prekes-i-te-vetmit-te-mbijetuar-nga-tragjedia-e-air-india/",
+      "description": "I mbijetuari i vetëm i rrëzimit të avionit të Air India në qershor u ka treguar mediave britanike për vuajtjet mendore dhe fizike që ka përjetuar që kur i mbijetoi katastrofës vdekjeprurëse në qytetin indian të Ahmedabadit. Vishwash Kumar Ramesh tha në intervistat e transmetuara dhe të publikuara të hënën se muajt pas rrëzimit, i […]",
+      "published": "Tue, 04 Nov 2025 03:30:15 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2841754",
-      "fetched_at": "2025-11-04T03:08:59.462939",
-      "ai_summary": "Administrata e Presidentit të SHBA-së, Donald Trump, ka pezulluar përkohësisht pagesat për OKB-në, ndërsa pret reformat në organizatë. Kjo u deklarua nga Mike Waltz, Përfaqësuesi i Përhershëm i SHBA-s..."
-    },
-    {
-      "title": "Zelensky: Nuk kam parë asnjë plan evropian për t’i dhënë fund luftës",
-      "link": "https://www.balkanweb.com/zelensky-nuk-kam-pare-asnje-plan-evropian-per-ti-dhene-fund-luftes/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky tha të hënën se nuk ka parë një plan evropian për t’i dhënë fund luftës, megjithëse disa vende në kontinent kanë paraqitur propozime për një zgjidhje paqësore. “Gjëja e rëndësishme në këtë çështje është, a e kam parë unë, si president i Ukrainës, këtë plan? Jo. Ka pikëpamje dhe propozime të […]",
-      "published": "Tue, 04 Nov 2025 02:30:58 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2841709",
-      "fetched_at": "2025-11-04T03:08:59.463031",
-      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky tha të hënën se nuk ka parë një plan evropian për t’i dhënë fund luftës, megjithëse disa vende në kontinent kanë paraqitur propozime për një zgjidhje paqësore. “..."
-    },
-    {
-      "title": "Uzbekistani do të vendosë regjim pa viza për qytetarët amerikanë",
-      "link": "https://www.balkanweb.com/uzbekistani-do-te-vendose-regjim-pa-viza-per-qytetaret-amerikane/",
-      "description": "Uzbekistani do të prezantojë një regjim pa viza për qytetarët amerikanë që nga 1 janari 2026. Presidenti i Uzbekistanit Shavkat Mirziyoyev ka nënshkruar një dekret përkatës për turizmin. Sipas dokumentit, qytetarët amerikanë do të jenë në gjendje të qëndrojnë në Uzbekistan pa vizë deri në 30 ditë nga data e hyrjes në vend. Në deklaratë […]",
-      "published": "Tue, 04 Nov 2025 02:00:07 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2841692",
-      "fetched_at": "2025-11-04T03:08:59.463117",
-      "ai_summary": "Uzbekistani do të prezantojë një regjim pa viza për qytetarët amerikanë që nga 1 janari 2026. Presidenti i Uzbekistanit Shavkat Mirziyoyev ka nënshkruar një dekret përkatës për turizmin. Sipas dokumen..."
-    },
-    {
-      "title": "Vlerësimi satelitor i OKB-së zbulon se 81% e strukturave në Rripin e Gazës janë të dëmtuara",
-      "link": "https://www.balkanweb.com/vleresimi-satelitor-i-okb-se-zbulon-se-81-e-strukturave-ne-rripin-e-gazes-jane-te-demtuara/",
-      "description": "OKB – ja tha të hënën se gati 81% e të gjitha strukturave në Rripin e Gazës janë dëmtuar, sipas një vlerësimi të ri satelitor, ndërsa përpjekjet humanitare vazhdojnë mes shkatërrimeve të përhapura nga dy vjet sulme izraelite. Duke cituar Zyrën për Koordinimin e Çështjeve Humanitare (OCHA), zëdhënësi i OKB-së, Farhan Haq, tha në një […]",
-      "published": "Tue, 04 Nov 2025 01:30:56 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2841706",
-      "fetched_at": "2025-11-04T03:08:59.463195",
-      "ai_summary": "OKB – ja tha të hënën se gati 81% e të gjitha strukturave në Rripin e Gazës janë dëmtuar, sipas një vlerësimi të ri satelitor, ndërsa përpjekjet humanitare vazhdojnë mes shkatërrimeve të përhapura nga..."
+      "guid": "https://www.balkanweb.com/?p=2841725",
+      "fetched_at": "2025-11-04T04:21:04.346006",
+      "ai_summary": "I mbijetuari i vetëm i rrëzimit të avionit të Air India në qershor u ka treguar mediave britanike për vuajtjet mendore dhe fizike që ka përjetuar që kur i mbijetoi katastrofës vdekjeprurëse në qytetin..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
