@@ -1,6 +1,6 @@
 {
   "date": "2025-11-05",
-  "timestamp": "2025-11-05T03:10:22.337867",
+  "timestamp": "2025-11-05T04:21:50.534597",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,58 +9,32 @@
   },
   "articles": [
     {
-      "title": "Senati amerikan dështon të miratojë projektligjin për financimin e qeverisë për të 14-ën herë",
-      "link": "https://www.balkanweb.com/senati-amerikan-deshton-te-miratoje-projektligjin-per-financimin-e-qeverise-per-te-14-en-here/",
-      "description": "Senati i SHBA-së ka hedhur poshtë një projektligj të udhëhequr nga republikanët për të financuar pjesërisht qeverinë federale për herë të 14-të brenda po aq javësh. Gjatë votimit procedural, dokumenti i miratuar më parë nga Dhoma e Përfaqësuesve u mbështet nga 54 anëtarë të dhomës së sipërme të Kongresit, ndërsa 44 senatorë votuan kundër tij. […]",
-      "published": "Wed, 05 Nov 2025 03:00:29 +0000",
+      "title": "Norvegjia modernizon sistemet e kontrollit kufitar me Rusinë",
+      "link": "https://www.balkanweb.com/norvegjia-modernizon-sistemet-e-kontrollit-kufitar-me-rusine/",
+      "description": "Policia dhe Forcat e Armatosura Norvegjeze do të modernizojnë sistemet e mbikëqyrjes në kufirin Norvegjez-Rusi. Kjo u tha në një deklaratë nga Departamenti i Policisë Norvegjeze. “Situata e politikës së sigurisë në Evropë do të thotë që Norvegjia ka ndërmarrë një sërë masash për të forcuar kontrollin kufitar”, citoi administrata nënkolonelin Rune Rippon të Shtabit […]",
+      "published": "Wed, 05 Nov 2025 04:00:56 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2842480",
-      "fetched_at": "2025-11-05T03:10:16.969014",
-      "ai_summary": "Senati i SHBA-së ka hedhur poshtë një projektligj të udhëhequr nga republikanët për të financuar pjesërisht qeverinë federale për herë të 14-të brenda po aq javësh. Gjatë votimit procedural, dokumenti..."
+      "guid": "https://www.balkanweb.com/?p=2842483",
+      "fetched_at": "2025-11-05T04:21:45.231924",
+      "ai_summary": "Policia dhe Forcat e Armatosura Norvegjeze do të modernizojnë sistemet e mbikëqyrjes në kufirin Norvegjez-Rusi. Kjo u tha në një deklaratë nga Departamenti i Policisë Norvegjeze. “Situata e politikës ..."
     },
     {
-      "title": "Një bombol gazi shpërthen në ndërtesën e Gjykatës Supreme në Pakistan",
-      "link": "https://www.balkanweb.com/nje-bombol-gazi-shperthen-ne-ndertesen-e-gjykates-supreme-ne-pakistan/",
-      "description": "12 persona u plagosën në një shpërthim të një bombole gazi në bodrumin e ndërtesës së Gjykatës Supreme në Pakistan. Sipas raportimeve, incidenti ndodhi gjatë riparimeve në sistemin qendror të ajrit të kondicionuar në bodrumin e gjykatës. Raportohet se të plagosurit janë dërguar në spitalet më të afërta. Shpërthimi shkaktoi panik edhe midis punonjësve të […]",
-      "published": "Wed, 05 Nov 2025 02:30:46 +0000",
+      "title": "SHBA-të vendosin sanksione ndaj rrjetit të kriptomonedhave të lidhur me Korenë e Veriut",
+      "link": "https://www.balkanweb.com/shba-te-vendosin-sanksione-ndaj-rrjetit-te-kriptomonedhave-te-lidhur-me-korene-e-veriut/",
+      "description": "Zyra e Kontrollit të Aseteve të Huaja (OFAC) e Departamentit të Thesarit të SHBA-së ka përditësuar listën e sanksioneve kundër RPDK-së. Informacioni në lidhje me këtë është publikuar në faqen e internetit të organizatës. Këtë herë, sanksionet u vendosën ndaj tetë individëve dhe dy subjekteve të përfshira në krimin kibernetik dhe mashtrimin e teknologjisë së […]",
+      "published": "Wed, 05 Nov 2025 03:30:19 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2842497",
-      "fetched_at": "2025-11-05T03:10:16.969158",
-      "ai_summary": "12 persona u plagosën në një shpërthim të një bombole gazi në bodrumin e ndërtesës së Gjykatës Supreme në Pakistan. Sipas raportimeve, incidenti ndodhi gjatë riparimeve në sistemin qendror të ajrit të..."
-    },
-    {
-      "title": "Shtëpia e Bardhë ka konfirmuar se një takim midis presidentëve të SHBA-së dhe Sirisë do të mbahet më 10 nëntor",
-      "link": "https://www.balkanweb.com/shtepia-e-bardhe-ka-konfirmuar-se-nje-takim-midis-presidenteve-te-shba-se-dhe-sirise-do-te-mbahet-me-10-nentor/",
-      "description": "Presidenti i SHBA-së, Donald Trump, do të takohet me homologun e tij sirian, Ahmed Al-Sharaa, në Shtëpinë e Bardhë më 10 nëntor. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Levitt, e bëri këtë deklaratë në një konferencë për shtyp. “Mund të konfirmoj se ky takim do të zhvillohet këtu në Shtëpinë e Bardhë të […]",
-      "published": "Wed, 05 Nov 2025 02:00:35 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2842476",
-      "fetched_at": "2025-11-05T03:10:16.969242",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, do të takohet me homologun e tij sirian, Ahmed Al-Sharaa, në Shtëpinë e Bardhë më 10 nëntor. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Levitt, e bëri këtë..."
-    },
-    {
-      "title": "Merz fton presidentin sirian al-Sharaa në Berlin për bisedime",
-      "link": "https://www.balkanweb.com/merz-fton-presidentin-sirian-al-sharaa-ne-berlin-per-bisedime/",
-      "description": "Kancelari gjerman Friedrich Merz e ka ftuar presidentin sirian Ahmad al-Sharaa në Berlin për bisedime mbi marrëdhëniet dypalëshe dhe migracionin. Duke folur me gazetarët të hënën në mbrëmje, kancelari Merz tha se dëshiron të diskutojë me al-Sharaa-n tranzicionin politik të Sirisë, rimëkëmbjen ekonomike dhe kthimin e refugjatëve sirianë. “Lufta civile në Siri ka mbaruar dhe […]",
-      "published": "Wed, 05 Nov 2025 01:30:51 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2842494",
-      "fetched_at": "2025-11-05T03:10:16.969327",
-      "ai_summary": "Kancelari gjerman Friedrich Merz e ka ftuar presidentin sirian Ahmad al-Sharaa në Berlin për bisedime mbi marrëdhëniet dypalëshe dhe migracionin. Duke folur me gazetarët të hënën në mbrëmje, kancelari..."
+      "guid": "https://www.balkanweb.com/?p=2842500",
+      "fetched_at": "2025-11-05T04:21:45.232068",
+      "ai_summary": "Zyra e Kontrollit të Aseteve të Huaja (OFAC) e Departamentit të Thesarit të SHBA-së ka përditësuar listën e sanksioneve kundër RPDK-së. Informacioni në lidhje me këtë është publikuar në faqen e intern..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
