@@ -1,6 +1,6 @@
 {
   "date": "2025-11-06",
-  "timestamp": "2025-11-06T03:13:10.678195",
+  "timestamp": "2025-11-06T04:25:11.878371",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,83 +9,44 @@
   },
   "articles": [
     {
-      "title": "Hakan Fidan: Bashkimi Evropian mbetet i paplotë pa Turqinë",
-      "link": "https://www.balkanweb.com/hakan-fidan-bashkimi-evropian-mbetet-i-paplote-pa-turqine/",
-      "description": "Bashkimi Evropian (BE) mbetet i paplotë pa Turqinë. Ministri i Jashtëm turk, Hakan Fidan, e tha këtë në një konferencë të përbashkët për shtyp të mbajtur pas takimit me homologen e tij Elina Valtonen në kryeqytetin finlandez, Helsinki. “Ne besojmë se Bashkimi Evropian, një nga shembujt më të mirë të pronësisë rajonale, do të ishte […]",
-      "published": "Thu, 06 Nov 2025 03:00:05 +0000",
+      "title": "Emiratet e Bashkuara Arabe i quajnë sulmet ndaj civilëve në Sudan ‘përshkallëzim të rrezikshëm’",
+      "link": "https://www.balkanweb.com/emiratet-e-bashkuara-arabe-i-quajne-sulmet-ndaj-civileve-ne-sudan-pershkallezim-te-rrezikshem/",
+      "description": "Emiratet e Bashkuara Arabe (EBA) dënuan të mërkurën “krimet e tmerrshme” kundër civilëve në të gjithë Sudanin, duke paralajmëruar se shënjestrimi i zonave të banimit dhe infrastrukturës jetësore shënon një “përshkallëzim të rrezikshëm” dhe një shkelje flagrante të së drejtës ndërkombëtare humanitare. Në një deklaratë, Ministria e Jashtme e Emirateve të Bashkuara Arabe tha se […]",
+      "published": "Thu, 06 Nov 2025 04:00:29 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2843334",
-      "fetched_at": "2025-11-06T03:13:04.933505",
-      "ai_summary": "Bashkimi Evropian (BE) mbetet i paplotë pa Turqinë. Ministri i Jashtëm turk, Hakan Fidan, e tha këtë në një konferencë të përbashkët për shtyp të mbajtur pas takimit me homologen e tij Elina Valtonen ..."
+      "guid": "https://www.balkanweb.com/?p=2843340",
+      "fetched_at": "2025-11-06T04:25:06.398839",
+      "ai_summary": "Emiratet e Bashkuara Arabe (EBA) dënuan të mërkurën “krimet e tmerrshme” kundër civilëve në të gjithë Sudanin, duke paralajmëruar se shënjestrimi i zonave të banimit dhe infrastrukturës jetësore shëno..."
     },
     {
-      "title": "Trump i kundërpërgjigjet Mamdanit: Demokratët instaluan një komunist si kryetar bashkie të Nju Jorkut",
-      "link": "https://www.balkanweb.com/trump-i-kunderpergjigjet-mamdanit-demokratet-instaluan-nje-komunist-si-kryetar-bashkie-te-nju-jorkut/",
-      "description": "Presidenti i SHBA-së , Donald Trump, e përdori fitoren e Zohrab Mamdanit si kryetar bashkie i Nju Jorkut si një mundësi për të sulmuar politikën e krahut të majtë, duke thënë se demokratët kishin “instaluar një komunist” për të udhëhequr qytetin. Duke folur në një konferencë ekonomike në Miami, Trump tha se qyteti i Nju […]",
-      "published": "Thu, 06 Nov 2025 02:45:50 +0000",
+      "title": "Trump e quan presidentin kinez mikun e tij, duke e lavdëruar si të fortë dhe të zgjuar",
+      "link": "https://www.balkanweb.com/trump-e-quan-presidentin-kinez-mikun-e-tij-duke-e-lavderuar-si-te-forte-dhe-te-zgjuar/",
+      "description": "Presidenti i SHBA-së, Donald Trump, e përshkroi presidentin kinez Xi Jinping si një person “të ashpër” dhe “shumë të zgjuar”. Udhëheqësi amerikanbërëvërejtjet gjatë një mëngjesi me senatorët, duke vënë në dukje se ai e konsideron udhëheqësin kinez mikun e tij “sa më shumë që të jetë e mundur”,Caliber.Azraportet. “Ai është një njeri i ashpër, shumë […]",
+      "published": "Thu, 06 Nov 2025 03:45:44 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2843372",
-      "fetched_at": "2025-11-06T03:13:04.933651",
-      "ai_summary": "Presidenti i SHBA-së , Donald Trump, e përdori fitoren e Zohrab Mamdanit si kryetar bashkie i Nju Jorkut si një mundësi për të sulmuar politikën e krahut të majtë, duke thënë se demokratët kishin “ins..."
+      "guid": "https://www.balkanweb.com/?p=2843376",
+      "fetched_at": "2025-11-06T04:25:06.398999",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e përshkroi presidentin kinez Xi Jinping si një person “të ashpër” dhe “shumë të zgjuar”. Udhëheqësi amerikanbërëvërejtjet gjatë një mëngjesi me senatorët, duke vën..."
     },
     {
-      "title": "‘NATO është e pamposhtur’: Rutte thotë se uniteti i aleancës pengon çdo sulm të mundshëm",
-      "link": "https://www.balkanweb.com/nato-eshte-e-pamposhtur-rutte-thote-se-uniteti-i-aleances-pengon-cdo-sulm-te-mundshem/",
-      "description": "Sekretari i Përgjithshëm i NATO-s, Mark Rutte, tha të mërkurën se forca kolektive e aleancës e bën atë “absolutisht të pamposhtur”, duke shprehur besimin se askush nuk do të guxonte të sulmonte ndonjë anëtar të NATO-s. Nëse ky vend do të ishte nën sulm, do të kishte “31 vende të tjera që do të vinin […]",
-      "published": "Thu, 06 Nov 2025 02:30:12 +0000",
+      "title": "Gjykata Supreme e SHBA-së hedh dyshime mbi ligjshmërinë e tarifave globale të Trump",
+      "link": "https://www.balkanweb.com/gjykata-supreme-e-shba-se-hedh-dyshime-mbi-ligjshmerine-e-tarifave-globale-te-trump/",
+      "description": "Gjyqtarët e Gjykatës së Lartë të SHBA-së ngritën dyshime të mërkurën mbi ligjshmërinë e tarifave gjithëpërfshirëse të Presidentit Donald Trump në një rast me implikime për ekonominë globale që shënon një provë të madhe për fuqitë e Trump. Gjyqtarët konservatorë dhe liberalë njësoj e pyetën ashpër avokatin që përfaqësonte administratën e Trump nëse një ligj […]",
+      "published": "Thu, 06 Nov 2025 03:30:27 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2843351",
-      "fetched_at": "2025-11-06T03:13:04.933743",
-      "ai_summary": "Sekretari i Përgjithshëm i NATO-s, Mark Rutte, tha të mërkurën se forca kolektive e aleancës e bën atë “absolutisht të pamposhtur”, duke shprehur besimin se askush nuk do të guxonte të sulmonte ndonjë..."
-    },
-    {
-      "title": "Gjykata refuzon përsëri të vendosë ndalim udhëtimi për Serzh Sargsyan",
-      "link": "https://www.balkanweb.com/gjykata-refuzon-perseri-te-vendose-ndalim-udhetimi-per-serzh-sargsyan/",
-      "description": "Gjykata ka refuzuar përsëri të vendosë një ndalim udhëtimi për ish-presidentin armen Serzh Sargsyan. Kjo është deklaruar nga avokati Ruben Hakobyan. “Gjykata e hodhi poshtë kërkesën e paraqitur nga zyra e prokurorit për herë të dytë. U dhanë të njëjtat baza dhe arsye. Gjykata vendosi që nuk kishte nevojë të aplikohej një masë parandaluese e […]",
-      "published": "Thu, 06 Nov 2025 02:00:57 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2843331",
-      "fetched_at": "2025-11-06T03:13:04.933836",
-      "ai_summary": "Gjykata ka refuzuar përsëri të vendosë një ndalim udhëtimi për ish-presidentin armen Serzh Sargsyan. Kjo është deklaruar nga avokati Ruben Hakobyan. “Gjykata e hodhi poshtë kërkesën e paraqitur nga zy..."
-    },
-    {
-      "title": "Treni përplas për vdekje 6 gra në Indinë veriore",
-      "link": "https://www.balkanweb.com/treni-perplas-per-vdekje-6-gra-ne-indine-veriore/",
-      "description": "Gjashtë gra vdiqën kur një tren me shpejtësi i përplasi ato përtokë në një stacion hekurudhor në shtetin verior të Indisë, Uttar Pradesh, të mërkurën, konfirmoi policia lokale. Incidenti ndodhi në stacionin hekurudhor Chunar në distriktin Mirzapur, kur gratë zbritën nga treni në anën e shinave në vend të platformës. Në një deklaratë zyrtare, Hekurudha […]",
-      "published": "Thu, 06 Nov 2025 01:45:03 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2843369",
-      "fetched_at": "2025-11-06T03:13:04.933916",
-      "ai_summary": "Gjashtë gra vdiqën kur një tren me shpejtësi i përplasi ato përtokë në një stacion hekurudhor në shtetin verior të Indisë, Uttar Pradesh, të mërkurën, konfirmoi policia lokale. Incidenti ndodhi në sta..."
-    },
-    {
-      "title": "Studimi zbulon se akullnaja e Antarktidës është tkurrur 8 kilometra në vetëm 2 muaj",
-      "link": "https://www.balkanweb.com/studimi-zbulon-se-akullnaja-e-antarktides-eshte-tkurrur-8-kilometra-ne-vetem-2-muaj/",
-      "description": "Një akullnajë në Antarktidë humbi gati gjysmën e gjatësisë së saj në vetëm dy muaj — tërheqja më e shpejtë e regjistruar ndonjëherë — sipas një studimi të botuar në Nature Geoscience. Studiuesit zbuluan se Akullnaja Hektoria , e vendosur në Gadishullin lindor të Antarktidës , u tërhoq rreth 8.2 kilometra (5 milje) midis nëntorit […]",
-      "published": "Thu, 06 Nov 2025 01:30:19 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2843348",
-      "fetched_at": "2025-11-06T03:13:04.933991",
-      "ai_summary": "Një akullnajë në Antarktidë humbi gati gjysmën e gjatësisë së saj në vetëm dy muaj — tërheqja më e shpejtë e regjistruar ndonjëherë — sipas një studimi të botuar në Nature Geoscience. Studiuesit zbulu..."
+      "guid": "https://www.balkanweb.com/?p=2843354",
+      "fetched_at": "2025-11-06T04:25:06.399100",
+      "ai_summary": "Gjyqtarët e Gjykatës së Lartë të SHBA-së ngritën dyshime të mërkurën mbi ligjshmërinë e tarifave gjithëpërfshirëse të Presidentit Donald Trump në një rast me implikime për ekonominë globale që shënon ..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
