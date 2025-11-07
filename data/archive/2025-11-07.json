@@ -1,6 +1,6 @@
 {
   "date": "2025-11-07",
-  "timestamp": "2025-11-07T03:09:43.788285",
+  "timestamp": "2025-11-07T04:21:12.298976",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,52 +9,52 @@
   },
   "articles": [
     {
-      "title": "Izraeli nis një seri sulmesh kundër objektivave të Hezbollahut në Libanin jugor",
-      "link": "https://www.balkanweb.com/izraeli-nis-nje-seri-sulmesh-kunder-objektivave-te-hezbollahut-ne-libanin-jugor/",
-      "description": "Forcat Mbrojtëse të Izraelit kanë kryer një seri sulmesh ajrore ndaj infrastrukturës dhe depove të armëve që i përkasin forcave elitare Radwan të Hezbollahut në Libanin jugor. Gazeta The Times of Israel e raportoi këtë, duke cituar shërbimin për shtyp të ushtrisë. “Hezbollah vazhdon përpjekjet e tij për të rindërtuar infrastrukturën e tij terroriste në […]",
-      "published": "Fri, 07 Nov 2025 03:00:07 +0000",
+      "title": "Numri i të vdekurve nga tajfuni Kalmaegi në Filipine rritet në 188",
+      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-tajfuni-kalmaegi-ne-filipine-rritet-ne-188/",
+      "description": "Numri i të vdekurve nga tajfuni shkatërrues Kalmaegi në Filipine ka arritur në 188. Reuters raportoi këtë, duke cituar autoritetet e vendit të Azisë Jugore. 135 persona rezultojnë aktualisht të zhdukur dhe 96 të tjerë janë të plagosur. Erërat e forta nga një stuhi në Vietnam kanë rrëzuar pemë, kanë dëmtuar shtëpi dhe kanë shkaktuar […]",
+      "published": "Fri, 07 Nov 2025 04:15:11 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2844237",
-      "fetched_at": "2025-11-07T03:09:38.470570",
-      "ai_summary": "Forcat Mbrojtëse të Izraelit kanë kryer një seri sulmesh ajrore ndaj infrastrukturës dhe depove të armëve që i përkasin forcave elitare Radwan të Hezbollahut në Libanin jugor. Gazeta The Times of Isra..."
+      "guid": "https://www.balkanweb.com/?p=2844287",
+      "fetched_at": "2025-11-07T04:21:07.097302",
+      "ai_summary": "Numri i të vdekurve nga tajfuni shkatërrues Kalmaegi në Filipine ka arritur në 188. Reuters raportoi këtë, duke cituar autoritetet e vendit të Azisë Jugore. 135 persona rezultojnë aktualisht të zhduku..."
     },
     {
-      "title": "I dërguari special i Trump për Presidentin Ilham Aliyev: Ai është një burrë shteti i vërtetë",
-      "link": "https://www.balkanweb.com/i-derguari-special-i-trump-per-presidentin-ilham-aliyev-ai-eshte-nje-burre-shteti-i-vertete/",
-      "description": "I dërguari i posaçëm i Presidentit të SHBA-së, Steve Whitkoff, vlerësoi lart përpjekjet e Presidentit të Republikës së Azerbajxhanit, Ilham Aliyev, për të zgjidhur konfliktin me Armeninë që ka vazhduar për më shumë se 30 vjet. Steve Witkoff foli për këtë në fjalimin e tij në Forumin Amerikan të Biznesit të mbajtur në Miami. Whitkoff […]",
-      "published": "Fri, 07 Nov 2025 02:30:11 +0000",
+      "title": "Witkoff: SHBA-të mund të kontribuojnë në zgjidhjen e konfliktit Rusi-Ukrainë",
+      "link": "https://www.balkanweb.com/witkoff-shba-te-mund-te-kontribuojne-ne-zgjidhjen-e-konfliktit-rusi-ukraine/",
+      "description": "Shtetet e Bashkuara do të jenë në gjendje të kontribuojnë në zgjidhjen e konfliktit Rusi-Ukrainë. Kjo është deklaruar nga zëdhënësi i Presidentit të SHBA-së, Steve Witkoff. Ai shprehu shpresë për këtë dhe e konsideroi konfliktin në fjalë si një nga konfliktet që duhet të zgjidhet. Uitkoff tha se zgjidhja e konfliktit Rusi-Ukrainë duket e vështirë, […]",
+      "published": "Fri, 07 Nov 2025 04:00:27 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2844234",
-      "fetched_at": "2025-11-07T03:09:38.470716",
-      "ai_summary": "I dërguari i posaçëm i Presidentit të SHBA-së, Steve Whitkoff, vlerësoi lart përpjekjet e Presidentit të Republikës së Azerbajxhanit, Ilham Aliyev, për të zgjidhur konfliktin me Armeninë që ka vazhdua..."
+      "guid": "https://www.balkanweb.com/?p=2844240",
+      "fetched_at": "2025-11-07T04:21:07.097441",
+      "ai_summary": "Shtetet e Bashkuara do të jenë në gjendje të kontribuojnë në zgjidhjen e konfliktit Rusi-Ukrainë. Kjo është deklaruar nga zëdhënësi i Presidentit të SHBA-së, Steve Witkoff. Ai shprehu shpresë për këtë..."
     },
     {
-      "title": "Gjykata federale urdhëron administratën Trump të financojë plotësisht kuponat ushqimore",
-      "link": "https://www.balkanweb.com/gjykata-federale-urdheron-administraten-trump-te-financoje-plotesisht-kuponat-ushqimore/",
-      "description": "Një gjykatës federal urdhëroi administratën Trump të enjten (6/11) që të financojë plotësisht kuponat ushqimore për rreth 42 milionë amerikanë me të ardhura të ulëta, pasi e qortoi administratën për vonesën e ndihmës në kuadër të programit më të madh të ndihmës për urinë në vend gjatë izolimit. Sipas New York Times, urdhri, i lëshuar […]",
-      "published": "Fri, 07 Nov 2025 02:00:58 +0000",
+      "title": "Trump: Jam i hapur për të diskutuar heqjen e sanksioneve ndaj Iranit",
+      "link": "https://www.balkanweb.com/trump-jam-i-hapur-per-te-diskutuar-heqjen-e-sanksioneve-ndaj-iranit/",
+      "description": "Donald Trump tha dje se Irani ka kërkuar vazhdimisht heqjen e sanksioneve të SHBA-së kundër tij dhe shtoi se është “i hapur” për ta diskutuar këtë. “Irani ka kërkuar që sanksionet të hiqen”, u tha presidenti amerikan gazetarëve, kur u pyet për këtë gjatë një darke që shtroi për udhëheqësit e shteteve të Azisë Qendrore, […]",
+      "published": "Fri, 07 Nov 2025 03:50:04 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2844230",
-      "fetched_at": "2025-11-07T03:09:38.470799",
-      "ai_summary": "Një gjykatës federal urdhëroi administratën Trump të enjten (6/11) që të financojë plotësisht kuponat ushqimore për rreth 42 milionë amerikanë me të ardhura të ulëta, pasi e qortoi administratën për v..."
+      "guid": "https://www.balkanweb.com/?p=2844282",
+      "fetched_at": "2025-11-07T04:21:07.097545",
+      "ai_summary": "Donald Trump tha dje se Irani ka kërkuar vazhdimisht heqjen e sanksioneve të SHBA-së kundër tij dhe shtoi se është “i hapur” për ta diskutuar këtë. “Irani ka kërkuar që sanksionet të hiqen”, u tha pre..."
     },
     {
-      "title": "Presidenti kolumbian dënon qëndrimin e Trump për klimën në COP30",
-      "link": "https://www.balkanweb.com/presidenti-kolumbian-denon-qendrimin-e-trump-per-klimen-ne-cop30/",
-      "description": "Presidenti kolumbian Gustavo Petro përdori platformën e tij në inaugurimin e COP30 në Brazil të enjten për të bërë një kritikë të ashpër ndaj Presidentit të SHBA-së Donald Trump , duke e bërë mohimin e ndryshimeve klimatike nga ana e Trump fokusin e fjalimit të tij. Petro e kritikoi ashpër Trumpin për mungesën e tij […]",
-      "published": "Fri, 07 Nov 2025 01:30:46 +0000",
+      "title": "Pesë të vranë dhe gjashtë të plagosur në një shkëmbim zjarri në kufirin afgano-pakistanez",
+      "link": "https://www.balkanweb.com/pese-te-vrane-dhe-gjashte-te-plagosur-ne-nje-shkembim-zjarri-ne-kufirin-afgano-pakistanez/",
+      "description": "Pesë persona u vranë dhe gjashtë u plagosën në një shkëmbim zjarri të shkurtër ndërkufitar midis Afganistanit dhe Pakistanit të enjten, tha një zyrtar spitalor në anën afgane për AFP, në një incident për të cilin të dy vendet fajësuan njëri-tjetrin. Dhuna ka të ngjarë të ndërlikojë negociatat e armëpushimit që po zhvillohen në Turqi, […]",
+      "published": "Fri, 07 Nov 2025 03:30:20 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2844257",
-      "fetched_at": "2025-11-07T03:09:38.470883",
-      "ai_summary": "Presidenti kolumbian Gustavo Petro përdori platformën e tij në inaugurimin e COP30 në Brazil të enjten për të bërë një kritikë të ashpër ndaj Presidentit të SHBA-së Donald Trump , duke e bërë mohimin ..."
+      "guid": "https://www.balkanweb.com/?p=2844263",
+      "fetched_at": "2025-11-07T04:21:07.097639",
+      "ai_summary": "Pesë persona u vranë dhe gjashtë u plagosën në një shkëmbim zjarri të shkurtër ndërkufitar midis Afganistanit dhe Pakistanit të enjten, tha një zyrtar spitalor në anën afgane për AFP, në një incident ..."
     }
   ],
   "total_articles": 4,
