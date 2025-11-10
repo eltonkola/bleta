@@ -1,6 +1,6 @@
 {
   "date": "2025-11-10",
-  "timestamp": "2025-11-10T04:26:27.261046",
+  "timestamp": "2025-11-10T06:30:47.452205",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,33 +9,137 @@
   },
   "articles": [
     {
-      "title": "Malajzi, shtatë të vdekur nga fundosja e një varke me emigrantë",
-      "link": "https://www.balkanweb.com/malajzi-shtate-te-vdekur-nga-fundosja-e-nje-varke-me-emigrante/",
-      "description": "Autoritetet malajziane kanë gjetur të paktën shtatë trupa pasi një varkë me emigrantë u mbyt pranë kufirit tajlandez , tha Autoriteti i Sigurisë Detare (MSA). Autoritetet besojnë se varka mbante emigrantë të paligjshëm nga Mianmari . Grupi përbëhej nga rreth 300 persona që kishin hipur në disa varka. Ajo që u mbyt pranë ishullit Tarutao […]",
-      "published": "Mon, 10 Nov 2025 04:00:29 +0000",
+      "title": "Përfundon numërimi në Tepelenë, Gramos Sako fiton kundrejt Gabriel Gumës, siguron 77.8% të votave",
+      "link": "https://www.balkanweb.com/perfundon-numerimi-ne-tepelene-gramos-sako-fiton-kundrejt-gabriel-gumes-siguron-77-8-te-votave/",
+      "description": "Përfundon procesi i numërimit të votave edhe në Bashkinë Tepelenës. Fitues është shpallur kandidati socialist Gramos Sako me 3.261 vota, pra 77.8% të tyre. Ndërkohë kandidati Gabriel Guma siguroi 928 përiqnd të votave, pra 22.2% të tyre.",
+      "published": "Mon, 10 Nov 2025 06:25:07 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846128",
-      "fetched_at": "2025-11-10T04:26:22.522860",
-      "ai_summary": "Autoritetet malajziane kanë gjetur të paktën shtatë trupa pasi një varkë me emigrantë u mbyt pranë kufirit tajlandez , tha Autoriteti i Sigurisë Detare (MSA). Autoritetet besojnë se varka mbante emigr..."
+      "guid": "https://www.balkanweb.com/?p=2846185",
+      "fetched_at": "2025-11-10T06:30:42.485149",
+      "ai_summary": "Përfundon procesi i numërimit të votave edhe në Bashkinë Tepelenës. Fitues është shpallur kandidati socialist Gramos Sako me 3.261 vota, pra 77.8% të tyre. Ndërkohë kandidati Gabriel Guma siguroi 928 ..."
     },
     {
-      "title": "Numri i fluturimeve të anuluara në SHBA tejkaloi 2,000 brenda një dite",
-      "link": "https://www.balkanweb.com/numri-i-fluturimeve-te-anuluara-ne-shba-tejkaloi-2000-brenda-nje-dite/",
-      "description": "Më shumë se 2,000 fluturime u anuluan në Shtetet e Bashkuara më 9 nëntor për shkak të mungesës së kontrollorëve të trafikut ajror për shkak të mbylljes së pjesshme të qeverisë. Sipas raportit, më 9 nëntor u anuluan 2,183 fluturime dhe më shumë se 7,000 fluturime u vonuan. Më 8 nëntor, linjat ajrore u detyruan […]",
-      "published": "Mon, 10 Nov 2025 03:30:58 +0000",
+      "title": "Përfundon numërimi në Berat, fiton kandidati socialist Ervin Ceca, mbi 10 mijë vota diferencë me Pavllo Shkarpën",
+      "link": "https://www.balkanweb.com/perfundon-numerimi-ne-berat-fiton-kandidati-socialist-ervin-ceca-mbi-10-mije-vota-diference-me-pavllo-shkarpen/",
+      "description": "Përfundon procesi i numërimit të votave edhe në Bashkinë Beratit. Përfundon numërimi i kutive të votimit në Berat. Përqindja në votime 19.88%. Pas numërimit të 116 kutive, fitues ka rezultuar kandidati socialist Ervin Ceca me 13.050 vota, 10.443 vota diferencë me kundërshtarin e tij në garën për kryebashkiakun e ri të qytetit Ndërkohë kandidati Pavllo […]",
+      "published": "Mon, 10 Nov 2025 06:16:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846158",
-      "fetched_at": "2025-11-10T04:26:22.523001",
-      "ai_summary": "Më shumë se 2,000 fluturime u anuluan në Shtetet e Bashkuara më 9 nëntor për shkak të mungesës së kontrollorëve të trafikut ajror për shkak të mbylljes së pjesshme të qeverisë. Sipas raportit, më 9 në..."
+      "guid": "https://www.balkanweb.com/?p=2846180",
+      "fetched_at": "2025-11-10T06:30:42.485274",
+      "ai_summary": "Përfundon procesi i numërimit të votave edhe në Bashkinë Beratit. Përfundon numërimi i kutive të votimit në Berat. Përqindja në votime 19.88%. Pas numërimit të 116 kutive, fitues ka rezultuar kandidat..."
+    },
+    {
+      "title": "“Në raportin e plenumit 9-të të PKSH-së, Enver Hoxha deklaroi: thuhet se Kristo Themelko ka vrarë shumë veta me rastin e çlirimit të Tiranës, por ata ishin…”/ Ana e errët e “Luftës Nacionalçlirimtare”",
+      "link": "https://www.balkanweb.com/ne-raportin-e-plenumit-9-te-te-pksh-se-enver-hoxha-deklaroi-thuhet-se-kristo-themelko-ka-vrare-shume-veta-me-rastin-e-clirimit-te-tiranes-por-ata-ishin-ana-e-erret-e/",
+      "description": "Nga DR. URAN BUTKA Krahas luftës për çlirimin e Tiranës nga pushtuesit nazistë, forcat komuniste të urdhëruara nga krerët terroristë si Enver Hoxha, Dali Ndreu, Mehmet Shehu, Kristo Themelko etj., kryen edhe masakra ndaj intelektualeve patriotë e demokratë, kundërshtarëve politikë, por edhe civilëve të pafajshëm. Sipas strategjisë së PKSH-së dhe skenarit të veçantë për Tiranën, […]",
+      "published": "Mon, 10 Nov 2025 06:12:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2845729",
+      "fetched_at": "2025-11-10T06:30:42.485353",
+      "ai_summary": "Nga DR. URAN BUTKA Krahas luftës për çlirimin e Tiranës nga pushtuesit nazistë, forcat komuniste të urdhëruara nga krerët terroristë si Enver Hoxha, Dali Ndreu, Mehmet Shehu, Kristo Themelko etj., kry..."
+    },
+    {
+      "title": "Përfundon numërimi në Cërrik, fiton kandidati socialist Florenc Doka, me 66.22 për qind të votave",
+      "link": "https://www.balkanweb.com/perfundon-numerimi-ne-cerrik-fiton-kandidati-socialist-florenc-doka-me-66-22-per-qind-te-votave/",
+      "description": "Përfundon procesi i numërimit të votave edhe në Bashkinë e Cërrikut. Pas numërimit të 57 kutive, fitues doli kandidati nga Partia Socialiste Florenc Doka, i cili ka siguruar 66,22% për qind të votave, ose 6201 vota. Ndërkohë kandidati Eligerti Hima nga Shqipëria Bëhet ka marrë 13.62% të votave, pra 1275 vota Kandidati i pavarur Amarildo […]",
+      "published": "Mon, 10 Nov 2025 06:07:22 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2846176",
+      "fetched_at": "2025-11-10T06:30:42.485676",
+      "ai_summary": "Përfundon procesi i numërimit të votave edhe në Bashkinë e Cërrikut. Pas numërimit të 57 kutive, fitues doli kandidati nga Partia Socialiste Florenc Doka, i cili ka siguruar 66,22% për qind të votave,..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 10 nëntor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-10-nentor-2025/",
+      "description": "Dashi Ke arritur një pikë kthese dramatike në ciklin tënd vjetor. Për katër javët e ardhshme, do të korrësh përpjekjet e gjashtë muajve të fundit. Ose do të festosh suksesin tënd ose do të ndjesh zhgënjimin e dështimit tënd. Kjo është një kohë vendimtare. Demi Je në fillim të një periudhe katër-javore gjatë së cilës […]",
+      "published": "Mon, 10 Nov 2025 06:06:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2845693",
+      "fetched_at": "2025-11-10T06:30:42.485785",
+      "ai_summary": "Dashi Ke arritur një pikë kthese dramatike në ciklin tënd vjetor. Për katër javët e ardhshme, do të korrësh përpjekjet e gjashtë muajve të fundit. Ose do të festosh suksesin tënd ose do të ndjesh zhgë..."
+    },
+    {
+      "title": "Tornado vret të paktën gjashtë persona, lë gjurmë shkatërrimi në Brazil",
+      "link": "https://www.balkanweb.com/tornado-vret-te-pakten-gjashte-persona-le-gjurme-shkaterrimi-ne-brazil/",
+      "description": "Një tornado e fuqishme përshkoi Brazilin jugor, duke vrarë të paktën gjashtë persona dhe duke plagosur rreth 750 të tjerë, thanë autoritetet lokale. Më shumë se 1,000 banorë humbën shtëpitë e tyre në stuhinë, e cila goditi shtetin e Paraná-s me erëra deri në 250 kilometra në orë, sipas agjencisë së mbrojtjes civile të cituar […]",
+      "published": "Mon, 10 Nov 2025 05:00:41 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2846136",
+      "fetched_at": "2025-11-10T06:30:42.485855",
+      "ai_summary": "Një tornado e fuqishme përshkoi Brazilin jugor, duke vrarë të paktën gjashtë persona dhe duke plagosur rreth 750 të tjerë, thanë autoritetet lokale. Më shumë se 1,000 banorë humbën shtëpitë e tyre në ..."
+    },
+    {
+      "title": "3 trende mode nga e kaluara që janë rikthyer fuqishëm: Ja si do t’i veshim këtë sezon",
+      "link": "https://telegrafi.com/3-trende-mode-nga-e-kaluara-qe-jane-rikthyer-fuqishem-ja-si-do-ti-veshim-kete-sezon/",
+      "description": "Shikoni cilët janë tre trendët e modës nga e kaluara që janë rikthyer në skenën e madhe të stilitModa, siç e dimë, ka një fuqi magjike për t’u rikthyer dhe gjithmonë e bën këtë në momentin e duhur. Ajo që dikur e vishnin nënat tona, madje edhe ne vetë gjatë rinisë, sot sërish ndriçon pasarelat dhe vitrinat e dyqaneve.Por ky rikthim nuk është thjesht kopjim i së shkuarës, është rishikim modern i ideve të vjetra, i përshtatur me shijen bashkëkohore.Këtë vjeshtë, dizajnerët na udhëheqin në një udhëtim elegant përmes tre dekadave më të gjalla të shekullit të kaluar, viteve ’70, ’80 dhe ’90 dhe frymëzimin për ta sjellë këtë stil në përditshmëri mund ta gjejmë te Jennifer Lopez, gruaja që di të bashkojë shpirtin retro me sofistikimin e sotëm. profimediaVitet ’70: Epoka e lirisë, stilit boho dhe romantizmitEstetika e viteve ’70 po përjeton një ringjallje të vërtetë, dhe për këtë meritë të madhe ka shtëpia e modës Chloé, e cila ka përkthyer shpirtin boem në koleksione moderne.Ky stil feston lirinë, lehtësinë dhe feminitetin natyral, transmeton Telegrafi. profimediaÇfarë vishet sot: Bluza të lehta me mëngë të gjera, me volane, qëndisje dhe fjongo në jakë. Këto modele femërore duken për mrekulli si me pantallona elegante, ashtu edhe me xhinse të lira. Xhinset me këmbë të gjera (zile) rikthehen fuqishëm, por në version më të rafinuar. Modelet me bel të lartë dhe pëlhurë cilësore zgjatin vizualisht këmbët dhe i japin trupit një formë të butë dhe harmonike. Pëlhurat kord dhe zamsh (antilopë) janë teksturat e preferuara të sezonit, në pantallona, funde apo xhaketa të shkurtra. Çantat dhe çizmet prej lëkure së butë i japin çdo veshjeje vjeshtore ndjesi ngrohtësie dhe elegancë natyrale. Bizhuteri me shpirt: varëse në shtresa, medalione me gurë natyralë dhe vathë të mëdhenj me motive etnike, shenja e vërtetë e stilit boho për çdo grua moderne. profimediaVitet ’80: Fuqi, vetëbesim dhe efekti i “power dressing”Pas viteve lozonjare ’70, vitet ’80 sollën një valë force dhe dominimi, të shprehur përmes vijave të forta, ngjyrave të theksuara dhe siluetave të strukturuara. Ky stil është rikthyer sot në një formë më të rafinuar dhe të përmbajtur. Ai nuk bërtet, flet me siguri dhe autoritet, me elegancë të qetë. profimediaNë fokus: Shpatullat e theksuara – struktura që jep forcë. Xhaketat dhe palltot me shpatulla të definuara duken fisnike dhe të fuqishme, pa teprime. Palltot e gjata deri në fund të këmbëve – voluminoze, me jaka të theksuara, japin ndjenjën e luksit dhe mbrojtjes. Çdo grua duket e sigurt në to. Beli në qendër të vëmendjes – rripat e gjerë mbi xhaketa apo fustane krijojnë formën “rërë-ore”, balancë mes forcës dhe feminitetit. Bizhuteri e artë dhe e guximshme – zinxhirë të trashë, vathë të mëdhenj dhe byzylykë masivë në ngjyrë ari, simbol i vërtetë i stilit të viteve ’80, që sot përsëri duket glamuroz dhe modern. profimediaVitet ’90: Rikthimi i minimalizmit dhe elegancës së pastërPas gjithë atij luksi dhe teatri të dekadës së mëparshme, vitet ’90 sollën qetësi dhe thjeshtësi. Ishin vitet e supermodeleve dhe të minimalizmit, ku bukuria qëndronte në vijat e pastra dhe në prerjet perfektë. Sot, pikërisht kjo qasje është sërish në qendër të vëmendjes, sofistikim minimalist që nuk kërkon vëmendje, por e tërheq vetë.Pjesët kryesore: Fustanet dhe fundet sateni në stil “slip” – frymëzuar nga veshjet intime, kombinohen me xhaketa elegante ose triko të buta. Forma të thjeshta dhe ngjyra neutrale – xhinse të drejta, funde me prerje lapsi, fustane të ngushta dhe golfë të hollë në ngjyrat e zezë, të bardhë, bezhë apo gri përfaqësojnë thelbin e minimalizmit modern. Këpucët me linja delikate – me taka të vogla, salonka elegante dhe çizme me majë, si kontrast ndaj këpucëve masive të sezoneve të mëparshme. Moda si udhëtim në kohëModa, çdo disa vjet, na jep mundësinë të rilindim frymën e epokave të shkuara, por përmes një shikimi bashkëkohor. Bashkoni romantikën boho të viteve ’70, energjinë e fuqishme të viteve ’80 dhe sofistikimin minimalist të viteve ’90 dhe do të krijoni një stil unik që pasqyron personalitetin dhe humorin tuaj.Sepse eleganca e vërtetë nuk del kurrë nga moda, ajo thjesht ndryshon bashkë me ju. /Telegrafi/",
+      "published": "Mon, 10 Nov 2025 06:30:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/3-trende-mode-nga-e-kaluara-qe-jane-rikthyer-fuqishem-ja-si-do-ti-veshim-kete-sezon/",
+      "fetched_at": "2025-11-10T06:30:44.855373",
+      "ai_summary": "Shikoni cilët janë tre trendët e modës nga e kaluara që janë rikthyer në skenën e madhe të stilitModa, siç e dimë, ka një fuqi magjike për t’u rikthyer dhe gjithmonë e bën këtë në momentin e duhur. Aj..."
+    },
+    {
+      "title": "Ky shtet i madh aziatik ka më shumë kuaj se njerëz - ja përse është kaq i veçantë",
+      "link": "https://telegrafi.com/ky-shtet-i-madh-aziatik-ka-me-shume-kuaj-se-njerez-ja-perse-eshte-kaq-i-vecante/",
+      "description": "Ky vend aziatik renditet i 18-ti në botë për nga sipërfaqja, por në territorin e tij të gjerë jetojnë vetëm rreth 3 milionë banorëMongolia është vendi më rrallë i populluar në botë, një shtet pa dalje në det, i vendosur midis Kinës dhe Rusisë, në kufirin mes Azisë Qendrore dhe asaj Lindore.Me një sipërfaqe prej rreth 1.56 milionë km² dhe një popullsi prej 3.4 milionë banorësh (sipas të dhënave të vitit 2025), Mongolia ka një dendësi mesatare prej vetëm 2.14 banorësh për kilometër katror.Interesant është fakti që vendi numëron më shumë kuaj sesa njerëz, rreth 4.5 milionë kuaj, sipas World Population Review dhe FAOStat. Kjo do të thotë se për çdo person në Mongoli ka pothuajse një e gjysmë kalë, një raport që nuk ekziston askund tjetër në botëUshtria nomade mbi kuajNë Mongoli, kuajt kanë qenë gjithmonë në qendër të jetës. Në shekujt XIII–XIV, ushtritë nomade mongole mbi kuaj ndërtuan një perandori të stërmadhe nën udhëheqjen e Genghis Khan, e cila shtrihej nga Hungaria në perëndim deri në Kore në lindje.Kuajt ishin thelbësorë për luftë, komunikim, transport dhe organizim të perandorisë. Sipas Smithsonian Magazine, secili luftëtar mongol kishte disa kuaj, duke i ndërruar për të ruajtur qëndrueshmërinë gjatë betejave dhe udhëtimeve të gjata. Kjo i bëri mongolët një forcë pothuajse të pathyeshme.Edhe sot, në shekullin XXI, Mongolia ruan kulturën e saj tradicionale të kalërimit. Ekonomia rurale mbështetet kryesisht në pesë lloje kafshësh shtëpiake: kuajt, gjedhët, devetë, delet dhe dhitë. Kuajt, megjithatë, janë më të respektuarit dhe simbolizojnë forcën, lirinë dhe krenarinë kombëtare.Sipas BBC Travel, fëmijët mësojnë të hipin në kalë që në moshën 3–4 vjeç dhe garat tradicionale me kuaj mbeten sport kombëtar, veçanërisht gjatë festivalit Naadam, që mbahet çdo korrik. Në këtë ngjarje të madhe kombëtare, garuesit janë shpesh fëmijë, ndërsa kuajt konsiderohen më shumë si anëtarë të familjes sesa si kafshë pune, transmeton Telegrafi. Rikthimi i kalit të egër - TakhiNjë vend të veçantë në kulturën mongole zë takhi (ose Przewalski’s horse), kali i egër i stepave euroaziatike, i vetmi lloj vërtet i egër që ekziston ende në botë. Ky kalë, simbol i lirisë dhe qëndrueshmërisë, ishte zhdukur nga natyra në vitet 1960. Falë programeve të ruajtjes dhe rishpërndarjes nga WWF dhe UNESCO, takhi u rikthye në stepat e Mongolisë dhe në shkretëtirën Gobi, ku sot jetojnë qindra individë në kushte të mbrojtura.Për mongolët, rikthimi i takhit përfaqëson rilindjen e shpirtit të stepës dhe lidhjes së tyre me natyrën.Vendet më pak të populluara në botëPas Mongolisë, Namibia dhe Australia renditen ndër vendet më pak të populluara, me 3.14 dhe 3.35 banorë për kilometër katror. Pas tyre vijnë Guajana Franceze, Islanda, Surinami, Libia, Guajana dhe Botsvana, me një densitet mesatar midis 3.6 dhe 4 banorë për kilometër katror.Një kulturë që jeton në harmoni me stepatMongolia mbetet një nga shoqëritë e fundit autentikisht nomade në botë. Më shumë se 30% e popullsisë jeton ende në ger-tendat tradicionale prej leshi deveje apo dashi, duke ndjekur ritmet sezonale të natyrës.Në këtë vend me qiell të pafund dhe peizazhe të hapura, kuajt nuk janë vetëm mjet transporti apo simbol i historisë; ata janë shpirti i kombit. /Telegrafi/",
+      "published": "Mon, 10 Nov 2025 06:15:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/ky-shtet-i-madh-aziatik-ka-me-shume-kuaj-se-njerez-ja-perse-eshte-kaq-i-vecante/",
+      "fetched_at": "2025-11-10T06:30:44.857781",
+      "ai_summary": "Ky vend aziatik renditet i 18-ti në botë për nga sipërfaqja, por në territorin e tij të gjerë jetojnë vetëm rreth 3 milionë banorëMongolia është vendi më rrallë i populluar në botë, një shtet pa dalje..."
+    },
+    {
+      "title": "Reshje shiu, mjegull dhe temperatura të ulëta gjatë kësaj jave",
+      "link": "https://telegrafi.com/reshje-shiu-mjegull-dhe-temperatura-te-uleta-gjate-kesaj-jave/",
+      "description": "Instituti Hidrometeorologjik i Kosovës ka njoftuar se kjo javë do të karakterizohet me kushte të ndryshueshme meteorologjike dhe temperatura më të ulëta, tipike për stinën e vjeshtës.Sipas parashikimeve, të hënën dhe të martën pritet të ketë reshje shiu me intensitet të ndryshueshëm, ndërsa në disa zona reshjet mund të jenë më të theksuara.Nga e mërkura, mëngjeset do të jenë më të ftohta dhe në shumë zona të ultësirave parashihet paraqitje e mjegullës gjatë orëve të hershme të ditës.Do të fryjë erë e lehtë deri mesatare nga drejtimi i veriperëndimit dhe juglindjes.Në përgjithësi, gjatë javës pritet mot vjeshtor me periudha me diell, vranësira dhe reshje të përkohshme.Për ditën e hënë, parashikohet mot kryesisht i vranët dhe me reshje shiu. Temperaturat minimale do të lëvizin nga 5 deri në 8°C ndërsa maksimalet do të arrijnë nga 10 deri në 13°C.Era do të fryjë nga veriperëndimi me shpejtësi prej 1 deri në 7 m/s. /Telegrafi/",
+      "published": "Mon, 10 Nov 2025 06:14:11 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/reshje-shiu-mjegull-dhe-temperatura-te-uleta-gjate-kesaj-jave/",
+      "fetched_at": "2025-11-10T06:30:44.858945",
+      "ai_summary": "Instituti Hidrometeorologjik i Kosovës ka njoftuar se kjo javë do të karakterizohet me kushte të ndryshueshme meteorologjike dhe temperatura më të ulëta, tipike për stinën e vjeshtës.Sipas parashikime..."
+    },
+    {
+      "title": "Testi i thjeshtë që mund të zbulojë Parkinsonin gati 9 vjet më herët - zbulim i shkencëtarëve gjermanë",
+      "link": "https://telegrafi.com/testi-i-thjeshte-qe-mund-te-zbuloje-parkinsonin-gati-9-vjet-me-heret-zbulim-i-shkencetareve-gjermane/",
+      "description": "Një studim i ri ka treguar se personat që kanë vështirësi me kthimin gjatë ecjes kanë më shumë gjasa të zhvillojnë sëmundjen e ParkinsonitNjë test i thjeshtë i lëvizjes, që ndjek ndryshimet në shpejtësinë e kthimit gjatë ecjes, mund të zbulojë Parkinsonin gati nëntë vjet përpara diagnozës zyrtare.Sëmundja e Parkinsonit është një çrregullim neurodegjenerativ që dëmton gradualisht pjesë të trurit, duke filluar vite përpara se të shfaqen simptomat. Pacientët zakonisht vuajnë nga dridhjet progresive dhe vështirësitë në lëvizje, të cilat me kalimin e kohës mund t’i privojnë nga pavarësia.Edhe pse shkencëtarët e dinë se zbulimi i hershëm i pacientëve në fazën prodromale (para shfaqjes së simptomave të qarta) është thelbësor, deri më sot ka qenë sfiduese krijimi i një testi që mund të identifikojë personat vite përpara diagnozës.Kthimi gjatë ecjes - tregues kyçNë një zbulim të ri, neurologët gjermanë kanë arritur në përfundimin se vështirësitë me kthimin gjatë ecjes mund të ndihmojnë në zbulimin e sëmundjes së Parkinsonit gati nëntë vjet përpara diagnozës.Në artikullin e publikuar në revistën “Annals of Neurology”, ata shkruajnë: “Kthimi është pjesë komplekse e ecjes. Ai kërkon koordinim të vazhdueshëm dhe përshtatje të drejtimit gjatë lëvizjes. Vështirësitë në kthim janë të zakonshme dhe jashtëzakonisht të rëndësishme në jetën e përditshme të pacientëve me Parkinson. Prandaj, është logjike të supozojmë se deficitet në kthim mund të zbulohen herët, duke theksuar nevojën për studimin e potencialit parashikues të matjeve të kthimit në këtë fazë.”Si u zhvillua studimiNë këtë studim, studiuesit analizuan modelet e lëvizjes së 924 pjesëmarrësve mbi 50 vjeç, pa dëmtime të dëgjimit apo shikimit, pjesë e studimit TREND (Tübingen Evaluation of Risk Factors for Early Detection of Neurodegeneration).Pjesëmarrësit e kryen testin pesë herë gjatë dhjetë viteve. Testi konsistonte në ecjen përgjatë një korridori 20 metra për një minutë me ritmin e tyre të zakonshëm, ndërsa një pajisje matëse e vendosur në pjesën e poshtme të shpinës regjistronte të dhënat, transmeton Telegrafi.Gati nëntë vjet përpara diagnozësRezultatet treguan se ngadalësimi i kthimit në fillim të studimit ishte i lidhur me një rrezik më të lartë për zhvillimin e Parkinsonit, me dallime të dukshme nga grupi kontroll gati nëntë vjet përpara diagnozës. Në fund të studimit, 23 pjesëmarrës kishin marrë diagnozën e Parkinsonit, rreth pesë vjet pas testit fillestar.Duke përdorur metoda të mësimit makinerik që morën parasysh moshën, gjininë dhe shpejtësinë maksimale të kthimit, studiuesit arritën të identifikojnë me sukses rreth 60% të pacientëve në fazat e hershme të sëmundjes. Ata vunë re se sa më shumë të plakeshin pjesëmarrësit, aq më ngadalë ktheheshin, dhe se ata që më vonë zhvilluan Parkinson nisën të ngadalësoheshin dhe të ktheheshin me kënd më të gjerë deri në 8.8 vjet përpara diagnozës.Ekspertët sugjerojnë se kjo mund të tregojë dobësim të shpejtësisë së përgjithshme të lëvizjes, të ekuilibrit ose të stabilitetit postural, të cilët shpesh preken nga Parkinsoni.Ata shtuan: “Dobësimi i stabilitetit postural mund të bëjë që pacientët, pa vetëdije, të ngadalësojnë kthesat dhe të ndjekin trajektore më të sigurta e më të gjera. Kjo tregon se pacientët që janë tashmë në fazën para-diagnostike mund të zhvillojnë strategji për kthime më të sigurta dhe më të qëndrueshme.” Rreziku më i lartë te meshkujtËshtë vërejtur se meshkujt kanë rrezik më të lartë për zhvillimin e sëmundjes. Çdo rritje e moshës me një vit lidhej me rritje prej 15% të rrezikut për Parkinson. Sipas studimit, meshkujt kishin katër herë më shumë gjasa të zhvillonin sëmundjen sesa gratë, raporton Daily Mail.Rëndësia e zbulimit të hershëmStudiuesit përfunduan: “Rezultatet tona sugjerojnë se matjet e kthimit mund të ndihmojnë në parashikimin e diagnozës klinike të Parkinsonit dhe të përmirësojnë panelin e markuesve para-diagnostikues për identifikimin e individëve me rrezik të lartë. Përdorimi i një njësie të vetme matëse të inercisë dhe i algoritmeve të validuara është një qasje praktike për skriningun në shkallë të gjerë të Parkinsonit.”Megjithëse kjo është studimi i parë longitudinal prospektiv që vlerëson matjet e kthimit te pacientët me Parkinson, studiuesit pranuan disa kufizime, si përfshirja e vetëm shtatë matjeve të kthimit.“Studimet e ardhshme mund të eksplorojnë më shumë karakteristika të kthimit, në kombinim me tiparet e ecjes dhe të ekuilibrit”, shtuan ata. Një mostër më e gjerë do të mundësonte rezultate më të përgjithshme dhe të besueshme.Gjendja aktuale e diagnostikimitAktualisht nuk ekziston test përfundimtar për këtë gjendje shkatërruese. Diagnoza vendoset zakonisht bazuar në shfaqjen e simptomave në fazat e vona, si dridhjet, pasi të jenë përjashtuar sëmundje të tjera të mundshme.Organizatat bamirëse për Parkinsonin vlerësojnë se më shumë se një e katërta e pacientëve me këtë sëmundje fillimisht diagnostikohen gabim.Shenjat e hershme të sëmundjes së ParkinsonitNdër shenjat e para përfshihen: dridhje (tremor) ngurtësi muskulare ngadalësim i lëvizjeve humbje e nuhatjes. Problemet me ekuilibrin dhe koordinimin, si dhe krampet muskulare, janë gjithashtu të zakonshme. Përveç kësaj, shumë pacientë mund të vuajnë nga çrregullime të shëndetit mendor, si depresioni dhe ankthi.Sëmundja e Parkinsonit shkaktohet nga vdekja e qelizave nervore në tru që prodhojnë dopaminën, kimikatin që kontrollon lëvizjet, por shkencëtarët ende po përpiqen të zbulojnë pse ndodh ky proces. /Telegrafi/",
+      "published": "Mon, 10 Nov 2025 06:00:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/testi-i-thjeshte-qe-mund-te-zbuloje-parkinsonin-gati-9-vjet-me-heret-zbulim-i-shkencetareve-gjermane/",
+      "fetched_at": "2025-11-10T06:30:44.859217",
+      "ai_summary": "Një studim i ri ka treguar se personat që kanë vështirësi me kthimin gjatë ecjes kanë më shumë gjasa të zhvillojnë sëmundjen e ParkinsonitNjë test i thjeshtë i lëvizjes, që ndjek ndryshimet në shpejtë..."
     }
   ],
-  "total_articles": 2,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
