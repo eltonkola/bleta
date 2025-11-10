@@ -1,6 +1,6 @@
 {
   "date": "2025-11-10",
-  "timestamp": "2025-11-10T03:18:08.219802",
+  "timestamp": "2025-11-10T04:26:27.261046",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,71 +9,32 @@
   },
   "articles": [
     {
-      "title": "Të krishterët në Bangladesh të alarmuar pas sulmeve me bomba",
-      "link": "https://www.balkanweb.com/te-krishteret-ne-bangladesh-te-alarmuar-pas-sulmeve-me-bomba/",
-      "description": "Frika ka përfshirë pakicën e vogël të krishterë të Bangladeshit pas tre sulmeve të ashpra me bomba ndaj kishave dhe një shkolle katolike, të cilat policia tha të dielën se nuk shkaktuan lëndime, por ishin “me siguri” të dizajnuara për të mbjellë terror. Asnjë grup nuk ka marrë përgjegjësinë për incidentet ose nuk ka shpjeguar […]",
-      "published": "Mon, 10 Nov 2025 03:00:52 +0000",
+      "title": "Malajzi, shtatë të vdekur nga fundosja e një varke me emigrantë",
+      "link": "https://www.balkanweb.com/malajzi-shtate-te-vdekur-nga-fundosja-e-nje-varke-me-emigrante/",
+      "description": "Autoritetet malajziane kanë gjetur të paktën shtatë trupa pasi një varkë me emigrantë u mbyt pranë kufirit tajlandez , tha Autoriteti i Sigurisë Detare (MSA). Autoritetet besojnë se varka mbante emigrantë të paligjshëm nga Mianmari . Grupi përbëhej nga rreth 300 persona që kishin hipur në disa varka. Ajo që u mbyt pranë ishullit Tarutao […]",
+      "published": "Mon, 10 Nov 2025 04:00:29 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846123",
-      "fetched_at": "2025-11-10T03:18:03.043419",
-      "ai_summary": "Frika ka përfshirë pakicën e vogël të krishterë të Bangladeshit pas tre sulmeve të ashpra me bomba ndaj kishave dhe një shkolle katolike, të cilat policia tha të dielën se nuk shkaktuan lëndime, por i..."
+      "guid": "https://www.balkanweb.com/?p=2846128",
+      "fetched_at": "2025-11-10T04:26:22.522860",
+      "ai_summary": "Autoritetet malajziane kanë gjetur të paktën shtatë trupa pasi një varkë me emigrantë u mbyt pranë kufirit tajlandez , tha Autoriteti i Sigurisë Detare (MSA). Autoritetet besojnë se varka mbante emigr..."
     },
     {
-      "title": "2 anëtarë të Hezbollahut vriten në sulmet ajrore izraelite në Libanin Jugor",
-      "link": "https://www.balkanweb.com/2-anetare-te-hezbollahut-vriten-ne-sulmet-ajrore-izraelite-ne-libanin-jugor/",
-      "description": "Dy anëtarë të Hezbollahut u vranë të dielën në sulme ajrore të ndara izraelite në Libanin jugor, njoftoi Agjencia Kombëtare e Lajmeve (NNA). Sipas NNA-së, një dron izraelit qëlloi dy raketa të drejtuara drejt një makine pranë Al-Ma’sarah në rrugën Houmine Al-Fawqa në distriktin Nabatieh, duke vrarë një person. Një sulm i dytë shënjestroi një […]",
-      "published": "Mon, 10 Nov 2025 02:30:47 +0000",
+      "title": "Numri i fluturimeve të anuluara në SHBA tejkaloi 2,000 brenda një dite",
+      "link": "https://www.balkanweb.com/numri-i-fluturimeve-te-anuluara-ne-shba-tejkaloi-2000-brenda-nje-dite/",
+      "description": "Më shumë se 2,000 fluturime u anuluan në Shtetet e Bashkuara më 9 nëntor për shkak të mungesës së kontrollorëve të trafikut ajror për shkak të mbylljes së pjesshme të qeverisë. Sipas raportit, më 9 nëntor u anuluan 2,183 fluturime dhe më shumë se 7,000 fluturime u vonuan. Më 8 nëntor, linjat ajrore u detyruan […]",
+      "published": "Mon, 10 Nov 2025 03:30:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846155",
-      "fetched_at": "2025-11-10T03:18:03.043620",
-      "ai_summary": "Dy anëtarë të Hezbollahut u vranë të dielën në sulme ajrore të ndara izraelite në Libanin jugor, njoftoi Agjencia Kombëtare e Lajmeve (NNA). Sipas NNA-së, një dron izraelit qëlloi dy raketa të drejtua..."
-    },
-    {
-      "title": "I dyshuari kryesor në zhdukjen e Madeleine mund të largohet nga vendi, me urdhër gjykate",
-      "link": "https://www.balkanweb.com/i-dyshuari-kryesor-ne-zhdukjen-e-madeleine-mund-te-largohet-nga-vendi-me-urdher-gjykate/",
-      "description": "I dyshuari kryesor në zhdukjen e adoleshentes britanike Madeleine McCann nga Portugalia, gjermani Christian Bruckner , i cili u lirua në shtator, do të jetë në gjendje të largohet nga vendi pasi një gjykatë gjermane hoqi një ndalim që kishte qenë në fuqi deri më tani. Gjykata e Apelit Celle në Gjermaninë veriore “anuloi pjesërisht […]",
-      "published": "Mon, 10 Nov 2025 02:00:42 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846117",
-      "fetched_at": "2025-11-10T03:18:03.043781",
-      "ai_summary": "I dyshuari kryesor në zhdukjen e adoleshentes britanike Madeleine McCann nga Portugalia, gjermani Christian Bruckner , i cili u lirua në shtator, do të jetë në gjendje të largohet nga vendi pasi një g..."
-    },
-    {
-      "title": "Trump nuk e përjashton mundësinë e një takimi me Putinin pas anulimit të samitit të Budapestit",
-      "link": "https://www.balkanweb.com/trump-nuk-e-perjashton-mundesine-e-nje-takimi-me-putinin-pas-anulimit-te-samitit-te-budapestit/",
-      "description": "Presidenti i SHBA-së, Donald Trump, shpresoi se do të takohet përsëri me homologun e tij rus, Vladimir Putin , pasi një samit në Budapest të Hungarisë u anulua papritur muajin e kaluar. “Gjithmonë ekziston një shans”, tha Trump në përgjigje të pyetjes së një gazetari ndërsa priti kryeministrin hungarez Viktor Orban në Shtëpinë e Bardhë. […]",
-      "published": "Mon, 10 Nov 2025 01:30:39 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846152",
-      "fetched_at": "2025-11-10T03:18:03.043859",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, shpresoi se do të takohet përsëri me homologun e tij rus, Vladimir Putin , pasi një samit në Budapest të Hungarisë u anulua papritur muajin e kaluar. “Gjithmonë ekz..."
-    },
-    {
-      "title": "VIDEO/ Në Bashkinë e Matit numërohen 17 nga 47 kuti, kush kryeson mes 3 kandidatëve në garë",
-      "link": "https://www.balkanweb.com/video-ne-bashkine-e-matit-numerohen-17-nga-47-kuti-kush-kryeson-mes-3-kandidateve-ne-gare/",
-      "description": "Në Bashkinë e Matit, KZAZ 16, numërimi vijon me ritme më të ngadalta, krahasuar me bashkitë e tjera. Deri tani janë hapur 17 kuti nga 47 Qendra Votimi në total që ka kjo bashki. Gazetari Enver Doçi raporton për News24 dhe BalkanWeb se Altin Bojni kryeson me 3204 vota ose 71.4%. Kandidati i mbështetur nga […]",
-      "published": "Mon, 10 Nov 2025 01:14:11 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846044",
-      "fetched_at": "2025-11-10T03:18:03.043936",
-      "ai_summary": "Në Bashkinë e Matit, KZAZ 16, numërimi vijon me ritme më të ngadalta, krahasuar me bashkitë e tjera. Deri tani janë hapur 17 kuti nga 47 Qendra Votimi në total që ka kjo bashki. Gazetari Enver Doçi ra..."
+      "guid": "https://www.balkanweb.com/?p=2846158",
+      "fetched_at": "2025-11-10T04:26:22.523001",
+      "ai_summary": "Më shumë se 2,000 fluturime u anuluan në Shtetet e Bashkuara më 9 nëntor për shkak të mungesës së kontrollorëve të trafikut ajror për shkak të mbylljes së pjesshme të qeverisë. Sipas raportit, më 9 në..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
