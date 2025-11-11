@@ -1,6 +1,6 @@
 {
   "date": "2025-11-11",
-  "timestamp": "2025-11-11T04:23:29.917344",
+  "timestamp": "2025-11-11T06:28:35.752622",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,150 @@
   },
   "articles": [
     {
-      "title": "Trump: Erdogan është një udhëheqës i shkëlqyer me një ushtri shumë të fortë",
-      "link": "https://www.balkanweb.com/trump-erdogan-eshte-nje-udheheqes-i-shkelqyer-me-nje-ushtri-shume-te-forte/",
-      "description": "Presidenti i SHBA-së, Donald Trump, e ka përshkruar homologun e tij turk, Recep Tayyip Erdogan, si një udhëheqës të madh. Donald Trump e përshkroi Erdoganin si një udhëheqës me një ushtri shumë të fortë. Duke komentuar situatën në Siri, udhëheqësi amerikan tërhoqi vëmendjen te roli i rëndësishëm i Turqisë: “Presidenti Erdogan është një udhëheqës i […]",
-      "published": "Tue, 11 Nov 2025 04:00:23 +0000",
+      "title": "Kontratat PPP të sterilizimit dhe dializës përfundojnë më 2026, rriten fondet për laboratorin",
+      "link": "https://www.balkanweb.com/kontratat-ppp-te-sterilizimit-dhe-dializes-perfundojne-me-2026-rriten-fondet-per-laboratorin/",
+      "description": "Financimi i kontratave koncesionare në sektorin e shëndetësisë hyn në një fazë të re vitin që vjen. Sipas projektbuxhetit, dy nga kontratat më të rëndësishme dhe më të kushtueshme të sistemit, ajo e sterilizimit të instrumenteve kirurgjikale dhe ajo e ofrimit të shërbimit të dializës përfundojnë në 2026. Të dhënat tregojnë se pagesat për sterilizimin […]",
+      "published": "Tue, 11 Nov 2025 06:24:04 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846858",
-      "fetched_at": "2025-11-11T04:23:25.109957",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e ka përshkruar homologun e tij turk, Recep Tayyip Erdogan, si një udhëheqës të madh. Donald Trump e përshkroi Erdoganin si një udhëheqës me një ushtri shumë të for..."
+      "guid": "https://www.balkanweb.com/?p=2846904",
+      "fetched_at": "2025-11-11T06:28:30.584637",
+      "ai_summary": "Financimi i kontratave koncesionare në sektorin e shëndetësisë hyn në një fazë të re vitin që vjen. Sipas projektbuxhetit, dy nga kontratat më të rëndësishme dhe më të kushtueshme të sistemit, ajo e s..."
     },
     {
-      "title": "Siria rihap ambasadën në Uashington dhe i bashkohet koalicionit ndërkombëtar anti-xhihadist",
-      "link": "https://www.balkanweb.com/siria-rihap-ambasaden-ne-uashington-dhe-i-bashkohet-koalicionit-nderkombetar-anti-xhihadist-2/",
-      "description": "Qeveria amerikane njoftoi të hënën se do t’i lejonte qeverisë de facto siriane të rihapë ambasadën e saj në Uashington, pas vizitës së Presidentit të përkohshëm sirian Ahmed al-Sarrah dhe takimit të tij në Shtëpinë e Bardhë me Donald Trump. “Shtetet e Bashkuara po i lejojnë Sirisë të rifillojë aktivitetet e ambasadës së saj në […]",
-      "published": "Tue, 11 Nov 2025 03:45:56 +0000",
+      "title": "“Rreth viteve ’80-të, aktori i njohur me famë botërore, Bud Spencer, ka qëndruar në hotel ‘Adriatik’ në Durrës dhe filmat e tij…”/ Ekspozita e rrallë “Turistët e përgjuar”, e dy vajzave durrsake",
+      "link": "https://www.balkanweb.com/rreth-viteve-80-te-aktori-i-njohur-me-fame-boterore-bud-spencer-ka-qendruar-ne-hotel-adriatik-ne-durres-dhe-filmat-e-tij-ekspozita-e-rralle/",
+      "description": "Nga Jetmira Delia-Kaci Me pasaportën në xhep sot çdo turist i huaj mund të vizitojë Shqipërinë, por në kohën e regjimit komunist, kjo nuk mjaftonte. Turistët priteshin në pikat kufitare nga berberë dhe rrobaqepës, që ua ndalonin hyrjen atyre që kishin pamje që regjimi i cilësonte “shfaqje të huaja”. Flokët e gjatë apo veshjet e […]",
+      "published": "Tue, 11 Nov 2025 06:18:04 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846892",
-      "fetched_at": "2025-11-11T04:23:25.110106",
-      "ai_summary": "Qeveria amerikane njoftoi të hënën se do t’i lejonte qeverisë de facto siriane të rihapë ambasadën e saj në Uashington, pas vizitës së Presidentit të përkohshëm sirian Ahmed al-Sarrah dhe takimit të t..."
+      "guid": "https://www.balkanweb.com/?p=2846293",
+      "fetched_at": "2025-11-11T06:28:30.584777",
+      "ai_summary": "Nga Jetmira Delia-Kaci Me pasaportën në xhep sot çdo turist i huaj mund të vizitojë Shqipërinë, por në kohën e regjimit komunist, kjo nuk mjaftonte. Turistët priteshin në pikat kufitare nga berberë dh..."
     },
     {
-      "title": "Trump shpreh besim tek Al-Sarrah dhe pezullon sanksionet ndaj Sirisë për 180 ditë të tjera",
-      "link": "https://www.balkanweb.com/trump-shpreh-besim-tek-al-sarrah-dhe-pezullon-sanksionet-ndaj-sirise-per-180-dite-te-tjera/",
-      "description": "Nga “lista e zezë” e FBI-së për terroristët e kërkuar në një vizitë historike në Shtëpinë e Bardhë . Presidenti i përkohshëm i Sirisë , Ahmed al-Sarrah , u prit të hënën (10/11) nga Presidenti i SHBA-së Donald Trump , në një tjetër moment të rëndësishëm për ish-xhihadistin. Me rastin e vizitës historike, Departamenti i […]",
-      "published": "Tue, 11 Nov 2025 03:30:41 +0000",
+      "title": "Parashikimi i motit për sot, 11 nëntor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-11-nentor-2025/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet me vranësira të dendura, të cilat gradualisht pas orëve të mëngjesit do të vijnë në pakësim. Në orët e pasdites, mot me kthjellime dhe vranësira të pakta. Reshje shiu të herëpashershme që në orët e para të 24-orëshit deri në […]",
+      "published": "Tue, 11 Nov 2025 06:12:11 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846883",
-      "fetched_at": "2025-11-11T04:23:25.110198",
-      "ai_summary": "Nga “lista e zezë” e FBI-së për terroristët e kërkuar në një vizitë historike në Shtëpinë e Bardhë . Presidenti i përkohshëm i Sirisë , Ahmed al-Sarrah , u prit të hënën (10/11) nga Presidenti i SHBA-..."
+      "guid": "https://www.balkanweb.com/?p=2846775",
+      "fetched_at": "2025-11-11T06:28:30.585097",
+      "ai_summary": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet me vranësira të dendura, të cilat gradualisht pas orëve të mëngjesit do të vijnë në pakësim. Në orët e..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 11 nëntor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-11-nentor-2025/",
+      "description": "Dashi Edhe pse mund të jeni duke kaluar një periudhë të vështirë në përgjithësi, sot është një pikë e ndritshme mes errësirës. Duhet të ndiheni të lumtur me veten dhe njerëzit përreth jush. Po krijoni lidhje të forta me të tjerët që do të shpërblehen në të ardhmen. Demi Vendosni një sistem shpërblimi për veten […]",
+      "published": "Tue, 11 Nov 2025 06:05:12 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2846291",
+      "fetched_at": "2025-11-11T06:28:30.585218",
+      "ai_summary": "Dashi Edhe pse mund të jeni duke kaluar një periudhë të vështirë në përgjithësi, sot është një pikë e ndritshme mes errësirës. Duhet të ndiheni të lumtur me veten dhe njerëzit përreth jush. Po krijoni..."
+    },
+    {
+      "title": "Senati më në fund miraton propozimin për t’i dhënë fund përkohësisht mbylljes së qeverisë",
+      "link": "https://www.balkanweb.com/senati-me-ne-fund-miraton-propozimin-per-ti-dhene-fund-perkohesisht-mbylljes-se-qeverise/",
+      "description": "Senati Amerikan miratoi të hënën një tekst për të zgjatur ekzekutimin e buxhetit (rezolutë e vazhdueshme, CR) për t’i dhënë fund paralizës fiskale në SHBA , falë mbështetjes së një grushti anëtarësh demokratë të organit, duke e dërguar atë tani në Dhomën e Përfaqësuesve, e cila do të thirret për të votuar brenda javës. Projektligji […]",
+      "published": "Tue, 11 Nov 2025 05:10:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2846896",
+      "fetched_at": "2025-11-11T06:28:30.585333",
+      "ai_summary": "Senati Amerikan miratoi të hënën një tekst për të zgjatur ekzekutimin e buxhetit (rezolutë e vazhdueshme, CR) për t’i dhënë fund paralizës fiskale në SHBA , falë mbështetjes së një grushti anëtarësh d..."
+    },
+    {
+      "title": "BE: Puna për paketën e 20-të të sanksioneve është duke vazhduar, përmbajtja e saj është konfidenciale",
+      "link": "https://www.balkanweb.com/be-puna-per-paketen-e-20-te-te-sanksioneve-eshte-duke-vazhduar-permbajtja-e-saj-eshte-konfidenciale/",
+      "description": "Sulmet ndaj infrastrukturës kritike energjetike të Ukrainës, duke përfshirë nënstacionet që furnizojnë me energji elektrike centralet bërthamore, janë shqetësim serioz për Bashkimin Evropian (BE). Sipas byrosë evropiane të Report , kjo u deklarua nga Anita Hipper, përfaqësuesja zyrtare e shërbimit të politikës së jashtme të BE-së, në një konferencë shtypi në Bruksel. “BE-ja vazhdon t’i […]",
+      "published": "Tue, 11 Nov 2025 05:00:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2846861",
+      "fetched_at": "2025-11-11T06:28:30.585453",
+      "ai_summary": "Sulmet ndaj infrastrukturës kritike energjetike të Ukrainës, duke përfshirë nënstacionet që furnizojnë me energji elektrike centralet bërthamore, janë shqetësim serioz për Bashkimin Evropian (BE). Sip..."
+    },
+    {
+      "title": "Australia ndalon rrjetet sociale për adoleshentët, ligji hyn në fuqi nga 10 dhjetori",
+      "link": "https://www.balkanweb.com/australia-ndalon-rrjetet-sociale-per-adoleshentet-ligji-hyn-ne-fuqi-nga-10-dhjetori/",
+      "description": "Kryeministri i Australisë, Anthony Albanese, njoftoi të hënën se Australia do të ndalojë mediat sociale për fëmijët nën 16 vjeç për të garantuar sigurinë e tyre në internet. Si pjesë e Projektligjit të Amendamentit të Sigurisë Online (Mosha Minimale e Mediave Sociale) 2024, i cili hyn në fuqi nga 10 dhjetori 2025, kushdo nën 16 […]",
+      "published": "Tue, 11 Nov 2025 04:30:21 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2846872",
+      "fetched_at": "2025-11-11T06:28:30.585578",
+      "ai_summary": "Kryeministri i Australisë, Anthony Albanese, njoftoi të hënën se Australia do të ndalojë mediat sociale për fëmijët nën 16 vjeç për të garantuar sigurinë e tyre në internet. Si pjesë e Projektligjit t..."
+    },
+    {
+      "title": "Apple afër një marrëveshjeje prej 1 miliard dollarësh për të përdorur inteligjencën artificiale Gemini të Google për Sirin",
+      "link": "https://telegrafi.com/apple-afer-nje-marreveshjeje-prej-1-miliard-dollaresh-per-te-perdorur-inteligjencen-artificiale-gemini-te-google-per-sirin/",
+      "description": "Raportohet se Apple po finalizon një marrëveshje me Google për të paguar rreth 1 miliard dollarë në vit për të licencuar modelin e inteligjencës artificiale Gemini të kompanisë për përdorim në Siri.Marrëveshja, e cila do të sillte një nga sistemet më të fuqishme të inteligjencës artificiale në shkallë të gjerë në ekosistemin e Apple, pasqyron një ndryshim strategjik në mënyrën se si kompania planifikon të zhvillojë asistentin e saj zanor, transmeton Telegrafi.Raporti, i botuar fillimisht nga Bloomberg dhe më vonë i konfirmuar nga disa media të industrisë, sugjeron se Apple synon të përdorë modelin Gemini të Google me 1.2 trilion parametra për të përmirësuar aftësinë e Siri për të përmbledhur, planifikuar dhe për t'iu përgjigjur kërkesave komplekse me shumë hapa. Modeli do të plotësonte sistemet ekzistuese të brendshme të Apple, të cilat fuqizojnë përpunimin e inteligjencës artificiale në pajisje për detyra si personalizimi dhe kuptimi kontekstual.Partneriteti do të shënonte një pikë kthese për arkitekturën e Siri, duke kombinuar kornizën informatike të Apple të fokusuar në privatësi me trajnimin e modelit në shkallë të gjerë të Google. Apple pritet të presë modelin e nxjerrë nga Gemini brenda infrastrukturës së vet Private Cloud Compute, duke i lejuar kompanisë të ruajë privatësinë e të dhënave duke përdorur teknologjinë gjuhësore të Google, transmeton Telegrafi. Sipas kushteve të raportuara, Gemini do të trajtonte funksionet e inteligjencës artificiale të bazuara në cloud që kërkojnë fuqi të gjerë përpunimi, ndërsa detyrat më të vogla dhe të lokalizuara do të vazhdonin të ekzekutoheshin në modelet e brendshme të Apple. Kjo qasje pasqyron mënyrën se si Apple aktualisht integron ChatGPT të OpenAI për kërkesat selektive të Siri të prezantuara në iOS 26.Prezantimi pritet të fillojë në vitin 2026, në përputhje me një fazë të re të veçorive të Inteligjencës së Apple të planifikuara për iPhone, iPad dhe Mac. Zhvilluesit që shqyrtuan kornizën e kodit të inteligjencës artificiale të Apple në fillim të këtij viti gjetën referenca për pikat fundore të modelit të jashtëm, duke sugjeruar se kompania tashmë ishte përgatitur për këtë lloj integrimi.Vendimi i Apple për t'u partnerizuar me Google thuhet se pasoi vlerësimet e brendshme të ofruesve të shumtë të inteligjencës artificiale, duke përfshirë OpenAI dhe Anthropic. Sipas raportimeve, Gemini i Google u zgjodh përfundimisht për shkallëzueshmërinë e performancës dhe aftësitë shumëgjuhëshe.Për Apple, marrëveshja do të shënonte marrëveshjen e saj më të madhe të licencimit të jashtëm për teknologjinë e inteligjencës artificiale deri më sot, duke sinjalizuar një zhvendosje drejt një ekosistemi më të hapur pas viteve të përqendrimit në zhvillimin pronësor. Ky veprim ndihmon gjithashtu në përshpejtimin e evolucionit të Siri-t pa kërkuar që Apple të trajnojë modelin e vet me trilion parametra nga e para - një proces që mund të zgjasë me vite dhe të kushtojë miliarda.Për Google, marrëveshja do të zgjeronte shtrirjen e Gemini në qindra miliona iPhone në të gjithë botën, duke i dhënë kompanisë një prani të konsiderueshme në ekosistemin e harduerit të Apple. Ky ekspozim mund ta pozicionojë Gemini-n si modelin dominues në hapësirën e AI-së së konsumatorit, duke konkurruar drejtpërdrejt me integrimet e bazuara në GPT të OpenAI.Bashkëpunimi përshtatet në planin më të gjerë të IA-së të Apple, i cili filloi të zhvillohej në fillim të këtij viti me iniciativën Apple Intelligence. Programi solli përmbledhje të ndërgjegjshme për kontekstin, ndihmë për shkrimin e email-eve dhe veçori të reja proaktive në iOS 26. Duke përfshirë Gemini-n, Apple synon të zgjerojë këto aftësi duke ruajtur angazhimin e saj të vendosur për privatësinë e përdoruesit dhe kontrollin e të dhënave.Apple nuk e ka konfirmuar publikisht marrëveshjen ose nuk ka komentuar mbi përdorimin specifik të Gemini-t në Siri. Megjithatë, analistët e industrisë vërejnë se një partneritet i kësaj shkalle do të përputhej me qasjen pragmatike të Apple - outsourcing aty ku përshpejton inovacionin, por duke ruajtur kontrollin operacional mbi zbatimin dhe privatësinë.Nëse finalizohet, marrëveshja mund të shënojë ndryshimin më të rëndësishëm në themelet e Siri-t që nga lansimi i saj më shumë se një dekadë më parë, duke përgatitur terrenin për gjeneratën e ardhshme të përvojave të përdoruesit të mundësuara nga inteligjenca artificiale e Apple. /Telegrafi/",
+      "published": "Tue, 11 Nov 2025 06:20:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/apple-afer-nje-marreveshjeje-prej-1-miliard-dollaresh-per-te-perdorur-inteligjencen-artificiale-gemini-te-google-per-sirin/",
+      "fetched_at": "2025-11-11T06:28:32.916181",
+      "ai_summary": "Raportohet se Apple po finalizon një marrëveshje me Google për të paguar rreth 1 miliard dollarë në vit për të licencuar modelin e inteligjencës artificiale Gemini të kompanisë për përdorim në Siri.Ma..."
+    },
+    {
+      "title": "Një shenjë gjatë shtatzënisë “paralajmëron” depresionin pas lindjes: Rreziku mund të shihet që në tremujorin e dytë",
+      "link": "https://telegrafi.com/nje-shenje-gjate-shtatzenise-paralajmeron-depresionin-pas-lindjes-rreziku-mund-te-shihet-qe-ne-tremujorin-e-dyte/",
+      "description": "Zbulime të reja tregojnë se një shenjë që shfaqet që gjatë shtatzënisë mund të tregojë rrezik të shtuar për zhvillimin e depresionit pas lindjesDepresioni perinatal, që prek rreth një në pesë gra gjatë shtatzënisë ose menjëherë pas lindjes, shpesh mbetet i paidentifikuar, dhe pasojat e tij mund të jenë afatgjata si për nënën, ashtu edhe për fëmijën. Një studim i ri i botuar në revistën Nature Mental Health sugjeron se shenjat e para të depresionit mund të vërehen që në tremujorin e dytë të shtatzënisë.Studiuesit analizuan të dhënat e mbi 600 grave në Suedi që morën pjesë në studimin Mom2B dhe u monitoruan përmes një aplikacioni për shëndetin mendor. Në tremujorin e dytë, gratë plotësuan një pyetësor të shkurtër mbi aftësinë e tyre për të rregulluar emocionet, pra sa mirë i kuptonin dhe pranonin ndjenjat, sa mund të kontrollonin impulset dhe të qëndronin të përqendruara në objektiva pavarësisht shqetësimit.Rezultatet treguan se gratë që kishin vështirësi më të mëdha në rregullimin e emocioneve gjatë asaj periudhe, shfaqnin më shumë simptoma depresive më vonë gjatë shtatzënisë dhe deri në gjashtë muaj pas lindjes. Kjo lidhje mbeti e fortë edhe pasi u morën parasysh faktorë të tjerë të njohur rreziku, si episodet e mëparshme të depresionit apo frika nga lindja, transmeton Telegrafi.Çfarë do të thotë “rregullimi i emocioneve”?Rregullimi i emocioneve është një aftësi psikologjike që përfshin njohjen, kuptimin dhe kontrollin efektiv të ndjenjave. Nuk ka të bëjë me shtypjen e emocioneve, por me aftësinë për të reaguar në mënyrë fleksibile dhe konstruktive ndaj sfidave të jetës. Kjo aftësi është thelbësore për përballimin e stresit dhe mirëqenien e përgjithshme. Studimet tregojnë se ka një rol të rëndësishëm në shëndetin mendor të grave shtatzëna dhe pas lindjes, pasi shtatzënia sjell ndryshime të mëdha hormonale, fizike dhe emocionale. Gratë që kanë tashmë vështirësi në këtë drejtim janë më të ndjeshme ndaj stresit dhe depresionit. Forcimi i qëndrueshmërisë emocionale Rregullimi i emocioneve është një aftësi që mund të mësohet dhe zhvillohet. Terapitë si terapia konjitive-biheviorale dhe trajnimi në vetëdije janë treguar shumë efektive në forcimin e kësaj aftësie. Programe të tilla, të përshtatura për gratë shtatzëna, ndihmojnë në përballimin më të shëndetshëm të sfidave gjatë shtatzënisë dhe prindërimit të hershëm. Mbështetja për nënat e ardhshme në zhvillimin e këtyre aftësive mund të luajë një rol kyç në parandalimin e simptomave depresive dhe në përmirësimin e mirëqenies së tyre emocionale. /Telegrafi/",
+      "published": "Tue, 11 Nov 2025 06:15:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/nje-shenje-gjate-shtatzenise-paralajmeron-depresionin-pas-lindjes-rreziku-mund-te-shihet-qe-ne-tremujorin-e-dyte/",
+      "fetched_at": "2025-11-11T06:28:32.917048",
+      "ai_summary": "Zbulime të reja tregojnë se një shenjë që shfaqet që gjatë shtatzënisë mund të tregojë rrezik të shtuar për zhvillimin e depresionit pas lindjesDepresioni perinatal, që prek rreth një në pesë gra gjat..."
+    },
+    {
+      "title": "Sot me riga shiu",
+      "link": "https://telegrafi.com/sot-me-riga-shiu/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se vranësirat vende-vende parashihen të sjellin riga shiu.Temperaturat minimale do të lëvizin ndërmjet 4 dhe 8 gradë Celsius, ndërkaq ato maksimale nga 10 deri në 13 gradë.Era do të fryjë nga veriperëndimi, me shpejtësi 1-6m/s. /Telegrafi/",
+      "published": "Tue, 11 Nov 2025 06:12:46 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sot-me-riga-shiu/",
+      "fetched_at": "2025-11-11T06:28:32.917928",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se vranësirat vende-vende parashihen të sjellin riga shiu.Temperaturat minimale do të lë..."
+    },
+    {
+      "title": "Mbilleni tani këtë lule të mrekullueshme - në pranverë kopshti juaj do të rrezatojë ngjyra e jetë!",
+      "link": "https://telegrafi.com/mbilleni-tani-kete-lule-te-mrekullueshme-ne-pranvere-kopshti-juaj-do-te-rrezatoje-ngjyra-e-jete/",
+      "description": "Tulipanët mbillen në vjeshtë sepse zhardhokët e tyre duhet të kalojnë një fazë të ftohtë për të lulëzuar më vonë. Nëse gjithçka bëhet siç duhet, kopshti juaj në pranverë do të shpërthejë në ngjyra dhe jetëKëto ditë nëntori janë momenti ideal për disa punë të vogla në kopshtin tuaj dhe, pse jo, për të mbjellë edhe ndonjë lule shtesë. Në fund të fundit, lule kurrë s’ka shumë!Nëse keni vazo në kopsht, kujdesuni që t’i ngrini pak mbi tokë për të shmangur grumbullimin e ujit. Pastrimi i gjetheve jo vetëm që e bën kopshtin më të rregullt, por është edhe një ushtrim i mirë fizik. Dhe ka një detyrë të fundit për nëntorin, përpara se të fillojnë shirat dhe erërat: a i doni tulipanët?Nëse po, shkoni menjëherë në qendrën e bimëve për të blerë zhardhokët. Tulipanët duhet të mbillen në vjeshtë, nëse nuk e keni bërë në tetor, ende keni kohë. Zhardhokët duhet të kalojnë një periudhë të ftohtë, të lagësht dhe të errët gjatë muajve të vjeshtës dhe dimrit, në mënyrë që të rrënjosen dhe të formojnë sythat. Temperatura ideale është rreth 15°C, pra, koha është tani!Një kopsht ëndrrash, plot jetë, magji dhe ngjyra, një përjetim estetik për të gjitha shqisat. Nëse ende nuk i keni, shtoni tulipanët në historinë tuaj të kopshtit, lule madhështore që i japin hijeshi, finesë dhe një prekje “holandeze” hapësirës suaj, transmeton Telegrafi. Si të mbillni tulipanët?Zgjidhni një vend me diell ku uji nuk grumbullohet (toka duhet të jetë e drenazhuar mirë që rrënjët të mos kalben). Hapni vrima rreth 15 cm të thella, shtoni pak rërë ose zhavorr të imët, vendosni zhardhokët, mbulojini mirë dhe ujiteni tokën. Dhe kaq, në pranverë do t’ju presë një spektakël me ngjyra!Këshillë shtesë: Hortikulturistët rekomandojnë t’i mbillni zhardhokët në grupe prej pesë ose shtatë për një pamje më natyrale. Mos i hiqni gjethet menjëherë pas lulëzimit, ato ushqejnë zhardhokun për sezonin e ardhshëm. /Telegrafi/",
+      "published": "Tue, 11 Nov 2025 06:00:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mbilleni-tani-kete-lule-te-mrekullueshme-ne-pranvere-kopshti-juaj-do-te-rrezatoje-ngjyra-e-jete/",
+      "fetched_at": "2025-11-11T06:28:32.918317",
+      "ai_summary": "Tulipanët mbillen në vjeshtë sepse zhardhokët e tyre duhet të kalojnë një fazë të ftohtë për të lulëzuar më vonë. Nëse gjithçka bëhet siç duhet, kopshti juaj në pranverë do të shpërthejë në ngjyra dhe..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 11,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
