@@ -1,6 +1,6 @@
 {
   "date": "2025-11-11",
-  "timestamp": "2025-11-11T03:12:47.599330",
+  "timestamp": "2025-11-11T04:23:29.917344",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,70 +9,44 @@
   },
   "articles": [
     {
-      "title": "Presidenti gjerman i kërkon Algjerisë të falë shkrimtarin Boualem Sansal",
-      "link": "https://www.balkanweb.com/presidenti-gjerman-i-kerkon-algjerise-te-fale-shkrimtarin-boualem-sansal/",
-      "description": "Presidenti gjerman Frank-Walter Steinmeier i kërkoi të hënën homologut të tij algjerian të falë shkrimtarin franko-algjerian Boualem Sansal, i cili u dënua me pesë vjet burg në mars për dëmtimin e unitetit kombëtar. Zyra e Steinmeier tha se ai i kishte kërkuar Presidentit algjerian Abdelmadjid Tebboune të falë Sansal si “një gjest humanitar”. “Duke pasur […]",
-      "published": "Tue, 11 Nov 2025 03:00:18 +0000",
+      "title": "Trump: Erdogan është një udhëheqës i shkëlqyer me një ushtri shumë të fortë",
+      "link": "https://www.balkanweb.com/trump-erdogan-eshte-nje-udheheqes-i-shkelqyer-me-nje-ushtri-shume-te-forte/",
+      "description": "Presidenti i SHBA-së, Donald Trump, e ka përshkruar homologun e tij turk, Recep Tayyip Erdogan, si një udhëheqës të madh. Donald Trump e përshkroi Erdoganin si një udhëheqës me një ushtri shumë të fortë. Duke komentuar situatën në Siri, udhëheqësi amerikan tërhoqi vëmendjen te roli i rëndësishëm i Turqisë: “Presidenti Erdogan është një udhëheqës i […]",
+      "published": "Tue, 11 Nov 2025 04:00:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846855",
-      "fetched_at": "2025-11-11T03:12:42.632348",
-      "ai_summary": "Presidenti gjerman Frank-Walter Steinmeier i kërkoi të hënën homologut të tij algjerian të falë shkrimtarin franko-algjerian Boualem Sansal, i cili u dënua me pesë vjet burg në mars për dëmtimin e uni..."
+      "guid": "https://www.balkanweb.com/?p=2846858",
+      "fetched_at": "2025-11-11T04:23:25.109957",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e ka përshkruar homologun e tij turk, Recep Tayyip Erdogan, si një udhëheqës të madh. Donald Trump e përshkroi Erdoganin si një udhëheqës me një ushtri shumë të for..."
     },
     {
-      "title": "Trump sulmon përfaqësuesen republikane Taylor Greene: “Ka devijuar nga rruga e drejtë”",
-      "link": "https://www.balkanweb.com/trump-sulmon-perfaqesuesen-republikane-taylor-greene-ka-devijuar-nga-rruga-e-drejte/",
-      "description": "Donald Trump tha dje se Marjorie Taylor Greene ka “devijuar nga rruga e drejtë”, ndërsa aleatja e tij e gjatë, një figurë e njohur e së djathtës radikale amerikane, e nxiti atë të përqendrohej në politikën e brendshme. “Nuk e di se çfarë nuk shkon me Marjorie-n, ajo është një grua e mirë. Mendoj se […]",
-      "published": "Tue, 11 Nov 2025 02:45:51 +0000",
+      "title": "Siria rihap ambasadën në Uashington dhe i bashkohet koalicionit ndërkombëtar anti-xhihadist",
+      "link": "https://www.balkanweb.com/siria-rihap-ambasaden-ne-uashington-dhe-i-bashkohet-koalicionit-nderkombetar-anti-xhihadist-2/",
+      "description": "Qeveria amerikane njoftoi të hënën se do t’i lejonte qeverisë de facto siriane të rihapë ambasadën e saj në Uashington, pas vizitës së Presidentit të përkohshëm sirian Ahmed al-Sarrah dhe takimit të tij në Shtëpinë e Bardhë me Donald Trump. “Shtetet e Bashkuara po i lejojnë Sirisë të rifillojë aktivitetet e ambasadës së saj në […]",
+      "published": "Tue, 11 Nov 2025 03:45:56 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846886",
-      "fetched_at": "2025-11-11T03:12:42.632492",
-      "ai_summary": "Donald Trump tha dje se Marjorie Taylor Greene ka “devijuar nga rruga e drejtë”, ndërsa aleatja e tij e gjatë, një figurë e njohur e së djathtës radikale amerikane, e nxiti atë të përqendrohej në poli..."
+      "guid": "https://www.balkanweb.com/?p=2846892",
+      "fetched_at": "2025-11-11T04:23:25.110106",
+      "ai_summary": "Qeveria amerikane njoftoi të hënën se do t’i lejonte qeverisë de facto siriane të rihapë ambasadën e saj në Uashington, pas vizitës së Presidentit të përkohshëm sirian Ahmed al-Sarrah dhe takimit të t..."
     },
     {
-      "title": "7 ndryshimet më të çuditshme që Donald Trump ka bërë që kur është rikthyer në detyrë",
-      "link": "https://www.balkanweb.com/7-ndryshimet-me-te-cuditshme-qe-donald-trump-ka-bere-qe-kur-eshte-rikthyer-ne-detyre/",
-      "description": "Që kur u rikthye në detyrë në janar, Presidenti Donald Trump ka bërë bujë në media për të gjitha llojet e arsyeve – njëra prej tyre është shija e tij për gjithçka që është prej ari. Tani 11 muaj në mandatin e tij të dytë, Trump i ka lënë vërtet vulën e tij Shtëpisë së […]",
-      "published": "Tue, 11 Nov 2025 02:30:59 +0000",
+      "title": "Trump shpreh besim tek Al-Sarrah dhe pezullon sanksionet ndaj Sirisë për 180 ditë të tjera",
+      "link": "https://www.balkanweb.com/trump-shpreh-besim-tek-al-sarrah-dhe-pezullon-sanksionet-ndaj-sirise-per-180-dite-te-tjera/",
+      "description": "Nga “lista e zezë” e FBI-së për terroristët e kërkuar në një vizitë historike në Shtëpinë e Bardhë . Presidenti i përkohshëm i Sirisë , Ahmed al-Sarrah , u prit të hënën (10/11) nga Presidenti i SHBA-së Donald Trump , në një tjetër moment të rëndësishëm për ish-xhihadistin. Me rastin e vizitës historike, Departamenti i […]",
+      "published": "Tue, 11 Nov 2025 03:30:41 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846878",
-      "fetched_at": "2025-11-11T03:12:42.632581",
-      "ai_summary": "Që kur u rikthye në detyrë në janar, Presidenti Donald Trump ka bërë bujë në media për të gjitha llojet e arsyeve – njëra prej tyre është shija e tij për gjithçka që është prej ari. Tani 11 muaj në ma..."
-    },
-    {
-      "title": "Trump: SHBA-të do të bëjnë gjithçka që munden për ta bërë Sirinë të suksesshme",
-      "link": "https://www.balkanweb.com/trump-shba-te-do-te-bejne-gjithcka-qe-munden-per-ta-bere-sirine-te-suksesshme/",
-      "description": "SHBA -të do të ndërmarrin të gjitha hapat e mundshëm për të ndihmuar Sirinë , ndërsa ajo del nga dekadat e sundimit të familjes Assad, tha Presidenti Donald Trump të hënën pas takimit me dyer të mbyllura me homologun e tij sirian. Duke iu drejtuar gazetarëve pas takimit me Presidentin Ahmed al-Sharaa për gati dy […]",
-      "published": "Tue, 11 Nov 2025 02:00:03 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846835",
-      "fetched_at": "2025-11-11T03:12:42.632653",
-      "ai_summary": "SHBA -të do të ndërmarrin të gjitha hapat e mundshëm për të ndihmuar Sirinë , ndërsa ajo del nga dekadat e sundimit të familjes Assad, tha Presidenti Donald Trump të hënën pas takimit me dyer të mbyll..."
-    },
-    {
-      "title": "Zelensky pretendon se Putini kërkon të tregojë ‘fitore të rreme’ përmes luftës hibride",
-      "link": "https://www.balkanweb.com/zelensky-pretendon-se-putini-kerkon-te-tregoje-fitore-te-rreme-permes-luftes-hibride/",
-      "description": "Presidenti rus Vladimir Putin është në një “bllokim” dhe po përpiqet të kompensojë mungesën e suksesit të vërtetë në fushën e betejës përmes taktikave hibride, duke përfshirë energjinë, kibernetikën dhe ndërhyrjen politike në të gjithë Evropën, deklaroi të hënën presidenti ukrainas Volodymyr Zelensky . “Putini është në një bllokim kur bëhet fjalë për sukseset e […]",
-      "published": "Tue, 11 Nov 2025 01:30:29 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2846868",
-      "fetched_at": "2025-11-11T03:12:42.632721",
-      "ai_summary": "Presidenti rus Vladimir Putin është në një “bllokim” dhe po përpiqet të kompensojë mungesën e suksesit të vërtetë në fushën e betejës përmes taktikave hibride, duke përfshirë energjinë, kibernetikën d..."
+      "guid": "https://www.balkanweb.com/?p=2846883",
+      "fetched_at": "2025-11-11T04:23:25.110198",
+      "ai_summary": "Nga “lista e zezë” e FBI-së për terroristët e kërkuar në një vizitë historike në Shtëpinë e Bardhë . Presidenti i përkohshëm i Sirisë , Ahmed al-Sarrah , u prit të hënën (10/11) nga Presidenti i SHBA-..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
