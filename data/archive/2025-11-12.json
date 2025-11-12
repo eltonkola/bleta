@@ -1,6 +1,6 @@
 {
   "date": "2025-11-12",
-  "timestamp": "2025-11-12T03:11:13.445220",
+  "timestamp": "2025-11-12T04:22:32.344231",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,57 +9,44 @@
   },
   "articles": [
     {
-      "title": "Shefi i OKB-së dënon sulmet vdekjeprurëse në Pakistan dhe Indi, kërkon hetime të plota",
-      "link": "https://www.balkanweb.com/shefi-i-okb-se-denon-sulmet-vdekjeprurese-ne-pakistan-dhe-indi-kerkon-hetime-te-plota/",
-      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, shprehu keqardhje për sulmin vdekjeprurës vetëvrasës me bombë në Pakistan dhe një shpërthim me makinë-bombë në Indi , tha një zëdhënës të martën. Guterres është “thellësisht i trishtuar” nga sulmi vetëvrasës i raportuar në Islamabad dhe u shpreh ngushëllimet e tij familjeve të viktimave dhe u uron shërim […]",
-      "published": "Wed, 12 Nov 2025 03:00:50 +0000",
+      "title": "OKB paralajmëron se gati 11 milionë gra dhe vajza në Sudan përballen me pasiguri akute ushqimore",
+      "link": "https://www.balkanweb.com/okb-paralajmeron-se-gati-11-milione-gra-dhe-vajza-ne-sudan-perballen-me-pasiguri-akute-ushqimore/",
+      "description": "Organizata e Kombeve të Bashkuara për Gratë bëri thirrje të martën për veprime urgjente për të mbrojtur dhe për t’i dhënë përparësi grave dhe vajzave në Sudan , ku konflikti i vazhdueshëm dhe kriza në thellim e urisë kanë lënë miliona njerëz në rrezik. “Për më shumë se dy vjet rresht, çdo vijë e frontit […]",
+      "published": "Wed, 12 Nov 2025 04:00:32 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847685",
-      "fetched_at": "2025-11-12T03:11:08.596504",
-      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, shprehu keqardhje për sulmin vdekjeprurës vetëvrasës me bombë në Pakistan dhe një shpërthim me makinë-bombë në Indi , tha një zëdhënës të martën. G..."
+      "guid": "https://www.balkanweb.com/?p=2847693",
+      "fetched_at": "2025-11-12T04:22:26.891992",
+      "ai_summary": "Organizata e Kombeve të Bashkuara për Gratë bëri thirrje të martën për veprime urgjente për të mbrojtur dhe për t’i dhënë përparësi grave dhe vajzave në Sudan , ku konflikti i vazhdueshëm dhe kriza në..."
     },
     {
-      "title": "Gjermania do të shpenzojë mbi 30 miliardë dollarë për veshje për ushtarët dhe automjete të blinduara",
-      "link": "https://www.balkanweb.com/gjermania-do-te-shpenzoje-mbi-30-miliarde-dollare-per-veshje-per-ushtaret-dhe-automjete-te-blinduara/",
-      "description": "Gjermania planifikon të ndajë gati 19 miliardë euro (22.16 miliardë dollarë) për të pajisur ushtarët me rroba dhe pajisje të reja personale në vitet e ardhshme, përveç 7.5 miliardë eurove për automjete të reja të blinduara me rrota, thuhet në një dokument të ministrisë së financave. Qeveria e justifikon projektin e veshjeve të trupave të […]",
-      "published": "Wed, 12 Nov 2025 02:30:19 +0000",
+      "title": "Kryeministri indian e quan shpërthimin vdekjeprurës në Delhi ‘konspiracion’",
+      "link": "https://www.balkanweb.com/kryeministri-indian-e-quan-shperthimin-vdekjeprures-ne-delhi-konspiracion/",
+      "description": "Kryeministri indian Narendra Modi e quajti të martën një shpërthim vdekjeprurës të një makine në zemër të kryeqytetit një “konspiracion”, duke u zotuar se ata që janë përgjegjës do të përballen me drejtësinë. Policia ende nuk ka dhënë detaje të sakta se çfarë e shkaktoi incidentin e së hënës pranë Fortesës historike të Kuqe, një […]",
+      "published": "Wed, 12 Nov 2025 04:00:15 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847703",
-      "fetched_at": "2025-11-12T03:11:08.596680",
-      "ai_summary": "Gjermania planifikon të ndajë gati 19 miliardë euro (22.16 miliardë dollarë) për të pajisur ushtarët me rroba dhe pajisje të reja personale në vitet e ardhshme, përveç 7.5 miliardë eurove për automjet..."
+      "guid": "https://www.balkanweb.com/?p=2847690",
+      "fetched_at": "2025-11-12T04:22:26.892141",
+      "ai_summary": "Kryeministri indian Narendra Modi e quajti të martën një shpërthim vdekjeprurës të një makine në zemër të kryeqytetit një “konspiracion”, duke u zotuar se ata që janë përgjegjës do të përballen me dre..."
     },
     {
-      "title": "Rusia sulmon Odessën me dronë, dëmton objektet e energjisë dhe transportit",
-      "link": "https://www.balkanweb.com/rusia-sulmon-odessen-me-drone-demton-objektet-e-energjise-dhe-transportit/",
-      "description": "Forcat ruse sulmuan përsëri Ukrainën jugore me dronë sulmues natën e 11 nëntorit. Sulmet e reja kishin në shënjestër objektet e infrastrukturës në rajonin e Odesës. U raportua se objektet civile të energjisë dhe transportit u dëmtuan si pasojë e sulmit. Zjarret shpërthyen në disa objekte energjetike dhe u shuan nga ekipet e shpëtimit. Dëme […]",
-      "published": "Wed, 12 Nov 2025 02:00:23 +0000",
+      "title": "Macron paralajmëron se çdo aneksim i planifikuar i Bregut Perëndimor është një ‘vijë e kuqe’",
+      "link": "https://www.balkanweb.com/macron-paralajmeron-se-cdo-aneksim-i-planifikuar-i-bregut-perendimor-eshte-nje-vije-e-kuqe/",
+      "description": "Presidenti francez Emmanuel Macron paralajmëroi të martën se çdo plan izraelit për aneksim në Bregun Perëndimor do të ishte një “vijë e kuqe” dhe do të provokonte një reagim evropian. Ai foli ndërsa presidenti palestinez Mahmoud Abbas vizitoi Parisin një muaj pas fillimit të një armëpushimi të brishtë midis Hamasit dhe Izraelit, pas dy vitesh […]",
+      "published": "Wed, 12 Nov 2025 03:30:13 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847678",
-      "fetched_at": "2025-11-12T03:11:08.596765",
-      "ai_summary": "Forcat ruse sulmuan përsëri Ukrainën jugore me dronë sulmues natën e 11 nëntorit. Sulmet e reja kishin në shënjestër objektet e infrastrukturës në rajonin e Odesës. U raportua se objektet civile të en..."
-    },
-    {
-      "title": "NASA “parashikon” cunamet nga hapësira me ndihmën e Inteligjencës Artificiale. Sistemi inovativ mund të shpëtojë jetë",
-      "link": "https://www.balkanweb.com/nasa-parashikon-cunamet-nga-hapesira-me-ndihmen-e-inteligjences-artificiale-sistemi-inovativ-mund-te-shpetoje-jete/",
-      "description": "Cunamet mbërrijnë në brigje në mënyrë të fshehtë, shpesh me pak paralajmërim. Megjithatë, një program premtues i NASA-s përdor një metodë të zgjuar për të zbuluar shqetësimet e oqeanit ndërsa ato ndodhin , duke u dhënë zonave në zonën e rrezikut kohë të mjaftueshme për të reaguar. Sistemi i inteligjencës artificiale Guardian përdor sinjalin nga […]",
-      "published": "Wed, 12 Nov 2025 01:30:25 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847700",
-      "fetched_at": "2025-11-12T03:11:08.596842",
-      "ai_summary": "Cunamet mbërrijnë në brigje në mënyrë të fshehtë, shpesh me pak paralajmërim. Megjithatë, një program premtues i NASA-s përdor një metodë të zgjuar për të zbuluar shqetësimet e oqeanit ndërsa ato ndod..."
+      "guid": "https://www.balkanweb.com/?p=2847706",
+      "fetched_at": "2025-11-12T04:22:26.892236",
+      "ai_summary": "Presidenti francez Emmanuel Macron paralajmëroi të martën se çdo plan izraelit për aneksim në Bregun Perëndimor do të ishte një “vijë e kuqe” dhe do të provokonte një reagim evropian. Ai foli ndërsa p..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
