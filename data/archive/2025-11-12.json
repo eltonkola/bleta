@@ -1,6 +1,6 @@
 {
   "date": "2025-11-12",
-  "timestamp": "2025-11-12T04:22:32.344231",
+  "timestamp": "2025-11-12T06:28:52.699925",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,98 @@
   },
   "articles": [
     {
-      "title": "OKB paralajmëron se gati 11 milionë gra dhe vajza në Sudan përballen me pasiguri akute ushqimore",
-      "link": "https://www.balkanweb.com/okb-paralajmeron-se-gati-11-milione-gra-dhe-vajza-ne-sudan-perballen-me-pasiguri-akute-ushqimore/",
-      "description": "Organizata e Kombeve të Bashkuara për Gratë bëri thirrje të martën për veprime urgjente për të mbrojtur dhe për t’i dhënë përparësi grave dhe vajzave në Sudan , ku konflikti i vazhdueshëm dhe kriza në thellim e urisë kanë lënë miliona njerëz në rrezik. “Për më shumë se dy vjet rresht, çdo vijë e frontit […]",
-      "published": "Wed, 12 Nov 2025 04:00:32 +0000",
+      "title": "9-mujori 2025, tkurrja e lindjeve përhapet në gjithë vendin, rënie vjetore 4.6 %",
+      "link": "https://www.balkanweb.com/9-mujori-2025-tkurrja-e-lindjeve-perhapet-ne-gjithe-vendin-renie-vjetore-4-6/",
+      "description": "Shtesa natyrore e popullsisë u përmirësua në tremujorin e tretë të vitit 2025, falë rënies së numrit të vdekjeve, por lindjet vijojnë të pakësohen. Të dhënat e fundit të INSTAT tregojnë se Shqipëria po përballet me një rënie të vazhdueshme të lindjeve, e cila nuk kufizohet më vetëm në zonat e thella apo rurale, por […]",
+      "published": "Wed, 12 Nov 2025 06:22:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847693",
-      "fetched_at": "2025-11-12T04:22:26.891992",
-      "ai_summary": "Organizata e Kombeve të Bashkuara për Gratë bëri thirrje të martën për veprime urgjente për të mbrojtur dhe për t’i dhënë përparësi grave dhe vajzave në Sudan , ku konflikti i vazhdueshëm dhe kriza në..."
+      "guid": "https://www.balkanweb.com/?p=2847569",
+      "fetched_at": "2025-11-12T06:28:47.547039",
+      "ai_summary": "Shtesa natyrore e popullsisë u përmirësua në tremujorin e tretë të vitit 2025, falë rënies së numrit të vdekjeve, por lindjet vijojnë të pakësohen. Të dhënat e fundit të INSTAT tregojnë se Shqipëria p..."
     },
     {
-      "title": "Kryeministri indian e quan shpërthimin vdekjeprurës në Delhi ‘konspiracion’",
-      "link": "https://www.balkanweb.com/kryeministri-indian-e-quan-shperthimin-vdekjeprures-ne-delhi-konspiracion/",
-      "description": "Kryeministri indian Narendra Modi e quajti të martën një shpërthim vdekjeprurës të një makine në zemër të kryeqytetit një “konspiracion”, duke u zotuar se ata që janë përgjegjës do të përballen me drejtësinë. Policia ende nuk ka dhënë detaje të sakta se çfarë e shkaktoi incidentin e së hënës pranë Fortesës historike të Kuqe, një […]",
-      "published": "Wed, 12 Nov 2025 04:00:15 +0000",
+      "title": "“Duke marrë në vështrim gjithë firmatarët e Aktit të Pavarësisë dhe duke njohur edhe kontributin e tyre deri më atë kohë, duket qartë se Gurakuqi…”/ Refleksionet e studiueses dhe gjuhëtares së njohur",
+      "link": "https://www.balkanweb.com/duke-marre-ne-veshtrim-gjithe-firmataret-e-aktit-te-pavaresise-dhe-duke-njohur-edhe-kontributin-e-tyre-deri-me-ate-kohe-duket-qarte-se-gurakuqi-refleksionet-e-studiueses-d/",
+      "description": "Nga Ledi Shamku Jemi në vigjilje të 28 nëntorit. Vigjiljet e kremteve shpesh bëhen shkak që disa pyetje të thjeshta – e pikërisht se të thjeshta edhe të qenësishme – të dalin vetiu me ngulm në qendër të vëmendjes e të lypin përgjigje. Edhe 28 nëntori ka kohë që zgjon të tilla pyetje; njëra syresh […]",
+      "published": "Wed, 12 Nov 2025 06:16:39 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847690",
-      "fetched_at": "2025-11-12T04:22:26.892141",
-      "ai_summary": "Kryeministri indian Narendra Modi e quajti të martën një shpërthim vdekjeprurës të një makine në zemër të kryeqytetit një “konspiracion”, duke u zotuar se ata që janë përgjegjës do të përballen me dre..."
+      "guid": "https://www.balkanweb.com/?p=2847565",
+      "fetched_at": "2025-11-12T06:28:47.547268",
+      "ai_summary": "Nga Ledi Shamku Jemi në vigjilje të 28 nëntorit. Vigjiljet e kremteve shpesh bëhen shkak që disa pyetje të thjeshta – e pikërisht se të thjeshta edhe të qenësishme – të dalin vetiu me ngulm në qendër ..."
     },
     {
-      "title": "Macron paralajmëron se çdo aneksim i planifikuar i Bregut Perëndimor është një ‘vijë e kuqe’",
-      "link": "https://www.balkanweb.com/macron-paralajmeron-se-cdo-aneksim-i-planifikuar-i-bregut-perendimor-eshte-nje-vije-e-kuqe/",
-      "description": "Presidenti francez Emmanuel Macron paralajmëroi të martën se çdo plan izraelit për aneksim në Bregun Perëndimor do të ishte një “vijë e kuqe” dhe do të provokonte një reagim evropian. Ai foli ndërsa presidenti palestinez Mahmoud Abbas vizitoi Parisin një muaj pas fillimit të një armëpushimi të brishtë midis Hamasit dhe Izraelit, pas dy vitesh […]",
-      "published": "Wed, 12 Nov 2025 03:30:13 +0000",
+      "title": "Parashikimi i motit për sot, 12 nëntor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-12-nentor-2025/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet me kthjellime dhe vranësira të pakta kalimtare. Era do të fryjë me drejtim veriperëndim – verilindje me shpejtësi mesatare 7 m/s, ndërsa përgjatë vijës bregdetare e zonave luginore era fiton shpejtësi 10 m/s. Valëzimi në detet Adriatik dhe Jon do […]",
+      "published": "Wed, 12 Nov 2025 06:07:33 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2847706",
-      "fetched_at": "2025-11-12T04:22:26.892236",
-      "ai_summary": "Presidenti francez Emmanuel Macron paralajmëroi të martën se çdo plan izraelit për aneksim në Bregun Perëndimor do të ishte një “vijë e kuqe” dhe do të provokonte një reagim evropian. Ai foli ndërsa p..."
+      "guid": "https://www.balkanweb.com/?p=2847563",
+      "fetched_at": "2025-11-12T06:28:47.547737",
+      "ai_summary": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet me kthjellime dhe vranësira të pakta kalimtare. Era do të fryjë me drejtim veriperëndim – verilindje me ..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 12 nëntor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-12-nentor-2025/",
+      "description": "Dashi Do t’i mahnitësh të tjerët me shpejtësinë dhe efikasitetin tënd të jashtëzakonshëm. Do të lundrosh nëpër ujërat e pasigurta me shumë besim dhe shpejtësi. Të tjerët do të drejtohen tek ty për këshilla dhe udhëzime. Je në kulmin e lojës tënde. Demi Njerëzit e tjerë nuk janë lexues mendjesh. Ata nuk e dinë se […]",
+      "published": "Wed, 12 Nov 2025 06:05:07 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2847559",
+      "fetched_at": "2025-11-12T06:28:47.547814",
+      "ai_summary": "Dashi Do t’i mahnitësh të tjerët me shpejtësinë dhe efikasitetin tënd të jashtëzakonshëm. Do të lundrosh nëpër ujërat e pasigurta me shumë besim dhe shpejtësi. Të tjerët do të drejtohen tek ty për kës..."
+    },
+    {
+      "title": "Mbretëria e Bashkuar zbulon planin për të hequr gradualisht testimet tek kafshët",
+      "link": "https://www.balkanweb.com/mbreteria-e-bashkuar-zbulon-planin-per-te-hequr-gradualisht-testimet-tek-kafshet/",
+      "description": "Qeveria e Mbretërisë së Bashkuar njoftoi të martën një paketë prej 75 milionë paundësh (98 milionë dollarë) për të hequr gradualisht testimet tek kafshët në shkencë, duke i zëvendësuar ato me teknologji alternative të përparuara. I zbuluar nga Ministri i Shkencës Patrick Vallance , plani përcakton një plan veprimi për të zvogëluar dhe në fund […]",
+      "published": "Wed, 12 Nov 2025 05:00:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2847696",
+      "fetched_at": "2025-11-12T06:28:47.547889",
+      "ai_summary": "Qeveria e Mbretërisë së Bashkuar njoftoi të martën një paketë prej 75 milionë paundësh (98 milionë dollarë) për të hequr gradualisht testimet tek kafshët në shkencë, duke i zëvendësuar ato me teknolog..."
+    },
+    {
+      "title": "Qeveria e Mbretërisë së Bashkuar përballet me veprime ligjore për shkak të dështimit për të ndihmuar në evakuimin e familjeve nga Gaza",
+      "link": "https://www.balkanweb.com/qeveria-e-mbreterise-se-bashkuar-perballet-me-veprime-ligjore-per-shkak-te-deshtimit-per-te-ndihmuar-ne-evakuimin-e-familjeve-nga-gaza/",
+      "description": "Qeveria britanike po përballet me veprime ligjore për shkak të dështimit të saj të dyshuar për të ndihmuar në evakuimin e familjeve të bllokuara në Gaza, pavarësisht premtimit muaj më parë për ta bërë këtë, raportoi të martën The Guardian . Dy baballarë në Mbretërinë e Bashkuar i kanë dhënë udhëzime firmës ligjore Leigh Day […]",
+      "published": "Wed, 12 Nov 2025 04:30:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2847709",
+      "fetched_at": "2025-11-12T06:28:47.547966",
+      "ai_summary": "Qeveria britanike po përballet me veprime ligjore për shkak të dështimit të saj të dyshuar për të ndihmuar në evakuimin e familjeve të bllokuara në Gaza, pavarësisht premtimit muaj më parë për ta bërë..."
+    },
+    {
+      "title": "Sot vranët dhe me diell, temperaturat deri në 12 gradë",
+      "link": "https://telegrafi.com/sot-vranet-dhe-me-diell-temperaturat-deri-ne-12-grade-2674287134/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell vranësira të shpërndara.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 0 dhe 3 gradë Celsius, ndërsa ato maksimale nga 9 deri në 12 gradë.Era do të fryjë kryesisht nga jugperëndimi me shpejtësi 1-5m/s. /Telegrafi/",
+      "published": "Wed, 12 Nov 2025 06:06:48 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sot-vranet-dhe-me-diell-temperaturat-deri-ne-12-grade-2674287134/",
+      "fetched_at": "2025-11-12T06:28:50.057188",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot me diell vranësira të shpërndara.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 0 dhe 3 gradë Celsius, ndërsa at..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 7,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi"
   ]
 }
