@@ -1,6 +1,6 @@
 {
   "date": "2025-11-13",
-  "timestamp": "2025-11-13T03:13:57.708816",
+  "timestamp": "2025-11-13T04:24:21.231538",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,96 +9,44 @@
   },
   "articles": [
     {
-      "title": "Gjermania vendos oficerë policie të paarmatosur në territoret palestineze",
-      "link": "https://www.balkanweb.com/gjermania-vendos-oficere-policie-te-paarmatosur-ne-territoret-palestineze/",
-      "description": "Gjermania ka vendosur disa oficerë policie të paarmatosur në territoret palestineze për të ndihmuar në stabilizimin e situatës dhe për të forcuar më tej forcat lokale të sigurisë civile, raportuan mediat lokale të mërkurën. “Një forcë policore funksionale është e domosdoshme për paqen e qëndrueshme në Lindjen e Mesme”, tha Ministri i Brendshëm Alexander Dobrindt […]",
-      "published": "Thu, 13 Nov 2025 03:00:03 +0000",
+      "title": "Mbreti Felipe i Spanjës bën vizitë shtetërore në Kinë, 18 vjet pas të atit",
+      "link": "https://www.balkanweb.com/mbreti-felipe-i-spanjes-ben-vizite-shteterore-ne-kine-18-vjet-pas-te-atit/",
+      "description": "Mbreti spanjoll Felipe VI u prit në mënyrë mbretërore nga udhëheqësi kinez Xi Jinping të mërkurën në Pekin, vizita e parë shtetërore e monarkut në vend që kur babai i tij abdikoi nga froni në vitin 2014. Ish-mbreti në mërgim, Juan Carlos, ishte mbreti i parë spanjoll që bëri një vizitë shtetërore në Kinë, në […]",
+      "published": "Thu, 13 Nov 2025 04:00:09 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848554",
-      "fetched_at": "2025-11-13T03:13:52.449916",
-      "ai_summary": "Gjermania ka vendosur disa oficerë policie të paarmatosur në territoret palestineze për të ndihmuar në stabilizimin e situatës dhe për të forcuar më tej forcat lokale të sigurisë civile, raportuan med..."
+      "guid": "https://www.balkanweb.com/?p=2848557",
+      "fetched_at": "2025-11-13T04:24:16.069741",
+      "ai_summary": "Mbreti spanjoll Felipe VI u prit në mënyrë mbretërore nga udhëheqësi kinez Xi Jinping të mërkurën në Pekin, vizita e parë shtetërore e monarkut në vend që kur babai i tij abdikoi nga froni në vitin 20..."
     },
     {
-      "title": "Rubio: Askush në G7 nuk e ngriti çështjen e Venezuelës",
-      "link": "https://www.balkanweb.com/rubio-askush-ne-g7-nuk-e-ngriti-ceshtjen-e-venezueles/",
-      "description": "Sekretari i Shtetit i SHBA-së, Marco Rubio, tha të mërkurën se asnjë nga vendet e G7-ës nuk e ngriti çështjen e Venezuelës gjatë samitit të tyre në Kanada. “Askush nuk foli për këtë”, u tha Rubio gazetarëve pas bisedimeve dy-ditore në Ontario. Ai gjithashtu e mohoi, duke e quajtur “të rreme”, një raport të CNN-së […]",
-      "published": "Thu, 13 Nov 2025 02:45:57 +0000",
+      "title": "Me një shumicë të ngushtë, Dhoma e Përfaqësuesve miratoi fundin e mbylljes më të gjatë të qeverisë në historinë e SHBA-së",
+      "link": "https://www.balkanweb.com/me-nje-shumice-te-ngushte-dhoma-e-perfaqesuesve-miratoi-fundin-e-mbylljes-me-te-gjate-te-qeverise-ne-historine-e-shba-se/",
+      "description": "Dhoma e Përfaqësuesve e Shteteve të Bashkuara ka miratuar me një diferencë të ngushtë legjislacionin që hap rrugën për t’i dhënë fund mbylljes më të gjatë të qeverisë federale në histori (43 ditë). Projektligji, i cili tashmë është miratuar në Senat, siguron fonde të përkohshme deri më 30 janar. Pas javësh debatesh politike dhe paralize […]",
+      "published": "Thu, 13 Nov 2025 03:45:31 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848593",
-      "fetched_at": "2025-11-13T03:13:52.450110",
-      "ai_summary": "Sekretari i Shtetit i SHBA-së, Marco Rubio, tha të mërkurën se asnjë nga vendet e G7-ës nuk e ngriti çështjen e Venezuelës gjatë samitit të tyre në Kanada. “Askush nuk foli për këtë”, u tha Rubio gaze..."
+      "guid": "https://www.balkanweb.com/?p=2848590",
+      "fetched_at": "2025-11-13T04:24:16.069892",
+      "ai_summary": "Dhoma e Përfaqësuesve e Shteteve të Bashkuara ka miratuar me një diferencë të ngushtë legjislacionin që hap rrugën për t’i dhënë fund mbylljes më të gjatë të qeverisë federale në histori (43 ditë). Pr..."
     },
     {
-      "title": "Pesë luftëtarë të Shtetit Islamik të vrarë, 19 të tjerë të kapur në operacionet në Siri",
-      "link": "https://www.balkanweb.com/pese-luftetare-te-shtetit-islamik-te-vrare-19-te-tjere-te-kapur-ne-operacionet-ne-siri/",
-      "description": "Komanda Qendrore e SHBA-së (CENTCOM) njoftoi se forcat e saj morën pjesë në më shumë se 22 operacione kundër Shtetit Islamik (ISIS) në Siri , gjatë të cilave u vranë pesë luftëtarë të organizatës xhihadiste dhe u kapën 19 të tjerë. Operacionet u zhvilluan nga 1 tetori deri më 6 nëntor, thuhet në deklaratën e […]",
-      "published": "Thu, 13 Nov 2025 02:30:35 +0000",
+      "title": "Numri i të vdekurve nga tajfuni Fung-wong në Filipine rritet në 27",
+      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-tajfuni-fung-wong-ne-filipine-rritet-ne-27/",
+      "description": "Numri i të vdekurve nga tajfuni Fung-wong në Filipine u rrit në 27, ndërsa stuhia i afrohet Tajvanit, raportuan mediat lokale të mërkurën. Vdekje u raportuan në 10 provinca, por shumica e vdekjeve u regjistruan në Rajonin Administrativ të Kordilerës, sipas medias lokale Inquirer. Dy persona rezultojnë të zhdukur, ndërsa të paktën 36 të tjerë […]",
+      "published": "Thu, 13 Nov 2025 03:30:06 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848573",
-      "fetched_at": "2025-11-13T03:13:52.450212",
-      "ai_summary": "Komanda Qendrore e SHBA-së (CENTCOM) njoftoi se forcat e saj morën pjesë në më shumë se 22 operacione kundër Shtetit Islamik (ISIS) në Siri , gjatë të cilave u vranë pesë luftëtarë të organizatës xhih..."
-    },
-    {
-      "title": "Izraeli thirret nga OKB-ja për të shpjeguar torturat ndaj të burgosurve palestinezë",
-      "link": "https://www.balkanweb.com/izraeli-thirret-nga-okb-ja-per-te-shpjeguar-torturat-ndaj-te-burgosurve-palestineze/",
-      "description": "Izraeli është thirrur në Komitetin e Kombeve të Bashkuara kundër Torturës për një sërë akuzash për torturë, trajtim çnjerëzor dhe degradues të të paraburgosurve palestinezë në vend, veçanërisht që nga 7 tetori 2023. “Komiteti është thellësisht i tronditur nga përshkrimet … e asaj që duket të jetë torturë dhe keqtrajtim sistematik dhe i përhapur i […]",
-      "published": "Thu, 13 Nov 2025 02:15:28 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848599",
-      "fetched_at": "2025-11-13T03:13:52.450288",
-      "ai_summary": "Izraeli është thirrur në Komitetin e Kombeve të Bashkuara kundër Torturës për një sërë akuzash për torturë, trajtim çnjerëzor dhe degradues të të paraburgosurve palestinezë në vend, veçanërisht që nga..."
-    },
-    {
-      "title": "Kanadaja dhe BE riafirmojnë bashkëpunimin për Ukrainën, Gazën dhe lidhjet e mbrojtjes",
-      "link": "https://www.balkanweb.com/kanadaja-dhe-be-riafirmojne-bashkepunimin-per-ukrainen-gazen-dhe-lidhjet-e-mbrojtjes/",
-      "description": "Kanadaja dhe BE-ja riafirmuan të mërkurën angazhimin e tyre për thellimin e bashkëpunimit në mbrojtje, tregti dhe politikë të jashtme, si dhe përsëritën mbështetjen për Ukrainën dhe përpjekjet për paqe në Gaza, sipas një deklarate të përbashkët. Ministrja e Jashtme kanadeze Anita Anand dhe shefja e politikës së jashtme të BE-së Kaja Kallas bashkëkryesuan takimin […]",
-      "published": "Thu, 13 Nov 2025 02:00:00 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848549",
-      "fetched_at": "2025-11-13T03:13:52.450371",
-      "ai_summary": "Kanadaja dhe BE-ja riafirmuan të mërkurën angazhimin e tyre për thellimin e bashkëpunimit në mbrojtje, tregti dhe politikë të jashtme, si dhe përsëritën mbështetjen për Ukrainën dhe përpjekjet për paq..."
-    },
-    {
-      "title": "Prerja e monedhave njëcentëshe është ndaluar në Shtetet e Bashkuara",
-      "link": "https://www.balkanweb.com/prerja-e-monedhave-njecenteshe-eshte-ndaluar-ne-shtetet-e-bashkuara/",
-      "description": "Shtetet e Bashkuara kanë ndaluar së lëshuari monedha një centëshe, më shumë se 200 vjet pasi filloi prodhimi i tyre. Monedhat e fundit prej qindarkash u prodhuan në fabrikën e monedhave Moneda në Filadelfia. Monedhat një centëshe janë prerë që nga viti 1793. Monedha e fundit që u tërhoq nga qarkullimi në Shtetet e Bashkuara […]",
-      "published": "Thu, 13 Nov 2025 01:45:10 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848596",
-      "fetched_at": "2025-11-13T03:13:52.450443",
-      "ai_summary": "Shtetet e Bashkuara kanë ndaluar së lëshuari monedha një centëshe, më shumë se 200 vjet pasi filloi prodhimi i tyre. Monedhat e fundit prej qindarkash u prodhuan në fabrikën e monedhave Moneda në Fila..."
-    },
-    {
-      "title": "Gjykata e Gabonit dënon ish-zonjën e parë dhe djalin e presidentit me 20 vjet burg",
-      "link": "https://www.balkanweb.com/gjykata-e-gabonit-denon-ish-zonjen-e-pare-dhe-djalin-e-presidentit-me-20-vjet-burg/",
-      "description": "Ish-zonja e parë e Gabonit dhe djali i saj u dënuan në mungesë nga një gjykatë e posaçme penale me 20 vjet burg pas një gjyqi dy-ditor në Libreville. Sylvia Bongo dhe Noureddin Bongo Valentin u dënuan për fshehje dhe përvetësim të fondeve publike, pastrim parash, shoqatë kriminale dhe falsifikim. Gjykata i dënoi dyshen të […]",
-      "published": "Thu, 13 Nov 2025 01:30:37 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2848570",
-      "fetched_at": "2025-11-13T03:13:52.450515",
-      "ai_summary": "Ish-zonja e parë e Gabonit dhe djali i saj u dënuan në mungesë nga një gjykatë e posaçme penale me 20 vjet burg pas një gjyqi dy-ditor në Libreville. Sylvia Bongo dhe Noureddin Bongo Valentin u dënuan..."
+      "guid": "https://www.balkanweb.com/?p=2848577",
+      "fetched_at": "2025-11-13T04:24:16.069983",
+      "ai_summary": "Numri i të vdekurve nga tajfuni Fung-wong në Filipine u rrit në 27, ndërsa stuhia i afrohet Tajvanit, raportuan mediat lokale të mërkurën. Vdekje u raportuan në 10 provinca, por shumica e vdekjeve u r..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
