@@ -1,6 +1,6 @@
 {
   "date": "2025-11-19",
-  "timestamp": "2025-11-19T03:10:48.072139",
+  "timestamp": "2025-11-19T04:22:42.923281",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,84 +9,32 @@
   },
   "articles": [
     {
-      "title": "Princi i Kurorës: Arabia Saudite do të investojë 1 trilion dollarë në SHBA",
-      "link": "https://www.balkanweb.com/princi-i-kurores-arabia-saudite-do-te-investoje-1-trilion-dollare-ne-shba/",
-      "description": "Princi i Kurorës Saudite, Mohammed bin Salman, tha të martën se vendi i tij do të rrisë investimet në SHBA nga 600 miliardë dollarë në gati 1 trilion dollarë. “Unë besoj, z. President, se sot dhe nesër mund të njoftojmë se do ta rrisim atë shumë prej 600 miliardë dollarësh në pothuajse 1 trilion dollarë […]",
-      "published": "Wed, 19 Nov 2025 03:00:15 +0000",
+      "title": "Të paktën 13 të vdekur pas sulmit izraelit pranë Sidonit, Liban",
+      "link": "https://www.balkanweb.com/te-pakten-13-te-vdekur-pas-sulmit-izraelit-prane-sidonit-liban/",
+      "description": "Të paktën 13 persona u vranë dhe disa të tjerë u plagosën në një sulm izraelit pranë Sidonit, njoftoi sonte Ministria e Shëndetësisë libaneze . Anëtarët e Hamasit u vunë në shënjestër. Ushtria izraelite (IDF) konfirmoi sulmin pranë Sidonit, duke specifikuar se shënjestra e sulmit ishin anëtarët e Hamasit që vepronin në kampin e refugjatëve […]",
+      "published": "Wed, 19 Nov 2025 04:00:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2852799",
-      "fetched_at": "2025-11-19T03:10:42.720166",
-      "ai_summary": "Princi i Kurorës Saudite, Mohammed bin Salman, tha të martën se vendi i tij do të rrisë investimet në SHBA nga 600 miliardë dollarë në gati 1 trilion dollarë. “Unë besoj, z. President, se sot dhe nesë..."
+      "guid": "https://www.balkanweb.com/?p=2852803",
+      "fetched_at": "2025-11-19T04:22:37.809162",
+      "ai_summary": "Të paktën 13 persona u vranë dhe disa të tjerë u plagosën në një sulm izraelit pranë Sidonit, njoftoi sonte Ministria e Shëndetësisë libaneze . Anëtarët e Hamasit u vunë në shënjestër. Ushtria izraeli..."
     },
     {
-      "title": "Nëntë të vdekur në sulmin xhihadist në Nigeri, përfshirë gjeneral brigade",
-      "link": "https://www.balkanweb.com/nente-te-vdekur-ne-sulmin-xhihadist-ne-nigeri-perfshire-gjeneral-brigade/",
-      "description": "Presidenti nigerian Bola Tinubu konfirmoi të martën në mbrëmje vrasjen e një gjenerali brigade nga xhihadistët në verilindje të vendit, duke përshëndetur sakrificën e tij dhe atë të ushtarëve të tjerë të vrarë në sulmet e fundit. “Si kreu i forcave të armatosura, ndiej hidhërim të thellë për vdekjen tragjike të ushtarëve dhe oficerëve tanë […]",
-      "published": "Wed, 19 Nov 2025 02:45:53 +0000",
+      "title": "Sanchez: Spanja po përgatit një paketë ndihme prej 615 milionë eurosh për Ukrainën",
+      "link": "https://www.balkanweb.com/sanchez-spanja-po-pergatit-nje-pakete-ndihme-prej-615-milione-eurosh-per-ukrainen/",
+      "description": "Spanja do t’i ndajë Ukrainës një paketë ndihme me vlerë 615 milionë euro brenda një muaji. Kryeministri spanjoll Pedro Sanchez e bëri këtë deklaratë në një konferencë të përbashkët për shtyp me presidentin ukrainas Volodymyr Zelensky në Madrid. Sanchez tha se kjo paketë do të përfshijë kryesisht armatime me vlerë 300 milionë euro. Sipas tij, […]",
+      "published": "Wed, 19 Nov 2025 03:30:38 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2852846",
-      "fetched_at": "2025-11-19T03:10:42.720321",
-      "ai_summary": "Presidenti nigerian Bola Tinubu konfirmoi të martën në mbrëmje vrasjen e një gjenerali brigade nga xhihadistët në verilindje të vendit, duke përshëndetur sakrificën e tij dhe atë të ushtarëve të tjerë..."
-    },
-    {
-      "title": "Ndërtimi i aeroportit të ri të Xhorxhias do të kushtojë 1.25 miliardë dollarë",
-      "link": "https://www.balkanweb.com/ndertimi-i-aeroportit-te-ri-te-xhorxhias-do-te-kushtoje-1-25-miliarde-dollare/",
-      "description": "Gjeorgjia po fillon ndërtimin e Aeroportit të ri Ndërkombëtar të Tbilisit, një projekt prej 1.25 miliardë dollarësh që do të përfundojë në vitin 2031. Kjo u njoftua nga Ministrja e Ekonomisë dhe Zhvillimit të Qëndrueshëm të vendit, Mariam Kvrivishvili. Ministri deklaroi se Aeroporti i ri Ndërkombëtar i Tbilisit është me rëndësi strategjike për zhvillimin sinkron […]",
-      "published": "Wed, 19 Nov 2025 02:30:12 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2852836",
-      "fetched_at": "2025-11-19T03:10:42.720494",
-      "ai_summary": "Gjeorgjia po fillon ndërtimin e Aeroportit të ri Ndërkombëtar të Tbilisit, një projekt prej 1.25 miliardë dollarësh që do të përfundojë në vitin 2031. Kjo u njoftua nga Ministrja e Ekonomisë dhe Zhvil..."
-    },
-    {
-      "title": "Maduro paralajmëron se ndërhyrja e SHBA-së në Venezuelë do të ishte ‘fund politik’ për Trumpin",
-      "link": "https://www.balkanweb.com/maduro-paralajmeron-se-nderhyrja-e-shba-se-ne-venezuele-do-te-ishte-fund-politik-per-trumpin/",
-      "description": "Presidenti i Venezuelës paralajmëroi se çdo ndërhyrje ushtarake amerikane në vendin e tij do të ishte “fundi politik” i udhëheqjes së homologut të tij amerikan Donald Trump . Në një paraqitje televizive të hënën, Nicolas Maduro pretendoi se qarqet rreth Trump po “provokojnë” një veprim të armatosur që, sipas tij, do ta çonte Trumpin “në […]",
-      "published": "Wed, 19 Nov 2025 02:00:34 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2852793",
-      "fetched_at": "2025-11-19T03:10:42.720615",
-      "ai_summary": "Presidenti i Venezuelës paralajmëroi se çdo ndërhyrje ushtarake amerikane në vendin e tij do të ishte “fundi politik” i udhëheqjes së homologut të tij amerikan Donald Trump . Në një paraqitje televizi..."
-    },
-    {
-      "title": "Kili, pesë turistë humbën jetën nga stuhia e borës në Patagoni",
-      "link": "https://www.balkanweb.com/kili-pese-turiste-humben-jeten-nga-stuhia-e-bores-ne-patagoni/",
-      "description": "Pesë turistë humbën jetën kur një stuhi dëbore goditi Parkun Kombëtar Torres del Paine të Kilit në rajonin e Patagonisë , thanë autoritetet lokale të martën. Zëdhënësi i presidencës në rajonin Magallanes, José Antonio Ruiz, tha se pesë persona u vranë: dy meksikanë, dy gjermanë dhe një grua britanike. Katër persona të tjerë që ishin […]",
-      "published": "Wed, 19 Nov 2025 02:00:33 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2852796",
-      "fetched_at": "2025-11-19T03:10:42.720721",
-      "ai_summary": "Pesë turistë humbën jetën kur një stuhi dëbore goditi Parkun Kombëtar Torres del Paine të Kilit në rajonin e Patagonisë , thanë autoritetet lokale të martën. Zëdhënësi i presidencës në rajonin Magalla..."
-    },
-    {
-      "title": "SHBA-të dhe Rusia zhvillojnë bisedime për shkëmbimin e të burgosurve",
-      "link": "https://www.balkanweb.com/shba-te-dhe-rusia-zhvillojne-bisedime-per-shkembimin-e-te-burgosurve/",
-      "description": "Po diskutohet mundësia e një shkëmbimi tjetër të të burgosurve midis Rusisë dhe Shteteve të Bashkuara. Kjo është deklaruar nga përfaqësuesi special i Presidentit rus, Kirill Dmitriyev. “Kam zhvilluar takime me disa zyrtarë amerikanë dhe anëtarë të ekipit të Presidentit Donald Trump për disa çështje me natyrë humanitare, siç është një shkëmbim i mundshëm i […]",
-      "published": "Wed, 19 Nov 2025 01:30:28 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2852819",
-      "fetched_at": "2025-11-19T03:10:42.720817",
-      "ai_summary": "Po diskutohet mundësia e një shkëmbimi tjetër të të burgosurve midis Rusisë dhe Shteteve të Bashkuara. Kjo është deklaruar nga përfaqësuesi special i Presidentit rus, Kirill Dmitriyev. “Kam zhvilluar ..."
+      "guid": "https://www.balkanweb.com/?p=2852832",
+      "fetched_at": "2025-11-19T04:22:37.809320",
+      "ai_summary": "Spanja do t’i ndajë Ukrainës një paketë ndihme me vlerë 615 milionë euro brenda një muaji. Kryeministri spanjoll Pedro Sanchez e bëri këtë deklaratë në një konferencë të përbashkët për shtyp me presid..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
