@@ -1,6 +1,6 @@
 {
   "date": "2025-11-20",
-  "timestamp": "2025-11-20T03:08:40.284932",
+  "timestamp": "2025-11-20T04:21:01.535951",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,84 +9,32 @@
   },
   "articles": [
     {
-      "title": "Zyra humanitare e OKB-së paralajmëron se situata në Gaza mbetet ‘jashtëzakonisht e rëndë’",
-      "link": "https://www.balkanweb.com/zyra-humanitare-e-okb-se-paralajmeron-se-situata-ne-gaza-mbetet-jashtezakonisht-e-rende/",
-      "description": "Zyra humanitare e OKB-së paralajmëroi të mërkurën se situata në Rripin e Gazës mbetet “jashtëzakonisht e rëndë”, pavarësisht përpjekjeve të vazhdueshme të OKB-së dhe partnerëve të saj për të arritur tek civilët në të gjithë territorin ku është në fuqi një armëpushim pas dy vitesh lufte izraelite. Në një deklaratë, Zyra për Koordinimin e Çështjeve […]",
-      "published": "Thu, 20 Nov 2025 03:00:40 +0000",
+      "title": "Merz: Sistemet e raketave me rreze të gjatë veprimi do t’i vihen në dispozicion Ukrainës",
+      "link": "https://www.balkanweb.com/merz-sistemet-e-raketave-me-rreze-te-gjate-veprimi-do-ti-vihen-ne-dispozicion-ukraines/",
+      "description": "Kancelari gjerman Friedrich Merz konfirmoi të mërkurën se sistemet e raketave me rreze të gjatë veprimi do t’i vihen në dispozicion Ukrainës , megjithëse nuk pranoi të jepte detaje rreth sasive ose afateve kohore. “Për muaj të tërë, ne kemi punuar intensivisht me qeverinë ukrainase për të zbatuar projekte për zjarr me rreze të gjatë […]",
+      "published": "Thu, 20 Nov 2025 04:00:49 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2853695",
-      "fetched_at": "2025-11-20T03:08:35.058549",
-      "ai_summary": "Zyra humanitare e OKB-së paralajmëroi të mërkurën se situata në Rripin e Gazës mbetet “jashtëzakonisht e rëndë”, pavarësisht përpjekjeve të vazhdueshme të OKB-së dhe partnerëve të saj për të arritur t..."
+      "guid": "https://www.balkanweb.com/?p=2853698",
+      "fetched_at": "2025-11-20T04:20:56.515046",
+      "ai_summary": "Kancelari gjerman Friedrich Merz konfirmoi të mërkurën se sistemet e raketave me rreze të gjatë veprimi do t’i vihen në dispozicion Ukrainës , megjithëse nuk pranoi të jepte detaje rreth sasive ose af..."
     },
     {
-      "title": "Arrestohet organizatori i vrasjes së kryetarit të bashkisë së Uruapan në Meksikë",
-      "link": "https://www.balkanweb.com/arrestohet-organizatori-i-vrasjes-se-kryetarit-te-bashkise-se-uruapan-ne-meksike/",
-      "description": "Autoritetet meksikane njoftuan të mërkurën arrestimin e njërit prej organizatorëve të dyshuar pas vrasjes së një kryetari bashkie në fillim të këtij muaji, e cila shkaktoi protesta antiqeveritare dhe çoi në një përforcim të forcave federale në shtetin ku u krye. Carlos Manzo, kryetari 40-vjeçar i Uruapan, i cili kishte shpallur “luftë” ndaj karteleve aktivitetet […]",
-      "published": "Thu, 20 Nov 2025 02:50:01 +0000",
+      "title": "Muzeu i Luvrit do të shtojë 100 kamera të jashtme deri në vitin 2026",
+      "link": "https://www.balkanweb.com/muzeu-i-luvrit-do-te-shtoje-100-kamera-te-jashtme-deri-ne-vitin-2026/",
+      "description": "Muzeu i Luvrit në Francë do të instalojë 100 kamera të jashtme deri në fund të vitit 2026, si pjesë e masave për të forcuar sigurinë pas grabitjes spektakolare të muajit të kaluar, tha drejtoresha të mërkurën. Laurence Des Cars tha gjithashtu në një seancë dëgjimore në Asamblenë Kombëtare se lidhjet me policinë e Parisit […]",
+      "published": "Thu, 20 Nov 2025 03:30:38 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2853739",
-      "fetched_at": "2025-11-20T03:08:35.058698",
-      "ai_summary": "Autoritetet meksikane njoftuan të mërkurën arrestimin e njërit prej organizatorëve të dyshuar pas vrasjes së një kryetari bashkie në fillim të këtij muaji, e cila shkaktoi protesta antiqeveritare dhe ..."
-    },
-    {
-      "title": "Australi/ Meta njofton heqjen e përdoruesve nën 16 vjeç nga Facebook dhe Instagram",
-      "link": "https://www.balkanweb.com/australi-meta-njofton-heqjen-e-perdoruesve-nen-16-vjec-nga-facebook-dhe-instagram/",
-      "description": "Australianët nën 16 vjeç do të hiqen nga Facebook dhe Instagram më 4 dhjetor, tha gjigandi i teknologjisë Meta, ndërsa Canberra përgatitet të zbatojë ligje gjithëpërfshirëse që ndalojnë adoleshentët nga mediat sociale. Australia do t’i detyrojë platformat e mediave sociale, duke përfshirë Facebook, Instagram dhe TikTok, që nga 10 dhjetori të heqin përdoruesit nën moshën […]",
-      "published": "Thu, 20 Nov 2025 02:30:39 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2853711",
-      "fetched_at": "2025-11-20T03:08:35.058797",
-      "ai_summary": "Australianët nën 16 vjeç do të hiqen nga Facebook dhe Instagram më 4 dhjetor, tha gjigandi i teknologjisë Meta, ndërsa Canberra përgatitet të zbatojë ligje gjithëpërfshirëse që ndalojnë adoleshentët n..."
-    },
-    {
-      "title": "Trump: Jam i bindur se mund t’i jap fund konfliktit mes Rusisë dhe Ukrainës",
-      "link": "https://www.balkanweb.com/trump-jam-i-bindur-se-mund-ti-jap-fund-konfliktit-mes-rusise-dhe-ukraines/",
-      "description": "Presidenti i SHBA-së, Donald Trump, ka përsëritur besimin e tij se lufta Rusi-Ukrainë do të përfundojë, por në të njëjtën kohë ka shprehur zhgënjim me qasjen e Moskës ndaj këtij procesi. Ai e bëri këtë deklaratë gjatë një fjalimi në forumin e biznesit SHBA-Arabia Saudite në Uashington. “Kam zgjidhur tetë luftëra dhe më ka mbetur […]",
-      "published": "Thu, 20 Nov 2025 02:00:46 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2853686",
-      "fetched_at": "2025-11-20T03:08:35.059124",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka përsëritur besimin e tij se lufta Rusi-Ukrainë do të përfundojë, por në të njëjtën kohë ka shprehur zhgënjim me qasjen e Moskës ndaj këtij procesi. Ai e bëri kët..."
-    },
-    {
-      "title": "BE synon trajnimin e 3,000 oficerëve të policisë në Gaza",
-      "link": "https://www.balkanweb.com/be-synon-trajnimin-e-3000-oficereve-te-policise-ne-gaza/",
-      "description": "Bashkimi Evropian dëshiron të trajnojë deri në 3,000 oficerë policie palestinezë në Rripin e Gazës sipas një skeme të ngjashme me atë që tashmë zbatohet në Bregun Perëndimor , tha të mërkurën një zyrtar i BE-së. Do të ketë një “nevojë për të stabilizuar Gazën me një forcë të rëndësishme policore” nëse armëpushimi aktual vazhdon, […]",
-      "published": "Thu, 20 Nov 2025 01:45:01 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2853732",
-      "fetched_at": "2025-11-20T03:08:35.059243",
-      "ai_summary": "Bashkimi Evropian dëshiron të trajnojë deri në 3,000 oficerë policie palestinezë në Rripin e Gazës sipas një skeme të ngjashme me atë që tashmë zbatohet në Bregun Perëndimor , tha të mërkurën një zyrt..."
-    },
-    {
-      "title": "Zjarr në një hotel 27-katësh në Turqi, disa të plagosur",
-      "link": "https://www.balkanweb.com/zjarr-ne-nje-hotel-27-katesh-ne-turqi-disa-te-plagosur/",
-      "description": "Një zjarr ka shpërthyer në një hotel në Stamboll të Turqisë. Sipas raportimeve, incidenti ndodhi në një hotel 27-katësh në Sultangazi. Zjarrfikësit, policia dhe personeli i ambulancës u dërguan në vendngjarje. Turistët vendas dhe të huaj u evakuuan nga ndërtesa. Katër persona pësuan thithje tymi gjatë incidentit dhe u shtruan në spital. Zjarri u shua […]",
-      "published": "Thu, 20 Nov 2025 01:30:16 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2853708",
-      "fetched_at": "2025-11-20T03:08:35.059373",
-      "ai_summary": "Një zjarr ka shpërthyer në një hotel në Stamboll të Turqisë. Sipas raportimeve, incidenti ndodhi në një hotel 27-katësh në Sultangazi. Zjarrfikësit, policia dhe personeli i ambulancës u dërguan në ven..."
+      "guid": "https://www.balkanweb.com/?p=2853714",
+      "fetched_at": "2025-11-20T04:20:56.515214",
+      "ai_summary": "Muzeu i Luvrit në Francë do të instalojë 100 kamera të jashtme deri në fund të vitit 2026, si pjesë e masave për të forcuar sigurinë pas grabitjes spektakolare të muajit të kaluar, tha drejtoresha të ..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
