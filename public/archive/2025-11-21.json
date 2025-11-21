@@ -1,6 +1,6 @@
 {
   "date": "2025-11-21",
-  "timestamp": "2025-11-21T03:09:37.898321",
+  "timestamp": "2025-11-21T04:22:15.051170",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,85 +9,33 @@
   },
   "articles": [
     {
-      "title": "41 të vdekur nga përmbytjet dhe rrëshqitjet e dheut në Vietnam",
-      "link": "https://www.balkanweb.com/41-te-vdekur-nga-permbytjet-dhe-rreshqitjet-e-dheut-ne-vietnam/",
-      "description": "Ekipet e shpëtimit po përpiqeshin të arrinin te njerëzit e bllokuar në shtëpi ose në çati në Vietnamin qendror dhe jugor të enjten, ndërsa qeveria tha se 41 persona kishin vdekur në raundin e fundit të përmbytjeve dhe rrëshqitjeve të dheut, pas javëve të tëra me shira të rrëmbyeshëm. Qytetet bregdetare duke filluar nga Hoi […]",
-      "published": "Fri, 21 Nov 2025 03:00:52 +0000",
+      "title": "Pikë për pikë, plani për t’i dhënë fund luftës: Rusia mban Krimenë dhe Donbasin, Ukraina mbetet jashtë NATO-s, zgjedhje pas 100 ditësh”",
+      "link": "https://www.balkanweb.com/pike-per-pike-plani-per-ti-dhene-fund-luftes-rusia-mban-krimene-dhe-donbasin-ukraina-mbetet-jashte-nato-s-zgjedhje-pas-100-ditesh/",
+      "description": "Detajet e planit të SHBA-së për t’i dhënë fund luftës në Ukrainë , të zbuluara nga Nexta, duke cituar deputetin ukrainas Oleksiy Khondcharenko, po dalin në dritë një nga një. Sipas dokumenteve të zbuluara, plani për një armëpushim në Ukrainë përfshin një sërë marrëveshjesh strategjike për të rivendosur paqen në rajon. Marrëveshja prek si çështjet […]",
+      "published": "Fri, 21 Nov 2025 04:00:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2854611",
-      "fetched_at": "2025-11-21T03:09:32.659669",
-      "ai_summary": "Ekipet e shpëtimit po përpiqeshin të arrinin te njerëzit e bllokuar në shtëpi ose në çati në Vietnamin qendror dhe jugor të enjten, ndërsa qeveria tha se 41 persona kishin vdekur në raundin e fundit t..."
+      "guid": "https://www.balkanweb.com/?p=2854619",
+      "fetched_at": "2025-11-21T04:22:09.978965",
+      "ai_summary": "Detajet e planit të SHBA-së për t’i dhënë fund luftës në Ukrainë , të zbuluara nga Nexta, duke cituar deputetin ukrainas Oleksiy Khondcharenko, po dalin në dritë një nga një. Sipas dokumenteve të zbul..."
     },
     {
-      "title": "Shtëpia e Bardhë: Plani amerikan i paqes “i mirë” si për Rusinë ashtu edhe për Ukrainën",
-      "link": "https://www.balkanweb.com/shtepia-e-bardhe-plani-amerikan-i-paqes-i-mire-si-per-rusine-ashtu-edhe-per-ukrainen/",
-      "description": "Shtëpia e Bardhë tha të enjten se një plan paqeje i SHBA-së i mbështetur nga Presidenti Donald Trump, i cili po negociohet me Rusinë dhe Ukrainën, është “i mirë” për të dyja palët, duke hedhur poshtë shqetësimet se ai pasqyron shumë nga kërkesat e Moskës. I dërguari special i Trump, Steve Witkoff, dhe Sekretari i […]",
-      "published": "Fri, 21 Nov 2025 02:45:13 +0000",
+      "title": "Peruja zgjat gjendjen e jashtëzakonshme për të luftuar krimin në Lima",
+      "link": "https://www.balkanweb.com/peruja-zgjat-gjendjen-e-jashtezakonshme-per-te-luftuar-krimin-ne-lima/",
+      "description": "Qeveria peruane ka zgjatur për 30 ditë “gjendjen e jashtëzakonshme” të shpallur tetorin e kaluar në kryeqytetin Lima dhe provincën fqinje Callao, raportuan mediat lokale të enjten. Masa, e cila do të hyjë në fuqi nga 21 nëntori, synon të forcojë veprimet kundër krimit dhe formave të tjera të dhunës që ndikojnë në rendin e […]",
+      "published": "Fri, 21 Nov 2025 03:30:13 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2854646",
-      "fetched_at": "2025-11-21T03:09:32.659812",
-      "ai_summary": "Shtëpia e Bardhë tha të enjten se një plan paqeje i SHBA-së i mbështetur nga Presidenti Donald Trump, i cili po negociohet me Rusinë dhe Ukrainën, është “i mirë” për të dyja palët, duke hedhur poshtë ..."
-    },
-    {
-      "title": "Ushqimet ultra të përpunuara kërcënojnë shëndetin global, paralajmërojnë ekspertët",
-      "link": "https://www.balkanweb.com/ushqimet-ultra-te-perpunuara-kercenojne-shendetin-global-paralajmerojne-ekspertet/",
-      "description": "Tre studime të mëdha të botuara në The Lancet zbulojnë se ushqimet ultra të përpunuara po zëvendësojnë dietat tradicionale në mbarë botën , duke ulur cilësinë e të ushqyerit dhe duke kontribuar në rritjen e sëmundjeve kronike. Ekspertët u bëjnë thirrje qeverive dhe shoqërive të ndërmarrin veprime të menjëhershme. Ushqimet ultra të përpunuara janë produkte […]",
-      "published": "Fri, 21 Nov 2025 02:30:59 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2854628",
-      "fetched_at": "2025-11-21T03:09:32.659924",
-      "ai_summary": "Tre studime të mëdha të botuara në The Lancet zbulojnë se ushqimet ultra të përpunuara po zëvendësojnë dietat tradicionale në mbarë botën , duke ulur cilësinë e të ushqyerit dhe duke kontribuar në rri..."
-    },
-    {
-      "title": "Kallas: Çdo marrëveshje paqeje për Ukrainën duhet të ketë mbështetjen e Kievit dhe Bashkimit Evropian",
-      "link": "https://www.balkanweb.com/kallas-cdo-marreveshje-paqeje-per-ukrainen-duhet-te-kete-mbeshtetjen-e-kievit-dhe-bashkimit-evropian/",
-      "description": "Kushtet e çdo marrëveshjeje paqeje midis Rusisë dhe Ukrainës duhet të marrin mbështetjen si të Kievit ashtu edhe të Bashkimit Evropian. Kjo u deklarua nga Përfaqësuesja e Lartë e Bashkimit Evropian (BE) për Punët e Jashtme dhe Zëvendëspresidentja e Komisionit Evropian, Kaya Kallas, në përfundim të takimit të ministrave të jashtëm të vendeve të BE-së […]",
-      "published": "Fri, 21 Nov 2025 02:00:59 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2854602",
-      "fetched_at": "2025-11-21T03:09:32.660002",
-      "ai_summary": "Kushtet e çdo marrëveshjeje paqeje midis Rusisë dhe Ukrainës duhet të marrin mbështetjen si të Kievit ashtu edhe të Bashkimit Evropian. Kjo u deklarua nga Përfaqësuesja e Lartë e Bashkimit Evropian (B..."
-    },
-    {
-      "title": "Gjermania paralajmëron kundër lënies mënjanë të Ukrainës dhe Evropës në bisedimet e paqes me Rusinë",
-      "link": "https://www.balkanweb.com/gjermania-paralajmeron-kunder-lenies-menjane-te-ukraines-dhe-evropes-ne-bisedimet-e-paqes-me-rusine/",
-      "description": "Ministri i Jashtëm gjerman Johann Wadephul paralajmëroi të enjten se çdo bisedë paqeje me Rusinë duhet të përfshijë si Kievin ashtu edhe vendet evropiane, dhe duhet të paraprihet nga një armëpushim për t’u dhënë negociatave një shans të drejtë. Duke folur me gazetarët në Bruksel, Wadephul shprehu shqetësim në lidhje me raportet se Presidenti i […]",
-      "published": "Fri, 21 Nov 2025 01:30:54 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2854625",
-      "fetched_at": "2025-11-21T03:09:32.660078",
-      "ai_summary": "Ministri i Jashtëm gjerman Johann Wadephul paralajmëroi të enjten se çdo bisedë paqeje me Rusinë duhet të përfshijë si Kievin ashtu edhe vendet evropiane, dhe duhet të paraprihet nga një armëpushim pë..."
-    },
-    {
-      "title": "Nëna zgjohet për çdo zë, babai nuk dëgjon as të qarat? Studimi zgjidh më në fund dilemën",
-      "link": "https://telegrafi.com/nena-zgjohet-per-cdo-ze-babai-nuk-degjon-as-te-qarat-studimi-zgjidh-me-ne-fund-dilemen/",
-      "description": "Nënat zgjohen natën deri tri herë më shpesh për shkak të bebeve, ndërsa baballarët shumë shpesh as nuk e dëgjojnë kur fëmija qan. Ekspertët më në fund kanë zbuluar misterin se si është e mundur kjoËshtë natë, bebja qan, dhe nëna e rraskapitur ngrihet nga shtrati për ta marrë fëmijën, për ta ngushëlluar, ushqyer dhe për ta vënë përsëri në gjumë... Babai vazhdon të flejë thellë pranë saj, duket pothuajse i izoluar nga tingulli i të qarit, sikur ndodhet në një dhomë tjetër. Në mëngjes, kur nëna ankohet se ka fjetur keq sepse bebja është zgjuar gjatë gjithë natës, babai, disi i habitur, e bind se nuk ka dëgjuar asgjë.Si është e mundur? A janë vërtet burrat më pak të prirur, “të programuar” që të mos e dëgjojnë të qarën e bebes gjatë natës? A është kjo thjesht një dallim biologjik në ndjeshmërinë e veshit apo bëhet fjalë për diçka tjetër?Një studim më në fund është marrë me këtë temë, dhe ja çfarë ka zbuluar, transmeton Telegrafi.Burrat zgjohen pak më rrallë se gratë nga tingujt e qetë të të qarit, por po aq shpesh sa gratë nga tingujt më të fortë. Studiuesit gjetën një ndryshim shumë të vogël në nivelet më të ulëta të decibelëve (33 deri në 44 decibel, pak më i lartë se pëshpërima), ku gratë kishin 14% më shumë gjasa se burrat të zgjohen si nga tingujt e të qarit, ashtu edhe nga alarmet në këto nivele. Megjithatë, në nivele më të larta të decibelëve (që është, me shumë gjasë, niveli i vërtetë i të qarit të një bebeje në monitor ose në të njëjtën dhomë), nuk u vërejtën dallime në zgjim midis burrave dhe grave.Nënat zgjohen për beben rreth tre herë më shpesh se baballarët. Ky studim zbuloi se nënat zgjohen më shpesh se baballarët në shumicën e familjeve. Vetëm rreth 23% e familjeve deklaruan se nënat dhe baballarët zgjohen njësoj shpesh. Vetëm 1% e familjeve deklaruan se babai zgjohet më shpesh se nëna. Ky rezultat mbështet kërkimet e mëparshme, të cilat në mënyrë të qëndrueshme tregojnë se gratë zgjohen me bebet më shpesh se burrat, edhe kur përjashtohet periudha e gjidhënies apo fakti nëse të dy prindërit punojnë jashtë shtëpisë, shkruan Psychology Today.Dallimi shumë i vogël në ndjeshmërinë e dëgjimit mes burrave dhe grave nuk mund të shpjegojë ndryshimet e mëdha në faktin se nënat zgjohen më shpesh se baballarët. Duke marrë parasysh këtë ndryshim minimal në ndjeshmëri, shkencëtarët llogaritën se nënat do të duhej të zgjoheshin në rreth 57% të rasteve të zgjimeve të bebes. Megjithatë, studimi zbuloi se ato zgjohen në 76% të rasteve, gjë që sugjeron se faktorë të tjerë, përveç ndjeshmërisë së dëgjimit, mund të jenë në lojë. Pse nënat zgjohen më shpesh?Nëse çështja nuk lidhet me faktin që baballarët “nuk e dëgjojnë” të qarën, pse gratë zgjohen me bebet shumë më shpesh? Gjidhënia, logjikisht, është një faktor i rëndësishëm, por kërkimet tregojnë se as ajo nuk i shpjegon plotësisht këto dallime. Dallimet në lejen prindërore dhe pritjet shoqërore ka shumë gjasa të luajnë rol. Interesante është se ky studim është kryer në Danimarkë, e cila ka politikë neutralë gjinore për lejen e prindërve (24 javë për secilin prind) dhe qëndrime më “të barabarta” ndaj roleve gjinore.Kjo nënkupton se në vende të tjera, ku është më e zakontë ideja se gruaja duhet të kujdeset për fëmijën, këto dallime në zgjimet gjatë natës janë edhe më të theksuara.Pse është e rëndësishme që edhe baballarët të jenë të përfshirë?Studimi tregoi se nënat vazhdojnë të kryejnë pjesën më të madhe të zgjimeve gjatë natës, edhe në shoqëri si ajo daneze. Megjithatë, një numër i madh hulumtimesh tregon se përfshirja më e madhe e baballarëve në kujdesin e natës për beben sjell përfitime të mëdha për tërë familjen. Së pari, dhe ndoshta më e rëndësishmja, sa më shumë që baballarët kujdesen natën për bebet, aq më rrallë ato zgjohen dhe kanë një gjumë më cilësor.Nuk është për t’u habitur që përfshirja më e madhe e baballarëve lidhet edhe me rezultate më të mira për nëna, përfshirë më pak pagjumësi, më shumë kënaqësi në vetvete dhe më shumë besim në lidhje me gjumin e fëmijës. Së fundi, në familjet ku kujdesi i natës për fëmijët ndahet më barabartë, baballarët raportojnë një lidhje më të fortë me bebet e tyre. /Telegrafi/",
-      "published": "Fri, 21 Nov 2025 01:25:34 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/nena-zgjohet-per-cdo-ze-babai-nuk-degjon-as-te-qarat-studimi-zgjidh-me-ne-fund-dilemen/",
-      "fetched_at": "2025-11-21T03:09:35.359872",
-      "ai_summary": "Nënat zgjohen natën deri tri herë më shpesh për shkak të bebeve, ndërsa baballarët shumë shpesh as nuk e dëgjojnë kur fëmija qan. Ekspertët më në fund kanë zbuluar misterin se si është e mundur kjoËsh..."
+      "guid": "https://www.balkanweb.com/?p=2854637",
+      "fetched_at": "2025-11-21T04:22:09.979112",
+      "ai_summary": "Qeveria peruane ka zgjatur për 30 ditë “gjendjen e jashtëzakonshme” të shpallur tetorin e kaluar në kryeqytetin Lima dhe provincën fqinje Callao, raportuan mediat lokale të enjten. Masa, e cila do të ..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 2,
   "sources": [
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
