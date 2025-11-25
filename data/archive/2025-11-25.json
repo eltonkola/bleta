@@ -1,6 +1,6 @@
 {
   "date": "2025-11-25",
-  "timestamp": "2025-11-25T03:13:54.125543",
+  "timestamp": "2025-11-25T04:25:25.320000",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,88 +9,88 @@
   },
   "articles": [
     {
-      "title": "Mbi 100,000 njerëz u vranë në luftën e Gazës, sipas institutit kërkimor",
-      "link": "https://www.balkanweb.com/mbi-100000-njerez-u-vrane-ne-luften-e-gazes-sipas-institutit-kerkimor/",
-      "description": "Numri i palestinezëve të vrarë në luftën e Gazës mund të jetë dukshëm më i lartë nga sa mendohej më parë, raportoi të hënën gazeta javore gjermane ZEIT . Sipas llogaritjeve nga një ekip kërkimor në Institutin prestigjioz Max Planck për Kërkime Demografike me seli në qytetin portual verilindor të Rostockut, të paktën 100,000 njerëz […]",
-      "published": "Tue, 25 Nov 2025 03:00:02 +0000",
+      "title": "Zelensky refuzon të udhëtojë për në Uashington këtë javë",
+      "link": "https://www.balkanweb.com/zelensky-refuzon-te-udhetoje-per-ne-uashington-kete-jave/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky ka refuzuar të udhëtojë për në Uashington këtë javë për të diskutuar një plan për zgjidhjen e luftës Rusi-Ukrainë me homologun e tij amerikan Donald Trump. Kjo u raportua nga deputeti i Radës Verkhovna Alexei Goncharenko në kanalin e tij në Telegram. Sipas tij, pasi bisedimet SHBA-Ukrainë në Gjenevë përfunduan më […]",
+      "published": "Tue, 25 Nov 2025 04:15:50 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857059",
-      "fetched_at": "2025-11-25T03:13:47.857606",
-      "ai_summary": "Numri i palestinezëve të vrarë në luftën e Gazës mund të jetë dukshëm më i lartë nga sa mendohej më parë, raportoi të hënën gazeta javore gjermane ZEIT . Sipas llogaritjeve nga një ekip kërkimor në In..."
+      "guid": "https://www.balkanweb.com/?p=2857095",
+      "fetched_at": "2025-11-25T04:25:19.584414",
+      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky ka refuzuar të udhëtojë për në Uashington këtë javë për të diskutuar një plan për zgjidhjen e luftës Rusi-Ukrainë me homologun e tij amerikan Donald Trump. Kjo u..."
     },
     {
-      "title": "Politico: Si i rekruton Moska ukrainasit për spiunazh, mijëra raste të tradhtisë së lartë",
-      "link": "https://www.balkanweb.com/politico-si-i-rekruton-moska-ukrainasit-per-spiunazh-mijera-raste-te-tradhtise-se-larte/",
-      "description": "Disa qindra hrivnia ( monedha kombëtare e Ukrainës ) , një reklamë për “para të lehta” në një kanal Telegram dhe një luftë që hyn në vitin e katërt: kjo është, sipas një raporti nga Politico , përzierja shpërthyese që i lejon Kremlinit të rekrutojë ukrainas për të spiunuar dhe bashkëpunuar me armikun. Në zemër […]",
-      "published": "Tue, 25 Nov 2025 02:45:41 +0000",
+      "title": "Malajzia do të ndalojë rrjetet sociale për fëmijët nën 16 vjeç vitin e ardhshëm",
+      "link": "https://www.balkanweb.com/malajzia-do-te-ndaloje-rrjetet-sociale-per-femijet-nen-16-vjec-vitin-e-ardhshem/",
+      "description": "Malajzia planifikon të ndalojë llogaritë në mediat sociale për personat nën 16 vjeç duke filluar nga viti 2026, duke iu bashkuar Australisë dhe një numri gjithnjë e në rritje vendesh që po shtyjnë përpara kufizime më të rrepta të moshës dixhitale për fëmijët. Ministri i Komunikacionit Fahmi Fadzil tha të dielën se Kabineti miratoi masën […]",
+      "published": "Tue, 25 Nov 2025 04:10:07 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857085",
-      "fetched_at": "2025-11-25T03:13:47.857747",
-      "ai_summary": "Disa qindra hrivnia ( monedha kombëtare e Ukrainës ) , një reklamë për “para të lehta” në një kanal Telegram dhe një luftë që hyn në vitin e katërt: kjo është, sipas një raporti nga Politico , përzier..."
+      "guid": "https://www.balkanweb.com/?p=2857117",
+      "fetched_at": "2025-11-25T04:25:19.584562",
+      "ai_summary": "Malajzia planifikon të ndalojë llogaritë në mediat sociale për personat nën 16 vjeç duke filluar nga viti 2026, duke iu bashkuar Australisë dhe një numri gjithnjë e në rritje vendesh që po shtyjnë për..."
     },
     {
-      "title": "Zelensky: Çështje të ndjeshme do të diskutohen me Trumpin",
-      "link": "https://www.balkanweb.com/zelensky-ceshtje-te-ndjeshme-do-te-diskutohen-me-trumpin/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky tha të hënën se një plan i propozuar paqeje që tani është duke u diskutuar me Shtetet e Bashkuara dhe Evropën ka përfshirë pikat “e sakta”, por çështjet e ndjeshme do të diskutohen me Presidentin e SHBA-së Donald Trump . “Deri tani, pas (bisedimeve në) Gjenevë, ka më pak pika, jo […]",
-      "published": "Tue, 25 Nov 2025 02:00:07 +0000",
+      "title": "Shefi i OBSH-së për Evropën kërkon veprim kundër tuberkulozit, thotë se boshllëqet në financim ‘nuk duhet të përcaktojnë kurrë fatin e miliona njerëzve’",
+      "link": "https://www.balkanweb.com/shefi-i-obsh-se-per-evropen-kerkon-veprim-kunder-tuberkulozit-thote-se-boshlleqet-ne-financim-nuk-duhet-te-percaktojne-kurre-fatin-e-miliona-njerezve/",
+      "description": "Drejtori i Organizatës Botërore të Shëndetësisë (OBSH) për Evropën, Hans Kluge, bëri thirrje të hënën për intensifikim të përpjekjeve globale për të eliminuar tuberkulozin (TB) , duke paralajmëruar se sëmundja vazhdon të vrasë një milion njerëz çdo vit dhe po nxitet nga pabarazitë sistemike dhe mungesa e fondeve kronike. Në një fjalim në Konferencën Botërore […]",
+      "published": "Tue, 25 Nov 2025 04:00:10 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857056",
-      "fetched_at": "2025-11-25T03:13:47.857839",
-      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky tha të hënën se një plan i propozuar paqeje që tani është duke u diskutuar me Shtetet e Bashkuara dhe Evropën ka përfshirë pikat “e sakta”, por çështjet e ndjesh..."
+      "guid": "https://www.balkanweb.com/?p=2857066",
+      "fetched_at": "2025-11-25T04:25:19.584645",
+      "ai_summary": "Drejtori i Organizatës Botërore të Shëndetësisë (OBSH) për Evropën, Hans Kluge, bëri thirrje të hënën për intensifikim të përpjekjeve globale për të eliminuar tuberkulozin (TB) , duke paralajmëruar se..."
     },
     {
-      "title": "Parlamenti Evropian do të mbajë debate të veçanta mbi planin e paqes për Ukrainën",
-      "link": "https://www.balkanweb.com/parlamenti-evropian-do-te-mbaje-debate-te-vecanta-mbi-planin-e-paqes-per-ukrainen/",
-      "description": "Parlamenti Evropian ka vendosur të zhvillojë një debat të posaçëm mbi planin e paqes të SHBA-së për Ukrainën, duke ndryshuar rendin e ditës për 26 dhjetor. Seancat plenare filluan sot në Strasburg. Byroja Evropiane e Raportit raporton se Presidentja e Parlamentit Evropian, Roberta Metsola, e bëri këtë njoftim në seancën plenare. Parlamenti Evropian do të […]",
-      "published": "Tue, 25 Nov 2025 01:30:12 +0000",
+      "title": "Ministria e Jashtme e Gjermanisë u bën thirrje qytetarëve të saj të mos udhëtojnë në Venezuelë",
+      "link": "https://www.balkanweb.com/ministria-e-jashtme-e-gjermanise-u-ben-thirrje-qytetareve-te-saj-te-mos-udhetojne-ne-venezuele/",
+      "description": "Ministria e Jashtme gjermane të hënën i këshilloi fuqimisht qytetarët e saj të mos udhëtojnë për në Venezuelë , duke përmendur përkeqësimin e situatës së sigurisë në Karaibe dhe një paralajmërim të kohëve të fundit nga Autoriteti i Aviacionit Civil të SHBA-së. Situata në vendin e Amerikës së Jugut është e tensionuar dhe mund të […]",
+      "published": "Tue, 25 Nov 2025 03:50:12 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857053",
-      "fetched_at": "2025-11-25T03:13:47.857923",
-      "ai_summary": "Parlamenti Evropian ka vendosur të zhvillojë një debat të posaçëm mbi planin e paqes të SHBA-së për Ukrainën, duke ndryshuar rendin e ditës për 26 dhjetor. Seancat plenare filluan sot në Strasburg. By..."
+      "guid": "https://www.balkanweb.com/?p=2857102",
+      "fetched_at": "2025-11-25T04:25:19.584728",
+      "ai_summary": "Ministria e Jashtme gjermane të hënën i këshilloi fuqimisht qytetarët e saj të mos udhëtojnë për në Venezuelë , duke përmendur përkeqësimin e situatës së sigurisë në Karaibe dhe një paralajmërim të ko..."
     },
     {
-      "title": "Një ide e çuditshme, por efektive: Ja si ndihmojnë pirunët plastikë në mbrojtjen e kopshtit",
-      "link": "https://telegrafi.com/nje-ide-e-cuditshme-por-efektive-ja-si-ndihmojne-pirunet-plastike-ne-mbrojtjen-e-kopshtit/",
-      "description": "Kushtet dimërore, përfshirë temperaturat e ulëta dhe ngricat, rrezikojnë bimët. Mbrojtja e bimëve kërkon përgatitje të duhur dhe në kohë të kopshtitMuajt e dimrit mund të jenë veçanërisht sfidues për kopshtin dhe bimët, ndaj atyre u nevojitet mbrojtje shtesë për të mbijetuar sigurt të ftohtin. Temperaturat e ulëta, ngricat dhe era mund t’i dëmtojnë edhe llojet më rezistente, prandaj përgatitja e kopshtit me kohë është thelbësore. Për këtë arsye, ekspertët kanë zbuluar një truk që mund të duket i çuditshëm, por që mund të jetë shumë i dobishëm për ata që kultivojnë perime.Mbrojtja e bimëve nga dëmtuesit është një nga aspektet më sfiduese të kopshtarisë, sepse është diçka që nuk mund ta kontrolloni plotësisht. Megjithatë, ekzistojnë mënyra për t’i larguar “vizitorët e padëshiruar” nga parcelat tuaja, dhe kjo metodë e thjeshtë përfshin përdorimin e pirunëve plastikë.Vendosja e pirunëve plastikë në tokën e kopshtit mund të ndihmojë në pengimin e dëmtuesve, përfshirë minjtë, ketrat, lepujt dhe dhelprat, që të hyjnë dhe të shkatërrojnë të mbjellat gjatë dimrit, shkruan Daily Express, përcjell Telegrafi. Sipas Ideal Home, ky mjet plastik krijon një barrierë fizike rreth bimëve, duke e bërë sipërfaqen të pakëndshme për disa dëmtues, të cilët më pas shmangin atë zonë. “Dëmtuesit e butë, si kërmijtë, i pengon sipërfaqja e mprehtë që krijohet kur pirunët ngulen në tokë. Që pirunët të jenë plotësisht efektivë kundër dëmtuesve të vegjël, duhet të vendosen dendur pranë njëri-tjetrit, duke krijuar një barrierë fizike të vështirë për t’u kaluar. Pirunët duhet të vendosen rreth 5 centimetra larg njëri-tjetrit dhe të përdoren për të rrethuar bimët veçanërisht të ndjeshme, si fidanët e rinj, të cilët kërmijtë mund t’i shkatërrojnë sapo t’i gjejnë”, shpjegon Lucy Bradley, eksperte për kopshte dhe sera në kompaninë Easy Garden Irrigation. /Telegrafi/",
-      "published": "Tue, 25 Nov 2025 01:58:36 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
+      "title": "Premtimi i Trump për t’i dhënë fund ‘menjëherë’ mbrojtjeve për somalezët e Minesotës shkakton frikë dhe pyetje ligjore",
+      "link": "https://www.balkanweb.com/premtimi-i-trump-per-ti-dhene-fund-menjehere-mbrojtjeve-per-somalezet-e-minesotes-shkakton-frike-dhe-pyetje-ligjore/",
+      "description": "Premtimi i Presidentit Donald Trump për të ndërprerë mbrojtjet e përkohshme ligjore për somalezët që jetojnë në Minesota po shkakton frikë në komunitetin e emigrantëve me rrënjë të thella të shtetit, së bashku me dyshime nëse Shtëpia e Bardhë ka autoritetin ligjor për të miratuar direktivën siç përshkruhet. Në një postim në Truth Social të […]",
+      "published": "Tue, 25 Nov 2025 03:45:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://telegrafi.com/nje-ide-e-cuditshme-por-efektive-ja-si-ndihmojne-pirunet-plastike-ne-mbrojtjen-e-kopshtit/",
-      "fetched_at": "2025-11-25T03:13:50.737542",
-      "ai_summary": "Kushtet dimërore, përfshirë temperaturat e ulëta dhe ngricat, rrezikojnë bimët. Mbrojtja e bimëve kërkon përgatitje të duhur dhe në kohë të kopshtitMuajt e dimrit mund të jenë veçanërisht sfidues për ..."
+      "guid": "https://www.balkanweb.com/?p=2857088",
+      "fetched_at": "2025-11-25T04:25:19.584834",
+      "ai_summary": "Premtimi i Presidentit Donald Trump për të ndërprerë mbrojtjet e përkohshme ligjore për somalezët që jetojnë në Minesota po shkakton frikë në komunitetin e emigrantëve me rrënjë të thella të shtetit, ..."
     },
     {
-      "title": "Transgjinorja Linda Rei lë përfundimisht shtëpinë e Big Brother VIP Kosova 4",
-      "link": "https://telegrafi.com/transgjinorja-linda-rei-le-me-deshire-shtepine-e-big-brother-vip-kosova-4/",
-      "description": "Banorja Linda Rei është tërhequr përfundimisht nga gara e Big Brother VIP Kosova 4.Këtë e ka konfirmuar edhe vet Vëllai i Madh, teksa zarfin para banorëve e lexoi Ibo Deli.Transgjinorja Linda Rei la shtëpinë sepse shprehu hapur pakënaqësinë në spektaklin ‘pime’ rreth mënyrës sesi produksioni e kishte trajtuar sëmundjen e saj - diabetin.Ajo tha se kishte kërkuar të shihte edhe psikologen, por një gjë e tillë i ishte mohuar brenda shtëpisë.Alaudini gjatë debatit me të në spektaklin e së hënës i mohoi akuzat dhe së bashku me produksionin bën ç’mos për ta bindur që ajo të qëndrojë, por mesa duket Linda nuk ka dashur të vazhdojë garën. /Telegrafi/",
-      "published": "Tue, 25 Nov 2025 01:40:49 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
+      "title": "Kancelari austriak: BE do të vazhdojë të ushtrojë presion mbi Rusinë",
+      "link": "https://www.balkanweb.com/kancelari-austriak-be-do-te-vazhdoje-te-ushtroje-presion-mbi-rusine/",
+      "description": "“Bashkimi Evropian do të vazhdojë të ushtrojë presion mbi Rusinë dhe të mbështesë Ukrainën, mes intensifikimit të përpjekjeve për paqe në ditët e fundit.” Kancelari austriak Christian Stocker e shkroi këtë në faqen e tij në Facebook . “Mirëpres të gjitha iniciativat që na sjellin më afër një armëpushimi dhe paqeje të qëndrueshme në Ukrainë. […]",
+      "published": "Tue, 25 Nov 2025 03:30:22 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://telegrafi.com/transgjinorja-linda-rei-le-me-deshire-shtepine-e-big-brother-vip-kosova-4/",
-      "fetched_at": "2025-11-25T03:13:50.738138",
-      "ai_summary": "Banorja Linda Rei është tërhequr përfundimisht nga gara e Big Brother VIP Kosova 4.Këtë e ka konfirmuar edhe vet Vëllai i Madh, teksa zarfin para banorëve e lexoi Ibo Deli.Transgjinorja Linda Rei la s..."
+      "guid": "https://www.balkanweb.com/?p=2857063",
+      "fetched_at": "2025-11-25T04:25:19.584913",
+      "ai_summary": "“Bashkimi Evropian do të vazhdojë të ushtrojë presion mbi Rusinë dhe të mbështesë Ukrainën, mes intensifikimit të përpjekjeve për paqe në ditët e fundit.” Kancelari austriak Christian Stocker e shkroi..."
     },
     {
-      "title": "Gërhitja e zhurmshme mund të korrigjohet me ushtrime për forcimin e muskujve të gjuhës dhe qiellzës",
-      "link": "https://telegrafi.com/gerhitja-e-zhurmshme-mund-te-flene-korrigjohet-me-ushtrime-per-forcimin-e-muskujve-te-gjuhes-dhe-qiellzes/",
-      "description": "Kjo terapi po rezulton një nga metodat më efektive për uljen e gërhitjes dhe apnesë së gjumit - ja si funksionon dhe kujt i ndihmonGërhitja është pasojë e ngushtimit të rrugëve të sipërme të frymëmarrjes gjatë gjumit, pra e qarkullimit të ajrit që shkakton dridhjen e indeve të qiellzës së butë, pjesës së pasme të gjuhës dhe murit të faringut. Partneri dhe familja nuk mund të flenë normalisht, të gjithë zgjohen të lodhur, ndërsa personi që gërhit shpesh e nis ditën me irritim të fytit, gojë të tharë dhe dhimbje koke.Çfarë është terapia miofunksionale?Gërhitja është nganjëherë shenjë e apnesë obstruktive të gjumit. Trajtimet konvencionale përfshijnë ndryshime të stilit të jetesës dhe pajisje dentare. Ekziston edhe terapia miofunksionale, e cila përfshin një grup ushtrimesh të krijuara për të forcuar muskujt e gjuhës, qiellzës, faqeve dhe faringut.Terapia miofunksionale synon të rrisë tonusin dhe qëndrueshmërinë e muskujve që mbajnë të hapura rrugët e sipërme të frymëmarrjes gjatë gjumit. Disa studime tregojnë se kjo terapi mund të ulë shpeshtinë dhe intensitetin e gërhitjes. Meta-analizat e vitit 2015 dhe 2021 konfirmojnë se ushtrimet kundër gërhitjes përmirësojnë tonusin e muskujve të faringut dhe reduktojnë gërhitjen, transmeton Telegrafi.Si aplikohen ushtrimet kundër gërhitjes?Ekzistojnë disa lloje ushtrimesh dhe efekti varet nga zbatimi i rregullt. Rekomandohet ushtrimi nga 15 deri në 30 minuta në ditë, për 8 deri në 12 javë.Ushtrimet për forcimin e muskujve të gjuhës përfshijnë shtyrjen e gjuhës përpara-prapa dhe mbajtjen për 5 deri në 10 sekonda. Rekomandohet edhe teknika e nxjerrjes së zgjatur të frymës, e cila përmirëson kontrollin e frymëmarrjes gjatë gjumit.Ekspertët këshillojnë gjithashtu të shtypni majën e gjuhës në qiellzë, pasi kjo përmirëson koordinimin midis gjuhës dhe qiellzës.Ekzistojnë edhe ushtrime për buzët dhe faqet, si p.sh. lëvizjet me thithje të ajrit përmes buzëve dhe tërheqja e ajrit, të cilat forcojnë muskujt përreth gojës. Nxirrni gjuhën jashtë dhe përpiquni të prekni mjekrën, hundën, faqen e majtë dhe të djathtë. Gëlltisni “në bosh” 10 herë me buzë të mbyllura. Me gojë të mbyllur, thithni fort përmes hundës, 5 herë rresht. Nxirrni gjuhën sa më shumë dhe merrni frymë thellë dhe me zë. Kujt mund t’i ndihmojnë këto ushtrime?Pas aplikimit të kësaj terapie është i mundur lehtësimi i simptomave në rastet me apne të lehtë deri të moderuar të gjumit. Ekspertët thonë se ushtrimet janë të dobishme te personat që gërhitin lehtë ose mesatarisht. Vërehet se ushtrimet nuk kanë efekt te personat obezë, të cilëve së pari u rekomandohet ulja e peshës e më pas ushtrimet. Në rastet e apnesë së rëndë obstruktive të gjumit, ushtrimet janë vetëm terapi ndihmëse dhe nuk mund të zëvendësojnë trajtimin kryesor.Gërhitja është më shumë se një bezdiMjekët theksojnë se gërhitja është më shumë se thjesht një shqetësim; apneja obstruktive mund të vështirësojë kontrollin e tensionit të lartë të gjakut, diabetit dhe aritmive. Prandaj, rekomandohet të kërkohet ndihmë profesionale nëse partneri vëren gërhitje të rëndë, pauza në frymëmarrje apo edhe mbytje gjatë gjumit. Këshillohet konsultë me mjekun edhe nëse zgjoheni me dhimbje koke, ndieni përgjumje të theksuar gjatë ditës, vëreni irritim të shtuar apo vështirësi në përqendrim dhe kujtesë.Për vlerësimin e gjendjes dhe zgjedhjen e trajtimit më të përshtatshëm mund të konsultoheni me stomatologë, logopedë, pulmologë ose terapeutë që trajtojnë çrregullimet orofaciale, pra problemet e muskujve të fytyrës, buzëve, gjuhës dhe nofullës, të cilat mund të shkaktojnë vështirësi në gëlltitje, frymëmarrje dhe shqiptim. /Telegrafi/",
-      "published": "Tue, 25 Nov 2025 00:51:54 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
+      "title": "Sulme masive ndaj infrastrukturës energjetike në Ukrainë dhe Krasnodar gjatë natës",
+      "link": "https://www.balkanweb.com/sulme-masive-ndaj-infrastruktures-energjetike-ne-ukraine-dhe-krasnodar-gjate-nates/",
+      "description": "Ministria ukrainase e Energjisë raportoi një “sulm masiv” nga forcat e armatosura ruse kundër infrastrukturës energjetike të vendit në orët e para të mëngjesit, pasi u shpall një alarm kombëtar për sulme ajrore me raketa dhe mjete ajrore pa pilot. “Për momentin, një sulm masiv i kombinuar nga armiku kundër infrastrukturës energjetike është duke u […]",
+      "published": "Tue, 25 Nov 2025 03:15:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://telegrafi.com/gerhitja-e-zhurmshme-mund-te-flene-korrigjohet-me-ushtrime-per-forcimin-e-muskujve-te-gjuhes-dhe-qiellzes/",
-      "fetched_at": "2025-11-25T03:13:50.738494",
-      "ai_summary": "Kjo terapi po rezulton një nga metodat më efektive për uljen e gërhitjes dhe apnesë së gjumit - ja si funksionon dhe kujt i ndihmonGërhitja është pasojë e ngushtimit të rrugëve të sipërme të frymëmarr..."
+      "guid": "https://www.balkanweb.com/?p=2857109",
+      "fetched_at": "2025-11-25T04:25:19.585003",
+      "ai_summary": "Ministria ukrainase e Energjisë raportoi një “sulm masiv” nga forcat e armatosura ruse kundër infrastrukturës energjetike të vendit në orët e para të mëngjesit, pasi u shpall një alarm kombëtar për su..."
     }
   ],
   "total_articles": 7,
@@ -99,8 +99,8 @@
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "Telegrafi",
-    "Telegrafi",
-    "Telegrafi"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
   ]
 }
