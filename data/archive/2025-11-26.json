@@ -1,6 +1,6 @@
 {
   "date": "2025-11-26",
-  "timestamp": "2025-11-26T03:13:54.717063",
+  "timestamp": "2025-11-26T04:25:42.724563",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,57 +9,44 @@
   },
   "articles": [
     {
-      "title": "Holanda do të përshpejtojë vendosjen e sistemeve anti-dronë Skyranger 30",
-      "link": "https://www.balkanweb.com/holanda-do-te-pershpejtoje-vendosjen-e-sistemeve-anti-drone-skyranger-30/",
-      "description": "Ministria Holandeze e Mbrojtjes ka njoftuar një rritje në shkallë të gjerë të aftësive të saj kundër dronëve dhe një zgjerim të shpejtë të porosive për sistemet e reja mobile kundërajrore Skyranger 30, të cilat do të formojnë bazën e sistemit të mbrojtjes ajrore të vendit. Kjo u tha në një deklaratë të publikuar në […]",
-      "published": "Wed, 26 Nov 2025 03:00:51 +0000",
+      "title": "Xhakarta ndalon mishin e maceve dhe qenve",
+      "link": "https://www.balkanweb.com/xhakarta-ndalon-mishin-e-maceve-dhe-qenve/",
+      "description": "Kryeqyteti i Indonezisë, Xhakarta, ka ndaluar shitjen dhe konsumimin e mishit të qenve, maces dhe lakuriqëve të natës për të parandaluar transmetimin e tërbimit, njoftoi të martën guvernatori i qytetit, në një fitore për mbrojtësit e të drejtave të kafshëve. “Kam nënshkruar rregulloren… e cila ndalon shitjen e kafshëve që transmetojnë tërbimin për qëllime ushqimore”, […]",
+      "published": "Wed, 26 Nov 2025 04:15:50 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857908",
-      "fetched_at": "2025-11-26T03:13:49.365972",
-      "ai_summary": "Ministria Holandeze e Mbrojtjes ka njoftuar një rritje në shkallë të gjerë të aftësive të saj kundër dronëve dhe një zgjerim të shpejtë të porosive për sistemet e reja mobile kundërajrore Skyranger 30..."
+      "guid": "https://www.balkanweb.com/?p=2857984",
+      "fetched_at": "2025-11-26T04:25:37.162862",
+      "ai_summary": "Kryeqyteti i Indonezisë, Xhakarta, ka ndaluar shitjen dhe konsumimin e mishit të qenve, maces dhe lakuriqëve të natës për të parandaluar transmetimin e tërbimit, njoftoi të martën guvernatori i qyteti..."
     },
     {
-      "title": "Zelensky: ‘Parimet’ e draftit të ri të SHBA-së për t’i dhënë fund luftës mund të çojnë në ‘marrëveshje më të thella’",
-      "link": "https://www.balkanweb.com/zelensky-parimet-e-draftit-te-ri-te-shba-se-per-ti-dhene-fund-luftes-mund-te-cojne-ne-marreveshje-me-te-thella/",
-      "description": "Presidenti ukrainas Volodymyr Zelensky tha të martën se “parimet” e një plani të rishikuar të SHBA-së për t’i dhënë fund luftës me Rusinë mund të çojnë në “marrëveshje më të thella” dhe se “shumë gjëra varen” tani nga Uashingtoni. “Parimet e këtij dokumenti mund të zgjerohen në marrëveshje më të thella”, tha Zelensky në fjalimin […]",
-      "published": "Wed, 26 Nov 2025 02:30:52 +0000",
+      "title": "Starmer: Plani i rënë dakord midis SHBA-së dhe Ukrainës nuk është përfundimtar",
+      "link": "https://www.balkanweb.com/starmer-plani-i-rene-dakord-midis-shba-se-dhe-ukraines-nuk-eshte-perfundimtar/",
+      "description": "SHBA-të dhe Ukraina kanë rënë dakord për një plan të përditësuar paqeje të diskutuar në bisedimet në Gjenevë, por ende nuk është një marrëveshje përfundimtare. Kryeministri britanik Keir Starmer e tha këtë gjatë fjalimit të tij në parlament. “Ky nuk është aspak një sërë propozimesh apo marrëveshjesh të reja”, theksoi ai. Starmer tha se puna […]",
+      "published": "Wed, 26 Nov 2025 04:00:13 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857941",
-      "fetched_at": "2025-11-26T03:13:49.366130",
-      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky tha të martën se “parimet” e një plani të rishikuar të SHBA-së për t’i dhënë fund luftës me Rusinë mund të çojnë në “marrëveshje më të thella” dhe se “shumë gjër..."
+      "guid": "https://www.balkanweb.com/?p=2857929",
+      "fetched_at": "2025-11-26T04:25:37.163019",
+      "ai_summary": "SHBA-të dhe Ukraina kanë rënë dakord për një plan të përditësuar paqeje të diskutuar në bisedimet në Gjenevë, por ende nuk është një marrëveshje përfundimtare. Kryeministri britanik Keir Starmer e tha..."
     },
     {
-      "title": "SHBA-të njoftojnë sanksione ndaj një zyrtari haitian, duke e akuzuar atë për mbështetje të bandave",
-      "link": "https://www.balkanweb.com/shba-te-njoftojne-sanksione-ndaj-nje-zyrtari-haitian-duke-e-akuzuar-ate-per-mbeshtetje-te-bandave/",
-      "description": "Departamenti Amerikan i Shtetit ka njoftuar sanksione kundër një zyrtari të qeverisë haitiane, duke e akuzuar atë për mbështetjen e bandave dhe pengimin e përpjekjeve kundër organizatave kriminale, pa e përmendur emrin e tij. Një deklaratë nga misioni diplomatik amerikan thotë se “po ndërmerren veprime për të vendosur kufizime vizash ndaj një zyrtari të qeverisë […]",
-      "published": "Wed, 26 Nov 2025 02:00:40 +0000",
+      "title": "Shtëpia e Bardhë mohon se Trump po mendon shkarkimin e drejtorit të FBI-së, Kash Patel",
+      "link": "https://www.balkanweb.com/shtepia-e-bardhe-mohon-se-trump-po-mendon-shkarkimin-e-drejtorit-te-fbi-se-kash-patel/",
+      "description": "Shtëpia e Bardhë mohoi të martën se Presidenti i SHBA-së Donald Trump po shqyrtonte shkarkimin e Kash Patel nga detyra e drejtorit të FBI-së, siç raportoi agjencia e lajmeve MS NOW. MS NOW, duke cituar tre persona të paidentifikuar me njohuri për situatën, tha në një raport online se Trump dhe ndihmësit e tij kryesorë […]",
+      "published": "Wed, 26 Nov 2025 03:30:17 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857972",
-      "fetched_at": "2025-11-26T03:13:49.366254",
-      "ai_summary": "Departamenti Amerikan i Shtetit ka njoftuar sanksione kundër një zyrtari të qeverisë haitiane, duke e akuzuar atë për mbështetjen e bandave dhe pengimin e përpjekjeve kundër organizatave kriminale, pa..."
-    },
-    {
-      "title": "“Superkërpudha” e rrezikshme fillon të përhapet në Evropë",
-      "link": "https://www.balkanweb.com/superkerpudha-e-rrezikshme-fillon-te-perhapet-ne-evrope/",
-      "description": "Kërpudha e rrezikshme “Trichophyton indotineae”, e cila është jashtëzakonisht rezistente ndaj trajtimit dhe tashmë është quajtur “super kërpudhë”, po përhapet në vendet evropiane. Sipas David Denning, një ekspert i sëmundjeve infektive në Universitetin e Mançesterit, ky lloj kërpudhe shkakton një skuqje të kuqe dhe kruajtëse që zakonisht shfaqet në ijë, kofshë dhe vithe. Artikulli vëren […]",
-      "published": "Wed, 26 Nov 2025 01:25:33 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2857962",
-      "fetched_at": "2025-11-26T03:13:49.366337",
-      "ai_summary": "Kërpudha e rrezikshme “Trichophyton indotineae”, e cila është jashtëzakonisht rezistente ndaj trajtimit dhe tashmë është quajtur “super kërpudhë”, po përhapet në vendet evropiane. Sipas David Denning,..."
+      "guid": "https://www.balkanweb.com/?p=2857944",
+      "fetched_at": "2025-11-26T04:25:37.163113",
+      "ai_summary": "Shtëpia e Bardhë mohoi të martën se Presidenti i SHBA-së Donald Trump po shqyrtonte shkarkimin e Kash Patel nga detyra e drejtorit të FBI-së, siç raportoi agjencia e lajmeve MS NOW. MS NOW, duke citua..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
