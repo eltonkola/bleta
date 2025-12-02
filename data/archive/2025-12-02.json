@@ -1,6 +1,6 @@
 {
   "date": "2025-12-02",
-  "timestamp": "2025-12-02T03:17:44.625859",
+  "timestamp": "2025-12-02T04:29:23.625361",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,83 +9,44 @@
   },
   "articles": [
     {
-      "title": "Berlin/ Banesa përfshihet nga flakët, humb jetën një fëmijë",
-      "link": "https://www.balkanweb.com/berlin-banesa-perfshihet-nga-flaket-humb-jeten-nje-femije/",
-      "description": "Një fëmijë vdiq nga plagët e marra pasi një zjarr në një shtëpi shpërtheu në një zonë të Berlinit lindor të hënën në mbrëmje, megjithëse zjarrfikësit arritën ta nxirrnin atë të gjallë nga ndërtesa që po digjej, thanë shërbimet e emergjencës. Fëmija mori ndihmën e parë nga një ekip ambulance, por ndërroi jetë në vendngjarje, […]",
-      "published": "Tue, 02 Dec 2025 03:15:04 +0000",
+      "title": "Kryeministri britanik: Kina përbën kërcënim për sigurinë tonë kombëtare",
+      "link": "https://www.balkanweb.com/kryeministri-britanik-kina-perben-kercenim-per-sigurine-tone-kombetare/",
+      "description": "Kryeministri britanik Keir Starmer e quajti Kinën një kërcënim për sigurinë kombëtare të vendit të tij, por në të njëjtën kohë tha se bashkëpunimi me Pekinin është i nevojshëm. Kryeministri, duke folur në banketin tradicional vjetor të organizuar nga Kryetari i Bashkisë së Londrës, tha: “Po, ky është një vend që përbën një kërcënim real […]",
+      "published": "Tue, 02 Dec 2025 04:15:55 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2861813",
-      "fetched_at": "2025-12-02T03:17:38.812757",
-      "ai_summary": "Një fëmijë vdiq nga plagët e marra pasi një zjarr në një shtëpi shpërtheu në një zonë të Berlinit lindor të hënën në mbrëmje, megjithëse zjarrfikësit arritën ta nxirrnin atë të gjallë nga ndërtesa që ..."
+      "guid": "https://www.balkanweb.com/?p=2861817",
+      "fetched_at": "2025-12-02T04:29:18.630002",
+      "ai_summary": "Kryeministri britanik Keir Starmer e quajti Kinën një kërcënim për sigurinë kombëtare të vendit të tij, por në të njëjtën kohë tha se bashkëpunimi me Pekinin është i nevojshëm. Kryeministri, duke folu..."
     },
     {
-      "title": "Macron diskuton me Trump zgjidhjen e konfliktit Rusi-Ukrainë",
-      "link": "https://www.balkanweb.com/macron-diskuton-me-trump-zgjidhjen-e-konfliktit-rusi-ukraine/",
-      "description": "Presidenti francez, Emmanuel Macron, zhvilloi një bisedë telefonike me presidentin e SHBA-së, Donald Trump. U vu re se gjatë bisedës ata diskutuan situatën aktuale me luftën Rusi-Ukrainë. Biseda pasoi bisedimet e Macron me udhëheqësin ukrainas Volodymyr Zelensky në Paris. Pallati Elysee tha se presidentët francezë dhe amerikanë diskutuan kushtet për një paqe të besueshme dhe […]",
-      "published": "Tue, 02 Dec 2025 03:00:05 +0000",
+      "title": "Mbështetësit e Maduros protestojnë në Karakas kundër kërcënimeve të SHBA-së: “Ne jemi një vend i lirë, nuk duam luftë”",
+      "link": "https://www.balkanweb.com/mbeshtetesit-e-maduros-protestojne-ne-karakas-kunder-kercenimeve-te-shba-se-ne-jemi-nje-vend-i-lire-nuk-duam-lufte/",
+      "description": "Qindra mbështetës të qeverisë Maduro demonstruan në rrugët e Karakasit, duke hedhur poshtë kërcënimet e Uashingtonit përpara takimit të Këshillit të Sigurisë Kombëtare të Presidentit të SHBA-së , Donald Trump, mbi Venezuelën . Me qëllimin e deklaruar për të luftuar kartelet e drogës, SHBA-të kanë vendosur një forcë të fortë ushtarake në Karaibe për muaj […]",
+      "published": "Tue, 02 Dec 2025 04:00:32 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2861767",
-      "fetched_at": "2025-12-02T03:17:38.813180",
-      "ai_summary": "Presidenti francez, Emmanuel Macron, zhvilloi një bisedë telefonike me presidentin e SHBA-së, Donald Trump. U vu re se gjatë bisedës ata diskutuan situatën aktuale me luftën Rusi-Ukrainë. Biseda pasoi..."
+      "guid": "https://www.balkanweb.com/?p=2861773",
+      "fetched_at": "2025-12-02T04:29:18.630150",
+      "ai_summary": "Qindra mbështetës të qeverisë Maduro demonstruan në rrugët e Karakasit, duke hedhur poshtë kërcënimet e Uashingtonit përpara takimit të Këshillit të Sigurisë Kombëtare të Presidentit të SHBA-së , Dona..."
     },
     {
-      "title": "Trump kërkoi që Maduro të largohet nga Venezuela deri më 28 nëntor",
-      "link": "https://www.balkanweb.com/trump-kerkoi-qe-maduro-te-largohet-nga-venezuela-deri-me-28-nentor/",
-      "description": "Presidenti i SHBA-së, Donald Trump, gjatë një telefonate me homologun e tij venezuelian, Nicolas Maduro, më 21 nëntor, kërkoi që ai të largohej nga vendi brenda një jave. Sipas burimeve të agjencisë së lajmeve Reuters, biseda midis udhëheqësve zgjati më pak se 15 minuta. Gjatë bisedës, Trump i tha Maduros se kishte një javë kohë […]",
-      "published": "Tue, 02 Dec 2025 02:50:13 +0000",
+      "title": "Presidenti i SHBA-së, Donald Trump, paralajmëron Izraelin kundër destabilizimit të Sirisë",
+      "link": "https://www.balkanweb.com/presidenti-i-shba-se-donald-trump-paralajmeron-izraelin-kunder-destabilizimit-te-sirise/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të hënën se është e rëndësishme që Izraeli të mbajë një dialog të mirë me Sirinë , ndërsa shprehu mbështetje të vazhdueshme për ta bërë Sirinë një vend të begatë. “Është shumë e rëndësishme që Izraeli të mbajë një dialog të fortë dhe të vërtetë me Sirinë dhe të […]",
+      "published": "Tue, 02 Dec 2025 03:30:39 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2861820",
-      "fetched_at": "2025-12-02T03:17:38.813326",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, gjatë një telefonate me homologun e tij venezuelian, Nicolas Maduro, më 21 nëntor, kërkoi që ai të largohej nga vendi brenda një jave. Sipas burimeve të agjencisë s..."
-    },
-    {
-      "title": "Një polic vritet dhe 6 të tjerë plagosen në një sulm vetëvrasës me bombë në Pakistan",
-      "link": "https://www.balkanweb.com/nje-polic-vritet-dhe-6-te-tjere-plagosen-ne-nje-sulm-vetevrases-me-bombe-ne-pakistan/",
-      "description": "Një polic u vra dhe gjashtë të tjerë u plagosën në një sulm vetëvrasës me bombë ndaj forcave të sigurisë në Pakistanin veriperëndimor të hënën, tha policia. Incidenti – i fundit në një seri sulmesh vetëvrasëse në muajt e fundit – ndodhi në distriktin Lakki Marwat të provincës veriperëndimore Khyber Pakhtunkhwa , e cila kufizohet […]",
-      "published": "Tue, 02 Dec 2025 02:30:40 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2861785",
-      "fetched_at": "2025-12-02T03:17:38.813439",
-      "ai_summary": "Një polic u vra dhe gjashtë të tjerë u plagosën në një sulm vetëvrasës me bombë ndaj forcave të sigurisë në Pakistanin veriperëndimor të hënën, tha policia. Incidenti – i fundit në një seri sulmesh ve..."
-    },
-    {
-      "title": "Trump do të presë udhëheqësit e Republikës Demokratike të Kongos dhe Ruandës për të nënshkruar marrëveshjen e paqes",
-      "link": "https://www.balkanweb.com/trump-do-te-prese-udheheqesit-e-republikes-demokratike-te-kongos-dhe-ruandes-per-te-nenshkruar-marreveshjen-e-paqes/",
-      "description": "Presidenti i SHBA-së, Donald Trump, do të presë udhëheqësit e Ruandës dhe Republikës Demokratike të Kongos – Paul Kagame dhe Felix Tshisekedi – më 4 dhjetor për të nënshkruar një marrëveshje paqeje. Kjo u deklarua nga Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt. “Të enjten, Presidenti Trump do të presë presidentët e Ruandës […]",
-      "published": "Tue, 02 Dec 2025 02:00:19 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2861764",
-      "fetched_at": "2025-12-02T03:17:38.813567",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, do të presë udhëheqësit e Ruandës dhe Republikës Demokratike të Kongos – Paul Kagame dhe Felix Tshisekedi – më 4 dhjetor për të nënshkruar një marrëveshje paqeje. K..."
-    },
-    {
-      "title": "Kallas: Marrëdhëniet midis BE-së dhe Kazakistanit po hyjnë në një fazë të re",
-      "link": "https://www.balkanweb.com/kallas-marredheniet-midis-be-se-dhe-kazakistanit-po-hyjne-ne-nje-faze-te-re/",
-      "description": "Takimi i parë i nivelit të lartë i Këshillit të Bashkëpunimit Bashkimi Evropian-Kazakistan tregon rëndësinë në rritje të marrëdhënieve midis palëve. Kjo u deklarua nga kreu i diplomacisë evropiane, Kaya Kallas, në një deklaratë të përbashkët për shtyp me Ministrin e Punëve të Jashtme të Kazakistanit, Ermek Kosherbayev. Sipas Kallas, Bashkimi Evropian (BE) është partneri […]",
-      "published": "Tue, 02 Dec 2025 01:30:53 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2861791",
-      "fetched_at": "2025-12-02T03:17:38.813689",
-      "ai_summary": "Takimi i parë i nivelit të lartë i Këshillit të Bashkëpunimit Bashkimi Evropian-Kazakistan tregon rëndësinë në rritje të marrëdhënieve midis palëve. Kjo u deklarua nga kreu i diplomacisë evropiane, Ka..."
+      "guid": "https://www.balkanweb.com/?p=2861782",
+      "fetched_at": "2025-12-02T04:29:18.630244",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të hënën se është e rëndësishme që Izraeli të mbajë një dialog të mirë me Sirinë , ndërsa shprehu mbështetje të vazhdueshme për ta bërë Sirinë një vend të begat..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
