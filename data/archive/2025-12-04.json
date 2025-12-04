@@ -1,6 +1,6 @@
 {
   "date": "2025-12-04",
-  "timestamp": "2025-12-04T04:30:03.125350",
+  "timestamp": "2025-12-04T06:30:32.319999",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,33 +9,137 @@
   },
   "articles": [
     {
-      "title": "Shefi i NATO-s: Aleatët duhet të rrisin gatishmërinë ushtarake, ndërsa Rusia shpenzon 40% për mbrojtje",
-      "link": "https://www.balkanweb.com/shefi-i-nato-s-aleatet-duhet-te-rrisin-gatishmerine-ushtarake-ndersa-rusia-shpenzon-40-per-mbrojtje/",
-      "description": "Sekretari i përgjithshëm i NATO-s tha të mërkurën se aleanca duhet të sigurojë që ushtritë e saj të jenë të përgatitura për një mjedis sigurie që ndryshon me shpejtësi, duke theksuar se rritja masive e shpenzimeve të mbrojtjes nga Rusia kërkon një përgjigje po aq të fuqishme nga aleatët. “Kur bëhet fjalë për t’u siguruar […]",
-      "published": "Thu, 04 Dec 2025 04:00:09 +0000",
+      "title": "Ndryshimet e Komisionit të Ekonomisë: Fshihen detyrimet e papaguara për taksat vendore deri në 2014",
+      "link": "https://www.balkanweb.com/ndryshimet-e-komisionit-te-ekonomise-fshihen-detyrimet-e-papaguara-per-taksat-vendore-deri-ne-2014/",
+      "description": "Në diskutimet nën për nen të paketës fiskale, Komisioni për Ekonominë, Punësimin dhe Financat miratoi disa ndryshime në projektligjin “Për fshirjen, shuarjen dhe pagesën e detyrimeve tatimore ndaj administratës tatimore qendrore e të detyrimeve të pagueshme në doganë”. Një nga pikat kryesore të miratuara lidhet me fshirjen e plotë edhe të taksave dhe tarifave vendore […]",
+      "published": "Thu, 04 Dec 2025 06:25:34 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863583",
-      "fetched_at": "2025-12-04T04:29:57.737445",
-      "ai_summary": "Sekretari i përgjithshëm i NATO-s tha të mërkurën se aleanca duhet të sigurojë që ushtritë e saj të jenë të përgatitura për një mjedis sigurie që ndryshon me shpejtësi, duke theksuar se rritja masive ..."
+      "guid": "https://www.balkanweb.com/?p=2863481",
+      "fetched_at": "2025-12-04T06:30:26.725018",
+      "ai_summary": "Në diskutimet nën për nen të paketës fiskale, Komisioni për Ekonominë, Punësimin dhe Financat miratoi disa ndryshime në projektligjin “Për fshirjen, shuarjen dhe pagesën e detyrimeve tatimore ndaj adm..."
     },
     {
-      "title": "Pesë palestinezë, përfshirë dy fëmijë, vriten nga bombardimet izraelite në Gaza",
-      "link": "https://www.balkanweb.com/pese-palestineze-perfshire-dy-femije-vriten-nga-bombardimet-izraelite-ne-gaza/",
-      "description": "Pesë palestinezë , përfshirë dy fëmijë, u vranë të mërkurën në mbrëmje në Rripin jugor të Gazës gjatë bombardimeve të ushtrisë izraelite, tha një spital në enklavën e vogël bregdetare. Nga ana e saj, ushtria izraelite tha se kishte “goditur një terrorist të Hamasit” në “hakmarrje” për armiqësitë që lanë pesë anëtarë të saj të […]",
-      "published": "Thu, 04 Dec 2025 03:45:18 +0000",
+      "title": "“Stefanaq Pollo nuk po e shkruan drejt historinë, Apollonia që simbolizon një pushtim të huaj, te ne vihet kudo, rrezik dhe Fierin do e quajnë Apollonia…”/ Letra e panjohur për Enver Hoxhën, në 1972-in",
+      "link": "https://www.balkanweb.com/stefanaq-pollo-nuk-po-e-shkruan-drejt-historine-apollonia-qe-simbolizon-nje-pushtim-te-huaj-te-ne-vihet-kudo-rrezik-dhe-fierin-do-e-quajne-apollonia-letra-e-panjohur-per/",
+      "description": "Në fillim të viteve ’70-të, një qytetar i thjeshtë – që e firmos letrën duke nënshkruar “Një shofer” – i drejtohet diktatorit Enver Hoxha me një letër anonime, duke ngritur shqetësime mbi mënyrën se si historianët shqiptarë po e trajtojnë historinë e vendit. Letra, e shkruar me gjuhën e një njeriu të thjeshtë, por me […]",
+      "published": "Thu, 04 Dec 2025 06:18:36 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863616",
-      "fetched_at": "2025-12-04T04:29:57.737584",
-      "ai_summary": "Pesë palestinezë , përfshirë dy fëmijë, u vranë të mërkurën në mbrëmje në Rripin jugor të Gazës gjatë bombardimeve të ushtrisë izraelite, tha një spital në enklavën e vogël bregdetare. Nga ana e saj, ..."
+      "guid": "https://www.balkanweb.com/?p=2863067",
+      "fetched_at": "2025-12-04T06:30:26.725163",
+      "ai_summary": "Në fillim të viteve ’70-të, një qytetar i thjeshtë – që e firmos letrën duke nënshkruar “Një shofer” – i drejtohet diktatorit Enver Hoxha me një letër anonime, duke ngritur shqetësime mbi mënyrën se s..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, 4 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-4-dhjetor-2025/",
+      "description": "Ditën e enjte vendi ynë do të jetë në ndikim të masave ajrore të paqëndrueshme. Moti parashikohet të jetë me vranësira mesatare deri të dendura. Reshjet e shiut pritet të jenë prezente të herëpashershme me intensitet të ulët në pjesën më të madhe të territorit që në orët e para të 24-orëshit. Gjatë ditë reshjet […]",
+      "published": "Thu, 04 Dec 2025 06:12:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2863457",
+      "fetched_at": "2025-12-04T06:30:26.725545",
+      "ai_summary": "Ditën e enjte vendi ynë do të jetë në ndikim të masave ajrore të paqëndrueshme. Moti parashikohet të jetë me vranësira mesatare deri të dendura. Reshjet e shiut pritet të jenë prezente të herëpashersh..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 4 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-4-dhjetor-2025/",
+      "description": "Dashi Ide të freskëta vërshojnë, duke sjellë qartësi në pyetjet që keni pasur për muaj të tërë. Bisedat bëhen katalizatorë dhe ju po lidhni pikat më shpejt se kurrë. Do të ketë një lehtësim në komunikimin tuaj. Do të lejoni që e vërteta të dalë në sipërfaqe. Demi Ka gjasa të jesh në kulmin e […]",
+      "published": "Thu, 04 Dec 2025 06:05:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2862850",
+      "fetched_at": "2025-12-04T06:30:26.725639",
+      "ai_summary": "Dashi Ide të freskëta vërshojnë, duke sjellë qartësi në pyetjet që keni pasur për muaj të tërë. Bisedat bëhen katalizatorë dhe ju po lidhni pikat më shpejt se kurrë. Do të ketë një lehtësim në komunik..."
+    },
+    {
+      "title": "Përdorimi i Signal nga Hegseth e vuri ushtrinë amerikane në rrezik, zbulon Pentagoni",
+      "link": "https://www.balkanweb.com/perdorimi-i-signal-nga-hegseth-e-vuri-ushtrine-amerikane-ne-rrezik-zbulon-pentagoni/",
+      "description": "Një panel i pavarur i Pentagonit ka vendosur që Sekretari i Mbrojtjes Pete Hegseth i ka vënë vartësit e tij në rrezik duke përdorur aplikacionin e mesazheve të koduara Signal për të diskutuar bombardimet në Jemen me zyrtarët, raportoi media të mërkurën. Më herët këtë vit, ushtria amerikane nisi një fushatë kundër rebelëve Huthi në […]",
+      "published": "Thu, 04 Dec 2025 05:10:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2863633",
+      "fetched_at": "2025-12-04T06:30:26.725714",
+      "ai_summary": "Një panel i pavarur i Pentagonit ka vendosur që Sekretari i Mbrojtjes Pete Hegseth i ka vënë vartësit e tij në rrezik duke përdorur aplikacionin e mesazheve të koduara Signal për të diskutuar bombardi..."
+    },
+    {
+      "title": "Zgjedhjet në Kili/ Kandidati i ekstremit të djathtë këmbëngul në nevojën për deportime masive të emigrantëve të paligjshëm",
+      "link": "https://www.balkanweb.com/zgjedhjet-ne-kili-kandidati-i-ekstremit-te-djathte-kembengul-ne-nevojen-per-deportime-masive-te-emigranteve-te-paligjshem/",
+      "description": "Kandidati i ekstremit të djathtë në zgjedhjet presidenciale të Kilit , José Antonio Cast, duket se përjashtoi një goditje ndaj emigrantëve në vendin e Amerikës Latine , si në Shtetet e Bashkuara të Donald Trump, të mërkurën gjatë një debati me kundërshtaren e tij, kandidaten e një aleance të krahut të majtë, Janet Jara. Në […]",
+      "published": "Thu, 04 Dec 2025 05:05:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2863630",
+      "fetched_at": "2025-12-04T06:30:26.725789",
+      "ai_summary": "Kandidati i ekstremit të djathtë në zgjedhjet presidenciale të Kilit , José Antonio Cast, duket se përjashtoi një goditje ndaj emigrantëve në vendin e Amerikës Latine , si në Shtetet e Bashkuara të Do..."
+    },
+    {
+      "title": "Numri i të vdekurve nga përmbytjet në Azi arrin në 1,400, gati 1,000 ende të zhdukur, ndihma dhe shpëtimet vazhdojnë",
+      "link": "https://www.balkanweb.com/numri-i-te-vdekurve-nga-permbytjet-ne-azi-arrin-ne-1400-gati-1000-ende-te-zhdukur-ndihma-dhe-shpetimet-vazhdojne/",
+      "description": "Shirat e rrëmbyeshëm dhe përmbytjet e përhapura në pesë vende në Azinë Jugore dhe Juglindore e kanë çuar numrin e të vdekurve në rajon në mbi 1,400, me gati 1,000 njerëz ende të zhdukur, sipas të dhënave të ndara nga qeveritë lokale. Përmbytje të papara, rrëshqitje toke, stuhi dhe ciklone kanë shkaktuar kaos në Indonezi, […]",
+      "published": "Thu, 04 Dec 2025 05:00:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2863586",
+      "fetched_at": "2025-12-04T06:30:26.725872",
+      "ai_summary": "Shirat e rrëmbyeshëm dhe përmbytjet e përhapura në pesë vende në Azinë Jugore dhe Juglindore e kanë çuar numrin e të vdekurve në rajon në mbi 1,400, me gati 1,000 njerëz ende të zhdukur, sipas të dhën..."
+    },
+    {
+      "title": "Merz: Gjermania do të investojë 35 miliardë euro në arkitekturën e sigurisë hapësinore",
+      "link": "https://www.balkanweb.com/merz-gjermania-do-te-investoje-35-miliarde-euro-ne-arkitekturen-e-sigurise-hapesinore/",
+      "description": "Kancelari gjerman Friedrich Merz ka njoftuar se qeveria do të investojë 35 miliardë euro në krijimin e një arkitekture të sigurisë hapësinore gjatë disa viteve. Mertz e bëri këtë deklaratë në një konferencë për shtyp gjatë vizitës së tij në Berlin Space Technologies. “Gjatë viteve të ardhshme, qeveria gjermane do të investojë gjithsej 35 miliardë […]",
+      "published": "Thu, 04 Dec 2025 04:30:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2863593",
+      "fetched_at": "2025-12-04T06:30:26.725953",
+      "ai_summary": "Kancelari gjerman Friedrich Merz ka njoftuar se qeveria do të investojë 35 miliardë euro në krijimin e një arkitekture të sigurisë hapësinore gjatë disa viteve. Mertz e bëri këtë deklaratë në një konf..."
+    },
+    {
+      "title": "Vranët dhe herë pas here me shi sot në Shqipëri",
+      "link": "https://telegrafi.com/vranet-dhe-here-pas-here-me-shi-sot-ne-shqiperi/",
+      "description": "Shqipëria të enjten do të jetë në ndikim të masave ajrore të paqëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti do të jetë me vranësira mesatare deri të dendura. “Reshjet e shiut pritet të jenë prezentë të herëpashershme me intensitet të ulët në pjesën më të madhe të territorit që në orët e para të 24-orëshit. Gjatë ditë reshjet e shiut pritet të mbeten prezentë të herëpashershme me intensitet kryesisht të ulët, e lokalisht në veriperëndim dhe jug të vendit reshje shiu me intensitet deri mesatar. Në zonën e Alpeve dhe në majat e maleve në verilindje reshje bore me intensitet të ulët”, bën të ditur SHMU. Era do të fryjë me drejtim nga kuadrati lindjes me shpejtësi mesatare deri në 8m/sek, në zonat luginore dhe përgjatë vijës bregdetare era fiton shpejtësi deri në 20 m/sek. Valëzimi në detet Adriatik dhe Jon i forcës 3-4 ballë. /Telegrafi/",
+      "published": "Thu, 04 Dec 2025 06:11:22 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vranet-dhe-here-pas-here-me-shi-sot-ne-shqiperi/",
+      "fetched_at": "2025-12-04T06:30:29.241568",
+      "ai_summary": "Shqipëria të enjten do të jetë në ndikim të masave ajrore të paqëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti do të jetë me vranësira mesatare deri të dendura. “Reshjet e shiut prite..."
+    },
+    {
+      "title": "Vranët dhe me riga shiu",
+      "link": "https://telegrafi.com/vranet-dhe-me-riga-shiu-2674368333/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot kryesisht i vranët dhe herë pas here me riga shiu.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 1 deri 3 gradë Celsius, ndërkaq ato maksimale nga 7 deri në 10 gradë Celsius. Era do të fryjë nga jugperëndimi 1-5 m/s. /Telegrafi/",
+      "published": "Thu, 04 Dec 2025 06:06:29 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vranet-dhe-me-riga-shiu-2674368333/",
+      "fetched_at": "2025-12-04T06:30:29.242155",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot kryesisht i vranët dhe herë pas here me riga shiu.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 1 deri 3 gradë ..."
     }
   ],
-  "total_articles": 2,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
