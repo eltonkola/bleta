@@ -1,6 +1,6 @@
 {
   "date": "2025-12-04",
-  "timestamp": "2025-12-04T03:18:15.729102",
+  "timestamp": "2025-12-04T04:30:03.125350",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,110 +9,32 @@
   },
   "articles": [
     {
-      "title": "Grupi rebel kolumbian ELN liron 28 persona që i mbante peng që nga janari",
-      "link": "https://www.balkanweb.com/grupi-rebel-kolumbian-eln-liron-28-persona-qe-i-mbante-peng-qe-nga-janari/",
-      "description": "Grupi rebel kolumbian ELN liroi të mërkurën 28 ​​persona që i mbante peng që nga janari, pas një sulmi në shkallë të gjerë ndaj një grupi tjetër rebel që vrau më shumë se 100 persona në një sektor të kufirit me Venezuelën, tha avokati i popullit. Midis pengjeve të dorëzuara në një komision humanitar janë […]",
-      "published": "Thu, 04 Dec 2025 03:15:14 +0000",
+      "title": "Shefi i NATO-s: Aleatët duhet të rrisin gatishmërinë ushtarake, ndërsa Rusia shpenzon 40% për mbrojtje",
+      "link": "https://www.balkanweb.com/shefi-i-nato-s-aleatet-duhet-te-rrisin-gatishmerine-ushtarake-ndersa-rusia-shpenzon-40-per-mbrojtje/",
+      "description": "Sekretari i përgjithshëm i NATO-s tha të mërkurën se aleanca duhet të sigurojë që ushtritë e saj të jenë të përgatitura për një mjedis sigurie që ndryshon me shpejtësi, duke theksuar se rritja masive e shpenzimeve të mbrojtjes nga Rusia kërkon një përgjigje po aq të fuqishme nga aleatët. “Kur bëhet fjalë për t’u siguruar […]",
+      "published": "Thu, 04 Dec 2025 04:00:09 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863623",
-      "fetched_at": "2025-12-04T03:18:09.880481",
-      "ai_summary": "Grupi rebel kolumbian ELN liroi të mërkurën 28 ​​persona që i mbante peng që nga janari, pas një sulmi në shkallë të gjerë ndaj një grupi tjetër rebel që vrau më shumë se 100 persona në një sektor të ..."
+      "guid": "https://www.balkanweb.com/?p=2863583",
+      "fetched_at": "2025-12-04T04:29:57.737445",
+      "ai_summary": "Sekretari i përgjithshëm i NATO-s tha të mërkurën se aleanca duhet të sigurojë që ushtritë e saj të jenë të përgatitura për një mjedis sigurie që ndryshon me shpejtësi, duke theksuar se rritja masive ..."
     },
     {
-      "title": "Mjeku që i dha ketaminë Matthew Perry-t dënohet me 2.5 vjet burg",
-      "link": "https://www.balkanweb.com/mjeku-qe-i-dha-ketamine-matthew-perry-t-denohet-me-2-5-vjet-burg/",
-      "description": "Një mjek nga Kalifornia që i dha ketaminë Matthew Perry-t , yllit të dashur të serialit “ Friends ”, u dënua të mërkurën me 30 muaj burg. Dr. Salvador Plasencia ishte një nga pesë personat e akuzuar në një hetim të gjatë federal që shqyrtoi se si Perry e siguroi anestetikun përmes një rrjeti të […]",
-      "published": "Thu, 04 Dec 2025 03:00:35 +0000",
+      "title": "Pesë palestinezë, përfshirë dy fëmijë, vriten nga bombardimet izraelite në Gaza",
+      "link": "https://www.balkanweb.com/pese-palestineze-perfshire-dy-femije-vriten-nga-bombardimet-izraelite-ne-gaza/",
+      "description": "Pesë palestinezë , përfshirë dy fëmijë, u vranë të mërkurën në mbrëmje në Rripin jugor të Gazës gjatë bombardimeve të ushtrisë izraelite, tha një spital në enklavën e vogël bregdetare. Nga ana e saj, ushtria izraelite tha se kishte “goditur një terrorist të Hamasit” në “hakmarrje” për armiqësitë që lanë pesë anëtarë të saj të […]",
+      "published": "Thu, 04 Dec 2025 03:45:18 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863577",
-      "fetched_at": "2025-12-04T03:18:09.880633",
-      "ai_summary": "Një mjek nga Kalifornia që i dha ketaminë Matthew Perry-t , yllit të dashur të serialit “ Friends ”, u dënua të mërkurën me 30 muaj burg. Dr. Salvador Plasencia ishte një nga pesë personat e akuzuar n..."
-    },
-    {
-      "title": "Maduro: Biseda telefonike me Trump ishte ‘respektuese dhe e përzemërt’",
-      "link": "https://www.balkanweb.com/maduro-biseda-telefonike-me-trump-ishte-respektuese-dhe-e-perzemert/",
-      "description": "Presidenti venezuelian Nicolas Maduro konfirmoi të mërkurën se pati një telefonatë “të respektueshme dhe të përzemërt” me Presidentin e SHBA-së Donald Trump rreth 10 ditë më parë, duke e cilësuar bisedën si një hapje të mundshme për diplomaci. “Nëse kjo telefonatë do të thotë se po ndërmerren hapa drejt një dialogu të respektueshëm midis vendeve […]",
-      "published": "Thu, 04 Dec 2025 02:45:41 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863612",
-      "fetched_at": "2025-12-04T03:18:09.880715",
-      "ai_summary": "Presidenti venezuelian Nicolas Maduro konfirmoi të mërkurën se pati një telefonatë “të respektueshme dhe të përzemërt” me Presidentin e SHBA-së Donald Trump rreth 10 ditë më parë, duke e cilësuar bise..."
-    },
-    {
-      "title": "Johann Wadephul: Gjermania rrit fondet për armët amerikane për Ukrainën",
-      "link": "https://www.balkanweb.com/johann-wadephul-gjermania-rrit-fondet-per-armet-amerikane-per-ukrainen/",
-      "description": "Ministri i Jashtëm gjerman Johann Wadephul tha të mërkurën se Berlini do të sigurojë 200 milionë dollarë të tjerë për furnizimet e armëve dhe municioneve amerikane në Ukrainë. Njoftimi i Wadephul është pak më i lartë se 150 milionë euro (174.6 milionë dollarë) të premtuara më parë nga Ministri gjerman i Mbrojtjes Boris Pistorius. Financimi […]",
-      "published": "Thu, 04 Dec 2025 02:30:41 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863596",
-      "fetched_at": "2025-12-04T03:18:09.880792",
-      "ai_summary": "Ministri i Jashtëm gjerman Johann Wadephul tha të mërkurën se Berlini do të sigurojë 200 milionë dollarë të tjerë për furnizimet e armëve dhe municioneve amerikane në Ukrainë. Njoftimi i Wadephul ësht..."
-    },
-    {
-      "title": "Studenti planifikoi sulm të armatosur në universitetin amerikan. Shkroi se donte t’i vriste të gjithë dhe të bëhej martir",
-      "link": "https://www.balkanweb.com/studenti-planifikoi-sulm-te-armatosur-ne-universitetin-amerikan-shkroi-se-donte-ti-vriste-te-gjithe-dhe-te-behej-martir/",
-      "description": "Një student i Universitetit të Delaware u arrestua sot në Shtetet e Bashkuara me akuzën e planifikimit të kryerjes së një sulmi të armatosur në kampusin e institucionit arsimor amerikan, duke vrarë sa më shumë njerëz të ishte e mundur. Sipas New York Post , ai është 25-vjeçari Lukmaan Khan, në makinën e të cilit, […]",
-      "published": "Thu, 04 Dec 2025 02:15:04 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863599",
-      "fetched_at": "2025-12-04T03:18:09.880867",
-      "ai_summary": "Një student i Universitetit të Delaware u arrestua sot në Shtetet e Bashkuara me akuzën e planifikimit të kryerjes së një sulmi të armatosur në kampusin e institucionit arsimor amerikan, duke vrarë sa..."
-    },
-    {
-      "title": "Trump për takimin SHBA-Rusi për Ukrainën: “Ishte mjaft mirë, Putini do të donte t’i jepte fund luftës”",
-      "link": "https://www.balkanweb.com/trump-per-takimin-shba-rusi-per-ukrainen-ishte-mjaft-mire-putini-do-te-donte-ti-jepte-fund-luftes/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të hënën se takimi i të dërguarve të tij, Steve Witkoff dhe Jared Kushner, me presidentin rus Vladimir Putin në Moskë ishte “mjaft i mirë”, por nuk dha detaje mbi hapat e ardhshëm në negociatat për t’i dhënë fund luftës në Ukrainë . “Ai do të donte t’i jepte […]",
-      "published": "Thu, 04 Dec 2025 02:00:28 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863571",
-      "fetched_at": "2025-12-04T03:18:09.880943",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të hënën se takimi i të dërguarve të tij, Steve Witkoff dhe Jared Kushner, me presidentin rus Vladimir Putin në Moskë ishte “mjaft i mirë”, por nuk dha detaje m..."
-    },
-    {
-      "title": "Franca kritikon dënimin me shtatë vjet burg të gazetarit Christophe Gleizes në Algjeri",
-      "link": "https://www.balkanweb.com/franca-kritikon-denimin-me-shtate-vjet-burg-te-gazetarit-christophe-gleizes-ne-algjeri/",
-      "description": "Qeveria franceze kritikoi të mërkurën vendimin e një gjykate algjeriane për të mbështetur një dënim me shtatë vjet burg për gazetarin francez Christophe Gleizes, pavarësisht përpjekjeve të saj për të bindur autoritetet algjeriane të ndryshojnë vendimin. “Shpreh keqardhje që bashkëpunimi i saj i plotë me autoritetet algjeriane dhe shpjegimet e dhëna nga ekipi i tij […]",
-      "published": "Thu, 04 Dec 2025 01:45:38 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863605",
-      "fetched_at": "2025-12-04T03:18:09.881039",
-      "ai_summary": "Qeveria franceze kritikoi të mërkurën vendimin e një gjykate algjeriane për të mbështetur një dënim me shtatë vjet burg për gazetarin francez Christophe Gleizes, pavarësisht përpjekjeve të saj për të ..."
-    },
-    {
-      "title": "Trump: Takimi SHBA-Rusi në Moskë ishte “mjaftueshëm i mirë”",
-      "link": "https://www.balkanweb.com/trump-takimi-shba-rusi-ne-moske-ishte-mjaftueshem-i-mire/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se një takim midis dy të dërguarve të SHBA-së me Presidentin rus Vladimir Putin ishte “mjaftueshëm i mirë”, por se nuk është e qartë se çfarë do të ndodhë tani. Trump u tha gazetarëve në Zyrën Ovale se rusët “duan shumë fuqimisht” të bëjnë një marrëveshje për […]",
-      "published": "Thu, 04 Dec 2025 01:30:51 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2863580",
-      "fetched_at": "2025-12-04T03:18:09.881133",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se një takim midis dy të dërguarve të SHBA-së me Presidentin rus Vladimir Putin ishte “mjaftueshëm i mirë”, por se nuk është e qartë se çfarë do të ..."
+      "guid": "https://www.balkanweb.com/?p=2863616",
+      "fetched_at": "2025-12-04T04:29:57.737584",
+      "ai_summary": "Pesë palestinezë , përfshirë dy fëmijë, u vranë të mërkurën në mbrëmje në Rripin jugor të Gazës gjatë bombardimeve të ushtrisë izraelite, tha një spital në enklavën e vogël bregdetare. Nga ana e saj, ..."
     }
   ],
-  "total_articles": 8,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
