@@ -1,6 +1,6 @@
 {
   "date": "2025-12-10",
-  "timestamp": "2025-12-10T04:32:40.534750",
+  "timestamp": "2025-12-10T06:31:33.628160",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,72 +9,137 @@
   },
   "articles": [
     {
-      "title": "Australia u ndalon adoleshentëve nën 16 vjeç përdorimin e rrjeteve sociale",
-      "link": "https://www.balkanweb.com/australia-u-ndalon-adoleshenteve-nen-16-vjec-perdorimin-e-rrjeteve-sociale/",
-      "description": "Australia u ndaloi adoleshentëve të përdorin mediat sociale, duke nisur një masakër të parë në botë, e cila synon t’i largojë fëmijët nga varësia ndaj shfletimit në rrjetet sociale si Facebook, Instagram dhe TikTok. Një sërë aplikacionesh dhe faqesh interneti më të njohura në botë përballen me gjoba prej 33 milionë dollarësh amerikanë nëse nuk […]",
-      "published": "Wed, 10 Dec 2025 04:30:13 +0000",
+      "title": "Inflacioni i nëntorit 2.1%, por qiratë dhe ushqimet bëhen më të shtrenjta. Rriten qumështi, djathi dhe veza",
+      "link": "https://www.balkanweb.com/inflacioni-i-nentorit-2-1-por-qirate-dhe-ushqimet-behen-me-te-shtrenjta-rriten-qumeshti-djathi-dhe-veza/",
+      "description": "Çmimet e qirave dhe ushqimeve në rritje ishin përbërësit kryesorë të inflacionit në muajin nëntor, i cili ishte 2.1% sipas të dhënave zyrtare të INSTAT. Rritja vjetore e çmimeve në muajin nëntor është ndikuar kryesisht nga grupi “Qira, ujë, lëndë djegëse dhe energji” me +0,81 pikë përqindje, pasuar nga grupi “Ushqime dhe pije joalkoolike” me […]",
+      "published": "Wed, 10 Dec 2025 06:25:15 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867742",
-      "fetched_at": "2025-12-10T04:32:05.087746",
-      "ai_summary": "Australia u ndaloi adoleshentëve të përdorin mediat sociale, duke nisur një masakër të parë në botë, e cila synon t’i largojë fëmijët nga varësia ndaj shfletimit në rrjetet sociale si Facebook, Instag..."
+      "guid": "https://www.balkanweb.com/?p=2867646",
+      "fetched_at": "2025-12-10T06:31:27.474216",
+      "ai_summary": "Çmimet e qirave dhe ushqimeve në rritje ishin përbërësit kryesorë të inflacionit në muajin nëntor, i cili ishte 2.1% sipas të dhënave zyrtare të INSTAT. Rritja vjetore e çmimeve në muajin nëntor është..."
     },
     {
-      "title": "Një burrë 58-vjeçar ekzekutohet në Florida për vrasjen e një gruaje në vitin 1989",
-      "link": "https://www.balkanweb.com/nje-burre-58-vjecar-ekzekutohet-ne-florida-per-vrasjen-e-nje-gruaje-ne-vitin-1989/",
-      "description": "Një burrë 58-vjeçar i dënuar për vrasjen e një gruaje 33-vjeçare në vitin 1989 u ekzekutua në Florida të martën . Ekzekutimi , I kryer me injeksion vdekjeprurës, ishte i 45-ti në Shtetet e Bashkuara këtë vit, duke përfshirë 18 në shtet. Ishte numri më i lartë që nga viti 2010, kur kishte 46. Tre […]",
-      "published": "Wed, 10 Dec 2025 04:15:06 +0000",
+      "title": "“Për shkollat shqipe në Filat, u caktua si përgjegjës Qamil Efendiu, por atij i dolën shumë pengesa nga autoritetet qeveritare, pasi…”/ Historia e panjohur e mësuesve të gjuhës shqipe në Çamëri",
+      "link": "https://www.balkanweb.com/per-shkollat-shqipe-ne-filat-u-caktua-si-pergjegjes-qamil-efendiu-por-atij-i-dolen-shume-pengesa-nga-autoritetet-qeveritare-pasi-historia-e-panjohur-e-mesuesve-te-gjuhes/",
+      "description": "Nga Prof. Murat Gecaj Ashtu si kudo në vendin tonë edhe në krahinën e Çamërisë, u bënë përpjekje të shumta për përhapjen e mësimit shqip dhe për çeljen e shkollave në gjuhën amtare. Kështu, në vitet e fundit të shekullit të 19-të, atdhetari Rexhep Demi bashkërendoi punën me Sabri Prevezën (1862-1929), me synimin kryesor përhapjen […]",
+      "published": "Wed, 10 Dec 2025 06:18:29 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867759",
-      "fetched_at": "2025-12-10T04:32:05.087894",
-      "ai_summary": "Një burrë 58-vjeçar i dënuar për vrasjen e një gruaje 33-vjeçare në vitin 1989 u ekzekutua në Florida të martën . Ekzekutimi , I kryer me injeksion vdekjeprurës, ishte i 45-ti në Shtetet e Bashkuara k..."
+      "guid": "https://www.balkanweb.com/?p=2867087",
+      "fetched_at": "2025-12-10T06:31:27.474360",
+      "ai_summary": "Nga Prof. Murat Gecaj Ashtu si kudo në vendin tonë edhe në krahinën e Çamërisë, u bënë përpjekje të shumta për përhapjen e mësimit shqip dhe për çeljen e shkollave në gjuhën amtare. Kështu, në vitet e..."
     },
     {
-      "title": "Papa kërkon ‘vazhdim të dialogut’ pas takimit me Zelenskyn",
-      "link": "https://www.balkanweb.com/papa-kerkon-vazhdim-te-dialogut-pas-takimit-me-zelenskyn/",
-      "description": "Papa Leo theksoi nevojën për të vazhduar dialogun që synon një “paqe të drejtë dhe të qëndrueshme” gjatë një takimi të martën me Presidentin ukrainas Volodymyr Zelensky , tha Vatikani në një deklaratë. Papa “përsëriti nevojën për vazhdimin e dialogut dhe shprehu dëshirën e tij urgjente që iniciativat aktuale diplomatike të sjellin një paqe të […]",
-      "published": "Wed, 10 Dec 2025 04:00:20 +0000",
+      "title": "Parashikimi i motit për sot, 10 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-10-dhjetor-2025/",
+      "description": "Ditën e mërkurë vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimtare. Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 8m/sek. Deti pritet të ketë valëzim të forcës 1-3 ballë.",
+      "published": "Wed, 10 Dec 2025 06:12:34 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867739",
-      "fetched_at": "2025-12-10T04:32:05.087969",
-      "ai_summary": "Papa Leo theksoi nevojën për të vazhduar dialogun që synon një “paqe të drejtë dhe të qëndrueshme” gjatë një takimi të martën me Presidentin ukrainas Volodymyr Zelensky , tha Vatikani në një deklaratë..."
+      "guid": "https://www.balkanweb.com/?p=2867643",
+      "fetched_at": "2025-12-10T06:31:27.474708",
+      "ai_summary": "Ditën e mërkurë vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimtare. Era do të fryjë me drejt..."
     },
     {
-      "title": "Trump siguron se çmimet në SHBA po shënojnë një rënie të madhe falë tij",
-      "link": "https://www.balkanweb.com/trump-siguron-se-cmimet-ne-shba-po-shenojne-nje-renie-te-madhe-fale-tij/",
-      "description": "Presidenti i SHBA-së, Donald Trump, u mburr të martën se çmimet e mallrave të ndryshme, si me pakicë ashtu edhe jo me pakicë, po shënojnë një rënie “të madhe” falë tij, edhe pse inflacioni po rritet në SHBA , sipas statistikave të fundit të disponueshme, që datojnë që nga shtatori. Miliarderi republikan, gjatë një fjalimi […]",
-      "published": "Wed, 10 Dec 2025 03:50:46 +0000",
+      "title": "Horoskopi për ditën e sotme, 10 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-10-dhjetor-2025/",
+      "description": "Dashi Sigurohuni që po punoni sa më mirë që të jetë e mundur dhe se po i përmbushni pritshmëritë dhe përgjegjësitë tuaja. Shqyrtoni këtë koncept në lidhje me punën tuaj aktuale, si dhe me qëllimet tuaja të përgjithshme të karrierës gjatë gjithë jetës. Të dyja janë çelësi i suksesit. Demi Është e vështirë për ty […]",
+      "published": "Wed, 10 Dec 2025 06:00:20 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867756",
-      "fetched_at": "2025-12-10T04:32:05.088051",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, u mburr të martën se çmimet e mallrave të ndryshme, si me pakicë ashtu edhe jo me pakicë, po shënojnë një rënie “të madhe” falë tij, edhe pse inflacioni po rritet n..."
+      "guid": "https://www.balkanweb.com/?p=2867267",
+      "fetched_at": "2025-12-10T06:31:27.474816",
+      "ai_summary": "Dashi Sigurohuni që po punoni sa më mirë që të jetë e mundur dhe se po i përmbushni pritshmëritë dhe përgjegjësitë tuaja. Shqyrtoni këtë koncept në lidhje me punën tuaj aktuale, si dhe me qëllimet tua..."
     },
     {
-      "title": "Një avion ushtarak Il-76 rrëzohet në Sudan, duke vrarë të gjithë anëtarët e ekuipazhit",
-      "link": "https://www.balkanweb.com/nje-avion-ushtarak-il-76-rrezohet-ne-sudan-duke-vrare-te-gjithe-anetaret-e-ekuipazhit/",
-      "description": "Një aeroplan mallrash Il-76 u rrëzua në Sudan të martën, duke vrarë të gjithë anëtarët e ekuipazhit në bord, raportoi AFP, duke cituar një burim. “Avioni Il-76 u rrëzua ndërsa përpiqej të ulej në Bazën Ajrore Osman Digna në qytetin portual të Port Sudanit në Detin e Kuq, pasi përjetoi një defekt teknik”, citoi agjencia […]",
-      "published": "Wed, 10 Dec 2025 03:30:25 +0000",
+      "title": "Administrata Trump konfirmon se po heton vdekjet e mundshme për shkak të vaksinave kundër COVID-it",
+      "link": "https://www.balkanweb.com/administrata-trump-konfirmon-se-po-heton-vdekjet-e-mundshme-per-shkak-te-vaksinave-kunder-covid-it/",
+      "description": "Administrata Federale e Barnave e SHBA-së (FDA) po heton vdekjet e mundshme nga vaksinat kundër COVID -19 tek fëmijët dhe të rriturit, konfirmoi për AFP të martën një zëdhënës i sekretarit të shëndetësisë të Presidentit Donald Trump, Robert Kennedy Jr., një skeptik famëkeq i vaksinave. Hetimi vjen ndërsa gjithnjë e më shumë zëra po ngrihen […]",
+      "published": "Wed, 10 Dec 2025 05:00:37 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867752",
-      "fetched_at": "2025-12-10T04:32:05.088128",
-      "ai_summary": "Një aeroplan mallrash Il-76 u rrëzua në Sudan të martën, duke vrarë të gjithë anëtarët e ekuipazhit në bord, raportoi AFP, duke cituar një burim. “Avioni Il-76 u rrëzua ndërsa përpiqej të ulej në Bazë..."
+      "guid": "https://www.balkanweb.com/?p=2867762",
+      "fetched_at": "2025-12-10T06:31:27.474904",
+      "ai_summary": "Administrata Federale e Barnave e SHBA-së (FDA) po heton vdekjet e mundshme nga vaksinat kundër COVID -19 tek fëmijët dhe të rriturit, konfirmoi për AFP të martën një zëdhënës i sekretarit të shëndetë..."
+    },
+    {
+      "title": "Moti në Shqipëri i vranët dhe me diell, temperaturat deri në 20 gradë Celsius",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-i-vranet-dhe-me-diell-temperaturat-deri-ne-20-grade-celsius/",
+      "description": "Moti në Shqipëri do të ndikohet nga kushte atmosferike të qëndrueshme.Sipas Shërbimit Metereologjik Ushtarak orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimtare. “Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 8m/sek. Deti - Valëzimi forcës 1-3 ballë”, thuhet në njoftim. Tutje në njoftim thuhet se temperaturat minimale do të jenë 1 gradë Celsius, ndërsa ato maksimalet deri në 20 gradë Celsius. /Telegrafi/",
+      "published": "Wed, 10 Dec 2025 06:24:21 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-i-vranet-dhe-me-diell-temperaturat-deri-ne-20-grade-celsius/",
+      "fetched_at": "2025-12-10T06:31:30.291655",
+      "ai_summary": "Moti në Shqipëri do të ndikohet nga kushte atmosferike të qëndrueshme.Sipas Shërbimit Metereologjik Ushtarak orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimt..."
+    },
+    {
+      "title": "Si funksionon versioni i Google i funksionit NameDrop të Apple?",
+      "link": "https://telegrafi.com/si-funksionon-versioni-i-google-i-funksionit-namedrop-te-apple/",
+      "description": "Në muajin nëntor u shfaq informacioni se Google po punon për krijimin e diçkaje shumë të ngjashme me NameDrop të Apple, por për pajisjet Android, dhe tani ekziston një video që tregon se si funksionon në të vërtetë kjo veçori.NameDrop u prezantua në vitin 2023 dhe lejon ndarjen e skedarëve midis përdoruesve të iPhone thjesht duke afruar pajisjet. Kjo veçori gjithashtu mbështet ndarjen e informacionit të kontaktit.Duket se Google është fokusuar në këtë pjesë të ndarjes së kontakteve në implementimin e tij, të paktën fillimisht. Video tregon se si do të funksionojë në praktikë versioni i Google të NameDrop për Android.Ende nuk është e qartë se cilin emër do të zgjedhë Google për këtë veçori. Gjatë zhvillimit ajo është quajtur Gesture Exchange dhe Contact Exchange, dhe një nga këto emra mund të bëhet emri zyrtar komercial i shërbimit. Megjithatë, ekziston mundësia që të zgjidhet një emër më tërheqës.Sidoqoftë, veçoria është ende në zhvillim aktiv dhe nuk është gati, gjë që dëshmohet nga fakti se, edhe pse animacioni i treguar në videon e mësipërme funksionon, shkëmbimi real i kontakteve ende nuk është funksional. Prandaj supozohet se do të publikohet rreth vitit 2026.Kur të ndodhë kjo, ndoshta do të jetë e nevojshme të përshtaten antenat NFC të dy pajisjeve Android, pasi ato përdoren për “handshake”-in fillestar. Ndërsa iPhone kanë pasur gjithmonë këto antena në krye, situata ndryshon ndjeshëm te smartfonët Android. /Telegrafi/",
+      "published": "Wed, 10 Dec 2025 06:20:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/si-funksionon-versioni-i-google-i-funksionit-namedrop-te-apple/",
+      "fetched_at": "2025-12-10T06:31:30.292254",
+      "ai_summary": "Në muajin nëntor u shfaq informacioni se Google po punon për krijimin e diçkaje shumë të ngjashme me NameDrop të Apple, por për pajisjet Android, dhe tani ekziston një video që tregon se si funksionon..."
+    },
+    {
+      "title": "Shpërthim tritoli në Shkodër, vetëm dëme materiale",
+      "link": "https://telegrafi.com/shperthim-tritoli-ne-shkoder-vetem-deme-materiale/",
+      "description": "Një sasi lënde plasëse, e dyshuar si tritol, i është vendosur një biznesi në lagjen “Skënderbeg” në qytetin e Shkodrës.Biznesi operon në fushën e reklamave dhe marketingut.Lënda plasëse është vendosur në derën e biznesit, duke shkaktuar vetëm dëme materiale.Policia ndodhet në vendngjarje, ndërsa grupi hetimor po punon për të rënë në gjurmët e autorit/ve.Sipas njoftimit të Policisë së Shtetit bëhet e ditur se rasti ka ndodhur rreth orës 22:20, në lagjen “Skënderbeg”, Shkodër, te dera e një subjekti për reklama, dyshohet se është vendosur lëndë plasëse. Si pasojë ka pasur vetëm dëme materiale.Grupi hetimor, nën drejtimin e Prokurorisë, po kryen veprimet për sqarimin e rrethanave, identifikimin dhe kapjen e autoriteteve. /Tch/",
+      "published": "Wed, 10 Dec 2025 06:13:38 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/shperthim-tritoli-ne-shkoder-vetem-deme-materiale/",
+      "fetched_at": "2025-12-10T06:31:30.292619",
+      "ai_summary": "Një sasi lënde plasëse, e dyshuar si tritol, i është vendosur një biznesi në lagjen “Skënderbeg” në qytetin e Shkodrës.Biznesi operon në fushën e reklamave dhe marketingut.Lënda plasëse është vendosur..."
+    },
+    {
+      "title": "Mot me vranësira dhe me diell, temperatura deri në 12 gradë Celsius",
+      "link": "https://telegrafi.com/mot-me-vranesira-dhe-me-diell-temperatura-deri-ne-12-grade-celsius/",
+      "description": "Instituti Hidrometeorologjik i Kosovës bën të ditur se sot do të mbajë mot i vranët dhe me diell. Sipas një njoftimi bëhet e ditur se temperaturat minimale do të jenë nga -1 deri në 1 gradë Celsius, ndërsa maksimalet do të jenë nga 9-12 gradë Celsius”“Moti i vranët dhe me interval me diell. Temperaturat minimale: -1 deri 1 °C. Temperaturat maksimale: 9-12°C”, thuhet në njoftim. Tutje bëhet e ditur se era kryesisht do të fryjë nga jugperëndimi me shpejtësi 1-6m/s. /Telegrafi/",
+      "published": "Wed, 10 Dec 2025 06:06:52 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mot-me-vranesira-dhe-me-diell-temperatura-deri-ne-12-grade-celsius/",
+      "fetched_at": "2025-12-10T06:31:30.292920",
+      "ai_summary": "Instituti Hidrometeorologjik i Kosovës bën të ditur se sot do të mbajë mot i vranët dhe me diell. Sipas një njoftimi bëhet e ditur se temperaturat minimale do të jenë nga -1 deri në 1 gradë Celsius, n..."
+    },
+    {
+      "title": "Capello për penalltinë e Liverpoolit: Ishte skandaloze, simulim i dukshëm nga Wirtz",
+      "link": "https://telegrafi.com/capello-per-penalltine-e-liverpoolit-ishte-skandaloze-simulim-i-dukshem-nga-wirtz/",
+      "description": "Ish-trajneri i Milanit dhe Anglisë, Fabio Capello, e ka kritikuar ashpër vendimin për t’i akorduar Liverpoolit një penallti të vonshme dhe vendimtare në fitoren 1-0 kundër Interit në ‘San Siro’.Këtë vendim ai e ka quajtur “skandaloz” pas një rishikimi në VAR që u dha penalltinë mysafirëve për atë që italiani e përshkruan si “simulim të qartë”.“Është një penallti skandaloze, nuk e kuptoj pse duhej të ndërhynte VAR-i kur gjyqtari i pa të gjitha, simulimin e qartë të hedhjes në tokë”, ka thënë fillimisht Capello.Ndeshja tashmë kishte pasur mjaftueshëm drama të lidhura me VAR-in, pasi një gol i Liverpoolit ishte anuluar më herët për një prekje me dorë.Megjithatë, “Të Kuqtë” përfituan nga ndërhyrja e VAR, kur Bastoni u gjykua se tërhoqi për fanelle Florian Wirtz.🇪🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿 EL PENALTI DE BASTONI SOBRE WIRTZ PITADO A 5 MINUTOS DEL FINALLIVERPOOL TIENE LA VICTORIA SOBRE INTER POR CHAMPIONS LEAGUE 👀pic.twitter.com/JIwgADKL9V— Ligas Top del Fútbol (@LigasTopFutbol) December 9, 2025 “Nuk e kuptoj fare VAR-in sonte, iu deshën 3 minuta për të anuluar një gol të qartë me dorë”, vazhdoi tutje Capello.Në fund, trajneri i pensionuar goditi vendimin “të turpshëm”, i cili e sheh Interin të zbresë në pozitën e pestë në tabelë, një pikë pas rivalëve të Serie A, Atalanta, që u ngjitën në vend të katërt pas fitores mbresëlënëse 2-1 ndaj Chelseat.“Dhe e thirrën gjyqtarin për një tërheqje fanellash që do të thotë se do të kishim një milion penallti për ndeshje. Krijuan një precedent dhe është e turpshme”, përfundoi ai.Interi tani duhet të presë mbi një muaj për ndeshjen e radhës në Ligën e Kampionëve, kur do të mirëpresë në ‘San Siro’ gjigantët anglezë në super formë, Arsenalin./Telegrafi/",
+      "published": "Tue, 09 Dec 2025 22:50:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/capello-per-penalltine-e-liverpoolit-ishte-skandaloze-simulim-i-dukshem-nga-wirtz/",
+      "fetched_at": "2025-12-10T06:31:30.293240",
+      "ai_summary": "Ish-trajneri i Milanit dhe Anglisë, Fabio Capello, e ka kritikuar ashpër vendimin për t’i akorduar Liverpoolit një penallti të vonshme dhe vendimtare në fitoren 1-0 kundër Interit në ‘San Siro’.Këtë v..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
