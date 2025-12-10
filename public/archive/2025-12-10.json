@@ -1,6 +1,6 @@
 {
   "date": "2025-12-10",
-  "timestamp": "2025-12-10T03:22:01.424052",
+  "timestamp": "2025-12-10T04:32:40.534750",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,56 +9,69 @@
   },
   "articles": [
     {
-      "title": "Donald Trump: Është koha për të mbajtur zgjedhje presidenciale në Ukrainë",
-      "link": "https://www.balkanweb.com/donald-trump-eshte-koha-per-te-mbajtur-zgjedhje-presidenciale-ne-ukraine/",
-      "description": "Presidenti i SHBA-së, Donald Trump, i ka kërkuar Ukrainës të mbajë zgjedhje, duke vënë në pikëpyetje kredencialet demokratike të vendit në një intervistë për Politico të publikuar të martën. Ai duket se i bëri një sfidë të re Vladimir Zelensky-t, mandati presidencial i të cilit skadoi në maj 2024, por ka refuzuar të organizojë zgjedhje […]",
-      "published": "Wed, 10 Dec 2025 03:00:51 +0000",
+      "title": "Australia u ndalon adoleshentëve nën 16 vjeç përdorimin e rrjeteve sociale",
+      "link": "https://www.balkanweb.com/australia-u-ndalon-adoleshenteve-nen-16-vjec-perdorimin-e-rrjeteve-sociale/",
+      "description": "Australia u ndaloi adoleshentëve të përdorin mediat sociale, duke nisur një masakër të parë në botë, e cila synon t’i largojë fëmijët nga varësia ndaj shfletimit në rrjetet sociale si Facebook, Instagram dhe TikTok. Një sërë aplikacionesh dhe faqesh interneti më të njohura në botë përballen me gjoba prej 33 milionë dollarësh amerikanë nëse nuk […]",
+      "published": "Wed, 10 Dec 2025 04:30:13 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867718",
-      "fetched_at": "2025-12-10T03:21:26.428501",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, i ka kërkuar Ukrainës të mbajë zgjedhje, duke vënë në pikëpyetje kredencialet demokratike të vendit në një intervistë për Politico të publikuar të martën. Ai duket ..."
+      "guid": "https://www.balkanweb.com/?p=2867742",
+      "fetched_at": "2025-12-10T04:32:05.087746",
+      "ai_summary": "Australia u ndaloi adoleshentëve të përdorin mediat sociale, duke nisur një masakër të parë në botë, e cila synon t’i largojë fëmijët nga varësia ndaj shfletimit në rrjetet sociale si Facebook, Instag..."
     },
     {
-      "title": "OKB paralajmëron se 7 në 10 gra, mbrojtëse të të drejtave të njeriut, aktiviste dhe gazetare, përballen me dhunë në internet",
-      "link": "https://www.balkanweb.com/okb-paralajmeron-se-7-ne-10-gra-mbrojtese-te-te-drejtave-te-njeriut-aktiviste-dhe-gazetare-perballen-me-dhune-ne-internet/",
-      "description": "Dhuna online ndaj grave në jetën publike është intensifikuar ndjeshëm, me shtatë në 10 gra mbrojtëse të të drejtave të njeriut, aktiviste dhe gazetare që raportojnë se kanë përjetuar abuzim dixhital, sipas një raporti të OKB-së për Gratë të publikuar të martën. Raporti, i cili u hartua në bashkëpunim me Komisionin Evropian dhe partnerët e […]",
-      "published": "Wed, 10 Dec 2025 02:30:49 +0000",
+      "title": "Një burrë 58-vjeçar ekzekutohet në Florida për vrasjen e një gruaje në vitin 1989",
+      "link": "https://www.balkanweb.com/nje-burre-58-vjecar-ekzekutohet-ne-florida-per-vrasjen-e-nje-gruaje-ne-vitin-1989/",
+      "description": "Një burrë 58-vjeçar i dënuar për vrasjen e një gruaje 33-vjeçare në vitin 1989 u ekzekutua në Florida të martën . Ekzekutimi , I kryer me injeksion vdekjeprurës, ishte i 45-ti në Shtetet e Bashkuara këtë vit, duke përfshirë 18 në shtet. Ishte numri më i lartë që nga viti 2010, kur kishte 46. Tre […]",
+      "published": "Wed, 10 Dec 2025 04:15:06 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867748",
-      "fetched_at": "2025-12-10T03:21:26.428642",
-      "ai_summary": "Dhuna online ndaj grave në jetën publike është intensifikuar ndjeshëm, me shtatë në 10 gra mbrojtëse të të drejtave të njeriut, aktiviste dhe gazetare që raportojnë se kanë përjetuar abuzim dixhital, ..."
+      "guid": "https://www.balkanweb.com/?p=2867759",
+      "fetched_at": "2025-12-10T04:32:05.087894",
+      "ai_summary": "Një burrë 58-vjeçar i dënuar për vrasjen e një gruaje 33-vjeçare në vitin 1989 u ekzekutua në Florida të martën . Ekzekutimi , I kryer me injeksion vdekjeprurës, ishte i 45-ti në Shtetet e Bashkuara k..."
     },
     {
-      "title": "Merz për gjobën ndaj X: Zbatoni ligjet tona, për sa kohë që veproni këtu",
-      "link": "https://www.balkanweb.com/merz-per-gjoben-ndaj-x-zbatoni-ligjet-tona-per-sa-kohe-qe-veproni-ketu/",
-      "description": "Kompanitë e huaja, përfshirë ato nga Shtetet e Bashkuara, duhet të zbatojnë ligjet gjermane dhe të BE-së nëse operojnë atje, tha kancelari gjerman Friedrich Merz. Deklarata ishte në përgjigje të kritikave nga Presidenti i SHBA-së Donald Trump për gjobën e vendosur ndaj Platform X të Elon Musk. “Ashtu si kompanitë evropiane dhe gjermane duhet t’u […]",
-      "published": "Wed, 10 Dec 2025 02:00:32 +0000",
+      "title": "Papa kërkon ‘vazhdim të dialogut’ pas takimit me Zelenskyn",
+      "link": "https://www.balkanweb.com/papa-kerkon-vazhdim-te-dialogut-pas-takimit-me-zelenskyn/",
+      "description": "Papa Leo theksoi nevojën për të vazhduar dialogun që synon një “paqe të drejtë dhe të qëndrueshme” gjatë një takimi të martën me Presidentin ukrainas Volodymyr Zelensky , tha Vatikani në një deklaratë. Papa “përsëriti nevojën për vazhdimin e dialogut dhe shprehu dëshirën e tij urgjente që iniciativat aktuale diplomatike të sjellin një paqe të […]",
+      "published": "Wed, 10 Dec 2025 04:00:20 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867712",
-      "fetched_at": "2025-12-10T03:21:26.428728",
-      "ai_summary": "Kompanitë e huaja, përfshirë ato nga Shtetet e Bashkuara, duhet të zbatojnë ligjet gjermane dhe të BE-së nëse operojnë atje, tha kancelari gjerman Friedrich Merz. Deklarata ishte në përgjigje të kriti..."
+      "guid": "https://www.balkanweb.com/?p=2867739",
+      "fetched_at": "2025-12-10T04:32:05.087969",
+      "ai_summary": "Papa Leo theksoi nevojën për të vazhduar dialogun që synon një “paqe të drejtë dhe të qëndrueshme” gjatë një takimi të martën me Presidentin ukrainas Volodymyr Zelensky , tha Vatikani në një deklaratë..."
     },
     {
-      "title": "Greqia në Këshillin e Sigurimit të OKB-së: “Ukraina duhet të ketë fjalën e fundit”",
-      "link": "https://www.balkanweb.com/greqia-ne-keshillin-e-sigurimit-te-okb-se-ukraina-duhet-te-kete-fjalen-e-fundit/",
-      "description": "Këshilli i Sigurimit i OKB-së u mblodh për situatën në Ukrainë me kërkesë të Danimarkës, Francës, Greqisë , Republikës së Koresë (ROK), Sllovenisë dhe Mbretërisë së Bashkuar. Zëvendëskryetarja e Zyrës për Koordinimin e Çështjeve Humanitare (OCHA), Joyce Msuya, theksoi se dy javët e fundit janë shënuar nga “sulme intensive me raketa dhe dronë, shumë prej […]",
-      "published": "Wed, 10 Dec 2025 01:30:30 +0000",
+      "title": "Trump siguron se çmimet në SHBA po shënojnë një rënie të madhe falë tij",
+      "link": "https://www.balkanweb.com/trump-siguron-se-cmimet-ne-shba-po-shenojne-nje-renie-te-madhe-fale-tij/",
+      "description": "Presidenti i SHBA-së, Donald Trump, u mburr të martën se çmimet e mallrave të ndryshme, si me pakicë ashtu edhe jo me pakicë, po shënojnë një rënie “të madhe” falë tij, edhe pse inflacioni po rritet në SHBA , sipas statistikave të fundit të disponueshme, që datojnë që nga shtatori. Miliarderi republikan, gjatë një fjalimi […]",
+      "published": "Wed, 10 Dec 2025 03:50:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2867735",
-      "fetched_at": "2025-12-10T03:21:26.428807",
-      "ai_summary": "Këshilli i Sigurimit i OKB-së u mblodh për situatën në Ukrainë me kërkesë të Danimarkës, Francës, Greqisë , Republikës së Koresë (ROK), Sllovenisë dhe Mbretërisë së Bashkuar. Zëvendëskryetarja e Zyrës..."
+      "guid": "https://www.balkanweb.com/?p=2867756",
+      "fetched_at": "2025-12-10T04:32:05.088051",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, u mburr të martën se çmimet e mallrave të ndryshme, si me pakicë ashtu edhe jo me pakicë, po shënojnë një rënie “të madhe” falë tij, edhe pse inflacioni po rritet n..."
+    },
+    {
+      "title": "Një avion ushtarak Il-76 rrëzohet në Sudan, duke vrarë të gjithë anëtarët e ekuipazhit",
+      "link": "https://www.balkanweb.com/nje-avion-ushtarak-il-76-rrezohet-ne-sudan-duke-vrare-te-gjithe-anetaret-e-ekuipazhit/",
+      "description": "Një aeroplan mallrash Il-76 u rrëzua në Sudan të martën, duke vrarë të gjithë anëtarët e ekuipazhit në bord, raportoi AFP, duke cituar një burim. “Avioni Il-76 u rrëzua ndërsa përpiqej të ulej në Bazën Ajrore Osman Digna në qytetin portual të Port Sudanit në Detin e Kuq, pasi përjetoi një defekt teknik”, citoi agjencia […]",
+      "published": "Wed, 10 Dec 2025 03:30:25 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2867752",
+      "fetched_at": "2025-12-10T04:32:05.088128",
+      "ai_summary": "Një aeroplan mallrash Il-76 u rrëzua në Sudan të martën, duke vrarë të gjithë anëtarët e ekuipazhit në bord, raportoi AFP, duke cituar një burim. “Avioni Il-76 u rrëzua ndërsa përpiqej të ulej në Bazë..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 5,
   "sources": [
+    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
