@@ -1,6 +1,6 @@
 {
   "date": "2025-12-11",
-  "timestamp": "2025-12-11T04:34:35.037787",
+  "timestamp": "2025-12-11T06:32:57.543808",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,59 +9,124 @@
   },
   "articles": [
     {
-      "title": "NATO gati të përgjigjet ndaj incidentit të Rusisë në Estoni",
-      "link": "https://www.balkanweb.com/nato-gati-te-pergjigjet-ndaj-incidentit-te-rusise-ne-estoni/",
-      "description": "NATO ka deklaruar gatishmërinë e saj për të mbrojtur aleatët e saj pasi Rusia shkeli hapësirën ajrore të Estonisë. “NATO dhe aleatët e saj do të përdorin të gjitha mjetet e nevojshme ushtarake dhe joushtarake për të mbrojtur veten dhe për të penguar kërcënimet nga të gjitha drejtimet, në përputhje me ligjin ndërkombëtar. Ne do […]",
-      "published": "Thu, 11 Dec 2025 04:30:25 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
+      "title": "Karikatura e ditës - BE-ja dhe qeveria e re",
+      "link": "https://www.koha.net/karikatura/karikatura-e-dites-be-ja-dhe-qeveria-e-re-1",
+      "description": "Karikatura e ditës - BE-ja dhe qeveria e re",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2868471",
-      "fetched_at": "2025-12-11T04:33:59.641469",
-      "ai_summary": "NATO ka deklaruar gatishmërinë e saj për të mbrojtur aleatët e saj pasi Rusia shkeli hapësirën ajrore të Estonisë. “NATO dhe aleatët e saj do të përdorin të gjitha mjetet e nevojshme ushtarake dhe jou..."
+      "guid": "https://www.koha.net/476125",
+      "fetched_at": "2025-12-11T06:32:19.280968",
+      "ai_summary": "Karikatura e ditës - BE-ja dhe qeveria e re"
     },
     {
-      "title": "Rutte: NATO nuk dëshiron që Rusia të vazhdojë veprimet e saj të rrezikshme",
-      "link": "https://www.balkanweb.com/rutte-nato-nuk-deshiron-qe-rusia-te-vazhdoje-veprimet-e-saj-te-rrezikshme/",
-      "description": "NATO nuk dëshiron veprime të reja të rrezikshme nga Rusia. Sekretari i Përgjithshëm i NATO-s Mark Rutte tha këtë në një konferencë për shtyp në Bruksel. “Ne nuk duam që Rusia të vazhdojë këto veprime të rrezikshme, qofshin të qëllimshme apo jo. Ne jemi të gatshëm të mbrojmë çdo centimetër të territorit të vendeve aleate. […]",
-      "published": "Thu, 11 Dec 2025 04:00:33 +0000",
+      "title": "“Pas vdekjes së gruas dhe së bijës, Pashko Vasa gjente ngushëllimin te dhëndri dhe dy vajzat e tij, por Kupeliani e vazhdoi korrupsionin në të gjithë administratën…”/ Dëshmia e rrallë e gazetarit libanez",
+      "link": "https://www.balkanweb.com/pas-vdekjes-se-gruas-dhe-se-bijes-pashko-vasa-gjente-ngushellimin-te-dhendri-dhe-dy-vajzat-e-tij-por-kupeliani-e-vazhdoi-korrupsionin-ne-te-gjithe-administraten-deshmia-e/",
+      "description": "Nga Avni Dani Ai kishte jetuar si një Pasha e qeveritar osman i fesë katolike. Kishte ndërruar jetë shumë larg vendit që e deshi aq shumë, e për të cilin pati shkruar një nga poezitë aq të bukura, saqë nuk kishte asnjë bashkëkombas që të mos e dinte. Fati i kishte rezervuar Vaso Pashës, 86 […]",
+      "published": "Thu, 11 Dec 2025 06:18:21 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2868468",
-      "fetched_at": "2025-12-11T04:33:59.641606",
-      "ai_summary": "NATO nuk dëshiron veprime të reja të rrezikshme nga Rusia. Sekretari i Përgjithshëm i NATO-s Mark Rutte tha këtë në një konferencë për shtyp në Bruksel. “Ne nuk duam që Rusia të vazhdojë këto veprime ..."
+      "guid": "https://www.balkanweb.com/?p=2867883",
+      "fetched_at": "2025-12-11T06:32:21.682735",
+      "ai_summary": "Nga Avni Dani Ai kishte jetuar si një Pasha e qeveritar osman i fesë katolike. Kishte ndërruar jetë shumë larg vendit që e deshi aq shumë, e për të cilin pati shkruar një nga poezitë aq të bukura, saq..."
     },
     {
-      "title": "Trump planifikon të emërojë Bordin e Paqes në Gaza në fillim të vitit të ardhshëm",
-      "link": "https://www.balkanweb.com/trump-planifikon-te-emeroje-bordin-e-paqes-ne-gaza-ne-fillim-te-vitit-te-ardhshem/",
-      "description": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se një njoftim në lidhje me udhëheqësit botërorë që do të shërbejnë në Bordin e Paqes në Gaza duhet të bëhet në fillim të vitit të ardhshëm. Trump u tha gazetarëve gjatë një eventi ekonomik në Sallën Roosevelt të Shtëpisë së Bardhë se një sërë udhëheqësish duan […]",
-      "published": "Thu, 11 Dec 2025 03:45:07 +0000",
+      "title": "Parashikimi i motit për sot, 11 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-11-dhjetor-2025/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimtare. Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 5m/sek, e cila hera-herës në bregdet dhe lugina fiton shpejtësi deri në […]",
+      "published": "Thu, 11 Dec 2025 06:13:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2868494",
-      "fetched_at": "2025-12-11T04:33:59.641693",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të mërkurën se një njoftim në lidhje me udhëheqësit botërorë që do të shërbejnë në Bordin e Paqes në Gaza duhet të bëhet në fillim të vitit të ardhshëm. Trump u..."
+      "guid": "https://www.balkanweb.com/?p=2868372",
+      "fetched_at": "2025-12-11T06:32:21.682881",
+      "ai_summary": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimtare. Era do të fryjë me drejtim..."
     },
     {
-      "title": "Guterres: Marrëveshjet e paqes midis Azerbajxhanit dhe Armenisë janë një zhvillim pozitiv",
-      "link": "https://www.balkanweb.com/guterres-marreveshjet-e-paqes-midis-azerbajxhanit-dhe-armenise-jane-nje-zhvillim-pozitiv/",
-      "description": "Marrëveshjet e paqes të arritura midis Azerbajxhanit dhe Armenisë në Uashington janë një ngjarje pozitive për të gjithë botën. Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, e tha këtë gjatë fjalimit të tij në sesionin e 80-të të Asamblesë së Përgjithshme të organizatës më 23 shtator. Sekretari i Përgjithshëm bëri thirrje për t’i dhënë fund […]",
-      "published": "Thu, 11 Dec 2025 03:30:06 +0000",
+      "title": "Horoskopi për ditën e sotme, 11 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-11-dhjetor-2025/",
+      "description": "Dashi Nëse jeni duke kërkuar një punë të re, sot është një ditë e mirë për të dalë në publik. Bëni telefonata. Dërgoni CV-në tuaj me email te punëdhënësit për të cilët dëshironi të punoni. Takohuni me një mik për drekë, nëse është e mundur. Në përgjithësi, duhet të dilni dhe të krijoni rrjet. Ndërveprimi […]",
+      "published": "Thu, 11 Dec 2025 06:05:47 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2868465",
-      "fetched_at": "2025-12-11T04:33:59.641770",
-      "ai_summary": "Marrëveshjet e paqes të arritura midis Azerbajxhanit dhe Armenisë në Uashington janë një ngjarje pozitive për të gjithë botën. Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, e tha këtë gjatë fja..."
+      "guid": "https://www.balkanweb.com/?p=2868009",
+      "fetched_at": "2025-12-11T06:32:21.682956",
+      "ai_summary": "Dashi Nëse jeni duke kërkuar një punë të re, sot është një ditë e mirë për të dalë në publik. Bëni telefonata. Dërgoni CV-në tuaj me email te punëdhënësit për të cilët dëshironi të punoni. Takohuni me..."
+    },
+    {
+      "title": "Franca mund t’u ndalojë fëmijëve dhe adoleshentëve aksesin në rrjetet sociale",
+      "link": "https://www.balkanweb.com/franca-mund-tu-ndaloje-femijeve-dhe-adoleshenteve-aksesin-ne-rrjetet-sociale/",
+      "description": "Presidenti francez Emmanuel Macron synon të kërkojë miratimin e një projektligji që u ndalon fëmijëve dhe adoleshentëve nën moshën 15-16 vjeç të hyjnë në rrjetet sociale. Ai e bëri këtë deklaratë në një takim me lexuesit e botimeve “Ouest-France” në qytetin perëndimor francez të Saint-Malo . “Do t’u kërkojmë të gjitha rrjeteve sociale të verifikojnë […]",
+      "published": "Thu, 11 Dec 2025 05:00:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2868502",
+      "fetched_at": "2025-12-11T06:32:21.683026",
+      "ai_summary": "Presidenti francez Emmanuel Macron synon të kërkojë miratimin e një projektligji që u ndalon fëmijëve dhe adoleshentëve nën moshën 15-16 vjeç të hyjnë në rrjetet sociale. Ai e bëri këtë deklaratë në n..."
+    },
+    {
+      "title": "Kryeministri i Spanjës i bën thirrje botës të ngrejë zërin për palestinezët",
+      "link": "https://www.balkanweb.com/kryeministri-i-spanjes-i-ben-thirrje-botes-te-ngreje-zerin-per-palestinezet/",
+      "description": "Kryeministri i Spanjës i bëri thirrje të enjten bashkësisë ndërkombëtare të “ngrejë zërin” për të parandaluar harrimin e gjendjes së vështirë të palestinezëve, gjatë një takimi me udhëheqësin e Autoritetit Palestinez, Mahmud Abbas. Kryeministri Pedro Sanchez përsëriti gjithashtu mbështetjen e Madridit për një zgjidhje me dy shtete, duke e përshkruar atë si “zgjidhjen e vetme […]",
+      "published": "Thu, 11 Dec 2025 04:45:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2868485",
+      "fetched_at": "2025-12-11T06:32:21.683113",
+      "ai_summary": "Kryeministri i Spanjës i bëri thirrje të enjten bashkësisë ndërkombëtare të “ngrejë zërin” për të parandaluar harrimin e gjendjes së vështirë të palestinezëve, gjatë një takimi me udhëheqësin e Autori..."
+    },
+    {
+      "title": "Moti në Shqipëri, vranët dhe me diell",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-me-diell/",
+      "description": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të enjten do të ndikohet nga kushte atmosferike të qëndrueshme.SHMU njofton se orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, vranësira të pakta kalimtare. Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 5m/sek, e cila hera-herës në bregdet dhe lugina fiton shpejtësi deri në 12m/sek.Deti - Valëzimi forcës 1-2 ballë. /Telegrafi/",
+      "published": "Thu, 11 Dec 2025 06:04:26 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-me-diell/",
+      "fetched_at": "2025-12-11T06:32:24.248849",
+      "ai_summary": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të enjten do të ndikohet nga kushte atmosferike të qëndrueshme.SHMU njofton se orët me diell do të mbizotërojnë në pjesën më të madhe të vendi..."
+    },
+    {
+      "title": "Vranët dhe me diell",
+      "link": "https://telegrafi.com/vranet-dhe-me-diell-2674389964/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot i vranët dhe me interval me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -1 deri 1 gradë Celsius, ndërkaq maksimalet nga 9 deri në 12 gradë. Era do të fryjë kryesisht nga jugperëndimi me shpejtësi 1-6m/s. /Telegrafi/",
+      "published": "Thu, 11 Dec 2025 06:01:22 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vranet-dhe-me-diell-2674389964/",
+      "fetched_at": "2025-12-11T06:32:24.249353",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot i vranët dhe me interval me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -1 deri 1 gradë Celsius, ndërka..."
+    },
+    {
+      "title": "Alba akuzon Benitën se e ka shtyrë, eskalon situata - banorët hynë për t'i ndarë",
+      "link": "https://telegrafi.com/alba-akuzon-beniten-se-e-ka-shtyre-eskalon-situata-banoret-hyne-per-t-i-ndare/",
+      "description": "Situata në Big Brother VIP Kosova është tensionuar sërish, teksa dy banoret Alba dhe Benita janë përfshirë në një debat të ashpër që ka ngritur temperaturat brenda shtëpisë.Gjatë një bisede, Alba e akuzoi Benitën se e kishte shtyrë, duke e cilësuar veprimin si provokues dhe të panevojshëm. Mirëpo, Benita mohoi kategorikisht një gjë të tillë, duke insistuar se nuk ka kryer asnjë veprim fizik ndaj saj.Përplasja mes tyre u zhvillua me tone të larta dhe nervozizëm të dukshëm, ndërsa banorët e tjerë ndërhynë për të qetësuar situatën, e cila rrezikonte të dilte jashtë kontrollit.Ky incident ka sjellë reagime të menjëhershme nga publiku në rrjetet sociale, me ndjekës që po komentojnë mbi dinamikën në rritje të konfliktit mes dy banoreve, i cili pritet të ndikojë edhe më tej në lojën dhe marrëdhëniet brenda shtëpisë. /Telegrafi/ - YouTube youtu.be",
+      "published": "Wed, 10 Dec 2025 22:56:31 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/alba-akuzon-beniten-se-e-ka-shtyre-eskalon-situata-banoret-hyne-per-t-i-ndare/",
+      "fetched_at": "2025-12-11T06:32:24.249577",
+      "ai_summary": "Situata në Big Brother VIP Kosova është tensionuar sërish, teksa dy banoret Alba dhe Benita janë përfshirë në një debat të ashpër që ka ngritur temperaturat brenda shtëpisë.Gjatë një bisede, Alba e ak..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 9,
   "sources": [
+    "Koha.net",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
