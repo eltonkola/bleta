@@ -1,6 +1,6 @@
 {
   "date": "2025-12-12",
-  "timestamp": "2025-12-12T03:22:21.215373",
+  "timestamp": "2025-12-12T04:32:41.230059",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,110 +9,32 @@
   },
   "articles": [
     {
-      "title": "Rutte paralajmëron: Rusia mund të sulmojë NATO-n brenda 5 vitesh",
-      "link": "https://www.balkanweb.com/rutte-paralajmeron-rusia-mund-te-sulmoje-nato-n-brenda-5-vitesh/",
-      "description": "Sekretari i përgjithshëm i NATO-s paralajmëroi të enjten se Rusia mund të jetë në një pozicion për të sulmuar NATO-n brenda pesë vjetësh, duke u bërë thirrje aleatëve të rrisin shpenzimet e mbrojtjes dhe të forcojnë mbrojtjen e aleancës. “Duhet të jemi shumë të qartë rreth kërcënimit. Ne jemi objektivi i radhës i Rusisë”, tha […]",
-      "published": "Fri, 12 Dec 2025 03:00:32 +0000",
+      "title": "Von der Leyen: Java e ardhshme do të jetë vendimtare për Ukrainën",
+      "link": "https://www.balkanweb.com/von-der-leyen-java-e-ardhshme-do-te-jete-vendimtare-per-ukrainen/",
+      "description": "“Java e ardhshme do të jetë vendimtare” për Ukrainën , tha Presidentja e Komisionit Evropian Ursula von der Leyen të enjten në mbrëmje , duke përsëritur dëshirën e saj për një “paqe të drejtë dhe të qëndrueshme”. Kryetarja gjermane e Komisionit tha se kishte folur me partnerët në “aleancën e të vullnetshmëve” të mbështetësve të […]",
+      "published": "Fri, 12 Dec 2025 04:30:07 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869297",
-      "fetched_at": "2025-12-12T03:22:15.810047",
-      "ai_summary": "Sekretari i përgjithshëm i NATO-s paralajmëroi të enjten se Rusia mund të jetë në një pozicion për të sulmuar NATO-n brenda pesë vjetësh, duke u bërë thirrje aleatëve të rrisin shpenzimet e mbrojtjes ..."
+      "guid": "https://www.balkanweb.com/?p=2869313",
+      "fetched_at": "2025-12-12T04:32:36.316802",
+      "ai_summary": "“Java e ardhshme do të jetë vendimtare” për Ukrainën , tha Presidentja e Komisionit Evropian Ursula von der Leyen të enjten në mbrëmje , duke përsëritur dëshirën e saj për një “paqe të drejtë dhe të q..."
     },
     {
-      "title": "Trump nuk e përjashton mundësinë e një sulmi të ri amerikan ndaj Iranit",
-      "link": "https://www.balkanweb.com/trump-nuk-e-perjashton-mundesine-e-nje-sulmi-te-ri-amerikan-ndaj-iranit/",
-      "description": "Presidenti i SHBA-së, Donald Trump, nuk e ka përjashtuar mundësinë e një sulmi të ri ndaj Iranit nëse udhëheqja e vendit nuk arrin një marrëveshje me Uashingtonin dhe vazhdon programin e saj të raketave. Trump i tha këto fjalë ndërsa po përgjigjej pyetjeve të gazetarëve në Shtëpinë e Bardhë. Sipas Trump, nëse Forcat e Armatosura […]",
-      "published": "Fri, 12 Dec 2025 02:45:27 +0000",
+      "title": "Putini njofton pushtimin e Siverskut në Ukrainën lindore: “Rruga është e hapur për përparime të mëtejshme”",
+      "link": "https://www.balkanweb.com/putini-njofton-pushtimin-e-siverskut-ne-ukrainen-lindore-rruga-eshte-e-hapur-per-perparime-te-metejshme/",
+      "description": "Presidenti rus Vladimir Putin dhe Shefi i Shtabit të Përgjithshëm Valery Gerasimov njoftuan të enjten pushtimin e qytetit të Siverskut në Ukrainën lindore , i cili sipas tyre hap rrugën për përparime të mëtejshme. Si rezultat, operacione të reja në drejtime të tjera në Donbas janë të mundshme, tha Putin gjatë një takimi të transmetuar […]",
+      "published": "Fri, 12 Dec 2025 03:30:02 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869319",
-      "fetched_at": "2025-12-12T03:22:15.810220",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, nuk e ka përjashtuar mundësinë e një sulmi të ri ndaj Iranit nëse udhëheqja e vendit nuk arrin një marrëveshje me Uashingtonin dhe vazhdon programin e saj të raketa..."
-    },
-    {
-      "title": "Sekretari i Thesarit të SHBA-së: Nëse inteligjenca artificiale e Kinës tejkalon “Kupolën e Artë”, ajo do të humbasë kuptimin e saj",
-      "link": "https://www.balkanweb.com/sekretari-i-thesarit-te-shba-se-nese-inteligjenca-artificiale-e-kines-tejkalon-kupolen-e-arte-ajo-do-te-humbase-kuptimin-e-saj/",
-      "description": "Dominimi i Kinës në teknologjitë e inteligjencës artificiale do të jetë i pakuptimtë nëse prish sistemin e mbrojtjes nga raketat “Kupola e Artë” të SHBA-së. Kjo është deklaruar nga Sekretari i Thesarit të SHBA-së, Scott Bessent. “Kjo (inteligjenca artificiale) është inovacioni më i madh teknologjik në historinë e vendit tonë. Do të bëhet një burim […]",
-      "published": "Fri, 12 Dec 2025 02:35:44 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869322",
-      "fetched_at": "2025-12-12T03:22:15.810304",
-      "ai_summary": "Dominimi i Kinës në teknologjitë e inteligjencës artificiale do të jetë i pakuptimtë nëse prish sistemin e mbrojtjes nga raketat “Kupola e Artë” të SHBA-së. Kjo është deklaruar nga Sekretari i Thesari..."
-    },
-    {
-      "title": "Pakistani dënon ish-shefin e inteligjencës me 14 vjet burg",
-      "link": "https://www.balkanweb.com/pakistani-denon-ish-shefin-e-inteligjences-me-14-vjet-burg/",
-      "description": "Një gjykatë ushtarake në Pakistan dënoi ish-shefin e inteligjencës së vendit, gjenerallejtënant (në pension) Faiz Hameed , me 14 vjet burg, njoftoi të enjten krahu i medias së ushtrisë. Kjo është hera e parë në historinë 78-vjeçare të vendit që një ish-shef i Inteligjencës Ndër-Shërbimore (ISI) është dënuar. Një Gjykatë e Përgjithshme Ushtarake lëshoi ​​zyrtarisht […]",
-      "published": "Fri, 12 Dec 2025 02:30:31 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869303",
-      "fetched_at": "2025-12-12T03:22:15.810401",
-      "ai_summary": "Një gjykatë ushtarake në Pakistan dënoi ish-shefin e inteligjencës së vendit, gjenerallejtënant (në pension) Faiz Hameed , me 14 vjet burg, njoftoi të enjten krahu i medias së ushtrisë. Kjo është hera..."
-    },
-    {
-      "title": "Shpërthim i fuqishëm gazi në një ndërtesë banimi në Kajro, 1 i vdekur dhe disa të plagosur",
-      "link": "https://www.balkanweb.com/shperthim-i-fuqishem-gazi-ne-nje-ndertese-banimi-ne-kajro-1-i-vdekur-dhe-disa-te-plagosur/",
-      "description": "Të paktën një person u vra dhe disa të tjerë u plagosën pasi një shpërthim gazi shkaktoi shembjen e një ndërtese në provincën e Gizës pranë Kajros të enjten në mbrëmje, sipas një deklarate zyrtare dhe raporteve të medias lokale. Shpërthimi, i cili ndodhi në lagjen Imbaba, rezultoi në shembjen e një ndërtese banimi, thuhet […]",
-      "published": "Fri, 12 Dec 2025 02:00:10 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869294",
-      "fetched_at": "2025-12-12T03:22:15.810480",
-      "ai_summary": "Të paktën një person u vra dhe disa të tjerë u plagosën pasi një shpërthim gazi shkaktoi shembjen e një ndërtese në provincën e Gizës pranë Kajros të enjten në mbrëmje, sipas një deklarate zyrtare dhe..."
-    },
-    {
-      "title": "Rusia pretendon se ka rrëzuar gati 300 dronë ukrainas në një sulm gjatë natës",
-      "link": "https://www.balkanweb.com/rusia-pretendon-se-ka-rrezuar-gati-300-drone-ukrainas-ne-nje-sulm-gjate-nates/",
-      "description": "Rusia pretendoi të enjten se rrëzoi gati 300 dronë ukrainas në një sulm gjatë natës, i cili rezultoi në anulimin, vonesën ose devijimin e qindra fluturimeve nga aeroportet në Moskë. Ministria ruse e Mbrojtjes pretendoi në një deklaratë në Telegram se mbrojtja ajrore e vendit rrëzoi 287 dronë ukrainas nga ora 23:00 të mërkurën deri […]",
-      "published": "Fri, 12 Dec 2025 01:50:30 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869310",
-      "fetched_at": "2025-12-12T03:22:15.810556",
-      "ai_summary": "Rusia pretendoi të enjten se rrëzoi gati 300 dronë ukrainas në një sulm gjatë natës, i cili rezultoi në anulimin, vonesën ose devijimin e qindra fluturimeve nga aeroportet në Moskë. Ministria ruse e M..."
-    },
-    {
-      "title": "Kina dhe Brazili krijojnë një laborator që do të përqendrohet në nevojat shkencore të vëzhgimit astronomik dhe eksplorimit të hapësirës",
-      "link": "https://www.balkanweb.com/kina-dhe-brazili-krijojne-nje-laborator-qe-do-te-perqendrohet-ne-nevojat-shkencore-te-vezhgimit-astronomik-dhe-eksplorimit-te-hapesires/",
-      "description": "Kina dhe Brazili po krijojnë një laborator që do të përqendrohet në nevojat shkencore të vëzhgimit astronomik dhe eksplorimit të hapësirës së thellë, sipas një deklarate të mërkurën nga Korporata shtetërore e Grupit të Teknologjisë së Elektronikës së Kinës. Kompania përshëndeti marrëveshjen midis Institutit të Kërkimeve të Komunikimeve në Rrjet të korporatës kineze me Universitetin […]",
-      "published": "Fri, 12 Dec 2025 01:40:14 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869306",
-      "fetched_at": "2025-12-12T03:22:15.810630",
-      "ai_summary": "Kina dhe Brazili po krijojnë një laborator që do të përqendrohet në nevojat shkencore të vëzhgimit astronomik dhe eksplorimit të hapësirës së thellë, sipas një deklarate të mërkurën nga Korporata shte..."
-    },
-    {
-      "title": "Rusia zotohet se do t’u përgjigjet kufizimeve të reja të BE-së mbi lëvizjen e diplomatëve",
-      "link": "https://www.balkanweb.com/rusia-zotohet-se-do-tu-pergjigjet-kufizimeve-te-reja-te-be-se-mbi-levizjen-e-diplomateve/",
-      "description": "Rusia do të ndërmarrë hapa hakmarrës pasi BE- ja të kufizojë lëvizjen e diplomatëve rusë brenda bllokut, por këto masa nuk do të ndikojnë te udhëtarët e zakonshëm apo te turizmi, tha të enjten i dërguari i Moskës në Francë . Ambasadori rus Alexey Meshkov i tha transmetuesit Rossiya-24 se Moska po përgatit përgjigjen e […]",
-      "published": "Fri, 12 Dec 2025 01:30:21 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869291",
-      "fetched_at": "2025-12-12T03:22:15.810715",
-      "ai_summary": "Rusia do të ndërmarrë hapa hakmarrës pasi BE- ja të kufizojë lëvizjen e diplomatëve rusë brenda bllokut, por këto masa nuk do të ndikojnë te udhëtarët e zakonshëm apo te turizmi, tha të enjten i dërgu..."
+      "guid": "https://www.balkanweb.com/?p=2869316",
+      "fetched_at": "2025-12-12T04:32:36.316942",
+      "ai_summary": "Presidenti rus Vladimir Putin dhe Shefi i Shtabit të Përgjithshëm Valery Gerasimov njoftuan të enjten pushtimin e qytetit të Siverskut në Ukrainën lindore , i cili sipas tyre hap rrugën për përparime ..."
     }
   ],
-  "total_articles": 8,
+  "total_articles": 2,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
   ]
