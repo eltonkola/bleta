@@ -1,6 +1,6 @@
 {
   "date": "2025-12-12",
-  "timestamp": "2025-12-12T04:32:41.230059",
+  "timestamp": "2025-12-12T06:31:59.020527",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,33 +9,137 @@
   },
   "articles": [
     {
-      "title": "Von der Leyen: Java e ardhshme do të jetë vendimtare për Ukrainën",
-      "link": "https://www.balkanweb.com/von-der-leyen-java-e-ardhshme-do-te-jete-vendimtare-per-ukrainen/",
-      "description": "“Java e ardhshme do të jetë vendimtare” për Ukrainën , tha Presidentja e Komisionit Evropian Ursula von der Leyen të enjten në mbrëmje , duke përsëritur dëshirën e saj për një “paqe të drejtë dhe të qëndrueshme”. Kryetarja gjermane e Komisionit tha se kishte folur me partnerët në “aleancën e të vullnetshmëve” të mbështetësve të […]",
-      "published": "Fri, 12 Dec 2025 04:30:07 +0000",
+      "title": "“Në 1878-ën, në shtëpinë Kolë Çobës në Shkodër, kishte piano dhe fëmijët e tij studionin në konservatorët e Italisë…”! / Historia e panjohur e familjes aristokrate, që u persekutua nga regjimi komunist",
+      "link": "https://www.balkanweb.com/ne-1878-en-ne-shtepine-kole-cobes-ne-shkoder-kishte-piano-dhe-femijet-e-tij-studionin-ne-konservatoret-e-italise-historia-e-panjohur-e-familjes-aristokrate-qe-u-persek/",
+      "description": "Nga Anila Dushi Në jetën e qytetit të Shkodrës, familja Çoba është ndër emrat më të rëndësishëm. Sot familja është thuajse krejt e shpërndarë, ku pasardhës të tyre jetojnë përveç Shkodrës dhe në Tiranë apo emigracion. Kjo familje ka lënë gjurmë në jetën e qytetit të lashtë, pasi prej saj kanë dale figura të nderuara, […]",
+      "published": "Fri, 12 Dec 2025 06:26:29 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869313",
-      "fetched_at": "2025-12-12T04:32:36.316802",
-      "ai_summary": "“Java e ardhshme do të jetë vendimtare” për Ukrainën , tha Presidentja e Komisionit Evropian Ursula von der Leyen të enjten në mbrëmje , duke përsëritur dëshirën e saj për një “paqe të drejtë dhe të q..."
+      "guid": "https://www.balkanweb.com/?p=2868606",
+      "fetched_at": "2025-12-12T06:31:23.320147",
+      "ai_summary": "Nga Anila Dushi Në jetën e qytetit të Shkodrës, familja Çoba është ndër emrat më të rëndësishëm. Sot familja është thuajse krejt e shpërndarë, ku pasardhës të tyre jetojnë përveç Shkodrës dhe në Tiran..."
     },
     {
-      "title": "Putini njofton pushtimin e Siverskut në Ukrainën lindore: “Rruga është e hapur për përparime të mëtejshme”",
-      "link": "https://www.balkanweb.com/putini-njofton-pushtimin-e-siverskut-ne-ukrainen-lindore-rruga-eshte-e-hapur-per-perparime-te-metejshme/",
-      "description": "Presidenti rus Vladimir Putin dhe Shefi i Shtabit të Përgjithshëm Valery Gerasimov njoftuan të enjten pushtimin e qytetit të Siverskut në Ukrainën lindore , i cili sipas tyre hap rrugën për përparime të mëtejshme. Si rezultat, operacione të reja në drejtime të tjera në Donbas janë të mundshme, tha Putin gjatë një takimi të transmetuar […]",
-      "published": "Fri, 12 Dec 2025 03:30:02 +0000",
+      "title": "Abuzim me tendera qindra mln euroshe/ Pezullimi i Ballukut në Kushtetuese, gjykata vendos sot për kërkesën e qeverisë",
+      "link": "https://www.balkanweb.com/abuzim-me-tendera-qindra-mln-euroshe-pezullimi-i-ballukut-ne-kushtetuese-gjykata-vendos-sot-per-kerkesen-e-qeverise/",
+      "description": "Gjykata Kushtetuese do të vendosë ditën e sotme për kërkesën e qeverisë lidhur me çështjen “Balluku”. Qeveria i është drejtuar me një ankimim gjykatës, ku kërkon rrëzimin e masave të sigurisë nga ana e GJKKO për zv.kryeministren Belinda Balluku, duke pretenduar se ajo ka shkelur Kushtetutën dhe ka marrë kompetencat e Kryeministrit, Presidentit dhe Kuvendit. […]",
+      "published": "Fri, 12 Dec 2025 06:20:45 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2869316",
-      "fetched_at": "2025-12-12T04:32:36.316942",
-      "ai_summary": "Presidenti rus Vladimir Putin dhe Shefi i Shtabit të Përgjithshëm Valery Gerasimov njoftuan të enjten pushtimin e qytetit të Siverskut në Ukrainën lindore , i cili sipas tyre hap rrugën për përparime ..."
+      "guid": "https://www.balkanweb.com/?p=2869205",
+      "fetched_at": "2025-12-12T06:31:23.320535",
+      "ai_summary": "Gjykata Kushtetuese do të vendosë ditën e sotme për kërkesën e qeverisë lidhur me çështjen “Balluku”. Qeveria i është drejtuar me një ankimim gjykatës, ku kërkon rrëzimin e masave të sigurisë nga ana ..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, 12 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-12-dhjetor-2025/",
+      "description": "Ditën e Premte vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, përjashtuar vranësirat e pakta kalimtare në relievet malore në lindje. Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 6 m/sek, e cila hera-herës në […]",
+      "published": "Fri, 12 Dec 2025 06:12:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2869201",
+      "fetched_at": "2025-12-12T06:31:23.320647",
+      "ai_summary": "Ditën e Premte vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, përjashtuar vranësirat e pakta kalimtare në relievet ma..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 12 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-12-dhjetor-2025/",
+      "description": "Dashi Konsideroni të ndiqni një rrugë të re pune. Diçka ka të ngjarë të ngjallë interesin tuaj në kohën aktuale. Mos e lini mënjanë këtë ide. Ekziston një potencial i madh këtu për sukses të madh. Mos qëndroni të bllokuar në një situatë që nuk është as tërheqëse. Demi Nëse karriera juaj aktuale duket se […]",
+      "published": "Fri, 12 Dec 2025 06:05:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2868830",
+      "fetched_at": "2025-12-12T06:31:23.320726",
+      "ai_summary": "Dashi Konsideroni të ndiqni një rrugë të re pune. Diçka ka të ngjarë të ngjallë interesin tuaj në kohën aktuale. Mos e lini mënjanë këtë ide. Ekziston një potencial i madh këtu për sukses të madh. Mos..."
+    },
+    {
+      "title": "Trump kërcënon përsëri Venezuelën me sulme tokësore dhe vendos sanksione edhe ndaj të afërmve të Maduros",
+      "link": "https://www.balkanweb.com/trump-kercenon-perseri-venezuelen-me-sulme-tokesore-dhe-vendos-sanksione-edhe-ndaj-te-afermve-te-maduros/",
+      "description": "Presidenti amerikan Donald Trump përsëriti para gazetarëve në Shtëpinë e Bardhë të enjten se forcat e armatosura të vendit së shpejti do të fillojnë të nisin sulme në tokën venezueliane për të parandaluar dërgesat e drogës të arrijnë në Shtetet e Bashkuara, mes krizës së vazhdueshme midis dy vendeve. Presidenti republikan e ka bërë vazhdimisht […]",
+      "published": "Fri, 12 Dec 2025 05:00:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2869300",
+      "fetched_at": "2025-12-12T06:31:23.320801",
+      "ai_summary": "Presidenti amerikan Donald Trump përsëriti para gazetarëve në Shtëpinë e Bardhë të enjten se forcat e armatosura të vendit së shpejti do të fillojnë të nisin sulme në tokën venezueliane për të paranda..."
+    },
+    {
+      "title": "Moti në Shqipëri, orë me diell në shumicën e vendit, vranësira vetëm në lindje",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-ore-me-diell-ne-shumicen-e-vendit-vranesira-vetem-ne-lindje/",
+      "description": "Shqipëria të premten do të ndikohet nga kushte atmosferike të qëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, përjashtuar vranësirat e pakta kalimtare në relievet malore në lindje. Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 6 m/sek, e cila hera-herës në bregdet dhe lugina fiton shpejtësi deri në 14 m/sek.Deti - Valëzimi forcës 1-3 ballë. /Telegrafi/",
+      "published": "Fri, 12 Dec 2025 06:24:17 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-ore-me-diell-ne-shumicen-e-vendit-vranesira-vetem-ne-lindje/",
+      "fetched_at": "2025-12-12T06:31:25.762356",
+      "ai_summary": "Shqipëria të premten do të ndikohet nga kushte atmosferike të qëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se orët me diell do të mbizotërojnë në pjesën më të madhe të vendit, përjashtuar ..."
+    },
+    {
+      "title": "Google sjell “AI Mode” direkt në Chrome",
+      "link": "https://telegrafi.com/google-sjell-ai-mode-direkt-ne-chrome/",
+      "description": "Google po punon për të integruar funksionin e tij të inteligjencës artificiale, AI Mode, direkt brenda shfletuesit Chrome.Kjo do të mundësojë që përdoruesit të kenë qasje më të drejtpërdrejtë në mjetet e AI pa u ridrejtuar në një faqe të veçantë të Google Search. Aktualisht kjo veçori është në fazë testimi në versionin eksperimental Chrome Canary, dhe nuk dihet ende kur do të jetë e disponueshme për të gjithë përdoruesit. Në këtë version të përparuar, AI Mode mund të hapet brenda vetë Chrome‑it, nën adresën chrome://contextual‑tasks, dhe ofron një ndërfaqe me titull Meet AI Mode dhe një fushë për të shkruar pyetje si “Ask anything”. Kjo është ndryshe nga mënyra më e vjetër ku përdoruesit ridrejtoheshin në një faqe të veçantë të kërkimit në internet për të përdorur mjetet e inteligjencës artificiale. Versioni i ri gjithashtu mund t’ju ndihmojë të merrni përgjigje në lidhje me faqet që keni hapur aktualisht, pa pasur nevojë të kopjoni dhe ngjisni URL‑në e tyre si më parë. Megjithatë, këto funksione janë ende eksperimentale dhe pritet që të evoluojnë para se të lëshohen tek përdoruesit e zakonshëm. Në thelb, integrimi i AI Mode brenda Chrome mund të sjellë një përvojë më të njëtrajtshme dhe të fuqishme të kërkimit dhe përdorimit të inteligjencës artificiale gjatë shfletimit. /Telegrafi/",
+      "published": "Fri, 12 Dec 2025 06:21:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/google-sjell-ai-mode-direkt-ne-chrome/",
+      "fetched_at": "2025-12-12T06:31:25.762945",
+      "ai_summary": "Google po punon për të integruar funksionin e tij të inteligjencës artificiale, AI Mode, direkt brenda shfletuesit Chrome.Kjo do të mundësojë që përdoruesit të kenë qasje më të drejtpërdrejtë në mjete..."
+    },
+    {
+      "title": "Sot vranët, temperaturat deri në 9 gradë",
+      "link": "https://telegrafi.com/sot-vranet-temperaturat-deri-ne-9-grade/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 1 dhe 4 gradë Celsius, ndërkaq ato maksimale nga 7 deri 9 gradë. Era do të fryjë e lehtë deri mesatare nga drejtimi i veriperëndimit. /Telegrafi/",
+      "published": "Fri, 12 Dec 2025 06:12:14 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sot-vranet-temperaturat-deri-ne-9-grade/",
+      "fetched_at": "2025-12-12T06:31:25.763331",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet 1 dhe 4 gradë Celsius, ndërkaq ato maksi..."
+    },
+    {
+      "title": "Pse na duhet përqafimi i nënës edhe në moshë të rritur? Zbulojeni arsyen që nuk ndryshon kurrë",
+      "link": "https://telegrafi.com/pse-na-duhet-perqafimi-i-nenes-edhe-ne-moshe-te-rritur-zbulojeni-arsyen-qe-nuk-ndryshon-kurre/",
+      "description": "Trupat dhe zemrat tona nuk e harrojnë, madje shpesh na duhet edhe më shumë kur nuk jemi më fëmijë. Pse është i rëndësishëm përqafimi i nënës edhe kur rritemi?Përqafimi i nënës është diçka që na shoqëron që nga sekondat e para të jetës. Por edhe teksa rritemi, trupat dhe zemrat tona nuk e harrojnë kurrë, madje në moshë të rritur shpesh na duhet më shumë sesa e pranojmë.Kur mendojmë për fëmijërinë, shumë prej nesh së pari kujtojnë ngrohtësinë e përqafimit të nënës, një siguri e pashpjegueshme që na qetësonte ankthin, na zbuste dhimbjen dhe na rikthente ndjenjën se jemi të dashur. Por pse ky përqafim qëndron me ne edhe shumë kohë pasi rritemi, bëhemi vetë prindër dhe marrim udhën tonë?Shkenca dhe zemra janë dakord për këtë çështje: përqafimi i nënës është një nga format më të fuqishme të rregullimit të stresit, sigurisë dhe ndjenjës së përkatësisë që një person mund të përjetojë. Dhe kjo vlen edhe në moshën e rritur, transmeton Telegrafi. Trupi mban mend edhe kur mendja harronEdhe pse trupat tanë rriten, kjo nuk do të thotë se fëmija i brendshëm rritet me to. Në secilin prej nesh mbetet një pjesë që kërkon siguri, pranueshmëri, dashuri të pakushtëzuar dhe përqafimi i nënës shpesh aktivizon pikërisht këtë pikë kujtese. Prekja, sidomos ajo e njohura, i thotë trupit: “Je mirë. Nuk je vetëm. Diku ka dikë që të do, pa kushte.”Prekja çliron oksitocinë, hormonin e lidhur me besimin, sigurinë dhe ngrohtësinë. Përqafimet ulin hormonin e stresit - kortizolin, qetësojnë rrahjet e zemrës dhe ulin tensionin. Edhe pse kjo zakonisht studiohet te fëmijët, shumë kërkime konfirmojnë se kontakti fizik, sidomos me të dashurit, ka efekte shëruese edhe në moshën e rritur.Përqafimi nuk është vetëm fizik, është urë energjetikePërqafimi i nënës nuk është vetëm kontakt trupor. Ai mban brenda energjinë e disa brezave, kujdesin, ndërgjegjësimin e heshtur, afërsinë intuitive. Kur një nënë përqafon fëmijën e saj të rritur, duket sikur bashkohen dy realitete: ajo që ka qenë dhe ajo që është. E mes tyre, mijëra mendime të pathëna, kujtime dhe një ndjenjë e qetë përkatësie.Përqafimi është një mënyrë për t’u rilidhur me burimin tonë, me atë lidhje të parë që na ka përcaktuar ndjenjën e sigurisë në botë. Edhe nëse marrëdhënia me nënën tonë nuk është (ka qenë) e përsosur (dhe rrallë është e tillë), përqafimi mund të ketë fuqinë e një lidhjeje të menjëhershme, aty ku fjalët humbin dhe mbetet vetëm thelbi: prania. Lexoni edhe një letër emocionale për nënën. Po kur nuk ka më nënë, as përqafim?Shumë njerëz i humbin nënat para se të kenë mundësi të rilidhen me to në moshën e rritur. Në këtë rast, përqafimi i nënës mund të bëhet një hapësirë e brendshme që e ushqejmë me butësi, kujtime dhe vizualizim të brendshëm. Por ndodh edhe që përqafimi i nënës kurrë të mos ketë qenë ashtu siç kemi dëshiruar - dhe edhe atëherë, si të rritur, mund t’i japim vetes mundësinë të krijojmë një përvojë të re sigurie.Kjo mund të nënkuptojë t’i lejojmë vetes të jemi të afërt me një person tjetër të dashur. Të kërkojmë kontakt që është i sigurt, pa gjykim, i pranishëm. Ose të shërojmë plagët e vjetra në terapi dhe për herë të parë të ndiejmë se kemi të drejtë të jemi të dashur pa kushte. /Telegrafi/",
+      "published": "Fri, 12 Dec 2025 00:14:09 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/pse-na-duhet-perqafimi-i-nenes-edhe-ne-moshe-te-rritur-zbulojeni-arsyen-qe-nuk-ndryshon-kurre/",
+      "fetched_at": "2025-12-12T06:31:25.763566",
+      "ai_summary": "Trupat dhe zemrat tona nuk e harrojnë, madje shpesh na duhet edhe më shumë kur nuk jemi më fëmijë. Pse është i rëndësishëm përqafimi i nënës edhe kur rritemi?Përqafimi i nënës është diçka që na shoqër..."
+    },
+    {
+      "title": "Dy teknikat pa pudër që përdorin edhe yjet: Pamje e freskët në ditët më të ftohta",
+      "link": "https://telegrafi.com/dy-teknikat-pa-puder-qe-perdorin-edhe-yjet-pamje-e-fresket-ne-ditet-me-te-ftohta/",
+      "description": "A mund të duket lëkura e freskët, e ndritshme dhe natyrale në dimër, madje edhe pa shtresa të rënda pudre?Sipas Katie Jane Hughes, grimieres që qëndron pas pamjeve glamuroze të Dua Lipës, Ashley Graham dhe Hailey Bieber - absolutisht po. Dhe sekretet e saj janë më të thjeshta sesa mendoni: qasje e lehtë, zgjedhje e mençur e produkteve dhe teknikë e duhur.“Ju nuk keni nevojë fare për pudër”, thotë Katie në videon e saj viral në TikTok. “Gjithçka që ju duhet janë produkte që reflektojnë dritën.” E gjithë pika është te mënyra e aplikimit, jo te sasia. Filozofia e sotme e bukurisë nuk është më mbulimi, por theksimi i asaj që tashmë është e bukur.Baza e lëkurës së ndritshme: Korrektor dhe brushë e duhurPër një pamje natyrale, të freskët dhe të pushuar, mjafton një korrektor i mirë. Më të mirët janë ata që ndërthuren me kujdesin e lëkurës, duke e lënë atë të hidratuar, të njëtrajtshme dhe natyrale. Por sekreti nuk qëndron vetëm te nuanca dhe cilësia, por edhe te vegla e përdorur.Katie rekomandon dy lloje brushash: duo-fiber ose një brushë me fibra të gjata sintetike dhe shumë të buta. Pikërisht këto mundësojnë aplikim ultra të lehtë dhe preciz, pa grumbullime produkti ose gjurmë të dukshme, transmeton Telegrafi. @katiejanehughes How to achieve a flawless skin without the use of heavy coverage complexion products. ##Complexion##Concealer##Foundation##Makeup##TryThis##FYP ♬ original sound - Katiejanehughes Dy teknika që ndryshojnë të gjithë pamjen“Mbushja e brushës”Kjo është metoda e preferuar e Katie-t. Aplikimi fillon duke e futur korrektorin thellë në fijet e brushës, në vend që ta lini në sipërfaqe. Në këtë mënyrë në lëkurë kalon një sasi minimale produkti në mënyrë të njëtrajtshme dhe natyrale.Rezultati? Një ten i përsosur që duket sikur nuk keni asgjë në fytyrë, vetëm lëkurë të bukur.Prekja minimalisteTeknika e dytë kërkon vetëm disa lëvizje, dhe atë në pika strategjike: nën sy, rreth hundës, mbi parregullsitë e vogla. Ideja është të nxirret në pah struktura e fytyrës, konturet natyrore dhe shkëlqimi i shëndetshëm.Kjo qasje ruan natyralitetin, pa peshë, pa mbulim të të gjithë fytyrës, vetëm ndriçim të zgjuar të pikave të duhura. @katiejanehughes SMALL BRUSHES and thoughtful concealing! #Concealer #ThoughtfulConcealing ##fyp ♬ original sound - Katiejanehughes Pse e harrojmë pudrën?Përveç faktit që jep një rezultat vizual më të lehtë dhe më të freskët, kjo teknikë është edhe më e butë për lëkurën. Në vend që ta “mbyllim” lëkurën me pudër, theksojmë shkëlqimin e saj natyral, ndërsa fytyra duket më e shëndetshme dhe më e re. Është e vërtetë, kërkon pak më shumë durim dhe precizitet, por në këmbim merrni lëkurë që duket si lëkurë, vetëm më e bukur. /Telegrafi/",
+      "published": "Fri, 12 Dec 2025 00:13:34 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/dy-teknikat-pa-puder-qe-perdorin-edhe-yjet-pamje-e-fresket-ne-ditet-me-te-ftohta/",
+      "fetched_at": "2025-12-12T06:31:25.764320",
+      "ai_summary": "A mund të duket lëkura e freskët, e ndritshme dhe natyrale në dimër, madje edhe pa shtresa të rënda pudre?Sipas Katie Jane Hughes, grimieres që qëndron pas pamjeve glamuroze të Dua Lipës, Ashley Graha..."
     }
   ],
-  "total_articles": 2,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
