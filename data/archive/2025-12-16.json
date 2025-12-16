@@ -1,6 +1,6 @@
 {
   "date": "2025-12-16",
-  "timestamp": "2025-12-16T04:35:10.725296",
+  "timestamp": "2025-12-16T06:32:02.525229",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,59 +9,150 @@
   },
   "articles": [
     {
-      "title": "Elon Musk bëhet personi i parë në histori që kalon 600 miliardë dollarë pasuri",
-      "link": "https://www.balkanweb.com/elon-musk-behet-personi-i-pare-ne-histori-qe-kalon-600-miliarde-dollare-pasuri/",
-      "description": "Sipërmarrësi amerikan Elon Musk u bë personi i parë në histori që pati një pasuri që tejkalonte 600 miliardë dollarë. Revista Forbes publikoi informacion në lidhje me këtë. Publikimi ia atribuon rritjen e pasurisë së tij një rivlerësimi të vlerës së tregut të SpaceX, një kompani e specializuar në eksplorimin e hapësirës. Që nga fillimi […]",
-      "published": "Tue, 16 Dec 2025 04:30:50 +0000",
+      "title": "Anketa: 37% e familjeve në Shqipëri të prekura nga emigracioni",
+      "link": "https://www.balkanweb.com/anketa-37-e-familjeve-ne-shqiperi-te-prekura-nga-emigracioni/",
+      "description": "Migracioni vazhdon të jetë një nga shtyllat kryesore që formëson ekonominë dhe shoqërinë shqiptare. Sipas Anketës së Migracionit të Familjeve 2024, realizuar nga INSTAT në bashkëpunim me Bankën Botërore, rreth 37% e familjeve në Shqipëri kanë të paktën një anëtar që aktualisht jeton jashtë vendit ose ka migruar dhe është kthyer, duke konfirmuar përmasat masive […]",
+      "published": "Tue, 16 Dec 2025 06:30:17 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2871700",
-      "fetched_at": "2025-12-16T04:34:35.667050",
-      "ai_summary": "Sipërmarrësi amerikan Elon Musk u bë personi i parë në histori që pati një pasuri që tejkalonte 600 miliardë dollarë. Revista Forbes publikoi informacion në lidhje me këtë. Publikimi ia atribuon rritj..."
+      "guid": "https://www.balkanweb.com/?p=2871616",
+      "fetched_at": "2025-12-16T06:31:56.284829",
+      "ai_summary": "Migracioni vazhdon të jetë një nga shtyllat kryesore që formëson ekonominë dhe shoqërinë shqiptare. Sipas Anketës së Migracionit të Familjeve 2024, realizuar nga INSTAT në bashkëpunim me Bankën Botëro..."
     },
     {
-      "title": "Trupat e 12 emigrantëve gjenden në kufirin marokeno-algjerian",
-      "link": "https://www.balkanweb.com/trupat-e-12-emigranteve-gjenden-ne-kufirin-marokeno-algjerian/",
-      "description": "Trupat e dymbëdhjetë migrantëve nga Afrika Sub-Sahariane u gjetën midis 6 dhe 12 dhjetorit në Marokun verior , në kufirin me Algjerinë , dhe shumë prej tyre besohet se kanë vdekur “nga të ftohtit dhe uria”, tha një organizatë joqeveritare për AFP të hënën. Më 6 dhjetor, Shoqata e ndihmës ndaj migrantëve në situatë të […]",
-      "published": "Tue, 16 Dec 2025 04:15:21 +0000",
+      "title": "“Paguaj sipas hedhjes”/ Taksa e mbetjeve do ndryshojë për familjet dhe bizneset",
+      "link": "https://www.balkanweb.com/paguaj-sipas-hedhjes-taksa-e-mbetjeve-do-ndryshoje-per-familjet-dhe-bizneset/",
+      "description": "Familjet dhe bizneset do të paguajnë një taksë “individuale” s ai takon mbetjeve që gjerojnë e cila do të ndjekë parimin “Paguaj sipas hedhjes”. Në Programin Kombëtar të Parandalimit të Krijimit të Mbetjeve nxjerre per konsultim, qeveria parashikon këtë si një ndër masat që do të zbatohen në vazhdim. Konkretisht do të synohet që të […]",
+      "published": "Tue, 16 Dec 2025 06:23:44 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2871731",
-      "fetched_at": "2025-12-16T04:34:35.667193",
-      "ai_summary": "Trupat e dymbëdhjetë migrantëve nga Afrika Sub-Sahariane u gjetën midis 6 dhe 12 dhjetorit në Marokun verior , në kufirin me Algjerinë , dhe shumë prej tyre besohet se kanë vdekur “nga të ftohtit dhe ..."
+      "guid": "https://www.balkanweb.com/?p=2871593",
+      "fetched_at": "2025-12-16T06:31:56.284987",
+      "ai_summary": "Familjet dhe bizneset do të paguajnë një taksë “individuale” s ai takon mbetjeve që gjerojnë e cila do të ndjekë parimin “Paguaj sipas hedhjes”. Në Programin Kombëtar të Parandalimit të Krijimit të Mb..."
     },
     {
-      "title": "Merz: Gjermania shpenzoi 76 miliardë euro për ndihmë ushtarake dhe civile për Ukrainën",
-      "link": "https://www.balkanweb.com/merz-gjermania-shpenzoi-76-miliarde-euro-per-ndihme-ushtarake-dhe-civile-per-ukrainen/",
-      "description": "Kancelari Friedrich Merz njoftoi se Gjermania ka shpenzuar 40 miliardë euro për mbështetje ushtarake për Ukrainën që nga shkurti i vitit 2022, dhe 36 miliardë euro shtesë për ndihmë civile. Ai e bëri këtë deklaratë gjatë fjalimit të tij në Forumin Ekonomik Gjermano-Ukrainas të mbajtur në Berlin. “Ne i kemi ofruar Ukrainës afërsisht 40 miliardë […]",
-      "published": "Tue, 16 Dec 2025 04:00:36 +0000",
+      "title": "“Ashtu si Aleksandër Moisiu në SHBA, kur para shfaqjes i dhanë një telegram, e lexoi dhe e futi në xhep, edhe Sandër Prosi, kur i thanë se i kishte vdekur…”/ Historia e panjohur e aktorit të famshëm",
+      "link": "https://www.balkanweb.com/ashtu-si-aleksander-moisiu-ne-shba-kur-para-shfaqjes-i-dhane-nje-telegram-e-lexoi-dhe-e-futi-ne-xhep-edhe-sander-prosi-kur-i-thane-se-i-kishte-vdekur-historia-e-panjohu/",
+      "description": "Nga Prof. Dr. Përparim Kabo I nderuar mjeshtër, po të shqetësoj, dua të bisedojmë sepse ditët kanë rrjedhur dhe vitet një pas një, që nga 24 marsi i 1985-ës. Ishte një e diel tragjike, “Një pranverë e hidhur”, si edhe titullohej filmi që kishte nisur të xhirohej! Ty nuk të kishte ngrohur ky titull, tek […]",
+      "published": "Tue, 16 Dec 2025 06:18:07 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2871680",
-      "fetched_at": "2025-12-16T04:34:35.667282",
-      "ai_summary": "Kancelari Friedrich Merz njoftoi se Gjermania ka shpenzuar 40 miliardë euro për mbështetje ushtarake për Ukrainën që nga shkurti i vitit 2022, dhe 36 miliardë euro shtesë për ndihmë civile. Ai e bëri ..."
+      "guid": "https://www.balkanweb.com/?p=2871420",
+      "fetched_at": "2025-12-16T06:31:56.285381",
+      "ai_summary": "Nga Prof. Dr. Përparim Kabo I nderuar mjeshtër, po të shqetësoj, dua të bisedojmë sepse ditët kanë rrjedhur dhe vitet një pas një, që nga 24 marsi i 1985-ës. Ishte një e diel tragjike, “Një pranverë e..."
     },
     {
-      "title": "Lukashenko: Maduro është i mirëpritur të vendoset në Bjellorusi",
-      "link": "https://www.balkanweb.com/lukashenko-maduro-eshte-i-mirepritur-te-vendoset-ne-bjellorusi/",
-      "description": "Presidenti bjellorus Alexander Lukashenko tha se homologu i tij venezuelian Nicolas Maduro është i mirëpritur të vendoset në Bjellorusi nëse largohet nga pushteti në atdheun e tij, duke sqaruar se nuk ka pasur diskutime të mëparshme për këtë çështje midis dy udhëheqësve, sipas fragmenteve të një interviste me rrjetin televiziv amerikan Newsmax të publikuara në […]",
-      "published": "Tue, 16 Dec 2025 03:30:58 +0000",
+      "title": "Parashikimi i motit për sot, 16 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-16-dhjetor-2025/",
+      "description": "Ditën e martë vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet të jetë me kthjellime dhe vranësira kalimtare. Mjegulla/mjegullina do të jenë prezente në orët e mëngjesit dhe të mbrëmjes kryesisht përgjatë zonave luginore. Era do të fryjë me drejtim nga kuadrati i jugut me shpejtësi mesatare 7 m/sek, e cila […]",
+      "published": "Tue, 16 Dec 2025 06:12:12 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2871689",
-      "fetched_at": "2025-12-16T04:34:35.667366",
-      "ai_summary": "Presidenti bjellorus Alexander Lukashenko tha se homologu i tij venezuelian Nicolas Maduro është i mirëpritur të vendoset në Bjellorusi nëse largohet nga pushteti në atdheun e tij, duke sqaruar se nuk..."
+      "guid": "https://www.balkanweb.com/?p=2871418",
+      "fetched_at": "2025-12-16T06:31:56.285537",
+      "ai_summary": "Ditën e martë vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet të jetë me kthjellime dhe vranësira kalimtare. Mjegulla/mjegullina do të jenë prezente në orët e mëngjes..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 16 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-16-dhjetor-2025/",
+      "description": "Dashi Kjo është një nga ato ditë në të cilat keni mundësinë të bëni përparime të mëdha në një projekt në të cilin keni punuar. Ka të gjasa të dilni me një ide të shkëlqyer që meriton të vlerësohet. Demi Bota përreth teje po ecën më shpejt nga ç’duket. Sigurohu që të kalosh pak kohë […]",
+      "published": "Tue, 16 Dec 2025 06:05:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2871281",
+      "fetched_at": "2025-12-16T06:31:56.285621",
+      "ai_summary": "Dashi Kjo është një nga ato ditë në të cilat keni mundësinë të bëni përparime të mëdha në një projekt në të cilin keni punuar. Ka të gjasa të dilni me një ide të shkëlqyer që meriton të vlerësohet. De..."
+    },
+    {
+      "title": "Një 21-vjeçar arrestohet në Gjermani, dyshohet se planifikonte sulm në tregun e Krishtlindjeve",
+      "link": "https://www.balkanweb.com/nje-21-vjecar-arrestohet-ne-gjermani-dyshohet-se-planifikonte-sulm-ne-tregun-e-krishtlindjeve/",
+      "description": "Një sulm në një treg Krishtlindjesh në natyrë në rajonin e Magdeburgut të Gjermanisë mund të jetë penguar nga policia, e cila arrestoi një 21-vjeçar nga Azia Qendrore të premten. Ministria e Brendshme Federale e konfirmoi operacionin për gazetën Volksstimme, duke vënë në dukje se arrestimi u bë “me qëllim parandalimin e ekzekutimit të planeve […]",
+      "published": "Tue, 16 Dec 2025 05:00:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2871692",
+      "fetched_at": "2025-12-16T06:31:56.285703",
+      "ai_summary": "Një sulm në një treg Krishtlindjesh në natyrë në rajonin e Magdeburgut të Gjermanisë mund të jetë penguar nga policia, e cila arrestoi një 21-vjeçar nga Azia Qendrore të premten. Ministria e Brendshme..."
+    },
+    {
+      "title": "Kallas: Ukraina duhet të vendosë vetë se çfarë lëshimesh do të bëjë për paqen",
+      "link": "https://www.balkanweb.com/kallas-ukraina-duhet-te-vendose-vete-se-cfare-leshimesh-do-te-beje-per-paqen/",
+      "description": "Këtë vit, Evropa i dha Ukrainës një sasi rekord ndihme ushtarake – 27 miliardë euro. Kjo u deklarua nga shefja e diplomacisë evropiane, Kaya Kallas, në një konferencë për shtyp pas rezultateve të takimit të Këshillit të Punëve të Jashtme. Sipas saj, Bashkimi Evropian (BE) ka transferuar 2 milionë predha artilerie te Forcat e Armatosura […]",
+      "published": "Tue, 16 Dec 2025 04:45:37 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2871703",
+      "fetched_at": "2025-12-16T06:31:56.285786",
+      "ai_summary": "Këtë vit, Evropa i dha Ukrainës një sasi rekord ndihme ushtarake – 27 miliardë euro. Kjo u deklarua nga shefja e diplomacisë evropiane, Kaya Kallas, në një konferencë për shtyp pas rezultateve të taki..."
+    },
+    {
+      "title": "Janë bashkë prej vitesh - Kristen Stewart tregon se çfarë e tërheq më shumë te partnerja e saj, Dylan Meyer",
+      "link": "https://telegrafi.com/jane-bashke-prej-vitesh-kristen-stewart-tregon-se-cfare-e-terheq-me-shume-te-partnerja-e-saj-dylan-meyer/",
+      "description": "Kristen Stewart, ylli i sagës \"Twilight\", e cila u martua me partnerin e saj prej shumë kohësh, Dylan Meyer, në prill të këtij viti, ka zbuluar tiparin më tërheqës tek një person. Edhe pse fansat e takuan ndërsa ajo po zgjidhte midis një vampiri dhe një njeriu-ujk, duket se në jetën reale diçka krejtësisht e ndryshme e ka vendosur çështjen.Kanë kaluar pothuajse dy dekada që kur Stewart fitoi mbi vete një brez adoleshentësh si Bella Swan, e cila debatoi me pasion nëse duhej të zgjidhte vampirin Edward Cullen (Robert Pattinson) apo njeriun-ujk Jacob Black (Taylor Lautner). Kristen dhe DylanSot, aktorja 35-vjeçare jeton një jetë larg dilemave mbinatyrore dhe ka gjetur lumturinë me skenaristin Dylan Meyer, me të cilin është e martuar që nga prilli.Tetë muaj pas dasmës së tyre, aktorja ndau një pamje të rrallë të marrëdhënies së saj në një intervistë me Esquire. Kur u pyet se çfarë e tërheq tek partneri i saj, përgjigjja e saj ishte e qartë: \"Uria. Dhe e them këtë në çdo mënyrë. Kur dikush dëshiron shumë. Haptas. Do të thotë gjithashtu të jesh i sjellshëm, sepse atëherë merr më shumë\".Stewart theksoi gjithashtu se ka mësuar se \"forca\" është gjëja më e vlefshme në një marrëdhënie. \"Është shumë mirë të mos jesh një person i vetmuar\", shpjegoi ajo. \"Dylan erdhi në jetën time dhe menjëherë mendova: 'Është shumë e rëndësishme të zgjedhësh me kujdes njerëzit me të cilët rrethohesh'\". Ajo vazhdoi: \"Është thjesht inkurajuese të jesh me dikë që të kujton se jeta jote është në duart e tua\". /Telegrafi/",
+      "published": "Tue, 16 Dec 2025 06:30:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/jane-bashke-prej-vitesh-kristen-stewart-tregon-se-cfare-e-terheq-me-shume-te-partnerja-e-saj-dylan-meyer/",
+      "fetched_at": "2025-12-16T06:31:58.786804",
+      "ai_summary": "Kristen Stewart, ylli i sagës \"Twilight\", e cila u martua me partnerin e saj prej shumë kohësh, Dylan Meyer, në prill të këtij viti, ka zbuluar tiparin më tërheqës tek një person. Edhe pse fansat e ta..."
+    },
+    {
+      "title": "Qeveria amerikane nis fushatën për të punësuar inxhinierë për role në inteligjencën artificiale dhe teknologji",
+      "link": "https://telegrafi.com/qeveria-amerikane-nis-fushaten-per-te-punesuar-inxhiniere-per-role-ne-inteligjencen-artificiale-dhe-teknologji/",
+      "description": "Qeveria amerikane nisi një fushatë të hënën për të punësuar 1,000 inxhinierë për pozicione federale dyvjeçare, përfshirë ata që kanë ekspertizë në inteligjencën artificiale, sipas një zyrtari të lartë të administratës Trump.Inxhinierët do të merren me projekte specifike brenda agjencive qeveritare, duke përfshirë ndërtimin e një platforme digjitale për llogaritë e kursimit të administratës Trump për fëmijë, tha Scott Kupor, drejtori i Zyrës së Menaxhimit të Personelit në SHBA. Qëllimi është të punësohet raundi i parë i inxhinierëve deri më 31 mars, tha Kupor, transmeton Telegrafi.Qeveria dëshiron të \"përfitojë nga njerëz vërtet të zgjuar që punojnë në disa nga problemet më komplekse dhe të vështira në botë\", shtoi ai.Iniciativa e punësimit është pjesë e agjendës së administratës Trump për inteligjencën artificiale, e udhëhequr pjesërisht nga ish-ekzekutivi i PayPal, David Sacks.Kompanitë private janë zotuar të marrin në konsideratë ish-studentët e programit për pozicione, tha Kupor. Lista e kompanive përfshin Apple, Google dhe Nvidia, ndër të tjera, sipas faqes së internetit të programit. Administrata Trump po kërkon të punësojë punonjës me ekspertizë në inxhinierinë e softuerëve, inteligjencën artificiale, sigurinë kibernetike dhe analizën e të dhënave, sipas faqes së internetit.“Ish-presidenti Joe Biden ngriti një iniciativë të ngjashme për të sjellë profesionistë të inteligjencës artificiale në punë qeveritare. Kjo përpjekje rezultoi në rreth 200 punësime, sipas një deklarate të vitit 2024 nga administrata Biden. Rreth 75 prej këtyre punonjësve mbeten në role qeveritare”, tha Kupor. /Telegrafi/",
+      "published": "Tue, 16 Dec 2025 06:20:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/qeveria-amerikane-nis-fushaten-per-te-punesuar-inxhiniere-per-role-ne-inteligjencen-artificiale-dhe-teknologji/",
+      "fetched_at": "2025-12-16T06:31:58.787531",
+      "ai_summary": "Qeveria amerikane nisi një fushatë të hënën për të punësuar 1,000 inxhinierë për pozicione federale dyvjeçare, përfshirë ata që kanë ekspertizë në inteligjencën artificiale, sipas një zyrtari të lartë..."
+    },
+    {
+      "title": "Moti në Shqipëri, mëngjesi me mjegull përgjatë zonave luginore",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-mengjesi-me-mjegull-pergjate-zonave-luginore/",
+      "description": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të martën do të ndikohet nga kushte atmosferike të qëndrueshme.SHMU njofton se moti parashikohet të jetë me kthjellime dhe vranësira kalimtare, ndërkaq mjegulla do të jenë prezentë në orët e mëngjesit dhe të mbrëmjes kryesisht përgjatë zonave luginore. Era do të fryjë me drejtim nga kuadrati i jugut me shpejtësi mesatare 7 m/sek, e cila hera-herës përgjatë vijës bregdetare dhe zonave luginore pritet të fitoi shpejtësi deri në 14 m/sek.Deti - Valëzimi forcës 1-3 ballë. /Telegrafi/",
+      "published": "Tue, 16 Dec 2025 06:19:10 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-mengjesi-me-mjegull-pergjate-zonave-luginore/",
+      "fetched_at": "2025-12-16T06:31:58.787926",
+      "ai_summary": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të martën do të ndikohet nga kushte atmosferike të qëndrueshme.SHMU njofton se moti parashikohet të jetë me kthjellime dhe vranësira kalimtare..."
+    },
+    {
+      "title": "Mot i vranët dhe me diell, mëngjesi me mjegull",
+      "link": "https://telegrafi.com/mot-i-vranet-dhe-me-diell-mengjesi-me-mjegull/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se në orët e mëngjesit parashihen mjegulla, të cilat do të zvogëlojnë dukshmërinë horizontale, sidomos në ultësira dhe pranë zonave ujore.Nuk parashihen reshje të asnjë forme, ndërsa për shkak të temperaturave të ulëta, në orët e para të mëngjesit mund të shfaqet brymë dhe në disa zona edhe krahnezë. Instituti tutje njofton se temperaturat minimale do të lëvizin ndërmjet - 6 deri -3 gradë Celsius, ndërkaq temperaturat maksimale nga 5 deri në 8°C. Era do të fryjë nga juglindja me shpejtësi 1-3m/s. /Telegrafi/",
+      "published": "Tue, 16 Dec 2025 06:08:30 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mot-i-vranet-dhe-me-diell-mengjesi-me-mjegull/",
+      "fetched_at": "2025-12-16T06:31:58.788325",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se në orët e mëngjesit parashihen mjegulla, të cilat do të zvogëlojnë dukshmërinë horizo..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 11,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
