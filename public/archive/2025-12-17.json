@@ -1,6 +1,6 @@
 {
   "date": "2025-12-17",
-  "timestamp": "2025-12-17T04:32:15.607171",
+  "timestamp": "2025-12-17T06:32:06.617866",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,59 +9,72 @@
   },
   "articles": [
     {
-      "title": "Përmbytjet e menjëhershme në Bolivi vrasin 20 persona",
-      "link": "https://www.balkanweb.com/permbytjet-e-menjehershme-ne-bolivi-vrasin-20-persona/",
-      "description": "Përmbytjet e shkaktuara nga reshjet e dendura të shiut në Bolivi gjatë fundjavës kanë vrarë të paktën 20 persona, thanë autoritetet. Zëvendësministri i Mbrojtjes Civile Alfredo Troche u tha gazetarëve të dielën se përmbytje të mëdha goditën qytetin e Santa Cruz pasi lumi Pirai doli nga shtrati. Shumë njerëz mbeten të zhdukur, tha Troche, duke […]",
-      "published": "Wed, 17 Dec 2025 04:30:20 +0000",
+      "title": "Liderët e BE dhe Ballkanit Perëndimor mblidhen sot në Bruksel. Nga Plani i Rritjes te hapat për integrimin gradual, çfarë pritet të diskutohet",
+      "link": "https://www.balkanweb.com/lideret-e-be-dhe-ballkanit-perendimor-mblidhen-sot-ne-bruksel-nga-plani-i-rritjes-te-hapat-per-integrimin-gradual-cfare-pritet-te-diskutohet/",
+      "description": "Liderët e Bashkimit Evropian dhe Ballkanit Perëndimor do të mblidhensot në Samitin BE–Ballkani Perëndimor, i cili do të mbahet në Bruksel. Samiti do të kryesohet nga presidenti i Këshillit Evropian, Antonio Costa. Bashkimi Evropian do të përfaqësohet nga presidenti i Këshillit Evropian Costa dhe Presidentja e Komisionit Evropian, Ursula von der Leyen, ndërsa në takim […]",
+      "published": "Wed, 17 Dec 2025 06:25:17 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2872449",
-      "fetched_at": "2025-12-17T04:32:10.475104",
-      "ai_summary": "Përmbytjet e shkaktuara nga reshjet e dendura të shiut në Bolivi gjatë fundjavës kanë vrarë të paktën 20 persona, thanë autoritetet. Zëvendësministri i Mbrojtjes Civile Alfredo Troche u tha gazetarëve..."
+      "guid": "https://www.balkanweb.com/?p=2871889",
+      "fetched_at": "2025-12-17T06:32:01.141306",
+      "ai_summary": "Liderët e Bashkimit Evropian dhe Ballkanit Perëndimor do të mblidhensot në Samitin BE–Ballkani Perëndimor, i cili do të mbahet në Bruksel. Samiti do të kryesohet nga presidenti i Këshillit Evropian, A..."
     },
     {
-      "title": "Qeveria çeke hedh poshtë paktin e BE-së për migracionin",
-      "link": "https://www.balkanweb.com/qeveria-ceke-hedh-poshte-paktin-e-be-se-per-migracionin/",
-      "description": "Qeveria çeke, e miratuar nga presidenti më 15 dhjetor, hodhi poshtë paktin e migracionit të Bashkimit Evropian në një takim të mbajtur të martën. Ky informacion u publikua nga Agjencia Çeke e Lajmeve (CNA), duke cituar kryeministrin e vendit Andrej Babis. “Në mbledhjen e sotme, qeveria hodhi poshtë paktin e BE-së për migracionin”, citohet të […]",
-      "published": "Wed, 17 Dec 2025 04:00:59 +0000",
+      "title": "“Avdyl Këllezi dhe Myqerem Fuga, më dërgonin me shërbim në Kukës, në zonën kufitare…”/ Zbulohet dokumenti i Sigurimit me dëshminë e Kerenxhit, që implikonte ish-ministrin e Industrisë së Lehtë",
+      "link": "https://www.balkanweb.com/avdyl-kellezi-dhe-myqerem-fuga-me-dergonin-me-sherbim-ne-kukes-ne-zonen-kufitare-zbulohet-dokumenti-i-sigurimit-me-deshmine-e-kerenxhit-qe-implikonte-ish-ministrin-e-ind/",
+      "description": "Nga DASHNOR KALOÇI Grupi Operativ Special që u krijua menjëherë pas arrestimit të ish-Ministrit të Brendshëm, Kadri Hazbiu dhe zëvendësit të tij, Feçor Shehut, në mesin e muajit tetor të vitit 1982, në krye të të cilit ishte zv/ministri i Punëve të Brendshme që njëkohësisht ishte dhe drejtori i Drejtorisë së Sigurimit të Shtetit, Zylyftar […]",
+      "published": "Wed, 17 Dec 2025 06:18:28 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2872425",
-      "fetched_at": "2025-12-17T04:32:10.475244",
-      "ai_summary": "Qeveria çeke, e miratuar nga presidenti më 15 dhjetor, hodhi poshtë paktin e migracionit të Bashkimit Evropian në një takim të mbajtur të martën. Ky informacion u publikua nga Agjencia Çeke e Lajmeve ..."
+      "guid": "https://www.balkanweb.com/?p=2871943",
+      "fetched_at": "2025-12-17T06:32:01.141471",
+      "ai_summary": "Nga DASHNOR KALOÇI Grupi Operativ Special që u krijua menjëherë pas arrestimit të ish-Ministrit të Brendshëm, Kadri Hazbiu dhe zëvendësit të tij, Feçor Shehut, në mesin e muajit tetor të vitit 1982, n..."
     },
     {
-      "title": "Trump zgjat ndalimin e udhëtimit për 7 vende të tjera përfshirë dhe palestinezët",
-      "link": "https://www.balkanweb.com/trump-zgjat-ndalimin-e-udhetimit-per-7-vende-te-tjera-perfshire-dhe-palestinezet/",
-      "description": "Presidenti i SHBA-së, Donald Trump, e ka zgjeruar ndalimin e udhëtimit për të përfshirë qytetarët e shtatë vendeve të tjera, përfshirë Sirinë, si dhe palestinezët . Manjati republikan nënshkroi një shpallje që ndalon ose vendos kufizime të mëtejshme për hyrjen e të huajve “për të mbrojtur sigurinë e Shteteve të Bashkuara”, sipas tekstit të publikuar […]",
-      "published": "Wed, 17 Dec 2025 03:45:05 +0000",
+      "title": "Horoskopi për ditën e sotme, 17 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-17-dhjetor-2025/",
+      "description": "Dashi Njerëzit mund të të shohin sikur je i çmendur sot që sugjeron gjërat që ke në mendje. Mos lejo që të mbjellin fara dyshimi në kokën tënde. Njerëzit mund të jenë të lodhur sepse janë të frikësuar. Udhëhiq me shembullin tënd dhe demonstro se mënyra jote është më e mira. Demi Bota përreth teje […]",
+      "published": "Wed, 17 Dec 2025 06:05:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2872472",
-      "fetched_at": "2025-12-17T04:32:10.475352",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e ka zgjeruar ndalimin e udhëtimit për të përfshirë qytetarët e shtatë vendeve të tjera, përfshirë Sirinë, si dhe palestinezët . Manjati republikan nënshkroi një sh..."
+      "guid": "https://www.balkanweb.com/?p=2872197",
+      "fetched_at": "2025-12-17T06:32:01.141564",
+      "ai_summary": "Dashi Njerëzit mund të të shohin sikur je i çmendur sot që sugjeron gjërat që ke në mendje. Mos lejo që të mbjellin fara dyshimi në kokën tënde. Njerëzit mund të jenë të lodhur sepse janë të frikësuar..."
     },
     {
-      "title": "OKB: Më shumë se 100 civilë të vrarë në sulmet me dronë në Sudan",
-      "link": "https://www.balkanweb.com/okb-me-shume-se-100-civile-te-vrare-ne-sulmet-me-drone-ne-sudan/",
-      "description": "Të paktën 104 civilë, përfshirë 43 fëmijë, janë vrarë në sulme të shumta me dronë në rajonin Kordofan të Sudanit që nga 4 dhjetori. Zyra e Komisionerit të Lartë të OKB-së për të Drejtat e Njeriut lëshoi ​​një deklaratë për këtë. Një nga sulmet kishte në shënjestër një çerdhe dhe një spital në Kalogi, Kordofan […]",
-      "published": "Wed, 17 Dec 2025 03:30:39 +0000",
+      "title": "Trump shpall qeverinë e Venezuelës “organizatë terroriste”",
+      "link": "https://www.balkanweb.com/trump-shpall-qeverine-e-venezueles-organizate-terroriste/",
+      "description": "Donald Trump ka njoftuar një “bllokadë totale dhe të plotë” të të gjitha cisternave të naftës që transportojnë naftë për në dhe nga Venezuela , duke pretenduar se vendi është i rrethuar nga forca më e madhe detare e vendosur ndonjëherë në Amerikën e Jugut dhe duke akuzuar regjimin e Nicolas Maduros për terrorizëm, trafik […]",
+      "published": "Wed, 17 Dec 2025 05:00:01 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2872431",
-      "fetched_at": "2025-12-17T04:32:10.475442",
-      "ai_summary": "Të paktën 104 civilë, përfshirë 43 fëmijë, janë vrarë në sulme të shumta me dronë në rajonin Kordofan të Sudanit që nga 4 dhjetori. Zyra e Komisionerit të Lartë të OKB-së për të Drejtat e Njeriut lësh..."
+      "guid": "https://www.balkanweb.com/?p=2872458",
+      "fetched_at": "2025-12-17T06:32:01.141640",
+      "ai_summary": "Donald Trump ka njoftuar një “bllokadë totale dhe të plotë” të të gjitha cisternave të naftës që transportojnë naftë për në dhe nga Venezuela , duke pretenduar se vendi është i rrethuar nga forca më e..."
+    },
+    {
+      "title": "Vranët dhe me diell, mëngjesi me mjegull",
+      "link": "https://telegrafi.com/vranet-dhe-me-diell-mengjesi-me-mjegull/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell, ndërkaq mëngjesi me mjegull.IHK njofton se temperaturat minimale: -4 deri -2 gradë Celsius, ndërkaq temperaturat maksimale nga 7-10°C. Era do të fryjë kryesisht nga juglindjes me shpejtësi 1-4m/s. /Telegrafi/",
+      "published": "Wed, 17 Dec 2025 06:05:58 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vranet-dhe-me-diell-mengjesi-me-mjegull/",
+      "fetched_at": "2025-12-17T06:32:03.677851",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell, ndërkaq mëngjesi me mjegull.IHK njofton se temperaturat minimale: -4 deri -2 gradë Celsius, ndërkaq..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 5,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "Telegrafi"
   ]
 }
