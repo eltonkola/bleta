@@ -1,6 +1,6 @@
 {
   "date": "2025-12-18",
-  "timestamp": "2025-12-18T04:33:24.918262",
+  "timestamp": "2025-12-18T06:31:28.017693",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,91 +9,127 @@
   },
   "articles": [
     {
-      "title": "Kongresi brazilian miraton projektligjin për uljen e dënimit të Bolsonaros",
-      "link": "https://www.balkanweb.com/kongresi-brazilian-miraton-projektligjin-per-uljen-e-denimit-te-bolsonaros/",
-      "description": "Kongresi i Brazilit miratoi të mërkurën një projektligj që do të ulte dënimin e ish-presidentit të ekstremit të djathtë Jair Bolsonaro, i cili u dënua me 27 vjet burg dhe u burgos muajin e kaluar për një përpjekje për grusht shteti. Projektligji, i cili u miratua nga shumica konservatore në Kongres, mund të çojë në […]",
-      "published": "Thu, 18 Dec 2025 04:30:13 +0000",
+      "title": "Eksportet, rënie me 6.9% në nëntor, 11-mujori mbyllet me -7%",
+      "link": "https://www.balkanweb.com/eksportet-renie-me-6-9-ne-nentor-11-mujori-mbyllet-me-7/",
+      "description": "Pas një përmirësimi të lehtë në tetor, eksportet e mallrave shqiptare jashtë vendit shënuan rënie vjetore me 6.9% në nëntor, teksa në të gjithë 11 -mujorin tkurrja ishte 7%, sipas të dhënave zyrtare të INSTAT. Në këtë 11-mujor, eksportet e mallrave arritën vlerën 319 mld lekë, duke u ulur me 24 miliardë lekë ose 7%. […]",
+      "published": "Thu, 18 Dec 2025 06:24:56 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873219",
-      "fetched_at": "2025-12-18T04:33:19.456070",
-      "ai_summary": "Kongresi i Brazilit miratoi të mërkurën një projektligj që do të ulte dënimin e ish-presidentit të ekstremit të djathtë Jair Bolsonaro, i cili u dënua me 27 vjet burg dhe u burgos muajin e kaluar për ..."
+      "guid": "https://www.balkanweb.com/?p=2873250",
+      "fetched_at": "2025-12-18T06:31:22.172279",
+      "ai_summary": "Pas një përmirësimi të lehtë në tetor, eksportet e mallrave shqiptare jashtë vendit shënuan rënie vjetore me 6.9% në nëntor, teksa në të gjithë 11 -mujorin tkurrja ishte 7%, sipas të dhënave zyrtare t..."
     },
     {
-      "title": "Mbështetësit e qeverisë së majtë në largim të Hondurasit protestojnë kundër “mashtrimit” zgjedhor",
-      "link": "https://www.balkanweb.com/mbeshtetesit-e-qeverise-se-majte-ne-largim-te-hondurasit-protestojne-kunder-mashtrimit-zgjedhor/",
-      "description": "Mijëra mbështetës të qeverisë së majtë në largim të Hondurasit demonstruan në kryeqytetin Tegucigalpa të mërkurën për të denoncuar atë që e quajtën “mashtrim” në zgjedhjet presidenciale të 30 nëntorit , rezultatet e të cilave ende nuk janë shpallur zyrtarisht, pothuajse tre javë pas votimit. Ndërsa biznesmeni i krahut të djathtë Nasri Asfoura, i cili […]",
-      "published": "Thu, 18 Dec 2025 04:20:34 +0000",
+      "title": "“Afër postës së Kozelit, na panë atë e bir nga Kamenica, Shabani dhe Esati, që si shpërblim për spiunllëkun e tyre, kërkonin nga Partia…”/ Dëshmia e rrallë tropojanit që vuajti 25 vjet në burgjet komuniste",
+      "link": "https://www.balkanweb.com/afer-postes-se-kozelit-na-pane-ate-e-bir-nga-kamenica-shabani-dhe-esati-qe-si-shperblim-per-spiunllekun-e-tyre-kerkonin-nga-partia-deshmia-e-rralle-tropojanit-qe-vuajti/",
+      "description": "Nga URIM ELEZI Pjesa e parë Parathënie Urim Elezi, lindur më 18.10.1941 në Floq të Korçës, hyn te të dënuarit dy herë nga regjimi komunist me shumë vite vuajtjeje. Ai u burgos më 26.10.1963 dhe doli që andej më 10.2.1989. hyri në 22 vjeç dhe doli 48 vjeç, madje i verbuar. Në moshën 18-vjeçare kreu […]",
+      "published": "Thu, 18 Dec 2025 06:18:12 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873241",
-      "fetched_at": "2025-12-18T04:33:19.456215",
-      "ai_summary": "Mijëra mbështetës të qeverisë së majtë në largim të Hondurasit demonstruan në kryeqytetin Tegucigalpa të mërkurën për të denoncuar atë që e quajtën “mashtrim” në zgjedhjet presidenciale të 30 nëntorit..."
+      "guid": "https://www.balkanweb.com/?p=2873103",
+      "fetched_at": "2025-12-18T06:31:22.172438",
+      "ai_summary": "Nga URIM ELEZI Pjesa e parë Parathënie Urim Elezi, lindur më 18.10.1941 në Floq të Korçës, hyn te të dënuarit dy herë nga regjimi komunist me shumë vite vuajtjeje. Ai u burgos më 26.10.1963 dhe doli q..."
     },
     {
-      "title": "Rusia vendos sistemin e raketave balistike ndërkontinentale Yars në Siberi",
-      "link": "https://www.balkanweb.com/rusia-vendos-sistemin-e-raketave-balistike-nderkontinentale-yars-ne-siberi/",
-      "description": "Rusia njoftoi të mërkurën se sistemi i raketave balistike ndërkontinental Yars u vendos për patrullim luftarak gjatë ushtrimeve rutinë në Siberi. Pajisjet e rënda lanë instalimet speciale dhe filluan manovrat, duke përfshirë lëvizjet gjatë natës, tha Ministria e Mbrojtjes në një deklaratë. “Llogaritjet e sistemeve të raketave tokësore mobile (MGRC) ‘Yars’ në Siberi janë dërguar […]",
-      "published": "Thu, 18 Dec 2025 04:15:02 +0000",
+      "title": "Parashikimi i motit për sot, 18 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-18-dhjetor-2025/",
+      "description": "Ditën e Enjte vendi ynë do të ndikohet nga kushte atmosferike kryesisht të qëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura si dhe intervale afatshkurtra me diell kryesisht përgjatë ultësirës perëndimore. Mjegulla/mjegullina do të jenë prezente në orët e mëngjesit dhe të mbrëmjes përgjatë zonave luginore. Era do të fryjë me drejtim nga kuadrati […]",
+      "published": "Thu, 18 Dec 2025 06:12:14 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873200",
-      "fetched_at": "2025-12-18T04:33:19.456312",
-      "ai_summary": "Rusia njoftoi të mërkurën se sistemi i raketave balistike ndërkontinental Yars u vendos për patrullim luftarak gjatë ushtrimeve rutinë në Siberi. Pajisjet e rënda lanë instalimet speciale dhe filluan ..."
+      "guid": "https://www.balkanweb.com/?p=2873248",
+      "fetched_at": "2025-12-18T06:31:22.172803",
+      "ai_summary": "Ditën e Enjte vendi ynë do të ndikohet nga kushte atmosferike kryesisht të qëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura si dhe intervale afatshkurtra me diell kryesisht përgjat..."
     },
     {
-      "title": "Kryeministri australian bën thirrje për masa më të ashpra kundër gjuhës së urrejtjes",
-      "link": "https://www.balkanweb.com/kryeministri-australian-ben-thirrje-per-masa-me-te-ashpra-kunder-gjuhes-se-urrejtjes/",
-      "description": "Kryeministri australian Anthony Albanese premtoi të dielën masa më të ashpra kundër “urrejtjes, përçarjes dhe radikalizimit” pas sulmit në plazhin Bondi të Sidneit që vrau 15 persona të dielën. “Është e qartë se duhet të bëjmë më shumë për të luftuar këtë plagë të ligë, shumë më tepër”, tha udhëheqësi i Partisë Laburiste, duke u […]",
-      "published": "Thu, 18 Dec 2025 04:10:14 +0000",
+      "title": "Horoskopi për ditën e sotme, 18 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-18-dhjetor-2025/",
+      "description": "Dashi Natyra juaj energjike mund të lulëzojë kur flisni me një mentor dhe vendosni disa objektiva të qarta. Ju i doni sfidat dhe nuk do të donit ta zhgënjenit një person tjetër që mbështetet tek ju! Momenti favorizon veprimin më shumë sesa përsosmërinë, kështu që angazhohuni në çfarëdo mënyre që të mundeni. Demi Besimi më […]",
+      "published": "Thu, 18 Dec 2025 06:05:29 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873238",
-      "fetched_at": "2025-12-18T04:33:19.456407",
-      "ai_summary": "Kryeministri australian Anthony Albanese premtoi të dielën masa më të ashpra kundër “urrejtjes, përçarjes dhe radikalizimit” pas sulmit në plazhin Bondi të Sidneit që vrau 15 persona të dielën. “Është..."
+      "guid": "https://www.balkanweb.com/?p=2872712",
+      "fetched_at": "2025-12-18T06:31:22.172944",
+      "ai_summary": "Dashi Natyra juaj energjike mund të lulëzojë kur flisni me një mentor dhe vendosni disa objektiva të qarta. Ju i doni sfidat dhe nuk do të donit ta zhgënjenit një person tjetër që mbështetet tek ju! M..."
     },
     {
-      "title": "Maduro paralajmëron për një “Vietnam të ri” pasi Trump urdhëroi bllokadë për Venezuelën",
-      "link": "https://www.balkanweb.com/maduro-paralajmeron-per-nje-vietnam-te-ri-pasi-trump-urdheroi-bllokade-per-venezuelen/",
-      "description": "Presidenti i Venezuelës, Nicolas Maduro, paralajmëroi të martën për rrezikun e një “ Vietnami të ri ”, pasi Presidenti i SHBA-së, Donald Trump, urdhëroi një “bllokim total dhe të plotë” të cisternave të naftës të sanksionuara që largoheshin ose hynin në Venezuelë. Duke folur në Asamblenë Kushtetuese të Klasës Punëtore në kryeqytetin Karakas, Maduro kritikoi […]",
-      "published": "Thu, 18 Dec 2025 04:00:04 +0000",
+      "title": "Kongresi Amerikan miraton heqjen e përhershme të sanksioneve ndaj Sirisë",
+      "link": "https://www.balkanweb.com/kongresi-amerikan-miraton-heqjen-e-perhershme-te-sanksioneve-ndaj-sirise/",
+      "description": "Kongresi Amerikan miratoi të mërkurën heqjen e përhershme të sanksioneve të vendosura nga SHBA-të ndaj Sirisë gjatë presidencës së Bashar al-Assad, duke lejuar përsëri investimet amerikane në vend që ka pësuar shkatërrime të pallogaritshme pas pothuajse një dekade e gjysmë lufte civile. Anulimi i të ashtuquajturit Akti i Cezarit, i cili u miratua në vitin […]",
+      "published": "Thu, 18 Dec 2025 05:00:54 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873188",
-      "fetched_at": "2025-12-18T04:33:19.456513",
-      "ai_summary": "Presidenti i Venezuelës, Nicolas Maduro, paralajmëroi të martën për rrezikun e një “ Vietnami të ri ”, pasi Presidenti i SHBA-së, Donald Trump, urdhëroi një “bllokim total dhe të plotë” të cisternave ..."
+      "guid": "https://www.balkanweb.com/?p=2873224",
+      "fetched_at": "2025-12-18T06:31:22.173060",
+      "ai_summary": "Kongresi Amerikan miratoi të mërkurën heqjen e përhershme të sanksioneve të vendosura nga SHBA-të ndaj Sirisë gjatë presidencës së Bashar al-Assad, duke lejuar përsëri investimet amerikane në vend që ..."
     },
     {
-      "title": "Deklarata e Trump: “Zero imigracion i paligjshëm dhe një ekonomi në rritje”",
-      "link": "https://www.balkanweb.com/deklarata-e-trump-zero-imigracion-i-paligjshem-dhe-nje-ekonomi-ne-rritje/",
-      "description": "Lufta kundër emigracionit të paligjshëm dhe menaxhimi i kufijve ishin në qendër të fjalimit të Presidentit të SHBA-së Donald Trump të mërkurën në mbrëmje, me të cilin ai sulmoi drejtpërdrejt Joe Biden, duke pretenduar se administrata e tij kishte arritur “zero hyrje të paligjshme” pa pasur nevojë për legjislacion të ri. Në të njëjtën kohë, […]",
-      "published": "Thu, 18 Dec 2025 03:50:29 +0000",
+      "title": "SHBA miraton shitjen e armëve me vlerë 11 miliardë dollarë për Tajvanin",
+      "link": "https://www.balkanweb.com/shba-miraton-shitjen-e-armeve-me-vlere-11-miliarde-dollare-per-tajvanin/",
+      "description": "Qeveria amerikane ka miratuar shitjen e dytë të armëve Tajvanit që kur Presidenti i SHBA-së Donald Trump u rikthye në pushtet, me vlerë 11.1 miliardë dollarë, njoftoi sot Taipei, duke shprehur “falënderime të sinqerta”. Sipas Ministrisë së Jashtme të ishullit, paketa përfshin kontrata për shitjen e sistemeve të shumëfishta HIMARS për lëshimin e raketave, obusëve, […]",
+      "published": "Thu, 18 Dec 2025 04:50:57 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873235",
-      "fetched_at": "2025-12-18T04:33:19.456595",
-      "ai_summary": "Lufta kundër emigracionit të paligjshëm dhe menaxhimi i kufijve ishin në qendër të fjalimit të Presidentit të SHBA-së Donald Trump të mërkurën në mbrëmje, me të cilin ai sulmoi drejtpërdrejt Joe Biden..."
+      "guid": "https://www.balkanweb.com/?p=2873244",
+      "fetched_at": "2025-12-18T06:31:22.173184",
+      "ai_summary": "Qeveria amerikane ka miratuar shitjen e dytë të armëve Tajvanit që kur Presidenti i SHBA-së Donald Trump u rikthye në pushtet, me vlerë 11.1 miliardë dollarë, njoftoi sot Taipei, duke shprehur “falënd..."
     },
     {
-      "title": "Irlanda do të blejë sistem radarësh ushtarakë nga Franca",
-      "link": "https://www.balkanweb.com/irlanda-do-te-bleje-sistem-radaresh-ushtarake-nga-franca/",
-      "description": "Irlanda tha të mërkurën se planifikon të blejë një sistem radari ushtarak me vlerë shumë milionë euro nga Franca, ndërsa përgatitet të presë presidencën e radhës të BE-së vitin e ardhshëm, mes shqetësimeve mbi aftësinë e saj mbrojtëse. Anëtari i BE-së “tani do të fillojë menjëherë negociata të hollësishme me Francën mbi një marrëveshje të […]",
-      "published": "Thu, 18 Dec 2025 03:30:27 +0000",
+      "title": "Të paktën 7 të vdekur dhe 1 i zhdukur pas shirave të rrëmbyeshëm në Sao Paulo të Brazilit",
+      "link": "https://www.balkanweb.com/te-pakten-7-te-vdekur-dhe-1-i-zhdukur-pas-shirave-te-rrembyeshem-ne-sao-paulo-te-brazilit/",
+      "description": "Të paktën shtatë persona kanë humbur jetën dhe një tjetër mbetet i zhdukur në shtetin Sao Paulo të Brazilit, pasi një ciklon ekstratropikal shkaktoi ditë me shira të rrëmbyeshëm dhe përmbytje, tha të mërkurën Mbrojtja Civile e vendit. Incidenti i fundit ndodhi në zonën metropolitane të Guarulhos, ku një shofer u zhduk pasi automjeti i […]",
+      "published": "Thu, 18 Dec 2025 04:45:30 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2873197",
-      "fetched_at": "2025-12-18T04:33:19.456679",
-      "ai_summary": "Irlanda tha të mërkurën se planifikon të blejë një sistem radari ushtarak me vlerë shumë milionë euro nga Franca, ndërsa përgatitet të presë presidencën e radhës të BE-së vitin e ardhshëm, mes shqetës..."
+      "guid": "https://www.balkanweb.com/?p=2873206",
+      "fetched_at": "2025-12-18T06:31:22.173314",
+      "ai_summary": "Të paktën shtatë persona kanë humbur jetën dhe një tjetër mbetet i zhdukur në shtetin Sao Paulo të Brazilit, pasi një ciklon ekstratropikal shkaktoi ditë me shira të rrëmbyeshëm dhe përmbytje, tha të ..."
+    },
+    {
+      "title": "YouTube do t’u mundësojë krijuesve të krijojnë videolojëra duke përdorur Gemini 3",
+      "link": "https://telegrafi.com/youtube-do-tu-mundesoje-krijuesve-te-krijojne-videolojera-duke-perdorur-gemini-3/",
+      "description": "Google mban qëndrimin se inteligjenca artificiale është diçka që njerëzit kanë nevojë dhe dëshirojnë më shumë në jetën e tyre, dhe hapi i fundit vjen nga YouTube Gaming, i cili ka njoftuar një version beta të hapur për projektin e quajtur Playables Builder.Ky projekt u mundëson krijuesve të zgjedhur të YouTube të përdorin “prototipin e një aplikacioni web të ndërtuar me Gemini 3” për të krijuar videolojëra të shkurtra, pa pasur nevojë për kodim.YouTube testoi shtimin e lojërave të vogla në platformat e tij desktop dhe mobile që në vitin 2023, dhe më pas, vitin e kaluar, shtoi mundësinë për lojë me shumë lojtarë në Playables. Duke qenë se inteligjenca artificiale po shfaqet në të gjitha shërbimet në pronësi të Google, këto lajme nuk duhet të jenë befasi.Kjo tingëllon ngjashëm me projektet Disco dhe GenTabs, të cilat Google Labs i ka njoftuar së fundmi. Ato ofrojnë një shtresë inteligjence artificiale për shfletimin e webit; përdoruesi jep një kërkesë me gjuhë të natyrshme dhe merr një \"widget\" interaktiv që bën atë që kërkoi. Këto mjete kanë disa përdorime praktike për kërkime, ku qëllimi është të bashkohen të gjitha të dhënat që përdoruesi kërkon në një ndërfaqe të menaxhueshme dhe të lehtë për t’u lexuar.Megjithatë, disa ekspertë janë skeptikë lidhur me efikasitetin e këtij qasjeje në zhvillimin e videolojërave. Ata thonë se, edhe pse inteligjenca artificiale mund të ndihmojë në krijimin e lojërave pa njohuri teknike, kjo nuk garanton një përvojë të këndshme loje për lojtarët. /Telegrafi/",
+      "published": "Thu, 18 Dec 2025 06:21:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/youtube-do-tu-mundesoje-krijuesve-te-krijojne-videolojera-duke-perdorur-gemini-3/",
+      "fetched_at": "2025-12-18T06:31:24.578867",
+      "ai_summary": "Google mban qëndrimin se inteligjenca artificiale është diçka që njerëzit kanë nevojë dhe dëshirojnë më shumë në jetën e tyre, dhe hapi i fundit vjen nga YouTube Gaming, i cili ka njoftuar një version..."
+    },
+    {
+      "title": "Moti në Shqipëri, vranët dhe me diell",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-me-diell-2674499893/",
+      "description": "Shqipëria të enjten do të ndikohet nga kushte atmosferike kryesisht të qëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me vranësira mesatare deri të dendura si dhe intervale afatshkurtra me diell kryesisht përgjatë ultësirës perëndimore. Mjegulla do të jenë prezentë në orët e mëngjesit dhe të mbrëmjes përgjatë zonave luginore. Era do të fryjë me drejtim nga kuadrati i lindjes me shpejtësi mesatare 4 m/sek, e cila hera-herës përgjatë vijës bregdetare dhe zonave luginore pritet të fitoi shpejtësi deri në 6 m/sek.Deti - Valëzimi forcës 0-1 ballë. /Telegrafi/",
+      "published": "Thu, 18 Dec 2025 06:12:48 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-me-diell-2674499893/",
+      "fetched_at": "2025-12-18T06:31:24.579429",
+      "ai_summary": "Shqipëria të enjten do të ndikohet nga kushte atmosferike kryesisht të qëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me vranësira mesatare deri të dendura si dhe interv..."
+    },
+    {
+      "title": "Sot vranët dhe me diell",
+      "link": "https://telegrafi.com/sot-vranet-dhe-me-diell-2674499058/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -2 deri 0°C, ndërkaq temperaturat maksimale do të lëvizin nga 7-10°CEra do të fryjë nga jugperëndimi 1-5 m/s. /Telegrafi/",
+      "published": "Thu, 18 Dec 2025 06:07:31 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sot-vranet-dhe-me-diell-2674499058/",
+      "fetched_at": "2025-12-18T06:31:24.579920",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -2 deri 0°C, ndërkaq temperaturat maksim..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
@@ -101,6 +137,9 @@
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
