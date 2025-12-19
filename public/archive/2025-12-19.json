@@ -1,6 +1,6 @@
 {
   "date": "2025-12-19",
-  "timestamp": "2025-12-19T03:22:59.229986",
+  "timestamp": "2025-12-19T04:33:34.928829",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,83 +9,44 @@
   },
   "articles": [
     {
-      "title": "Albanese shpall ditë zie kombëtare në Australi më 21 dhjetor dhe njofton programin e blerjes së armëve",
-      "link": "https://www.balkanweb.com/albanese-shpall-dite-zie-kombetare-ne-australi-me-21-dhjetor-dhe-njofton-programin-e-blerjes-se-armeve/",
-      "description": "Australia e ka shpallur të dielën ditë zie kombëtare, duke shënuar një javë që kur dy persona të armatosur sulmuan një tubim festiv hebre në plazhin e famshëm Bondi të Sidneit, njoftoi sot kryeministri australian Anthony Albanese. “Kjo ditë do të jetë një mundësi për të qëndruar pranë komunitetit hebre, për ta përqafuar atë dhe […]",
-      "published": "Fri, 19 Dec 2025 03:20:05 +0000",
+      "title": "Mijëra bullgarë protestojnë kundër korrupsionit në vend, kërkojnë reformë të sistemit gjyqësor",
+      "link": "https://www.balkanweb.com/mijera-bullgare-protestojne-kunder-korrupsionit-ne-vend-kerkojne-reforme-te-sistemit-gjyqesor/",
+      "description": "Mijëra bullgarë demonstruan të enjten në mbrëmje kundër qeverisë në largim, duke kërkuar zgjedhje të ndershme dhe reformë të sistemit gjyqësor për të luftuar atë që ata e përshkruajnë si korrupsion endemik në shtetin anëtar më të varfër të Bashkimit Evropian. Demonstratat në kryeqytetin Sofje dhe qytete të tjera në Bullgari erdhën ndërsa vendi përgatitet […]",
+      "published": "Fri, 19 Dec 2025 04:30:38 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2874127",
-      "fetched_at": "2025-12-19T03:22:53.863034",
-      "ai_summary": "Australia e ka shpallur të dielën ditë zie kombëtare, duke shënuar një javë që kur dy persona të armatosur sulmuan një tubim festiv hebre në plazhin e famshëm Bondi të Sidneit, njoftoi sot kryeministr..."
+      "guid": "https://www.balkanweb.com/?p=2874096",
+      "fetched_at": "2025-12-19T04:33:29.821076",
+      "ai_summary": "Mijëra bullgarë demonstruan të enjten në mbrëmje kundër qeverisë në largim, duke kërkuar zgjedhje të ndershme dhe reformë të sistemit gjyqësor për të luftuar atë që ata e përshkruajnë si korrupsion en..."
     },
     {
-      "title": "Maduro u bën thirrje amerikanëve të kundërshtojnë luftën",
-      "link": "https://www.balkanweb.com/maduro-u-ben-thirrje-amerikaneve-te-kundershtojne-luften/",
-      "description": "Presidenti i Venezuelës, Nicolas Maduro, i ka bërë thirrje popullit amerikan që të kundërshtojë luftën në Amerikën e Jugut dhe planet për ndryshimin e regjimit në vend. Fjalimi i udhëheqësit venezuelian u transmetua nga kanali televiziv venezuelian “Venezolana de Televisión”. “Populli amerikan duhet të ngrejë zërin e tij të fortë dhe të thotë ‘jo’ planeve […]",
-      "published": "Fri, 19 Dec 2025 03:15:03 +0000",
+      "title": "Gjykata Ndërkombëtare Penale ‘kundërshton fuqimisht’ sanksionet e reja të SHBA-së kundër 2 gjyqtarëve",
+      "link": "https://www.balkanweb.com/gjykata-nderkombetare-penale-kundershton-fuqimisht-sanksionet-e-reja-te-shba-se-kunder-2-gjyqtareve/",
+      "description": "Gjykata Ndërkombëtare Penale (GJNP) tha të enjten se “kundërshton fuqimisht” sanksionet e reja të SHBA-së ndaj dy gjyqtarëve të GJNP-së, duke e etiketuar këtë veprim si një “sulm flagrant” kundër pavarësisë së një institucioni gjyqësor të paanshëm. ICC-ja kritikoi ashpër shpalljen e sanksioneve të reja të SHBA-së ndaj gjyqtares Gocha Lordkipanidze të Gjeorgjisë dhe gjyqtarit […]",
+      "published": "Fri, 19 Dec 2025 04:00:35 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2874124",
-      "fetched_at": "2025-12-19T03:22:53.863181",
-      "ai_summary": "Presidenti i Venezuelës, Nicolas Maduro, i ka bërë thirrje popullit amerikan që të kundërshtojë luftën në Amerikën e Jugut dhe planet për ndryshimin e regjimit në vend. Fjalimi i udhëheqësit venezueli..."
+      "guid": "https://www.balkanweb.com/?p=2874071",
+      "fetched_at": "2025-12-19T04:33:29.821216",
+      "ai_summary": "Gjykata Ndërkombëtare Penale (GJNP) tha të enjten se “kundërshton fuqimisht” sanksionet e reja të SHBA-së ndaj dy gjyqtarëve të GJNP-së, duke e etiketuar këtë veprim si një “sulm flagrant” kundër pava..."
     },
     {
-      "title": "Tre të vdekur, 13 të plagosur në një sulm me bombë në Jemen",
-      "link": "https://www.balkanweb.com/tre-te-vdekur-13-te-plagosur-ne-nje-sulm-me-bombe-ne-jemen/",
-      "description": "Tre persona u vranë dhe 13 të tjerë u plagosën në një sulm me bombë në qytetin jugperëndimor të Jemenit, Taiz , raportoi agjencia gjermane e lajmeve (dpa), duke cituar burime sigurie në rajon. Një pajisje shpërthyese u shpërtheu jashtë selisë së partisë Al Islah në Taiz – një nga qytetet më të populluara nën […]",
-      "published": "Fri, 19 Dec 2025 03:00:13 +0000",
+      "title": "Policia australiane arreston 7 persona të dyshuar për planifikim të një sulmi terrorist",
+      "link": "https://www.balkanweb.com/policia-australiane-arreston-7-persona-te-dyshuar-per-planifikim-te-nje-sulmi-terrorist/",
+      "description": "Policia australiane ka arrestuar shtatë persona të dyshuar për planifikimin e një sulmi terrorist në periferitë jugperëndimore të Sidneit. Hetuesit besojnë se burrat e arrestuar të enjten, të cilët kishin mbërritur në Sydney nga shteti fqinj i Victorias, mbështesin ideologjinë ekstremiste islamike dhe mund të kenë qenë duke planifikuar një akt dhune. Zëvendës Komisioneri i […]",
+      "published": "Fri, 19 Dec 2025 03:30:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2874065",
-      "fetched_at": "2025-12-19T03:22:53.863274",
-      "ai_summary": "Tre persona u vranë dhe 13 të tjerë u plagosën në një sulm me bombë në qytetin jugperëndimor të Jemenit, Taiz , raportoi agjencia gjermane e lajmeve (dpa), duke cituar burime sigurie në rajon. Një paj..."
-    },
-    {
-      "title": "Rusia e gatshme për bisedime me NATO-n",
-      "link": "https://www.balkanweb.com/rusia-e-gatshme-per-bisedime-me-nato-n/",
-      "description": "Nëse Organizata e Traktatit të Atlantikut të Veriut (NATO) është e gatshme të braktisë qëndrimin e saj anti-rus dhe të angazhohet në dialog bazuar në respekt të ndërsjellë, Rusia do të jetë e gatshme për negociata. Kjo u deklarua nga Vladislav Maslennikov, Drejtor i Departamentit të Çështjeve Evropiane të Ministrisë së Jashtme ruse, në një […]",
-      "published": "Fri, 19 Dec 2025 02:30:53 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2874099",
-      "fetched_at": "2025-12-19T03:22:53.863377",
-      "ai_summary": "Nëse Organizata e Traktatit të Atlantikut të Veriut (NATO) është e gatshme të braktisë qëndrimin e saj anti-rus dhe të angazhohet në dialog bazuar në respekt të ndërsjellë, Rusia do të jetë e gatshme ..."
-    },
-    {
-      "title": "Lukashenko: Një marrëveshje e madhe me SHBA-në është e mundur",
-      "link": "https://www.balkanweb.com/lukashenko-nje-marreveshje-e-madhe-me-shba-ne-eshte-e-mundur/",
-      "description": "Presidenti bjellorus Aleksandër Lukashenko ka folur për një marrëveshje të mundshme të madhe me Shtetet e Bashkuara dhe mundësinë e heqjes së të gjitha sanksioneve. Lukashenko e deklaroi këtë në fjalimin e tij drejtuar popullit dhe parlamentit në seancën e dytë të Asamblesë së VII-të Popullore Gjithëbjelloruse. “Po zhvillojmë një dialog shumë të vështirë me […]",
-      "published": "Fri, 19 Dec 2025 02:00:08 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2874062",
-      "fetched_at": "2025-12-19T03:22:53.863456",
-      "ai_summary": "Presidenti bjellorus Aleksandër Lukashenko ka folur për një marrëveshje të mundshme të madhe me Shtetet e Bashkuara dhe mundësinë e heqjes së të gjitha sanksioneve. Lukashenko e deklaroi këtë në fjali..."
-    },
-    {
-      "title": "Autoritetet e Guatemalës shkatërrojnë një rrjet trafikimi njerëzor drejt SHBA-së",
-      "link": "https://www.balkanweb.com/autoritetet-e-guatemales-shkaterrojne-nje-rrjet-trafikimi-njerezor-drejt-shba-se/",
-      "description": "Autoritetet e Guatemales kanë shkatërruar një rrjet kontrabande emigrantësh drejt Shteteve të Bashkuara, duke arrestuar 14 anëtarë të një organizate kriminale, njoftoi të enjten zyra e prokurorit. Grupi transportonte qytetarë dhe emigrantë të Guatemales nga vende të tjera në Meksikë, nga ku ata merrnin fluturime për në zona pranë kufirit me SHBA-në, më pas kalonin […]",
-      "published": "Fri, 19 Dec 2025 01:45:33 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2874117",
-      "fetched_at": "2025-12-19T03:22:53.863537",
-      "ai_summary": "Autoritetet e Guatemales kanë shkatërruar një rrjet kontrabande emigrantësh drejt Shteteve të Bashkuara, duke arrestuar 14 anëtarë të një organizate kriminale, njoftoi të enjten zyra e prokurorit. Gru..."
+      "guid": "https://www.balkanweb.com/?p=2874113",
+      "fetched_at": "2025-12-19T04:33:29.821315",
+      "ai_summary": "Policia australiane ka arrestuar shtatë persona të dyshuar për planifikimin e një sulmi terrorist në periferitë jugperëndimore të Sidneit. Hetuesit besojnë se burrat e arrestuar të enjten, të cilët ki..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
