@@ -1,6 +1,6 @@
 {
   "date": "2025-12-23",
-  "timestamp": "2025-12-23T04:36:51.015753",
+  "timestamp": "2025-12-23T06:32:15.228513",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,72 +9,137 @@
   },
   "articles": [
     {
-      "title": "India finalizon marrëveshjen e tretë të tregtisë së lirë këtë vit me Zelandën e Re",
-      "link": "https://www.balkanweb.com/india-finalizon-marreveshjen-e-trete-te-tregtise-se-lire-kete-vit-me-zelanden-e-re/",
-      "description": "India dhe Zelanda e Re kanë përfunduar negociatat për një marrëveshje të tregtisë së lirë, njoftuan kryeministrat e tyre të hënën, duke shënuar marrëveshjen e tretë të tillë të New Delhit këtë vit me një komb të zhvilluar, ndërsa kërkon të diversifikojë tregun e saj të eksportit. Negociatat për një Marrëveshje Tregtie të Lirë midis […]",
-      "published": "Tue, 23 Dec 2025 04:30:17 +0000",
+      "title": "Siguria e furnizimit me energji, raporti: Shqipëria nuk ka ende një plan përgatitjeje",
+      "link": "https://www.balkanweb.com/siguria-e-furnizimit-me-energji-raporti-shqiperia-nuk-ka-ende-nje-plan-pergatitjeje/",
+      "description": "Shqipëria nuk ka një plan gatishmërie për të garantuar sigurinë energjetike sipas parimeve që përcaktojnë direktivat e Bashkimit Europian. Sekretariati i Komunitetit të Energjisë vërën se afatet për të plotësuar disa kërkesa të lidhura me rregulloren përkatëse që mbulon këtë çështje kanë mbaruar prej vitesh tashmë por përafrimi mbetet ende në faza diskutimi. “Shqipëria nuk […]",
+      "published": "Tue, 23 Dec 2025 06:24:33 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2876530",
-      "fetched_at": "2025-12-23T04:36:45.667863",
-      "ai_summary": "India dhe Zelanda e Re kanë përfunduar negociatat për një marrëveshje të tregtisë së lirë, njoftuan kryeministrat e tyre të hënën, duke shënuar marrëveshjen e tretë të tillë të New Delhit këtë vit me ..."
+      "guid": "https://www.balkanweb.com/?p=2876467",
+      "fetched_at": "2025-12-23T06:32:09.385632",
+      "ai_summary": "Shqipëria nuk ka një plan gatishmërie për të garantuar sigurinë energjetike sipas parimeve që përcaktojnë direktivat e Bashkimit Europian. Sekretariati i Komunitetit të Energjisë vërën se afatet për t..."
     },
     {
-      "title": "Trump zbulon “Flotën e Artë” dhe gjeneratën e re të anijeve luftarake të Marinës Amerikane",
-      "link": "https://www.balkanweb.com/trump-zbulon-floten-e-arte-dhe-gjeneraten-e-re-te-anijeve-luftarake-te-marines-amerikane/",
-      "description": "Krijimi i një brezi të ri anijesh luftarake për Marinën e Shteteve të Bashkuara u njoftua nga Presidenti Donald Trump të hënën, duke prezantuar një plan për një ” Flotë të Artë ” të përmirësuar, me anije më të mëdha, më të rënda dhe më të përparuara teknologjikisht se çdo gjë e ndërtuar deri më […]",
-      "published": "Tue, 23 Dec 2025 04:00:06 +0000",
+      "title": "“Pa u marrë me legjendat urbane, pyetja ngushtohet këtu: a e zbatuan mirditorët institutin e ndores dhe të paprekshmërisë së gruas edhe ndaj Musine Kokalarit…”?/ Refleksionet e studiuesit të njohur nga SHBA-ës",
+      "link": "https://www.balkanweb.com/pa-u-marre-me-legjendat-urbane-pyetja-ngushtohet-ketu-a-e-zbatuan-mirditoret-institutin-e-ndores-dhe-te-paprekshmerise-se-gruas-edhe-ndaj-musine-kokalarit-refleksionet-e/",
+      "description": "Nga Agron Alibali Pjesa e dytë Në vend të hyrjes Më kishte mbetur në mendje imazhi i saj në sallën e gjyqit – e hijshme, elegante, me flokët e gjatë gështenjë, derdhur mbi supe. E marrë në momente tragjike, fotoja rrezatonte guxim, sfidë, vendosmëri, mençuri, inteligjencë! Për Musine Kokalarin [1917 – 1983], kisha dëgjuar edhe […]",
+      "published": "Tue, 23 Dec 2025 06:18:43 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2876511",
-      "fetched_at": "2025-12-23T04:36:45.668013",
-      "ai_summary": "Krijimi i një brezi të ri anijesh luftarake për Marinën e Shteteve të Bashkuara u njoftua nga Presidenti Donald Trump të hënën, duke prezantuar një plan për një ” Flotë të Artë ” të përmirësuar, me an..."
+      "guid": "https://www.balkanweb.com/?p=2876462",
+      "fetched_at": "2025-12-23T06:32:09.385786",
+      "ai_summary": "Nga Agron Alibali Pjesa e dytë Në vend të hyrjes Më kishte mbetur në mendje imazhi i saj në sallën e gjyqit – e hijshme, elegante, me flokët e gjatë gështenjë, derdhur mbi supe. E marrë në momente tra..."
     },
     {
-      "title": "Trump për Maduron: Do të ishte e zgjuar që ai të largohej nga pushteti, nëse dëshiron të luajë ashpër, do të jetë hera e fundit që e bën këtë",
-      "link": "https://www.balkanweb.com/trump-per-maduron-do-te-ishte-e-zgjuar-qe-ai-te-largohej-nga-pushteti-nese-deshiron-te-luaje-ashper-do-te-jete-hera-e-fundit-qe-e-ben-kete/",
-      "description": "Presidenti i SHBA-së, Donald Trump, la të hapur mundësinë që Shtetet e Bashkuara të mbajnë ose shesin naftën që kanë sekuestruar në det të hapur të Venezuelës të hënën , ndërsa deklaroi gjithashtu se do të ishte “e zgjuar” që Presidenti i vendit , Nicolas Maduro, të jepte dorëheqjen. Duke folur me gazetarët, Donald Trump […]",
-      "published": "Tue, 23 Dec 2025 03:45:42 +0000",
+      "title": "Mjegull dhe reshje shiu/ Parashikimi i motit për sot, 23 dhjetor 2025",
+      "link": "https://www.balkanweb.com/d/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura. Reshjet e shiut pritet të bëhen prezente në orët e mëngjesit fillimisht përgjatë vijës bregdetare dhe gradualisht do të shtrihen në të gjithë vendin. Reshjet parashikohet të jenë me intensitet kryesisht të […]",
+      "published": "Tue, 23 Dec 2025 06:12:47 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2876547",
-      "fetched_at": "2025-12-23T04:36:45.668105",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, la të hapur mundësinë që Shtetet e Bashkuara të mbajnë ose shesin naftën që kanë sekuestruar në det të hapur të Venezuelës të hënën , ndërsa deklaroi gjithashtu se ..."
+      "guid": "https://www.balkanweb.com/?p=2876465",
+      "fetched_at": "2025-12-23T06:32:09.386141",
+      "ai_summary": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura. Reshjet e shiut pritet të bëhen prezente në orët e..."
     },
     {
-      "title": "Nën presionin e SHBA-së, Kolumbia fillon spërkatjen e kokainës me dronë",
-      "link": "https://www.balkanweb.com/nen-presionin-e-shba-se-kolumbia-fillon-sperkatjen-e-kokaines-me-drone/",
-      "description": "Kolumbia do të fillojë spërkatjen e plantacioneve të kokainës me glifosat këtë javë duke përdorur dronë që fluturojnë ulët, njoftoi sot qeveria, nën presionin e Shteteve të Bashkuara. Masa e re do të shohë dronët që fluturojnë në një lartësi maksimale prej 1.5 metrash mbi bimët e kokaines dhe do të kryejnë spërkatje të kontrolluar […]",
-      "published": "Tue, 23 Dec 2025 03:40:23 +0000",
+      "title": "Horoskopi për ditën e sotme, 23 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-23-dhjetor-2025/",
+      "description": "Dashi Zhgënjimi me punën do të jetë i përhapur për ju sot. Mund të ndiheni sikur po ecni me një top dhe një zinxhir të lidhur në këmbë. Mos u shqetësoni. Ky është një mesazh kozmik që ju thotë të ngadalësoni dhe të jeni më të duruar. Demi Mund të jesh më produktiv sot se […]",
+      "published": "Tue, 23 Dec 2025 06:05:01 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2876565",
-      "fetched_at": "2025-12-23T04:36:45.668195",
-      "ai_summary": "Kolumbia do të fillojë spërkatjen e plantacioneve të kokainës me glifosat këtë javë duke përdorur dronë që fluturojnë ulët, njoftoi sot qeveria, nën presionin e Shteteve të Bashkuara. Masa e re do të ..."
+      "guid": "https://www.balkanweb.com/?p=2875870",
+      "fetched_at": "2025-12-23T06:32:09.386263",
+      "ai_summary": "Dashi Zhgënjimi me punën do të jetë i përhapur për ju sot. Mund të ndiheni sikur po ecni me një top dhe një zinxhir të lidhur në këmbë. Mos u shqetësoni. Ky është një mesazh kozmik që ju thotë të ngad..."
     },
     {
-      "title": "Somalia përforcon masat e sigurisë përpara zgjedhjeve të para lokale në dekada",
-      "link": "https://www.balkanweb.com/somalia-perforcon-masat-e-sigurise-perpara-zgjedhjeve-te-para-lokale-ne-dekada/",
-      "description": "Somalia do të vendosë më shumë se 10,000 personel sigurie në kryeqytetin Mogadishu, përpara zgjedhjeve lokale të javës së ardhshme — zgjedhjet e para të drejtpërdrejta në gati 60 vjet — tha të dielën ministri i sigurisë. Vendi i Afrikës Lindore po përpiqet të dalë nga dekada konflikti dhe kaosi, duke u përballur me një […]",
-      "published": "Tue, 23 Dec 2025 03:30:46 +0000",
+      "title": "BE zgjat sanksionet ekonomike kundër Rusisë për gjashtë muaj",
+      "link": "https://www.balkanweb.com/be-zgjat-sanksionet-ekonomike-kunder-rusise-per-gjashte-muaj/",
+      "description": "Këshilli i Bashkimit Evropian (BE) ka zgjatur sanksionet ekonomike kundër Rusisë deri më 31 korrik 2026. Rreth kësaj, Raporton Byroja Evropiane e Raportit , duke cituar Këshillin e BE-së. Të vendosura për herë të parë në vitin 2014, sanksionet u zgjeruan ndjeshëm në shkurt të vitit 2022 në përgjigje të agresionit ushtarak të paprovokuar, të […]",
+      "published": "Tue, 23 Dec 2025 05:00:35 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2876527",
-      "fetched_at": "2025-12-23T04:36:45.668274",
-      "ai_summary": "Somalia do të vendosë më shumë se 10,000 personel sigurie në kryeqytetin Mogadishu, përpara zgjedhjeve lokale të javës së ardhshme — zgjedhjet e para të drejtpërdrejta në gati 60 vjet — tha të dielën ..."
+      "guid": "https://www.balkanweb.com/?p=2876521",
+      "fetched_at": "2025-12-23T06:32:09.386374",
+      "ai_summary": "Këshilli i Bashkimit Evropian (BE) ka zgjatur sanksionet ekonomike kundër Rusisë deri më 31 korrik 2026. Rreth kësaj, Raporton Byroja Evropiane e Raportit , duke cituar Këshillin e BE-së. Të vendosura..."
+    },
+    {
+      "title": "Trump: SHBA-të do të mbajnë naftën nga cisternat e sekuestruara venezueliane",
+      "link": "https://www.balkanweb.com/trump-shba-te-do-te-mbajne-naften-nga-cisternat-e-sekuestruara-venezueliane/",
+      "description": "SHBA-të planifikojnë të sekuestrojnë si naftën nga cisternat venezueliane të sekuestruara në ujërat ndërkombëtare, ashtu edhe vetë anijet. Presidenti i SHBA-së Donald Trump e tha këtë ndërsa po përgjigjej pyetjeve të gazetarëve në pronën e tij në Mar-a-Lago pranë West Palm Beach, Florida. “Do ta ruajmë naftën. Mund ta përdorim për të rritur rezervat strategjike. […]",
+      "published": "Tue, 23 Dec 2025 04:45:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2876534",
+      "fetched_at": "2025-12-23T06:32:09.386494",
+      "ai_summary": "SHBA-të planifikojnë të sekuestrojnë si naftën nga cisternat venezueliane të sekuestruara në ujërat ndërkombëtare, ashtu edhe vetë anijet. Presidenti i SHBA-së Donald Trump e tha këtë ndërsa po përgji..."
+    },
+    {
+      "title": "Një i vdekur në sulmin e ri amerikan ndaj një anijeje të dyshuar për drogë në Paqësorin Lindor",
+      "link": "https://www.balkanweb.com/nje-i-vdekur-ne-sulmin-e-ri-amerikan-ndaj-nje-anijeje-te-dyshuar-per-droge-ne-paqesorin-lindor/",
+      "description": "Një burrë u vra nga forcat amerikane gjatë një sulmi të synuar ndaj një anijeje të dyshuar për trafik droge që po lundronte në ujërat ndërkombëtare në Paqësorin Lindor , u njoftua herët këtë mëngjes. Sipas përditësimit zyrtar, të publikuar në platformën X, kishte informacione se anija po transportonte drogë të paligjshme dhe po lëvizte […]",
+      "published": "Tue, 23 Dec 2025 04:35:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2876571",
+      "fetched_at": "2025-12-23T06:32:09.386619",
+      "ai_summary": "Një burrë u vra nga forcat amerikane gjatë një sulmi të synuar ndaj një anijeje të dyshuar për trafik droge që po lundronte në ujërat ndërkombëtare në Paqësorin Lindor , u njoftua herët këtë mëngjes. ..."
+    },
+    {
+      "title": "Moti në Shqipëri, vranët dhe me shi",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-me-shi-2674823401/",
+      "description": "Shërbimi Meteorologjik Ushtarak bën të ditur se sot Shqipëria do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme.SHMU njofton se moti parashikohet me vranësira mesatare deri të dendura. “Reshjet e shiut pritet të bëhen prezentë në orët e mëngjesit fillimisht përgjatë vijës bregdetare dhe gradualisht do të shtrihen në të gjithë vendin. Reshjet parashikohet të jenë me intensitet kryesisht të ulët e lokalisht reshje shiu në formën e shtrëngatave afatshkurtra kryesisht përgjatë ultësirës perëndimore dhe në jugperëndim të vendit”, thuhet në njoftim. Tutje, SHMU bën të ditur se në Alpe e relievet malore në verilindje-lindje-juglindje duke filluar prej orëve të pasdites do të ketë reshje bore me intensitet të ulët, ndërkaq mjegull e dendur përgjatë zonave luginore në orët e mëngjesit si dhe në momentin e reshjeve të shiut dhe dëborës.Era do të fryjë me drejtim nga kuadrati i veriut me shpejtësi mesatare 7 m/sek, përgjatë vijës bregdetarë e zonave luginore era fiton shpejtësi deri në 12m/s . /Telegrafi/",
+      "published": "Tue, 23 Dec 2025 06:23:22 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-me-shi-2674823401/",
+      "fetched_at": "2025-12-23T06:32:11.862374",
+      "ai_summary": "Shërbimi Meteorologjik Ushtarak bën të ditur se sot Shqipëria do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme.SHMU njofton se moti parashikohet me vranësira mesatare deri të dendur..."
+    },
+    {
+      "title": "Grupi i aktivistëve thotë se ka mbledhur 86 milionë skedarë muzikorë nga Spotify",
+      "link": "https://telegrafi.com/grupi-i-aktivisteve-thote-se-ka-mbledhur-86-milione-skedare-muzikore-nga-spotify/",
+      "description": "Një grup aktivistësh ka pretenduar se ka mbledhur miliona këngë nga Spotify dhe po përgatitet t'i publikojë ato në internet.Vëzhguesit thanë se rrjedhja e dukshme mund të nxisë kompanitë e inteligjencës artificiale, që kërkojnë materiale për të zhvilluar teknologjinë e tyre.Një grup i quajtur Anna’s Archive tha se kishte mbledhur 86 milionë skedarë muzikorë nga Spotify dhe 256 milionë rreshta meta të dhënash, të tilla si emrat e artistëve dhe albumeve. Spotify, e cila pret më shumë se 100 milionë këngë, konfirmoi se rrjedhja nuk përfaqësonte të gjithë inventarin e saj, transmeton Telegrafi.Kompania me seli në Stokholm, e cila ka më shumë se 700 milionë përdorues në të gjithë botën, tha se kishte \"identifikuar dhe çaktivizuar llogaritë e përdoruesve të paligjshëm që merreshin me mbledhje të paligjshme\".\"Një hetim për qasje të paautorizuar identifikoi se një palë e tretë mblodhi meta të dhëna publike dhe përdori taktika të paligjshme për të anashkaluar DRM [menaxhimin e të drejtave digjitale] për të aksesuar disa nga skedarët audio të platformës. Ne po e hetojmë në mënyrë aktive incidentin\", tha Spotify.Spotify nuk beson se muzika e marrë nga Anna’s Archive është publikuar ende. Arkivi i Annës, i cili njihet për ofrimin e lidhjeve për libra të piratuar, tha në një blog se donte të krijonte një \"'arkiv ruajtjeje' për muzikën\".Grupi pretendoi se skedarët audio përfaqësonin 99.6% të të gjithë muzikës së dëgjuar nga përdoruesit e Spotify dhe do të ndaheshin nëpërmjet \"torrenteve\", një mjet për ndarjen e skedarëve të mëdhenj digjitalë në internet.\"Sigurisht që Spotify nuk ka të gjithë muzikën në botë, por është një fillim i shkëlqyer\", tha Arkivi i Annës, i cili e përshkruan misionin e tij si \"ruajtjen e njohurive dhe kulturës së njerëzimit\".\"Me ndihmën tuaj, trashëgimia muzikore e njerëzimit do të mbrohet përgjithmonë nga shkatërrimi nga fatkeqësitë natyrore, luftërat, shkurtimet e buxhetit dhe katastrofat e tjera\", tha grupi.Ed Newton-Rex, një kompozitor dhe aktivist për mbrojtjen e të drejtave të autorit të artistëve, tha se muzika e rrjedhur ndoshta do të përdoret për zhvillimin e modeleve të IA-së.\"Trajnimi mbi materiale të piratuara është për fat të keq i zakonshëm në industrinë e IA-së, kështu që kjo muzikë e vjedhur është pothuajse e sigurt se do të përfundojë duke trajnuar modele të IA-së. Kjo është arsyeja pse qeveritë duhet të këmbëngulin që kompanitë e IA-së të zbulojnë të dhënat e trajnimit që përdorin\", tha ai.Faqja e internetit Anna’s Archive bën referenca për LibGen, një arkiv të gjerë online me libra të piratuar që dyshohet se është përdorur nga Meta e Mark Zuckerberg për të trajnuar modelet e saj të IA-së. Sipas një deklarate gjyqësore amerikane, Zuckerberg, themeluesi dhe drejtori ekzekutiv i Meta-s, miratoi përdorimin e të dhënave LibGen pavarësisht paralajmërimeve brenda ekipit ekzekutiv të IA-së të kompanisë se ishte një të dhënë \"që ne e dimë se është piratuar\".Meta mbrojti me sukses një padi për shkelje të të drejtave të autorit nga autorët, por paditësit në këtë rast po kërkojnë të ndryshojnë padinë e tyre.Bashkëthemeluesi i një startup-i të IA-së shkroi në LinkedIn se anëtarët e publikut në teori mund të \"krijojnë versionin e tyre personal falas të Spotify\". Yoav Zimmerman, një bashkëthemelues i Third Chair, tha se kjo gjithashtu mund t'u lejojë kompanive të teknologjisë të \"trajnohen mbi muzikën moderne në shkallë të gjerë\".\"E vetmja gjë që i ndalon ata është ligji i të drejtave të autorit dhe pengimi i zbatimit të tyre\", shtoi ai.Të drejtat e autorit janë bërë një fushë beteje midis artistëve, autorëve dhe krijuesve nga njëra anë dhe kompanive të IA-së nga ana tjetër. Mjetet e inteligjencës artificiale, të tilla si chatbot-et dhe gjeneratorët e muzikës, trajnohen mbi sasi të mëdha të dhënash të marra nga uebi i hapur, duke përfshirë edhe veprat e mbrojtura nga të drejtat e autorit.Në Mbretërinë e Bashkuar, profesionistët krijues kanë protestuar kundër një propozimi qeveritar për t'u lejuar kompanive të inteligjencës artificiale të përdorin vepra të mbrojtura nga të drejtat e autorit pa leje, përveç nëse pronari i veprës së mbrojtur nga të drejtat e autorit sinjalizon se nuk dëshiron që të dhënat e tij të merren. Pothuajse çdo i anketuar në një konsultim qeveritar mbi propozimin ka mbështetur shqetësimet e artistëve.Liz Kendall, sekretarja e shtetit për shkencën, inovacionin dhe teknologjinë, i tha parlamentit këtë muaj se nuk kishte \"konsensus të qartë\" për këtë çështje, duke shtuar se ministrat do të \"merrnin kohë për ta bërë këtë siç duhet\". Qeveria është zotuar të bëjë propozime politikash mbi inteligjencën artificiale dhe të drejtat e autorit deri më 18 mars të vitit të ardhshëm. /Telegrafi/",
+      "published": "Tue, 23 Dec 2025 06:20:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/grupi-i-aktivisteve-thote-se-ka-mbledhur-86-milione-skedare-muzikore-nga-spotify/",
+      "fetched_at": "2025-12-23T06:32:11.862854",
+      "ai_summary": "Një grup aktivistësh ka pretenduar se ka mbledhur miliona këngë nga Spotify dhe po përgatitet t'i publikojë ato në internet.Vëzhguesit thanë se rrjedhja e dukshme mund të nxisë kompanitë e inteligjenc..."
+    },
+    {
+      "title": "Mot i vranët, temperaturat deri në 8 gradë",
+      "link": "https://telegrafi.com/mot-i-vranet-temperaturat-deri-ne-8-grade/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot kryesisht i vranët.Temperaturat minimale do të lëvizin ndërmjet - 2 deri 0 gradë, ndërkaq ato maksimale nga 5-8 gradë Celsius. IHK njofton se era do të fryjë nga juglindja me shpejtësi 1-4m/s. /Telegrafi/",
+      "published": "Tue, 23 Dec 2025 06:16:05 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mot-i-vranet-temperaturat-deri-ne-8-grade/",
+      "fetched_at": "2025-12-23T06:32:11.863675",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot kryesisht i vranët.Temperaturat minimale do të lëvizin ndërmjet - 2 deri 0 gradë, ndërkaq ato maksimale nga 5-8 gradë Celsius. IHK njof..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
