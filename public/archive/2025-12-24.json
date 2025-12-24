@@ -1,6 +1,6 @@
 {
   "date": "2025-12-24",
-  "timestamp": "2025-12-24T04:35:01.230601",
+  "timestamp": "2025-12-24T06:32:22.116951",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,72 +9,124 @@
   },
   "articles": [
     {
-      "title": "Moldavia do të heqë kufizimet për importin e drithërave nga Ukraina",
-      "link": "https://www.balkanweb.com/moldavia-do-te-heqe-kufizimet-per-importin-e-dritherave-nga-ukraina/",
-      "description": "Qeveria moldave do të heqë kufizimet për importin e drithërave nga Ukraina në fillim të vitit 2026. Ministrja e Bujqësisë e vendit, Lyudmila Katlabuga, foli për këtë. U vu re se regjimi i licencimit special do të eliminohet pas 31 dhjetorit 2025. Sipas ministrit, kuadri aktual legjislativ nuk lejon zgjatjen e kufizimit. “Sipas Ligjit Nr. […]",
-      "published": "Wed, 24 Dec 2025 04:30:04 +0000",
+      "title": "“Ridënimin tim në kampin e Ballshit, ma përgatitën operativi i burgut, Gjergji Stefa, kriminel dhe njeri pa moral nga Drenova e Korçës, me hetuesin Enriko Anastasi, të cilët…”/ Dëshmia e rrallë e Urim Elezit",
+      "link": "https://www.balkanweb.com/ridenimin-tim-ne-kampin-e-ballshit-ma-pergatiten-operativi-i-burgut-gjergji-stefa-kriminel-dhe-njeri-pa-moral-nga-drenova-e-korces-me-hetuesin-enriko-anastasi-te-cilet/",
+      "description": "Nga URIM ELEZI Pjesa e gjashtë Urim Elezi, lindur më 18.10.1941 në Floq të Korçës, hyn te të dënuarit dy herë nga regjimi komunist me shumë vite vuajtjeje. Ai u burgos më 26.10.1963 dhe doli që andej më 10.2.1989. hyri në 22 vjeç dhe doli 48 vjeç, madje i verbuar. Në moshën 18-vjeçare kreu shkollën […]",
+      "published": "Wed, 24 Dec 2025 06:18:40 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877301",
-      "fetched_at": "2025-12-24T04:34:55.789595",
-      "ai_summary": "Qeveria moldave do të heqë kufizimet për importin e drithërave nga Ukraina në fillim të vitit 2026. Ministrja e Bujqësisë e vendit, Lyudmila Katlabuga, foli për këtë. U vu re se regjimi i licencimit s..."
+      "guid": "https://www.balkanweb.com/?p=2876813",
+      "fetched_at": "2025-12-24T06:32:16.571719",
+      "ai_summary": "Nga URIM ELEZI Pjesa e gjashtë Urim Elezi, lindur më 18.10.1941 në Floq të Korçës, hyn te të dënuarit dy herë nga regjimi komunist me shumë vite vuajtjeje. Ai u burgos më 26.10.1963 dhe doli që andej ..."
     },
     {
-      "title": "Papa Leo XIV bën thirrje për armëpushim global në Ditën e Krishtlindjeve",
-      "link": "https://www.balkanweb.com/papa-leo-xiv-ben-thirrje-per-armepushim-global-ne-diten-e-krishtlindjeve/",
-      "description": "Papa Leo XIV bëri thirrje të martën për një armëpushim global në Ditën e Krishtlindjeve, duke shprehur “trishtim të madh” që “me sa duket Rusia hodhi poshtë një kërkesë” për një të tillë. “Po e ripërtëri kërkesën time për të gjithë njerëzit me vullnet të mirë që të respektojnë një ditë paqeje – të paktën […]",
-      "published": "Wed, 24 Dec 2025 04:00:47 +0000",
+      "title": "Parashikimi i motit për sot, 24 dhjetor 2025",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-24-dhjetor-2025/",
+      "description": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura. Reshje shiu të herëpashershme me intensitet të ulët e lokalisht mesatar në pjesën më të madhe të territorit që në orët e para të 24-orëshit deri në mëngjes, hera-herës shtrëngata afatshkurtra. Gjatë […]",
+      "published": "Wed, 24 Dec 2025 06:18:30 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877269",
-      "fetched_at": "2025-12-24T04:34:55.789740",
-      "ai_summary": "Papa Leo XIV bëri thirrje të martën për një armëpushim global në Ditën e Krishtlindjeve, duke shprehur “trishtim të madh” që “me sa duket Rusia hodhi poshtë një kërkesë” për një të tillë. “Po e ripërt..."
+      "guid": "https://www.balkanweb.com/?p=2877229",
+      "fetched_at": "2025-12-24T06:32:16.572132",
+      "ai_summary": "Ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura. Reshje shiu të herëpashershme me intensitet të ulë..."
     },
     {
-      "title": "Greta Thunberg lirohet pas arrestimit në Londër gjatë një proteste pro-Palestineze",
-      "link": "https://www.balkanweb.com/greta-thunberg-lirohet-pas-arrestimit-ne-londer-gjate-nje-proteste-pro-palestineze/",
-      "description": "Aktivistja suedeze Greta Thunberg u lirua sot pasi u arrestua të martën në Londër gjatë një proteste pro-Palestineze . 22-vjeçarja u arrestua nga policia me akuzën e mbështetjes së një organizate terroriste, ndërsa mbante në dorë një pankartë që mbështeste të burgosurit e Veprimit për Palestinë, një organizatë e përcaktuar si terroriste nga qeveria britanike. […]",
-      "published": "Wed, 24 Dec 2025 03:50:34 +0000",
+      "title": "Horoskopi për ditën e sotme, 24 dhjetor 2025",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-24-dhjetor-2025/",
+      "description": "Dashi Ka shumë ide të tjera që funksionojnë përveç idesë tënde. Shiko përreth teje dhe merr në konsideratë teknika alternative përpara se të shpërdorosh burimet e tua duke qëndruar i përqendruar vetëm në një ide ose në një grup idesh. Përfshi mençurinë që të rrethon. Demi Sot është një ditë e mirë për të studiuar […]",
+      "published": "Wed, 24 Dec 2025 06:05:12 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877317",
-      "fetched_at": "2025-12-24T04:34:55.789838",
-      "ai_summary": "Aktivistja suedeze Greta Thunberg u lirua sot pasi u arrestua të martën në Londër gjatë një proteste pro-Palestineze . 22-vjeçarja u arrestua nga policia me akuzën e mbështetjes së një organizate terr..."
+      "guid": "https://www.balkanweb.com/?p=2876835",
+      "fetched_at": "2025-12-24T06:32:16.572241",
+      "ai_summary": "Dashi Ka shumë ide të tjera që funksionojnë përveç idesë tënde. Shiko përreth teje dhe merr në konsideratë teknika alternative përpara se të shpërdorosh burimet e tua duke qëndruar i përqendruar vetëm..."
     },
     {
-      "title": "Kuvajti nënshkruan marrëveshje prej 4.1 miliardë dollarësh me Kinën për ndërtimin e një porti",
-      "link": "https://www.balkanweb.com/kuvajti-nenshkruan-marreveshje-prej-4-1-miliarde-dollaresh-me-kinen-per-ndertimin-e-nje-porti/",
-      "description": "Kuvajti ka nënshkruar një marrëveshje me vlerë 4.1 miliardë dollarë me Kinën për të përfunduar ndërtimin e një porti të madh, ndërsa vendi i pasur me naftë kërkon të diversifikojë ekonominë e tij me një rol më të madh në tregtinë globale. Byroja Shtetërore e Auditimit, një organ mbikëqyrës qeveritar përgjegjës për monitorimin e fondeve […]",
-      "published": "Wed, 24 Dec 2025 03:45:01 +0000",
+      "title": "Bolsonaro lirohet përkohësisht nga burgu: Do t’i nënshtrohet një ndërhyrjeje kirurgjikale",
+      "link": "https://www.balkanweb.com/bolsonaro-lirohet-perkohesisht-nga-burgu-do-ti-nenshtrohet-nje-nderhyrjeje-kirurgjikale/",
+      "description": "Gjykata Supreme e Brazilit miratoi të martën kërkesën e ish-Presidentit Jair Bolsonaro për t’u liruar nga burgu për t’iu nënshtruar një ndërhyrjeje kirurgjikale ditën e Krishtlindjeve. “Drita jeshile” u dha nga gjyqtari Alexandre de Moraes, i cili kryesoi gjyqin e Bolsonaros për një përpjekje për grusht shteti shtatorin e kaluar. Ish-presidenti u dënua me 27 […]",
+      "published": "Wed, 24 Dec 2025 05:00:37 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877314",
-      "fetched_at": "2025-12-24T04:34:55.789920",
-      "ai_summary": "Kuvajti ka nënshkruar një marrëveshje me vlerë 4.1 miliardë dollarë me Kinën për të përfunduar ndërtimin e një porti të madh, ndërsa vendi i pasur me naftë kërkon të diversifikojë ekonominë e tij me n..."
+      "guid": "https://www.balkanweb.com/?p=2877293",
+      "fetched_at": "2025-12-24T06:32:16.572321",
+      "ai_summary": "Gjykata Supreme e Brazilit miratoi të martën kërkesën e ish-Presidentit Jair Bolsonaro për t’u liruar nga burgu për t’iu nënshtruar një ndërhyrjeje kirurgjikale ditën e Krishtlindjeve. “Drita jeshile”..."
     },
     {
-      "title": "Departamenti Amerikan i Drejtësisë: Letra e Epstein drejtuar Nassarit është e rreme",
-      "link": "https://www.balkanweb.com/departamenti-amerikan-i-drejtesise-letra-e-epstein-drejtuar-nassarit-eshte-e-rreme/",
-      "description": "Një letër që dyshohet se është dërguar në vitin 2019 nga Jeffrey Epstein te shkelësi i dënuar seksual Larry Nassar është e rreme , tha Departamenti Amerikan i Drejtësisë të martën vonë. Në letër, e cila është përfshirë në grupin e fundit të dokumenteve që lidhen me Epstein , Epstein shkroi se Donald Trump “i […]",
-      "published": "Wed, 24 Dec 2025 03:30:24 +0000",
+      "title": "Urdhra evakuimi janë lëshuar në zonat e Los Angelesit për shkak të frikës nga përmbytjet",
+      "link": "https://www.balkanweb.com/urdhra-evakuimi-jane-leshuar-ne-zonat-e-los-angelesit-per-shkak-te-frikes-nga-permbytjet/",
+      "description": "Autoritetet e Los Anxhelosit lëshuan urdhra evakuimi për disa zona të martën, ndërsa shirat e rrëmbyeshëm pritet të godasin Kaliforninë, duke rritur frikën e përmbytjeve të rrezikshme në prag të Krishtlindjeve. Një “lumë atmosferik” – një stuhi që duket si një lumë në qiell – pritet të godasë Kaliforninë Jugore në orët në vijim dhe […]",
+      "published": "Wed, 24 Dec 2025 04:45:52 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877289",
-      "fetched_at": "2025-12-24T04:34:55.789992",
-      "ai_summary": "Një letër që dyshohet se është dërguar në vitin 2019 nga Jeffrey Epstein te shkelësi i dënuar seksual Larry Nassar është e rreme , tha Departamenti Amerikan i Drejtësisë të martën vonë. Në letër, e ci..."
+      "guid": "https://www.balkanweb.com/?p=2877310",
+      "fetched_at": "2025-12-24T06:32:16.572418",
+      "ai_summary": "Autoritetet e Los Anxhelosit lëshuan urdhra evakuimi për disa zona të martën, ndërsa shirat e rrëmbyeshëm pritet të godasin Kaliforninë, duke rritur frikën e përmbytjeve të rrezikshme në prag të Krish..."
+    },
+    {
+      "title": "Microsoft sjell ndryshime të mëdha",
+      "link": "https://telegrafi.com/microsoft-sjell-ndryshime-te-medha/",
+      "description": "Kompania Microsoft po punon për përmirësimin e konsiderueshëm të performancës së disqeve SSD në sistemet Windows, gjë që mund të bëjë që kompjuterët të punojnë dukshëm më shpejt, sidomos ata me SSD modernë NVMe.Arsyeja pse deri tani kishte kufizime është mënyra se si Windows komunikon me disqet NVMe - në vend të komunikimit të drejtpërdrejtë, sistemi përdorte protokollin më të vjetër SCSI, i krijuar fillimisht për disqe hard disk. Kjo ndalonte përdorimin e plotë të potencialit të SSD-ve moderne mbi PCI Express. Microsoft tani po sjell mbështetje origjinale për NVMe pa përdorur SCSI, duke rritur në mënyrë të dukshme numrin e operacioneve të leximit dhe shkrimit në sekondë (IOPS), dhe duke ulur përdorimin e burimeve të procesorit. Sipas testimeve të brendshme, performanca e SSD-ve NVMe mund të rritet nga rreth 1,8 milion deri mbi 3 milionë IOPS. Kjo teknologji është për momentin e disponueshme në Windows Server 2025 dhe mund të aktivizohet përmes cilësimeve të veçanta të sistemit. Microsoft thotë se kjo është pjesë e modernizimit të nën‑sistemit të ruajtjes, dhe përmirësime të ngjashme pritet të vijnë edhe në Windows 11 në versionet e ardhshme. Përfitimet më të mëdha do t’i kenë përdoruesit e SSD-ve më të fundit PCIe 5.0, por përmirësime do të shihen edhe në modelet PCIe 4.0 dhe 3.0, sidomos në detyra të rënda si përpunimi i skedarëve të mëdhenj, virtualizimi dhe video-lojërat. /Telegrafi/",
+      "published": "Wed, 24 Dec 2025 06:20:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/microsoft-sjell-ndryshime-te-medha/",
+      "fetched_at": "2025-12-24T06:32:18.873175",
+      "ai_summary": "Kompania Microsoft po punon për përmirësimin e konsiderueshëm të performancës së disqeve SSD në sistemet Windows, gjë që mund të bëjë që kompjuterët të punojnë dukshëm më shpejt, sidomos ata me SSD mo..."
+    },
+    {
+      "title": "Shi në Shqipëri, hera-herës shtrëngata afatshkurta",
+      "link": "https://telegrafi.com/shi-ne-shqiperi-hera-heres-shtrengata-afatshkurta/",
+      "description": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të mërkurën do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme.SHMU njofton se moti parashikohet me vranësira mesatare deri të dendura. “Reshje shiu të herëpashershme me intensitet të ulët e lokalisht mesatar në pjesën më të madhe të territorit që në orët e para të 24-orëshit deri në mëngjes, hera-herës shtrëngata afatshkurtra. Gjatë ditës reshje shiu të herëpashershme me intensitet të ulët të karakterit lokal. Në Alpe dhe në lartësitë 700-800metra në verilindje dhe 900 metra në juglindje reshje dëbore me intensitet të ulët, lokalisht mesatar”, thuhet në njoftim. SHMU po ashtu njofton se do të ketë mjegull përgjatë zonave luginore në orët e mëngjesit si dhe në momentin e reshjeve të shiut dhe dëborës.Era do të fryjë me drejtim nga verilindja-juglindja me shpejtësi mesatare 7 m/sek, përgjatë vijës bregdetare e zonave luginore era fiton shpejtësi deri në 15m/s. /Telegrafi/",
+      "published": "Wed, 24 Dec 2025 06:14:01 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/shi-ne-shqiperi-hera-heres-shtrengata-afatshkurta/",
+      "fetched_at": "2025-12-24T06:32:18.873641",
+      "ai_summary": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të mërkurën do të ndikohet nga kushte atmosferike të kryesisht të paqëndrueshme.SHMU njofton se moti parashikohet me vranësira mesatare deri t..."
+    },
+    {
+      "title": "Vranët dhe me riga shiu",
+      "link": "https://telegrafi.com/vranet-dhe-me-riga-shiu-2674826491/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot i vranët dhe me riga shiu.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -1 deri 1 gradë Celsius dhe temperaturat maksimale nga 5 deri në 7 gradë Celsius. Era: kryesisht nga juglindjes me shpejtësi 1-4m/s. /Telegrafi/",
+      "published": "Wed, 24 Dec 2025 06:08:06 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vranet-dhe-me-riga-shiu-2674826491/",
+      "fetched_at": "2025-12-24T06:32:18.874197",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot i vranët dhe me riga shiu.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -1 deri 1 gradë Celsius dhe temperatura..."
+    },
+    {
+      "title": "Juela Nikollaj i bashkohet edicionit të pestë të Big Brother VIP Albania",
+      "link": "https://telegrafi.com/juela-nikollaj-i-bashkohet-edicionit-te-peste-te-big-brother-vip-albania/",
+      "description": "Juela Nikollaj është banorja më e re e edicionit të pestë të Big Brother VIP Albania. Ajo ka lindur në Laç dhe është rritur jashtë Shqipërisë, konkretisht në Milano të Italisë.Banorja i është bashkuar konkurrentëve të tjerë në garën për çmimin e madh, në një moment kur konkurrenca po bëhet gjithnjë e më e fortë. Përveç Juelës, në prime-in e sotëm kanë hyrë edhe tre banorë të rinj: Stenaldo Mëhilli, Armela Hyseni dhe Juxhin Plovishti.Edicioni i sivjetëm i Big Brother VIP Albania nisi të premten e kaluar, më 20 dhjetor, dhe këtë vit në shtëpi janë bashkuar një larmi personalitetesh. Ndonëse spektakli ka vetëm pak ditë që ka nisur, kurioziteti i publikut për ta ndjekur vazhdon të jetë i lartë, siç dëshmohet edhe nga sekuencat që po qarkullojnë gjerësisht në rrjetet sociale.",
+      "published": "Tue, 23 Dec 2025 23:45:22 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/juela-nikollaj-i-bashkohet-edicionit-te-peste-te-big-brother-vip-albania/",
+      "fetched_at": "2025-12-24T06:32:18.874470",
+      "ai_summary": "Juela Nikollaj është banorja më e re e edicionit të pestë të Big Brother VIP Albania. Ajo ka lindur në Laç dhe është rritur jashtë Shqipërisë, konkretisht në Milano të Italisë.Banorja i është bashkuar..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 9,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
