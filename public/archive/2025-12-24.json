@@ -1,6 +1,6 @@
 {
   "date": "2025-12-24",
-  "timestamp": "2025-12-24T03:22:57.114227",
+  "timestamp": "2025-12-24T04:35:01.230601",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,56 +9,69 @@
   },
   "articles": [
     {
-      "title": "Avioni Airbus A320 i Vueling bën ulje emergjente në Francë për shkak të një problemi teknik",
-      "link": "https://www.balkanweb.com/avioni-airbus-a320-i-vueling-ben-ulje-emergjente-ne-france-per-shkak-te-nje-problemi-teknik/",
-      "description": "Një Airbus A320 i Vueling , i cili u nis nga Paris Orly për në Ibiza, me 164 pasagjerë në bord, bëri një ulje emergjente në Clermont-Ferrand në Francën qendrore të martën për shkak të një “problemi teknik”, njoftuan menaxhmenti i aeroportit dhe linja ajrore spanjolle me kosto të ulët. Fluturimi i Vueling – një […]",
-      "published": "Wed, 24 Dec 2025 03:00:45 +0000",
+      "title": "Moldavia do të heqë kufizimet për importin e drithërave nga Ukraina",
+      "link": "https://www.balkanweb.com/moldavia-do-te-heqe-kufizimet-per-importin-e-dritherave-nga-ukraina/",
+      "description": "Qeveria moldave do të heqë kufizimet për importin e drithërave nga Ukraina në fillim të vitit 2026. Ministrja e Bujqësisë e vendit, Lyudmila Katlabuga, foli për këtë. U vu re se regjimi i licencimit special do të eliminohet pas 31 dhjetorit 2025. Sipas ministrit, kuadri aktual legjislativ nuk lejon zgjatjen e kufizimit. “Sipas Ligjit Nr. […]",
+      "published": "Wed, 24 Dec 2025 04:30:04 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877262",
-      "fetched_at": "2025-12-24T03:22:51.905666",
-      "ai_summary": "Një Airbus A320 i Vueling , i cili u nis nga Paris Orly për në Ibiza, me 164 pasagjerë në bord, bëri një ulje emergjente në Clermont-Ferrand në Francën qendrore të martën për shkak të një “problemi te..."
+      "guid": "https://www.balkanweb.com/?p=2877301",
+      "fetched_at": "2025-12-24T04:34:55.789595",
+      "ai_summary": "Qeveria moldave do të heqë kufizimet për importin e drithërave nga Ukraina në fillim të vitit 2026. Ministrja e Bujqësisë e vendit, Lyudmila Katlabuga, foli për këtë. U vu re se regjimi i licencimit s..."
     },
     {
-      "title": "Zjarr në një azil pleqsh në Filadelfia, disa të plagosur",
-      "link": "https://www.balkanweb.com/zjarr-ne-nje-azil-pleqsh-ne-filadelfia-disa-te-plagosur/",
-      "description": "Shumë të lënduar u raportuan pas një shpërthimi zjarri në një azil pleqsh në zonën e Filadelfias të Pensilvanisë, SHBA. Stafi dhe punonjësit e shpëtimit nxituan për të zhvendosur banorët e moshuar në një vend të sigurt, ndërsa një pjesë e ndërtesës u shemb. Autoritetet lokale po punojnë me agjenci nga Pensilvania dhe New Jersey […]",
-      "published": "Wed, 24 Dec 2025 02:30:31 +0000",
+      "title": "Papa Leo XIV bën thirrje për armëpushim global në Ditën e Krishtlindjeve",
+      "link": "https://www.balkanweb.com/papa-leo-xiv-ben-thirrje-per-armepushim-global-ne-diten-e-krishtlindjeve/",
+      "description": "Papa Leo XIV bëri thirrje të martën për një armëpushim global në Ditën e Krishtlindjeve, duke shprehur “trishtim të madh” që “me sa duket Rusia hodhi poshtë një kërkesë” për një të tillë. “Po e ripërtëri kërkesën time për të gjithë njerëzit me vullnet të mirë që të respektojnë një ditë paqeje – të paktën […]",
+      "published": "Wed, 24 Dec 2025 04:00:47 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877286",
-      "fetched_at": "2025-12-24T03:22:51.905820",
-      "ai_summary": "Shumë të lënduar u raportuan pas një shpërthimi zjarri në një azil pleqsh në zonën e Filadelfias të Pensilvanisë, SHBA. Stafi dhe punonjësit e shpëtimit nxituan për të zhvendosur banorët e moshuar në ..."
+      "guid": "https://www.balkanweb.com/?p=2877269",
+      "fetched_at": "2025-12-24T04:34:55.789740",
+      "ai_summary": "Papa Leo XIV bëri thirrje të martën për një armëpushim global në Ditën e Krishtlindjeve, duke shprehur “trishtim të madh” që “me sa duket Rusia hodhi poshtë një kërkesë” për një të tillë. “Po e ripërt..."
     },
     {
-      "title": "SHBA-të deklarojnë gatishmëri për bisedime me Iranin mbi programin bërthamor",
-      "link": "https://www.balkanweb.com/shba-te-deklarojne-gatishmeri-per-bisedime-me-iranin-mbi-programin-berthamor/",
-      "description": "SHBA-të janë të gatshme të zhvillojnë bisedime zyrtare mbi programin bërthamor të Iranit, por Teherani duhet të jetë gjithashtu gati për dialog të drejtpërdrejtë. Kjo u deklarua nga Morgan Ortagus, Zëvendës e Dërguara Speciale e SHBA-së për Lindjen e Mesme. “Shtetet e Bashkuara janë të gatshme të zhvillojnë negociata zyrtare, por vetëm nëse Teherani është […]",
-      "published": "Wed, 24 Dec 2025 02:00:23 +0000",
+      "title": "Greta Thunberg lirohet pas arrestimit në Londër gjatë një proteste pro-Palestineze",
+      "link": "https://www.balkanweb.com/greta-thunberg-lirohet-pas-arrestimit-ne-londer-gjate-nje-proteste-pro-palestineze/",
+      "description": "Aktivistja suedeze Greta Thunberg u lirua sot pasi u arrestua të martën në Londër gjatë një proteste pro-Palestineze . 22-vjeçarja u arrestua nga policia me akuzën e mbështetjes së një organizate terroriste, ndërsa mbante në dorë një pankartë që mbështeste të burgosurit e Veprimit për Palestinë, një organizatë e përcaktuar si terroriste nga qeveria britanike. […]",
+      "published": "Wed, 24 Dec 2025 03:50:34 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877259",
-      "fetched_at": "2025-12-24T03:22:51.905903",
-      "ai_summary": "SHBA-të janë të gatshme të zhvillojnë bisedime zyrtare mbi programin bërthamor të Iranit, por Teherani duhet të jetë gjithashtu gati për dialog të drejtpërdrejtë. Kjo u deklarua nga Morgan Ortagus, Zë..."
+      "guid": "https://www.balkanweb.com/?p=2877317",
+      "fetched_at": "2025-12-24T04:34:55.789838",
+      "ai_summary": "Aktivistja suedeze Greta Thunberg u lirua sot pasi u arrestua të martën në Londër gjatë një proteste pro-Palestineze . 22-vjeçarja u arrestua nga policia me akuzën e mbështetjes së një organizate terr..."
     },
     {
-      "title": "Libia shpall tri ditë zie pas vdekjes së Shefit të Shtabit të Përgjithshëm",
-      "link": "https://www.balkanweb.com/libia-shpall-tri-dite-zie-pas-vdekjes-se-shefit-te-shtabit-te-pergjithshem/",
-      "description": "Qeveria e Pajtimit Kombëtar të Libisë me seli në Tripoli ka shpallur tre ditë zie pas vdekjes së Shefit të Shtabit të Përgjithshëm të vendit, Mohammed al-Haddad, në një rrëzim avioni në Turqi. U vu re se zia do të jetë në fuqi në të gjithë vendin. Duhet theksuar se avioni, i cili po fluturonte […]",
-      "published": "Wed, 24 Dec 2025 01:30:27 +0000",
+      "title": "Kuvajti nënshkruan marrëveshje prej 4.1 miliardë dollarësh me Kinën për ndërtimin e një porti",
+      "link": "https://www.balkanweb.com/kuvajti-nenshkruan-marreveshje-prej-4-1-miliarde-dollaresh-me-kinen-per-ndertimin-e-nje-porti/",
+      "description": "Kuvajti ka nënshkruar një marrëveshje me vlerë 4.1 miliardë dollarë me Kinën për të përfunduar ndërtimin e një porti të madh, ndërsa vendi i pasur me naftë kërkon të diversifikojë ekonominë e tij me një rol më të madh në tregtinë globale. Byroja Shtetërore e Auditimit, një organ mbikëqyrës qeveritar përgjegjës për monitorimin e fondeve […]",
+      "published": "Wed, 24 Dec 2025 03:45:01 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2877249",
-      "fetched_at": "2025-12-24T03:22:51.905984",
-      "ai_summary": "Qeveria e Pajtimit Kombëtar të Libisë me seli në Tripoli ka shpallur tre ditë zie pas vdekjes së Shefit të Shtabit të Përgjithshëm të vendit, Mohammed al-Haddad, në një rrëzim avioni në Turqi. U vu re..."
+      "guid": "https://www.balkanweb.com/?p=2877314",
+      "fetched_at": "2025-12-24T04:34:55.789920",
+      "ai_summary": "Kuvajti ka nënshkruar një marrëveshje me vlerë 4.1 miliardë dollarë me Kinën për të përfunduar ndërtimin e një porti të madh, ndërsa vendi i pasur me naftë kërkon të diversifikojë ekonominë e tij me n..."
+    },
+    {
+      "title": "Departamenti Amerikan i Drejtësisë: Letra e Epstein drejtuar Nassarit është e rreme",
+      "link": "https://www.balkanweb.com/departamenti-amerikan-i-drejtesise-letra-e-epstein-drejtuar-nassarit-eshte-e-rreme/",
+      "description": "Një letër që dyshohet se është dërguar në vitin 2019 nga Jeffrey Epstein te shkelësi i dënuar seksual Larry Nassar është e rreme , tha Departamenti Amerikan i Drejtësisë të martën vonë. Në letër, e cila është përfshirë në grupin e fundit të dokumenteve që lidhen me Epstein , Epstein shkroi se Donald Trump “i […]",
+      "published": "Wed, 24 Dec 2025 03:30:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2877289",
+      "fetched_at": "2025-12-24T04:34:55.789992",
+      "ai_summary": "Një letër që dyshohet se është dërguar në vitin 2019 nga Jeffrey Epstein te shkelësi i dënuar seksual Larry Nassar është e rreme , tha Departamenti Amerikan i Drejtësisë të martën vonë. Në letër, e ci..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 5,
   "sources": [
+    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
