@@ -1,6 +1,6 @@
 {
   "date": "2025-12-30",
-  "timestamp": "2025-12-30T03:27:00.715063",
+  "timestamp": "2025-12-30T04:37:59.015291",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,85 +9,59 @@
   },
   "articles": [
     {
-      "title": "Elon Musk pranon ftesën e Netanyahut për të vizituar Izraelin",
-      "link": "https://www.balkanweb.com/elon-musk-pranon-ftesen-e-netanyahut-per-te-vizituar-izraelin/",
-      "description": "Pavarësisht tmerreve të një lufte dyvjeçare gjenocidale që vrau më shumë se 71,000 njerëz, miliarderi i teknologjisë Elon Musk pranoi një ftesë nga kryeministri izraelit Benjamin Netanyahu për të vizituar Izraelin. Një deklaratë nga zyra e Netanyahut tha se kryeministri u takua me Musk dhe e ftoi atë të merrte pjesë në një Konferencë për […]",
-      "published": "Tue, 30 Dec 2025 03:00:15 +0000",
+      "title": "Ushtria tajlandeze akuzon Kamboxhian për shkelje të armëpushimit me mbi 250 dronë",
+      "link": "https://www.balkanweb.com/ushtria-tajlandeze-akuzon-kamboxhian-per-shkelje-te-armepushimit-me-mbi-250-drone/",
+      "description": "Ushtria e Tajlandës akuzoi të hënën Kamboxhian për shkelje të një marrëveshjeje të armëpushimit të nënshkruar rishtazi, të arritur pas disa javësh përleshjesh vdekjeprurëse kufitare, duke fluturuar më shumë se 250 dronë mbi territorin e saj. Fqinjët e Azisë Juglindore ranë dakord për armëpushim “të menjëhershëm” të shtunën, duke u zotuar t’i japin fund përleshjeve […]",
+      "published": "Tue, 30 Dec 2025 04:30:28 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2880386",
-      "fetched_at": "2025-12-30T03:26:25.542949",
-      "ai_summary": "Pavarësisht tmerreve të një lufte dyvjeçare gjenocidale që vrau më shumë se 71,000 njerëz, miliarderi i teknologjisë Elon Musk pranoi një ftesë nga kryeministri izraelit Benjamin Netanyahu për të vizi..."
+      "guid": "https://www.balkanweb.com/?p=2880413",
+      "fetched_at": "2025-12-30T04:37:53.757635",
+      "ai_summary": "Ushtria e Tajlandës akuzoi të hënën Kamboxhian për shkelje të një marrëveshjeje të armëpushimit të nënshkruar rishtazi, të arritur pas disa javësh përleshjesh vdekjeprurëse kufitare, duke fluturuar më..."
     },
     {
-      "title": "Letonia përfundon ndërtimin e gardhit në kufirin me Rusinë",
-      "link": "https://www.balkanweb.com/letonia-perfundon-ndertimin-e-gardhit-ne-kufirin-me-rusine/",
-      "description": "Ndërtimi i një gardhi në kufirin letono-rus ka përfunduar. Kjo u raportua nga kompania shtetërore “Valsts Nekustamie Ipasumi” (VNI), e cila është përgjegjëse për projektin. “Në total, një gardh prej afërsisht 280 kilometrash është ndërtuar në kufirin letono-rus, duke formuar një barrierë të vazhdueshme në vendet e përcaktuara teknikisht”, thuhet në raport. Në vitin 2024, […]",
-      "published": "Tue, 30 Dec 2025 02:45:57 +0000",
+      "title": "Nuk arriti të marrë Nobelin, Izraeli i jep Presidentit të SHBA, Donald Trump një tjetër çmim ndërkombëtar",
+      "link": "https://www.balkanweb.com/nuk-arriti-te-marre-nobelin-izraeli-i-jep-trumpit-nje-tjeter-cmim-nderkombetar/",
+      "description": "Presidenti i SHBA-së, Donald Trump, do të marrë nderin më të lartë civil të Izraelit në vitin 2026, pasi kryeministri Benjamin Netanyahu njoftoi të hënën se vendi i tij do të thyejë traditën dekadashe për të njohur një jo-qytetar të vendit të vet. Duke folur pas një takimi të përzemërt në Florida me Trump, Netanyahu […]",
+      "published": "Tue, 30 Dec 2025 04:00:28 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2880428",
-      "fetched_at": "2025-12-30T03:26:25.543090",
-      "ai_summary": "Ndërtimi i një gardhi në kufirin letono-rus ka përfunduar. Kjo u raportua nga kompania shtetërore “Valsts Nekustamie Ipasumi” (VNI), e cila është përgjegjëse për projektin. “Në total, një gardh prej a..."
+      "guid": "https://www.balkanweb.com/?p=2880395",
+      "fetched_at": "2025-12-30T04:37:53.757786",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, do të marrë nderin më të lartë civil të Izraelit në vitin 2026, pasi kryeministri Benjamin Netanyahu njoftoi të hënën se vendi i tij do të thyejë traditën dekadashe..."
     },
     {
-      "title": "SHBA-të godasin një anije në Paqësorin lindor, duke vrarë 2 persona",
-      "link": "https://www.balkanweb.com/dy-te-vdekur-ne-sulmin-e-ri-amerikan-kunder-narko-terroristeve-ne-ujerat-nderkombetare-ne-paqesor/",
-      "description": "Ushtria amerikane njoftoi të hënën nëpërmjet X se kishte vrarë dy burra që i përshkroi si “narko-terroristë” në një sulm të ri ndaj një anijeje që tha se po transportonte drogë në ujërat ndërkombëtare në Oqeanin Paqësor lindor . Duke ndjekur urdhrin e “Sekretarit të Luftës Pete Hegseth”, u nis një sulm kundër një anijeje […]",
-      "published": "Tue, 30 Dec 2025 02:30:52 +0000",
+      "title": "Ndahet nga jeta ish-kryeministrja e parë grua e Bangladeshit, Khaleda Zia",
+      "link": "https://www.balkanweb.com/ndahet-nga-jeta-ish-kryeministrja-e-bangladeshit-khaleda-zia/",
+      "description": "Kryeministrja e parë femër e Bangladeshit, Khaleda Zia, ka vdekur në një spital në kryeqytetin e vendit, Daka, pas një sëmundjeje të zgjatur, sipas partisë së saj dhe mediave lokale. Në një deklaratë të martën, Partia Kombëtare e Bangladeshit tha se Khaleda vdiq në orën 6 të mëngjesit sipas kohës lokale. Ajo ishte 80 vjeç. […]",
+      "published": "Tue, 30 Dec 2025 03:45:31 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2880399",
-      "fetched_at": "2025-12-30T03:26:25.543191",
-      "ai_summary": "Ushtria amerikane njoftoi të hënën nëpërmjet X se kishte vrarë dy burra që i përshkroi si “narko-terroristë” në një sulm të ri ndaj një anijeje që tha se po transportonte drogë në ujërat ndërkombëtare..."
+      "guid": "https://www.balkanweb.com/?p=2880424",
+      "fetched_at": "2025-12-30T04:37:53.757874",
+      "ai_summary": "Kryeministrja e parë femër e Bangladeshit, Khaleda Zia, ka vdekur në një spital në kryeqytetin e vendit, Daka, pas një sëmundjeje të zgjatur, sipas partisë së saj dhe mediave lokale. Në një deklaratë ..."
     },
     {
-      "title": "Shpërthejnë protestat në Teheran për shkak të krizës ekonomike",
-      "link": "https://www.balkanweb.com/shperthejne-protestat-ne-teheran-per-shkak-te-krizes-ekonomike/",
-      "description": "Protestat në disa zona tregtare të kryeqytetit iranian vazhduan të hënën për të dytën ditë radhazi, ndërsa zemërimi për krizën ekonomike që po përkeqësohet në vend i shtyu njerëzit të dilnin në rrugë. Dëshmitarët okularë thanë se qindra dyqanxhinj mbyllën bizneset e tyre dhe i nxitën të tjerët të bashkoheshin me protestat, të cilat filluan […]",
-      "published": "Tue, 30 Dec 2025 02:00:30 +0000",
+      "title": "Pavarësisht tensioneve për Groenlandën, Danimarka do të blejë avionë ushtarakë nga SHBA-të",
+      "link": "https://www.balkanweb.com/pavaresisht-tensioneve-per-groenlanden-danimarka-do-te-bleje-avione-ushtarake-nga-shba-te/",
+      "description": "Qeveria amerikane njoftoi të hënën shitjen e avionëve të patrullimit bregdetar dhe zbulues me vlerë 1.8 miliardë dollarë forcave të armatosura daneze , pavarësisht tensioneve në rritje mbi Groenlandën, të cilën Presidenti i SHBA-së Donald Trump ka kërcënuar ta aneksojë që kur u kthye në pushtet në janar. Shitja e tre P-8 Poseidon (Boeing) “do […]",
+      "published": "Tue, 30 Dec 2025 03:30:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2880383",
-      "fetched_at": "2025-12-30T03:26:25.543287",
-      "ai_summary": "Protestat në disa zona tregtare të kryeqytetit iranian vazhduan të hënën për të dytën ditë radhazi, ndërsa zemërimi për krizën ekonomike që po përkeqësohet në vend i shtyu njerëzit të dilnin në rrugë...."
-    },
-    {
-      "title": "Të bësh foto me “Babagjyshin” është e ndaluar në Teheran",
-      "link": "https://www.balkanweb.com/te-besh-foto-me-babagjyshin-eshte-e-ndaluar-ne-teheran/",
-      "description": "Në Teheran, është e ndaluar të bësh foto në sfondin e një dyqani që shet artikuj të lidhur me Krishtlindjet, veçanërisht me “Babagjyshin”. Botimi “Iran International” publikoi informacion në lidhje me këtë. Lajmi përfshinte edhe një foto me frazën “Fotografia është e ndaluar!” Duhet theksuar se më parë, sindikatat dhe përfaqësuesit e qeverisë kanë theksuar […]",
-      "published": "Tue, 30 Dec 2025 01:45:45 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2880416",
-      "fetched_at": "2025-12-30T03:26:25.543362",
-      "ai_summary": "Në Teheran, është e ndaluar të bësh foto në sfondin e një dyqani që shet artikuj të lidhur me Krishtlindjet, veçanërisht me “Babagjyshin”. Botimi “Iran International” publikoi informacion në lidhje me..."
-    },
-    {
-      "title": "Një shall që e ndryshon krejt pamjen: Pse gëzofi artificial është zgjedhja e dimrit",
-      "link": "https://telegrafi.com/nje-shall-qe-e-ndryshon-krejt-pamjen-pse-gezofi-artificial-eshte-zgjedhja-e-dimrit/",
-      "description": "Nga palltot klasike te xhaketat moderne, ky aksesor sjell kontrast dhe stil Shallet prej gëzofi artificial nuk janë më të rezervuar vetëm për mbrëmje apo raste formale. Përkundrazi, gjatë sezoneve të fundit po i shohim gjithnjë e më shpesh edhe në kombinime të përditshme dimërore, pikërisht sepse ofrojnë ngrohtësi, teksturë interesante dhe i japin edhe outfit-it më të thjeshtë një karakter të veçantë.Ndryshe nga shallet klasikë prej leshi apo pambuku, modelet prej gëzofi artificial kanë një strukturë më të theksuar. Ato nuk shërbejnë vetëm si aksesor praktik, por marrin edhe rolin e një aksesor dominues. Funksionojnë më së miri kur pjesa tjetër e kombinimit është me prerje të thjeshtë, sepse kështu vijnë plotësisht në pah pa u dukur të ekzagjeruara, transmeton Telegrafi. View this post on Instagram A post shared by Martyna Karolak (@martynakarolak)Në veshjet e përditshme, shalli prej gëzofi artificial mund të kombinohet me një pallto me prerje të drejtë, xhaketë sportive dimërore apo edhe me xhaketë lëkure, duke krijuar një kontrast interesant materialesh. Ngjyrat neutrale si bezhë, krem, gri apo e zeza janë më të lehtat për t’u kombinuar dhe japin një pamje elegante, ndërsa nuanca si çokollatë apo bordo shtojnë një dozë sofistikimi. View this post on Instagram A post shared by Stephanie Broek (@stephaniebroek)Për mbrëmje dhe raste më formale, ky lloj shalli mund të zëvendësojë një pelerinë klasike apo bolero. I hedhur mbi supe, i kombinuar me një fustan të thjeshtë, ai i jep veshjes një pamje të përfunduar dhe të rafinuar. Në këto kombinime, tekstura e tij vjen në pah maksimalisht dhe stilit i shton një notë diskrete, por shumë efektive. Megjithatë, vëmendje duhet t’i kushtohet edhe proporcioneve. Modelet më të shkurtra dhe kompakte duken më të rregullta dhe kombinohen më lehtë, ndërsa shallet më të gjatë dhe voluminozë mbartin një mesazh më të fortë mode dhe kërkojnë një bazë vizuale edhe më të qetë. /Telegrafi/",
-      "published": "Tue, 30 Dec 2025 02:21:15 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/nje-shall-qe-e-ndryshon-krejt-pamjen-pse-gezofi-artificial-eshte-zgjedhja-e-dimrit/",
-      "fetched_at": "2025-12-30T03:26:27.928103",
-      "ai_summary": "Nga palltot klasike te xhaketat moderne, ky aksesor sjell kontrast dhe stil Shallet prej gëzofi artificial nuk janë më të rezervuar vetëm për mbrëmje apo raste formale. Përkundrazi, gjatë sezoneve të ..."
+      "guid": "https://www.balkanweb.com/?p=2880409",
+      "fetched_at": "2025-12-30T04:37:53.757954",
+      "ai_summary": "Qeveria amerikane njoftoi të hënën shitjen e avionëve të patrullimit bregdetar dhe zbulues me vlerë 1.8 miliardë dollarë forcave të armatosura daneze , pavarësisht tensioneve në rritje mbi Groenlandën..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 4,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
