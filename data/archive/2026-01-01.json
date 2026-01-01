@@ -1,0 +1,171 @@
+{
+  "date": "2026-01-01",
+  "timestamp": "2026-01-01T01:49:15.934872",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "35 të lënduar nga mjetet piroteknike, disa me lëndime serioze",
+      "link": "https://www.koha.net/arberi/35-te-lenduar-nga-mjetet-piroteknike-disa-me-lendime-serioze",
+      "description": "Shefi i ndërrimit në Klinikën Emergjente, Ejup Govori, ka bërë të ditur se vetëm nga ora 22:40 janë regjistruar gjithsej 35 raste të lëndimeve si pasojë e përdorimit të mjeteve piroteknike në natën e ndërrimit të moteve.Sipas tij, një pjesë e konsiderueshme e këtyre rasteve...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/478002",
+      "fetched_at": "2026-01-01T01:49:07.415728",
+      "ai_summary": "Shefi i ndërrimit në Klinikën Emergjente, Ejup Govori, ka bërë të ditur se vetëm nga ora 22:40 janë regjistruar gjithsej 35 raste të lëndimeve si pasojë e përdorimit të mjeteve piroteknike në natën e ..."
+    },
+    {
+      "title": "Lindja e parë - trenjakë",
+      "link": "https://www.koha.net/arberi/lindja-e-pare-trenjake",
+      "description": "Lindja e parë e vitit 2026 në Kosovë ka ndodhur në Klinikën e Gjinekologjisë dhe Obstetrikës në Qendrën Klinike Universitare të Kosovës (QKUK), ku në orët e para të vitit të ri kanë ardhur në jetë trenjakë, tre djem.Sipas stafit mjekësor, lindja është realizuar me...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/478001",
+      "fetched_at": "2026-01-01T01:49:07.415899",
+      "ai_summary": "Lindja e parë e vitit 2026 në Kosovë ka ndodhur në Klinikën e Gjinekologjisë dhe Obstetrikës në Qendrën Klinike Universitare të Kosovës (QKUK), ku në orët e para të vitit të ri kanë ardhur në jetë tre..."
+    },
+    {
+      "title": "KOHA jua uron Vitin e Ri!",
+      "link": "https://www.koha.net/arberi/koha-jua-uron-vitin-e-ri",
+      "description": "KOHA jua uron Vitin e Ri!",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/477989",
+      "fetched_at": "2026-01-01T01:49:07.415995",
+      "ai_summary": "KOHA jua uron Vitin e Ri!"
+    },
+    {
+      "title": "FOTO/ 2 vajza janë bebet e para të 2026-ës. Vogëlushet lindën pak pas ndërrimit të viteve",
+      "link": "https://www.balkanweb.com/foto-2-vajza-bebet-e-para-te-2026-linden-pak-pas-nderrimit-te-viteve/",
+      "description": "2 vajza janë bebet e para të 2026-ës. Vogëlushet lindën pak pas ndërrimit të viteve. Lajmin e ka ndarë kryeministri Edi Rama përmes një postimi në rrjetet sociale. Kreu i qeverisë thekson se bebet e para të 2026-ës lindën te materniteti “Mbretëresha Geraldinë” dhe “Koço Gliozheni”. Postimi i Ramës: Dy vajza janë bebet e para […]",
+      "published": "Wed, 31 Dec 2025 23:26:09 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2881420",
+      "fetched_at": "2026-01-01T01:49:10.022377",
+      "ai_summary": "2 vajza janë bebet e para të 2026-ës. Vogëlushet lindën pak pas ndërrimit të viteve. Lajmin e ka ndarë kryeministri Edi Rama përmes një postimi në rrjetet sociale. Kreu i qeverisë thekson se bebet e p..."
+    },
+    {
+      "title": "VIDEO/ Qielli i Tiranës ndizet nga fishekzjarret, si e priti kryeqyteti ndërrimin e viteve",
+      "link": "https://www.balkanweb.com/video-qielli-i-tiranes-ndizet-nga-fishekzjarret-si-e-priti-kryeqyteti-nderrimin-e-viteve/",
+      "description": "Ora shënoi 00:00 dhe qielli i Tiranës u ndez nga fishekzjarret duke i uruar mirëseardhjen Vitit të ri 2026. Nga sheshi “Skënderbej” deri në periferitë e kryeqytetit, u hodhën fishekzjarre që ndriçuan qiellin duke dhënë spektakël ngjyrash. Viti i ri 2026 trokiti, dhe sipas traditës, në çdo familje shkëmbehen urimet për një vit të paqtë […]",
+      "published": "Wed, 31 Dec 2025 23:10:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2881419",
+      "fetched_at": "2026-01-01T01:49:10.022779",
+      "ai_summary": "Ora shënoi 00:00 dhe qielli i Tiranës u ndez nga fishekzjarret duke i uruar mirëseardhjen Vitit të ri 2026. Nga sheshi “Skënderbej” deri në periferitë e kryeqytetit, u hodhën fishekzjarre që ndriçuan ..."
+    },
+    {
+      "title": "VIDEO – Spektakël me fishekzjarre/ Viti i Ri troket në Shqipëri, BalkanWeb uron shqiptarët: Gëzuar 2026!",
+      "link": "https://www.balkanweb.com/spektakel-me-fishekzjarre-viti-i-ri-troket-ne-shqiperi-balkanweb-uron-shqiptaret-gezuar-2026/",
+      "description": "Viti 2026 ka trokitur! Shqiptarët kremtojnë ndërrimin e viteve, ndërsa akrepat e orës i dhanë fund ditëve të 2025-it. Në Tiranë të shumtë ishin qytetarët të cilët duke përfituar nga temperaturat relativisht të larta megjithëse dimër pritën ndërrimin e viteve në sheshin Skënderbej. 2026 mbërriti në spektaklin e fishekzjarrëve të përgatitur nga Bashkia e Tiranës. […]",
+      "published": "Wed, 31 Dec 2025 23:00:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2879693",
+      "fetched_at": "2026-01-01T01:49:10.022881",
+      "ai_summary": "Viti 2026 ka trokitur! Shqiptarët kremtojnë ndërrimin e viteve, ndërsa akrepat e orës i dhanë fund ditëve të 2025-it. Në Tiranë të shumtë ishin qytetarët të cilët duke përfituar nga temperaturat relat..."
+    },
+    {
+      "title": "Gjashtë persona të lënduar nga mjetet piroteknike po trajtohen në QKUK, njëri në gjendje të rëndë",
+      "link": "https://telegrafi.com/gjashte-persona-te-lenduar-nga-mjetet-piroteknike-po-trajtohen-ne-qkuk-njeri-ne-gjendje-te-rende/",
+      "description": "Gjashtë persona po trajtohen në Qendrën Klinike Universitare të Kosovës (QKUK) si pasojë e lëndimeve të shkaktuara nga mjetet piroteknike, gjatë natës së ndërrimit të motmoteve.Drejtori i Emergjencës në QKUK, Naser Syla, ka bërë të ditur se dy nga të lënduarit kanë pësuar lëndime në fytyrë dhe në organet e të pamurit, ndërsa gjendja e njërit prej tyre është e rëndë.Sipas tij, katër persona të tjerë janë paraqitur me lëndime në ekstremitetet e sipërme, kryesisht në duar.Syla ka theksuar se përdorimi i mjeteve piroteknike gjatë kësaj nate ka qenë në sasi të madhe, duke rritur ndjeshëm rrezikun për lëndime serioze tek qytetarët.Autoritetet shëndetësore vazhdojnë t’u bëjnë thirrje qytetarëve për kujdes të shtuar dhe shmangie të përdorimit të mjeteve piroteknike, për të parandaluar pasoja të rënda shëndetësore.",
+      "published": "Wed, 31 Dec 2025 23:21:16 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/gjashte-persona-te-lenduar-nga-mjetet-piroteknike-po-trajtohen-ne-qkuk-njeri-ne-gjendje-te-rende/",
+      "fetched_at": "2026-01-01T01:49:12.576588",
+      "ai_summary": "Gjashtë persona po trajtohen në Qendrën Klinike Universitare të Kosovës (QKUK) si pasojë e lëndimeve të shkaktuara nga mjetet piroteknike, gjatë natës së ndërrimit të motmoteve.Drejtori i Emergjencës ..."
+    },
+    {
+      "title": "Angelina Jolie është ‘gati për një jetë përtej Los Angeles, ndërsa hedh një hap të madh drejt largimit përfundimtar nga Amerika",
+      "link": "https://telegrafi.com/angelina-jolie-eshte-gati-per-nje-jete-pertej-los-angeles-ndersa-hedh-nje-hap-te-madh-drejt-largimit-perfundimtar-nga-amerika/",
+      "description": "Angelina Jolie po përgatitet për një fillim të ri të shumëpritur, i cili nuk do të sillet më rreth jetesës në Shtetet e Bashkuara apo divorcit të saj të vështirë me Brad Pitt.Vetëm disa muaj pasi u raportua për herë të parë se fituesja e Oscar-it, 50 vjeç, po planifikonte të shiste shtëpinë e saj familjare, një burim i brendshëm konfirmoi për People se prona po u prezantohet aktivisht blerësve të parapërzgjedhur, pas rinovimeve të fundit.“Ajo është gati për një jetë që nuk është më e përqendruar në Los Angeles”, tha burimi. “Po e pret me padurim vitin 2026 dhe fleksibilitetin që do të ketë atëherë”. Jolie ka gjashtë fëmijë me ish-bashkëshortin e saj: Maddox (24), Pax (22), Zahara (20), Shiloh (19) dhe binjakët Knox dhe Vivienne (17).Ish-çifti finalizoi marrëveshjen e divorcit në dhjetor të vitit 2024, duke i dhënë fund një beteje ligjore që zgjati tetë vjet.Sipas burimeve, aftësia e Jolie për t’u zhvendosur ka qenë për një kohë të gjatë e lidhur me marrëveshjet e kujdestarisë.Pas ndarjes nga Pitt, Jolie bleu një rezidencë historike në Los Feliz, e cila më parë i përkiste regjisorit të famshëm të Hollivudit, Cecil B. DeMille.Ajo shpjegoi më vonë se ky vendim u mor për t’i mbajtur fëmijët afër babait të tyre.“Doja që të ishte afër babait të tyre, i cili është vetëm pesë minuta larg,” i tha ajo Harper’s Bazaar në vitin 2019. “Sapo të mbushin 18 vjeç, do të mund të largohem.” Ajo kishte deklaruar më herët për People se “kurrë nuk ka dashur të jetojë me kohë të plotë në Los Angeles”, por kishte qëndruar atje për hir të fëmijëve më të vegjël.Tani, me binjakët Knox dhe Vivienne që pritet të mbushin 18 vjeç më 12 korrik 2026, burimet thonë se Jolie planifikon të zhvendoset menjëherë pas kësaj date.Raportohet se ajo po shqyrton mundësinë për ta ndarë kohën e saj mes Kamboxhias, Francës dhe disa vendeve në Afrikë.Kamboxhia, ku ajo adoptoi djalin e saj të madh Maddox në vitin 2002, pritet të jetë baza e saj kryesore.",
+      "published": "Wed, 31 Dec 2025 22:55:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/angelina-jolie-eshte-gati-per-nje-jete-pertej-los-angeles-ndersa-hedh-nje-hap-te-madh-drejt-largimit-perfundimtar-nga-amerika/",
+      "fetched_at": "2026-01-01T01:49:12.576993",
+      "ai_summary": "Angelina Jolie po përgatitet për një fillim të ri të shumëpritur, i cili nuk do të sillet më rreth jetesës në Shtetet e Bashkuara apo divorcit të saj të vështirë me Brad Pitt.Vetëm disa muaj pasi u ra..."
+    },
+    {
+      "title": "Telegrafi uron Vitin e Ri 2026",
+      "link": "https://telegrafi.com/telegrafi-uron-vitin-e-ri-2026/",
+      "description": "Redaksia e Telegrafi.com uron të gjithë lexuesit, bashkëpunëtorët dhe qytetarët kudo që ndodhen, një Vit të Ri 2026 të mbarë, me shëndet, paqe dhe suksese.Në mesnatën e ndërrimit të viteve, Telegrafi përcjell urimet më të sinqerta për një vit më të mirë, me më shumë mirëqenie, stabilitet dhe shpresë për të ardhmen.Edhe në vitin 2026, Telegrafi mbetet i përkushtuar të informojë me profesionalizëm, korrektësi dhe përgjegjësi, duke sjellë lajme të sakta dhe të verifikuara për publikun.Gëzuar Vitin e Ri 2026! Telegrafi telegrafi.com",
+      "published": "Wed, 31 Dec 2025 22:53:48 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/telegrafi-uron-vitin-e-ri-2026/",
+      "fetched_at": "2026-01-01T01:49:12.577670",
+      "ai_summary": "Redaksia e Telegrafi.com uron të gjithë lexuesit, bashkëpunëtorët dhe qytetarët kudo që ndodhen, një Vit të Ri 2026 të mbarë, me shëndet, paqe dhe suksese.Në mesnatën e ndërrimit të viteve, Telegrafi ..."
+    },
+    {
+      "title": "Shfaqje spektakolare me dron dhe fishekzjarre në Korenë e Jugut dhe Japoni",
+      "link": "https://telegrafi.com/shfaqje-spektakolare-me-dron-dhe-fishekzjarre-ne-korene-e-jugut-dhe-japoni/",
+      "description": "Përveç fishekzjarreve tradicionale, shfaqjet me dron po bëhen gjithnjë e më të zakonshme në festimet e Vitit të Ri në mbarë globin. Këto paraqitje teknologjike jo vetëm që tërheqin turmat, por ofrojnë edhe pamje të mahnitshme nga qielli.Në Kore të Jugut, qielli mbi qytetin e Busanit u mbush me një mesazh spektakolar “Gëzuar Vitin e Ri”, krijuar nga një flotë dronësh të koordinuar me precizion. Por, ajo që tërhoqi vëmendjen e të gjithë shikuesve ishte figura e një kali që u formua në ajër, simboli i vitit të ardhshëm sipas Horoskopit Kinez. - YouTube www.youtube.com Një shfaqje e ngjashme u organizua edhe në Funabashi, në Prefekturën Chiba të Japonisë, ku dronët krijuan një skenë të mrekullueshme me kalë në qiell, duke bashkuar artin modern të teknologjisë me traditat kulturore.Ekspertët e shfaqjeve me dron thonë se këto paraqitje janë një mënyrë e re për të kombinuar teknologjinë, artin dhe traditën, duke ofruar spektakle të paharrueshme për publikun dhe duke sjellë një dimension të ri festave të fundvitit.Festimet e Vitit të Ri në qytetet e mëdha të botës po bëhen gjithnjë e më multimediale, dhe shfaqjet me dron tashmë konsiderohen pjesë e pandashme e ritualit të përvitshëm, duke zëvendësuar gradualisht disa prej fishekzjarreve tradicionale. /Telegrafi/ - YouTube www.youtube.com",
+      "published": "Wed, 31 Dec 2025 22:45:08 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/shfaqje-spektakolare-me-dron-dhe-fishekzjarre-ne-korene-e-jugut-dhe-japoni/",
+      "fetched_at": "2026-01-01T01:49:12.578100",
+      "ai_summary": "Përveç fishekzjarreve tradicionale, shfaqjet me dron po bëhen gjithnjë e më të zakonshme në festimet e Vitit të Ri në mbarë globin. Këto paraqitje teknologjike jo vetëm që tërheqin turmat, por ofrojnë..."
+    },
+    {
+      "title": "Policia e AKI në aksion, sekuestrohen 20 mijë tableta ekstazi në vlerë 200 mijë euro, arrestohet një person",
+      "link": "https://telegrafi.com/sekuestrohen-rreth-20-mije-tableta-ekstazi-ne-vlere-200-mije-euro-arrestohet-nje-person/",
+      "description": "Policia e Kosovës ka finalizuar me sukses operacionin e koduar “Ora e Fundit”, duke goditur një rast të rëndë të trafikimit të narkotikëve dhe duke sekuestruar rreth 20 mijë tableta ekstazi me vlerë të përafërt rreth 200 mijë euro.Operacioni është zhvilluar nga Drejtoria për Hetimin e Trafikimit me Narkotikë (DHTN) – Sektori Qendror, në bashkëpunim të ngushtë me Agjencinë e Kosovës për Inteligjencë (AKI), pas një pune intensive hetimore që ka zgjatur rreth një muaj.Më 31 dhjetor 2025, rreth orës 19:00, njësitet policore kanë ndaluar një veturë me targa vendore në magjistralen Podujevë–Prishtinë, në afërsi të fshatit Trudë. Automjeti drejtohej nga një mashkull, shtetas i Republikës së Kosovës.Gjatë kontrollit policor, bazuar në dyshime të arsyeshme, në veturë janë gjetur dhe sekuestruar shtatë paketime me rreth 20 mijë tableta narkotike të llojit ekstazi (MDMA). Sipas hetimeve paraprake, dyshohet se substanca narkotike është futur ilegalisht nga Serbia në territorin e Kosovës, me qëllim të shpërndarjes në tregun e brendshëm.Si pjesë e veprimeve policore, është arrestuar një person i dyshuar, ndërsa përveç narkotikëve janë sekuestruar edhe prova të tjera materiale, përfshirë një veturë Daimler Chrysler E320 CDI, ngjyrë e zezë, me targa vendore.Po ashtu, është bastisur banesa e të dyshuarit në Prishtinë, ku gjatë kontrollit janë gjetur dhe sekuestruar tri qese të vogla najloni me substancë të dyshuar narkotike të llojit marihuanë.Vlera e përafërt e narkotikëve të sekuestruar në tregun e zi vlerësohet rreth 200 mijë euro.Me urdhër të Prokurorit kompetent, i dyshuari është ndaluar për procedura të mëtejme hetimore, ndërsa rasti po trajtohet si vepër penale e trafikimit të narkotikëve, në përputhje me legjislacionin në fuqi të Republikës së Kosovës.Policia e Kosovës ka bërë të ditur se, përmes njësive antidrogë dhe në bashkëpunim me institucionet relevante, mbetet e përkushtuar në luftimin e krimit të organizuar dhe parandalimin e shpërndarjes së substancave narkotike, me synim garantimin e sigurisë publike dhe sundimit të ligjit në vend.",
+      "published": "Wed, 31 Dec 2025 22:30:06 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sekuestrohen-rreth-20-mije-tableta-ekstazi-ne-vlere-200-mije-euro-arrestohet-nje-person/",
+      "fetched_at": "2026-01-01T01:49:12.578896",
+      "ai_summary": "Policia e Kosovës ka finalizuar me sukses operacionin e koduar “Ora e Fundit”, duke goditur një rast të rëndë të trafikimit të narkotikëve dhe duke sekuestruar rreth 20 mijë tableta ekstazi me vlerë t..."
+    },
+    {
+      "title": "Dy yjet e Barcelonës janë të lirë që në janar të fillojnë bisedimet me klubet tjera",
+      "link": "https://telegrafi.com/dy-yjet-e-barcelones-jane-te-lire-qe-ne-janar-te-fillojne-bisedimet-me-klubet-tjera/",
+      "description": "Robert Lewandowski dhe Andreas Christensen do të jenë të lirë të zhvillojnë bisedime me klube të tjera duke filluar nga e enjtja, 1 janar 2026.Dyshja janë aktualisht lojtarët e vetëm te Barcelona kontratat e të cilëve skadojnë në verën e vitit 2026. Sipas rregullave të FIFA-s dhe UEFA-s, çdo futbollist që hyn në gjashtë muajt e fundit të kontratës së tij ka të drejtë të negociojë lirshëm me klube të tjera, pa pasur nevojë për miratimin e klubit aktual. Në rastin e Robert Lewandowskit, raportohet se Barcelona ende nuk ka hapur bisedime konkrete për rinovimin e kontratës. Sulmuesi polak mbetet një nga figurat kryesore të skuadrës katalanase, por e ardhmja e tij afatgjatë në “Camp Nou” është ende e paqartë.Situata e Andreas Christensen paraqitet disi ndryshe. Burime pranë klubit bëjnë të ditur se drejtuesit e Barcelonës e kanë inkurajuar mbrojtësin danez me një ofertë për kontratë të re, edhe pse ai ka pësuar së fundmi një dëmtim serioz. Ky veprim shihet si shenjë besimi ndaj lojtarit dhe vlerësimit të rolit të tij në projektin e klubit.Megjithatë, duke qenë të lirë të bisedojnë me klube të tjera nga janari, si Lewandowski ashtu edhe Christensen mund të shqyrtojnë alternativa të reja për të ardhmen e tyre. /Telegrafi/",
+      "published": "Wed, 31 Dec 2025 22:30:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/dy-yjet-e-barcelones-jane-te-lire-qe-ne-janar-te-fillojne-bisedimet-me-klubet-tjera/",
+      "fetched_at": "2026-01-01T01:49:12.579303",
+      "ai_summary": "Robert Lewandowski dhe Andreas Christensen do të jenë të lirë të zhvillojnë bisedime me klube të tjera duke filluar nga e enjtja, 1 janar 2026.Dyshja janë aktualisht lojtarët e vetëm te Barcelona kont..."
+    }
+  ],
+  "total_articles": 12,
+  "sources": [
+    "Koha.net",
+    "Koha.net",
+    "Koha.net",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
