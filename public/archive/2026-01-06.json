@@ -1,6 +1,6 @@
 {
   "date": "2026-01-06",
-  "timestamp": "2026-01-06T03:28:02.712458",
+  "timestamp": "2026-01-06T04:39:06.035194",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,83 +9,44 @@
   },
   "articles": [
     {
-      "title": "Letonia raporton dëmtime në kabllo në Detin Baltik",
-      "link": "https://www.balkanweb.com/letonia-raporton-demtime-ne-kabllo-ne-detin-baltik/",
-      "description": "Një kabllo nënujore në Detin Baltik është dëmtuar përsëri – këtë herë në brigjet e Letonisë . “Kablloja me fibra optike e një kompanie private u gjet e dëmtuar në Detin Baltik pranë Liepājas”, njoftoi kryeministrja Evika Siliņa në platformën X të dielën në mbrëmje. Sipas policisë letoneze, shkaku i dyshuar i dëmtimit është një […]",
-      "published": "Tue, 06 Jan 2026 03:00:39 +0000",
+      "title": "31 të vdekur pas mbytjes së një varke me emigrantë në Gambi",
+      "link": "https://www.balkanweb.com/31-te-vdekur-pas-mbytjes-se-nje-varke-me-emigrante-ne-gambi/",
+      "description": "Të paktën 31 emigrantë humbën jetën kur një anije u përmbys pranë brigjeve të Gambias më 1 janar, ndërsa përpiqej të arrinte në Evropë, ndërsa “shumë të tjerë rezultojnë të zhdukur dhe ndoshta të vdekur”, tha qeveria e vendit afrikan të hënën, duke e rishikuar numrin e të vdekurve për keq. Mbytja e anijes, e […]",
+      "published": "Tue, 06 Jan 2026 04:30:03 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883384",
-      "fetched_at": "2026-01-06T03:27:57.462157",
-      "ai_summary": "Një kabllo nënujore në Detin Baltik është dëmtuar përsëri – këtë herë në brigjet e Letonisë . “Kablloja me fibra optike e një kompanie private u gjet e dëmtuar në Detin Baltik pranë Liepājas”, njoftoi..."
+      "guid": "https://www.balkanweb.com/?p=2883421",
+      "fetched_at": "2026-01-06T04:39:00.716558",
+      "ai_summary": "Të paktën 31 emigrantë humbën jetën kur një anije u përmbys pranë brigjeve të Gambias më 1 janar, ndërsa përpiqej të arrinte në Evropë, ndërsa “shumë të tjerë rezultojnë të zhdukur dhe ndoshta të vdek..."
     },
     {
-      "title": "WSJ: Raporti sekret i CIA-s mbi Venezuelën sheh rolin e ‘besnikëve të regjimit’ në ruajtjen e stabilitetit",
-      "link": "https://www.balkanweb.com/wsj-raporti-sekret-i-cia-s-mbi-venezuelen-sheh-rolin-e-besnikeve-te-regjimit-ne-ruajtjen-e-stabilitetit/",
-      "description": "Një raport i klasifikuar i CIA-s , për të cilin thuhet se është informuar nga Presidenti i SHBA-së Donald Trump, arrin në përfundimin se politikanët “besnikë ndaj regjimit” në Venezuelë mund të luajnë një rol vendimtar në ruajtjen e stabilitetit politik dhe shoqëror nëse Presidenti Nicolas Maduro humbet pushtetin. Sipas një raporti nga Wall Street […]",
-      "published": "Tue, 06 Jan 2026 02:45:35 +0000",
+      "title": "Trump: Subvencione për kompanitë e naftës për të rindërtuar energjinë në Venezuelë",
+      "link": "https://www.balkanweb.com/trump-subvencione-per-kompanite-e-naftes-per-te-rindertuar-energjine-ne-venezuele/",
+      "description": "Presidenti i SHBA-së, Donald Trump, e ka lënë të hapur mundësinë e subvencionimit të kompanive amerikane të naftës për të rindërtuar infrastrukturën energjetike të Venezuelës , ndërsa Uashingtoni zbulon detaje të reja rreth operacionit ushtarak për të kapur Presidentin e vendit, Nicolas Maduro, i cili ka shkaktuar reagime të forta ndërkombëtare. Duke folur për NBC […]",
+      "published": "Tue, 06 Jan 2026 04:00:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883412",
-      "fetched_at": "2026-01-06T03:27:57.462315",
-      "ai_summary": "Një raport i klasifikuar i CIA-s , për të cilin thuhet se është informuar nga Presidenti i SHBA-së Donald Trump, arrin në përfundimin se politikanët “besnikë ndaj regjimit” në Venezuelë mund të luajnë..."
+      "guid": "https://www.balkanweb.com/?p=2883390",
+      "fetched_at": "2026-01-06T04:39:00.716732",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e ka lënë të hapur mundësinë e subvencionimit të kompanive amerikane të naftës për të rindërtuar infrastrukturën energjetike të Venezuelës , ndërsa Uashingtoni zbul..."
     },
     {
-      "title": "Nigeri, të paktën nëntë ushtarë të vrarë në pritë në shtetin Borno",
-      "link": "https://www.balkanweb.com/nigeri-te-pakten-nente-ushtare-te-vrare-ne-prite-ne-shtetin-borno/",
-      "description": "Të paktën nëntë ushtarë u vranë dhe disa të tjerë u plagosën kur një grup automjetesh u zu në pritë në shtetin Borno të Nigerisë verilindore , thanë zyrtarët lokalë të dielën. Incidenti ndodhi të dielën pranë komunitetit të Bidudule, rreth 20 kilometra nga qyteti i Kareto, një zonë e shkatërruar nga xhihadistët . “Terroristët […]",
-      "published": "Tue, 06 Jan 2026 02:30:48 +0000",
+      "title": "Ministri i Jashtëm ukrainas, Andriy Sibiga: Moska refuzon përpjekjet për paqe",
+      "link": "https://www.balkanweb.com/ministri-i-jashtem-ukrainas-andriy-sibiga-moska-refuzon-perpjekjet-per-paqe/",
+      "description": "Forcat e Armatosura Ruse goditën një strukturë të kompanisë amerikane në Dnieper më 5 janar. Kjo tregon se Kremlini po i hedh poshtë përpjekjet për paqe për t’i dhënë fund luftës Rusi-Ukrainë. Ministri i Jashtëm ukrainas Andriy Sibiga i bëri këto komente në kanalin Telegram të Ministrisë së Jashtme. Ministri vuri në dukje se një […]",
+      "published": "Tue, 06 Jan 2026 03:30:47 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883393",
-      "fetched_at": "2026-01-06T03:27:57.462410",
-      "ai_summary": "Të paktën nëntë ushtarë u vranë dhe disa të tjerë u plagosën kur një grup automjetesh u zu në pritë në shtetin Borno të Nigerisë verilindore , thanë zyrtarët lokalë të dielën. Incidenti ndodhi të diel..."
-    },
-    {
-      "title": "Shefi i OKB-së shpreh shqetësim për shpërfilljen e ligjit ndërkombëtar pas veprimit ushtarak të SHBA-së në Venezuelë",
-      "link": "https://www.balkanweb.com/shefi-i-okb-se-shpreh-shqetesim-per-shperfilljen-e-ligjit-nderkombetar-pas-veprimit-ushtarak-te-shba-se-ne-venezuele/",
-      "description": "Kreu i OKB-së të hënën përsëriti shqetësimin e thellë për mosrespektimin e ligjit ndërkombëtar pas veprimit të fundit ushtarak të SHBA-së kundër Venezuelës që rezultoi në kapjen e Presidentit të vendit, Nicolas Maduro . Duke përcjellë mesazhin e Sekretarit të Përgjithshëm të OKB-së, Antonio Guterres, në një seancë emergjente mbi Venezuelën, Zëvendëssekretarja e Përgjithshme, Rosemary […]",
-      "published": "Tue, 06 Jan 2026 02:00:00 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883381",
-      "fetched_at": "2026-01-06T03:27:57.462498",
-      "ai_summary": "Kreu i OKB-së të hënën përsëriti shqetësimin e thellë për mosrespektimin e ligjit ndërkombëtar pas veprimit të fundit ushtarak të SHBA-së kundër Venezuelës që rezultoi në kapjen e Presidentit të vendi..."
-    },
-    {
-      "title": "Një tërmet me magnitudë 6.2 ballë godet Japoninë",
-      "link": "https://www.balkanweb.com/nje-termet-me-magnitude-6-2-balle-godet-japonine/",
-      "description": "Një tërmet me magnitudë 6.2 ballë të Rihterit goditi Japoninë perëndimore. U vu re se epiqendra e tërmetit ndodhej në Prefekturën Shimane në Japoninë perëndimore, në një thellësi prej 10 kilometrash. Nuk pati raportime për viktima apo dëme materiale, dhe u lëshua një paralajmërim për cunami, por paralajmërimi u anulua disa minuta pas dridhjeve.",
-      "published": "Tue, 06 Jan 2026 01:50:04 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883431",
-      "fetched_at": "2026-01-06T03:27:57.462578",
-      "ai_summary": "Një tërmet me magnitudë 6.2 ballë të Rihterit goditi Japoninë perëndimore. U vu re se epiqendra e tërmetit ndodhej në Prefekturën Shimane në Japoninë perëndimore, në një thellësi prej 10 kilometrash. ..."
-    },
-    {
-      "title": "Raundi i gjashtë i bisedimeve siriano-izraelite fillon në Paris",
-      "link": "https://www.balkanweb.com/raundi-i-gjashte-i-bisedimeve-siriano-izraelite-fillon-ne-paris/",
-      "description": "Raundi i gjashtë i bisedimeve siriano-izraelite të ndërmjetësuara nga SHBA-të ka filluar në Paris. Një burim pranë qarqeve qeveritare siriane i tha agjencisë SANA për këtë. U vu re se delegacioni sirian kryesohet nga Ministri i Jashtëm Asad al-Sheibani, ndërsa delegacioni izraelit kryesohet nga ambasadori i vendit në Shtetet e Bashkuara, Yechiel Leiter. Ekipi negociator […]",
-      "published": "Tue, 06 Jan 2026 01:45:29 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883415",
-      "fetched_at": "2026-01-06T03:27:57.462646",
-      "ai_summary": "Raundi i gjashtë i bisedimeve siriano-izraelite të ndërmjetësuara nga SHBA-të ka filluar në Paris. Një burim pranë qarqeve qeveritare siriane i tha agjencisë SANA për këtë. U vu re se delegacioni siri..."
+      "guid": "https://www.balkanweb.com/?p=2883396",
+      "fetched_at": "2026-01-06T04:39:00.716817",
+      "ai_summary": "Forcat e Armatosura Ruse goditën një strukturë të kompanisë amerikane në Dnieper më 5 janar. Kjo tregon se Kremlini po i hedh poshtë përpjekjet për paqe për t’i dhënë fund luftës Rusi-Ukrainë. Ministr..."
     }
   ],
-  "total_articles": 6,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
