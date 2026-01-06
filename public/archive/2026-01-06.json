@@ -1,6 +1,6 @@
 {
   "date": "2026-01-06",
-  "timestamp": "2026-01-06T04:39:06.035194",
+  "timestamp": "2026-01-06T06:33:30.820688",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,111 @@
   },
   "articles": [
     {
-      "title": "31 të vdekur pas mbytjes së një varke me emigrantë në Gambi",
-      "link": "https://www.balkanweb.com/31-te-vdekur-pas-mbytjes-se-nje-varke-me-emigrante-ne-gambi/",
-      "description": "Të paktën 31 emigrantë humbën jetën kur një anije u përmbys pranë brigjeve të Gambias më 1 janar, ndërsa përpiqej të arrinte në Evropë, ndërsa “shumë të tjerë rezultojnë të zhdukur dhe ndoshta të vdekur”, tha qeveria e vendit afrikan të hënën, duke e rishikuar numrin e të vdekurve për keq. Mbytja e anijes, e […]",
-      "published": "Tue, 06 Jan 2026 04:30:03 +0000",
+      "title": "Anketa: 53% e shqiptarëve presin përkeqësim të financave në 12 muajt në vijim",
+      "link": "https://www.balkanweb.com/anketa-53-e-shqiptareve-presin-perkeqesim-te-financave-ne-12-muajt-ne-vijim/",
+      "description": "Perceptimi i shqiptarëve për situatën financiare rezulton dukshëm më negativ krahasuar me një vit më parë, duke sinjalizuar një rritje të fortë të pakënaqësisë, sipas të dhënave nga Barometri i Ballkanit. Sipas të dhënave, 53% e të anketuarve në Shqipëri vlerësojnë se gjendja financiare pritet ë “më keq” ose “shumë më keq” në 12 muajt […]",
+      "published": "Tue, 06 Jan 2026 06:25:00 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883421",
-      "fetched_at": "2026-01-06T04:39:00.716558",
-      "ai_summary": "Të paktën 31 emigrantë humbën jetën kur një anije u përmbys pranë brigjeve të Gambias më 1 janar, ndërsa përpiqej të arrinte në Evropë, ndërsa “shumë të tjerë rezultojnë të zhdukur dhe ndoshta të vdek..."
+      "guid": "https://www.balkanweb.com/?p=2883447",
+      "fetched_at": "2026-01-06T06:33:24.986119",
+      "ai_summary": "Perceptimi i shqiptarëve për situatën financiare rezulton dukshëm më negativ krahasuar me një vit më parë, duke sinjalizuar një rritje të fortë të pakënaqësisë, sipas të dhënave nga Barometri i Ballka..."
     },
     {
-      "title": "Trump: Subvencione për kompanitë e naftës për të rindërtuar energjinë në Venezuelë",
-      "link": "https://www.balkanweb.com/trump-subvencione-per-kompanite-e-naftes-per-te-rindertuar-energjine-ne-venezuele/",
-      "description": "Presidenti i SHBA-së, Donald Trump, e ka lënë të hapur mundësinë e subvencionimit të kompanive amerikane të naftës për të rindërtuar infrastrukturën energjetike të Venezuelës , ndërsa Uashingtoni zbulon detaje të reja rreth operacionit ushtarak për të kapur Presidentin e vendit, Nicolas Maduro, i cili ka shkaktuar reagime të forta ndërkombëtare. Duke folur për NBC […]",
-      "published": "Tue, 06 Jan 2026 04:00:46 +0000",
+      "title": "Analiza: Pas tri vitesh mungesë, a do të ketë një takim të ri mes qeverive të Kosovës dhe Shqipërisë?",
+      "link": "https://www.balkanweb.com/analiza-pas-tri-vitesh-mungese-a-do-te-kete-nje-takim-te-ri-mes-qeverive-te-kosoves-dhe-shqiperise/",
+      "description": "Pas tri vitesh mungesë takimesh të përbashkëta, kryeministri Edi Rama lë të hapur mundësinë e rifillimit të mbledhjeve mes qeverive të Shqipërisë dhe Kosovës, ndërsa nga Prishtina ende nuk ka sinjale konkrete. Pas një periudhe të gjatë ftohjeje në raportet ndërshtetërore, tema e bashkëpunimit Kosovë–Shqipëri është rikthyer në qendër të vëmendjes. Një deklaratë e re […]",
+      "published": "Tue, 06 Jan 2026 06:19:55 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883390",
-      "fetched_at": "2026-01-06T04:39:00.716732",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e ka lënë të hapur mundësinë e subvencionimit të kompanive amerikane të naftës për të rindërtuar infrastrukturën energjetike të Venezuelës , ndërsa Uashingtoni zbul..."
+      "guid": "https://www.balkanweb.com/?p=2883302",
+      "fetched_at": "2026-01-06T06:33:24.986290",
+      "ai_summary": "Pas tri vitesh mungesë takimesh të përbashkëta, kryeministri Edi Rama lë të hapur mundësinë e rifillimit të mbledhjeve mes qeverive të Shqipërisë dhe Kosovës, ndërsa nga Prishtina ende nuk ka sinjale ..."
     },
     {
-      "title": "Ministri i Jashtëm ukrainas, Andriy Sibiga: Moska refuzon përpjekjet për paqe",
-      "link": "https://www.balkanweb.com/ministri-i-jashtem-ukrainas-andriy-sibiga-moska-refuzon-perpjekjet-per-paqe/",
-      "description": "Forcat e Armatosura Ruse goditën një strukturë të kompanisë amerikane në Dnieper më 5 janar. Kjo tregon se Kremlini po i hedh poshtë përpjekjet për paqe për t’i dhënë fund luftës Rusi-Ukrainë. Ministri i Jashtëm ukrainas Andriy Sibiga i bëri këto komente në kanalin Telegram të Ministrisë së Jashtme. Ministri vuri në dukje se një […]",
-      "published": "Tue, 06 Jan 2026 03:30:47 +0000",
+      "title": "“Azem Hajdari tha; ‘poshtë PPSH-ja, dinastia dhe diktatori Enver Hoxha’ e, kënduan; ‘o djem rrëmbeni pushkën’, shkuan te Komiteti Partisë…”/ Dokumenti i Sigurimit për mitingun e PD-së, 4 janar ‘91 në Lushnje",
+      "link": "https://www.balkanweb.com/azem-hajdari-tha-poshte-ppsh-ja-dinastia-dhe-diktatori-enver-hoxha-e-kenduan-o-djem-rrembeni-pushken-shkuan-te-komiteti-partise-dok/",
+      "description": "Vetëm pak ditë pas themelimit të Partisë Demokratike të Shqipërisë (12 dhjetor 1990), e cila ishte forca e parë opozitare që u krijua pas afro 45 vitesh të diktaturës së egër komuniste të Enver Hoxhës dhe pasardhësit të tij Ramiz Alia, krahas mitingjeve të zhvilluara në Qytetin “Studenti” në Tiranë, krerët kryesorë të saj me […]",
+      "published": "Tue, 06 Jan 2026 06:12:18 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2883396",
-      "fetched_at": "2026-01-06T04:39:00.716817",
-      "ai_summary": "Forcat e Armatosura Ruse goditën një strukturë të kompanisë amerikane në Dnieper më 5 janar. Kjo tregon se Kremlini po i hedh poshtë përpjekjet për paqe për t’i dhënë fund luftës Rusi-Ukrainë. Ministr..."
+      "guid": "https://www.balkanweb.com/?p=2883298",
+      "fetched_at": "2026-01-06T06:33:24.986393",
+      "ai_summary": "Vetëm pak ditë pas themelimit të Partisë Demokratike të Shqipërisë (12 dhjetor 1990), e cila ishte forca e parë opozitare që u krijua pas afro 45 vitesh të diktaturës së egër komuniste të Enver Hoxhës..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 6 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-6-janar-2026/",
+      "description": "Dashi Një i afërm i ngushtë mund të jetë i sëmurë ose në telashe të tjera dhe ju mund të shqetësoheni pak më shumë sot për shkak të mungesës së komunikimit nga ky person. Përpjekjet për të telefonuar mund të rezultojnë në mungesë përgjigjeje. Megjithatë, kujdesuni të qëndroni të përqendruar dhe objektivë. Demi Kjo nuk […]",
+      "published": "Tue, 06 Jan 2026 06:05:37 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2883015",
+      "fetched_at": "2026-01-06T06:33:24.986724",
+      "ai_summary": "Dashi Një i afërm i ngushtë mund të jetë i sëmurë ose në telashe të tjera dhe ju mund të shqetësoheni pak më shumë sot për shkak të mungesës së komunikimit nga ky person. Përpjekjet për të telefonuar ..."
+    },
+    {
+      "title": "Sulmet ruse godasin objektivat energjetike në Kharkiv dhe kompanitë amerikane në Dnipro",
+      "link": "https://www.balkanweb.com/sulmet-ruse-godasin-objektivat-energjetike-ne-kharkiv-dhe-kompanite-amerikane-ne-dnipro/",
+      "description": "Rusia nisi pesë sulme me raketa në qytetin e dytë më të madh të Ukrainës, Kharkiv, të hënën, duke dëmtuar infrastrukturën energjetike dhe duke sulmuar një ndërmarrje në pronësi të prodhuesit bujqësor amerikan Bunge në qytetin juglindor të Dnipro-s, thanë zyrtarët ukrainas. Ministri i Jashtëm ukrainas Andrii Sybiha tha se sulmi në Dnipro, i cili […]",
+      "published": "Tue, 06 Jan 2026 05:00:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2883427",
+      "fetched_at": "2026-01-06T06:33:24.986844",
+      "ai_summary": "Rusia nisi pesë sulme me raketa në qytetin e dytë më të madh të Ukrainës, Kharkiv, të hënën, duke dëmtuar infrastrukturën energjetike dhe duke sulmuar një ndërmarrje në pronësi të prodhuesit bujqësor ..."
+    },
+    {
+      "title": "Sulmi me dron vret 10 persona në Sudan, përfshirë 7 fëmijë",
+      "link": "https://www.balkanweb.com/sulmi-me-dron-vret-10-persona-ne-sudan-perfshire-7-femije/",
+      "description": "Një sulm me dron në qytetin El Obeid , kryeqytetin e shtetit të Kordofanit të Veriut, vrau 10 persona, përfshirë shtatë fëmijë, tha një burim mjekësor për AFP të hënën. Një dëshmitar tha se një shtëpi u godit në pjesën qendrore të qytetit qendror sudanez, i cili është në duart e ushtrisë së rregullt dhe […]",
+      "published": "Tue, 06 Jan 2026 04:45:09 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2883434",
+      "fetched_at": "2026-01-06T06:33:24.986955",
+      "ai_summary": "Një sulm me dron në qytetin El Obeid , kryeqytetin e shtetit të Kordofanit të Veriut, vrau 10 persona, përfshirë shtatë fëmijë, tha një burim mjekësor për AFP të hënën. Një dëshmitar tha se një shtëpi..."
+    },
+    {
+      "title": "VV kryeson edhe në votat me kusht, mbi 31% e vendvotimeve të numëruara",
+      "link": "https://telegrafi.com/vv-kryeson-edhe-ne-votat-me-kusht-mbi-31-e-vendvotimeve-te-numeruara/",
+      "description": "Numërimi i votave me kusht dhe i votave të personave me nevoja të veçanta ka nisur të hënën në Qendrën e Numërimit dhe Rezultateve (QNR).Kjo fazë është pjesë e përpunimit të fundit të rezultateve të zgjedhjeve të parakohshme për Kuvendin e Republikës së Kosovës të mbajtura më 28 dhjetor 2025.Sipas të dhënave të publikuara në platformën zyrtare të KQZ-së, deri në momentin e përditësimit janë numëruar 18 nga 57 vendvotime, apo 31.58% e totalit të votave me kusht. Deri tani Lëvizja Vetëvendosje (LVV) kryeson bindshëm me 49.81% (1,313 vota). Pas saj renditet Partia Demokratike e Kosovës (PDK) me 20.45% (539 vota).E treta është Lidhja Demokratike e Kosovës (LDK) me 11.65% (307 vota) dhe Aleanca për Ardhmërinë e Kosovës (AAK) – 8.95% (236 vota).Sipas KQZ-së, në total janë rreth 9,900 votues të regjistruar për votim me kusht nga 57 vendvotime në 38 komuna, si dhe 2,860 votues të regjistruar për votim për persona me nevoja të veçanta, të cilat janë sjellë për verifikim dhe do të numërohen gjatë këtij procesi. /Telegrafi/",
+      "published": "Tue, 06 Jan 2026 06:19:34 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vv-kryeson-edhe-ne-votat-me-kusht-mbi-31-e-vendvotimeve-te-numeruara/",
+      "fetched_at": "2026-01-06T06:33:27.547720",
+      "ai_summary": "Numërimi i votave me kusht dhe i votave të personave me nevoja të veçanta ka nisur të hënën në Qendrën e Numërimit dhe Rezultateve (QNR).Kjo fazë është pjesë e përpunimit të fundit të rezultateve të z..."
+    },
+    {
+      "title": "E martë me shi dhe vranësira",
+      "link": "https://telegrafi.com/e-marte-me-shi-dhe-mot-te-vranet/",
+      "description": "Të martën pritet të mbajë mot kryesisht i vranët, me riga shiu në pjesën më të madhe të vendit. Vranësirat, do të shoqërohen në disa vende edhe me riga shiu e fjolla bore.Temperaturat minimale do të lëvizin nga 2 deri në 4 gradë Celsius, ndërsa maksimalet nga 5 deri në 8 gradë Celsius.Era do të fryjë nga juglindja me shpejtësi prej 1 deri në 6 metra në sekondë. /Telegrafi/",
+      "published": "Tue, 06 Jan 2026 06:07:32 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/e-marte-me-shi-dhe-mot-te-vranet/",
+      "fetched_at": "2026-01-06T06:33:27.548239",
+      "ai_summary": "Të martën pritet të mbajë mot kryesisht i vranët, me riga shiu në pjesën më të madhe të vendit. Vranësirat, do të shoqërohen në disa vende edhe me riga shiu e fjolla bore.Temperaturat minimale do të l..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 8,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
