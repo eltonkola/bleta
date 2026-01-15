@@ -1,6 +1,6 @@
 {
   "date": "2026-01-15",
-  "timestamp": "2026-01-15T03:40:00.920934",
+  "timestamp": "2026-01-15T04:39:19.730442",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,98 +9,46 @@
   },
   "articles": [
     {
-      "title": "Gjermania u bën thirrje qytetarëve të largohen nga Irani për shkak të protestave",
-      "link": "https://www.balkanweb.com/gjermania-u-ben-thirrje-qytetareve-te-largohen-nga-irani-per-shkak-te-protestave/",
-      "description": "Gjermania u ka kërkuar qytetarëve të saj të largohen nga Irani , duke paralajmëruar se mund të përballen me “arrestim arbitrar” ndërsa protestat antiqeveritare përfshijnë të gjithë vendin. Ministria e Jashtme përditësoi njoftimin e saj për udhëtim të mërkurën, duke deklaruar se shtetasve gjermanë u këshillohet fuqimisht të mos udhëtojnë në Iran dhe ata që […]",
-      "published": "Thu, 15 Jan 2026 03:00:51 +0000",
+      "title": "SHBA-të vendosin tarifë prej 25% për importet e gjysmëpërçuesve",
+      "link": "https://www.balkanweb.com/shba-te-vendosin-tarife-prej-25-per-importet-e-gjysmepercuesve/",
+      "description": "Shtetet e Bashkuara kanë vendosur një tarifë prej 25% për importet e gjysmëpërçuesve. Kjo u tha në një deklaratë të lëshuar nga shërbimi për shtyp i Shtëpisë së Bardhë i Presidentit të SHBA-së, Donald Trump. Dokumenti thotë se importi i mikroqarqeve “të caktuara të avancuara” dhe produkteve të tjera të ngjashme i nënshtrohet taksës. Megjithatë, […]",
+      "published": "Thu, 15 Jan 2026 04:30:13 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889225",
-      "fetched_at": "2026-01-15T03:39:55.465886",
-      "ai_summary": "Gjermania u ka kërkuar qytetarëve të saj të largohen nga Irani , duke paralajmëruar se mund të përballen me “arrestim arbitrar” ndërsa protestat antiqeveritare përfshijnë të gjithë vendin. Ministria e..."
+      "guid": "https://www.balkanweb.com/?p=2889249",
+      "fetched_at": "2026-01-15T04:39:15.011047",
+      "ai_summary": "Shtetet e Bashkuara kanë vendosur një tarifë prej 25% për importet e gjysmëpërçuesve. Kjo u tha në një deklaratë të lëshuar nga shërbimi për shtyp i Shtëpisë së Bardhë i Presidentit të SHBA-së, Donald..."
     },
     {
-      "title": "Viti 2025 renditet si viti i tretë më i ngrohtë i regjistruar ndonjëherë, paralajmëron Copernicus",
-      "link": "https://www.balkanweb.com/viti-2025-renditet-si-viti-i-trete-me-i-ngrohte-i-regjistruar-ndonjehere-paralajmeron-copernicus/",
-      "description": "Shërbimi i Ndryshimeve Klimatike Koperniku (C3S), që vepron në kuadër të Qendrës Evropiane për Parashikime të Motit me Afat Mesëm (ECMWF), ka publikuar gjetjet e tij mbi dinamikën globale të temperaturës në vitin 2025. Temperatura mesatare globale e sipërfaqes vitin e kaluar u mat në 14.97 gradë Celsius. Kjo përfaqëson një rritje prej 1.47 gradësh […]",
-      "published": "Thu, 15 Jan 2026 02:30:48 +0000",
+      "title": "Delcy Rodriguez: Venezuela po hyn në një ‘epokë të re’ pas rrëzimit të Maduros",
+      "link": "https://www.balkanweb.com/delcy-rodriguez-venezuela-po-hyn-ne-nje-epoke-te-re-pas-rrezimit-te-maduros/",
+      "description": "Presidentja e përkohshme e Venezuelës, Delcy Rodriguez, deklaroi të mërkurën se vendi i saj po hynte në një epokë të re të shënuar nga tolerancë më e madhe ndaj rivalëve politikë, pas rrëzimit nga SHBA të ish-shefit të saj, Nicolas Maduro. Në konferencën e saj të parë për shtyp që nga kapja dramatike e Maduros […]",
+      "published": "Thu, 15 Jan 2026 04:00:25 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889228",
-      "fetched_at": "2026-01-15T03:39:55.466034",
-      "ai_summary": "Shërbimi i Ndryshimeve Klimatike Koperniku (C3S), që vepron në kuadër të Qendrës Evropiane për Parashikime të Motit me Afat Mesëm (ECMWF), ka publikuar gjetjet e tij mbi dinamikën globale të temperatu..."
+      "guid": "https://www.balkanweb.com/?p=2889236",
+      "fetched_at": "2026-01-15T04:39:15.011200",
+      "ai_summary": "Presidentja e përkohshme e Venezuelës, Delcy Rodriguez, deklaroi të mërkurën se vendi i saj po hynte në një epokë të re të shënuar nga tolerancë më e madhe ndaj rivalëve politikë, pas rrëzimit nga SHB..."
     },
     {
-      "title": "G7 dënon ‘përdorimin e qëllimshëm të dhunës dhe vrasjen e protestuesve’ në Iran",
-      "link": "https://www.balkanweb.com/g7-denon-perdorimin-e-qellimshem-te-dhunes-dhe-vrasjen-e-protestuesve-ne-iran/",
-      "description": "Vendet e G7-ës dënuan të mërkurën atë që e quajtën “përdorim i qëllimshëm i dhunës dhe vrasje e protestuesve” në Iran , duke shprehur gatishmërinë e tyre për të vendosur masa shtesë kundër Teheranit nëse vazhdon shtypja e protestave . Protestat në Iran kanë vazhduar që nga fundi i dhjetorit për shkak të përkeqësimit të […]",
-      "published": "Thu, 15 Jan 2026 02:00:40 +0000",
+      "title": "Trump për Reza Pahlavi: Shumë simpatik, por nuk e di nëse iranianët do ta pranojnë",
+      "link": "https://www.balkanweb.com/trump-per-reza-pahlavi-shume-simpatik-por-nuk-e-di-nese-iranianet-do-ta-pranojne/",
+      "description": "Presidenti i SHBA-së , Donald Trump, ka shprehur dyshime nëse disidenti iranian në mërgim, Reza Pahlavi, mund të sigurojë mbështetje të mjaftueshme brenda Iranit për të marrë përsipër udhëheqjen e vendit, duke lënë të hapur mundësinë e rënies së regjimit teokratik të Teheranit. Në deklaratat për Reuters, Donald Trump e përshkroi Reza Pahlavi si “shumë […]",
+      "published": "Thu, 15 Jan 2026 03:45:53 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889218",
-      "fetched_at": "2026-01-15T03:39:55.466118",
-      "ai_summary": "Vendet e G7-ës dënuan të mërkurën atë që e quajtën “përdorim i qëllimshëm i dhunës dhe vrasje e protestuesve” në Iran , duke shprehur gatishmërinë e tyre për të vendosur masa shtesë kundër Teheranit n..."
-    },
-    {
-      "title": "Graham takohet me Princin e Kurorës Iraniane Reza Pahlavi: Dhuratë kapele me sloganin “Bëjeni Iranin të Madh Përsëri”",
-      "link": "https://www.balkanweb.com/graham-takohet-me-princin-e-kurores-iraniane-reza-pahlavi-dhurate-kapele-me-sloganin-bejeni-iranin-te-madh-perseri/",
-      "description": "Senatori amerikan Lindsey Graham, i cili ka qenë një avokat i hapur për veprime ushtarake kundër Iranit që nga fillimi, u takua sot me trashëgimtarin e fronit iranian , Reza Pahlavi . Gjatë takimit, Graham i ofroi Pahlavi dy kapele me sloganin “Bëjeni Iranin të Madh Përsëri”. Slogani i referohet drejtpërdrejt frazës së njohur ” […]",
-      "published": "Thu, 15 Jan 2026 01:50:45 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889255",
-      "fetched_at": "2026-01-15T03:39:55.466204",
-      "ai_summary": "Senatori amerikan Lindsey Graham, i cili ka qenë një avokat i hapur për veprime ushtarake kundër Iranit që nga fillimi, u takua sot me trashëgimtarin e fronit iranian , Reza Pahlavi . Gjatë takimit, G..."
-    },
-    {
-      "title": "Brentford befasi në Ligën Premier: Igor Thiago udhëheq një sistem që funksionon",
-      "link": "https://telegrafi.com/brentford-befasi-ne-ligen-premier-igor-thiago-udheheq-nje-sistem-qe-funksionon/",
-      "description": "Njëra nga surprizat e këtij sezoni në Ligën Premier është Brentford i Keith Andrews: dhe ylli i skuadrës, gjithnjë e më shumë, është sulmuesi Igor Thiago.Në futbollin anglez, surprizat e vërteta zakonisht nuk zgjasin shumë: ose transformohen në realitete të konsoliduara, ose zhduken shpejt. Brentfordi i këtij sezoni – dhe veçanërisht në këtë fillim të vitit 2026 – duket se i përket me vendosmëri kategorisë së parë. \"Bletat\" nuk po përfitojnë thjesht nga një seri rezultate pozitive, por po konfirmojnë në fushë qëndrueshmërinë e një projekti që vazhdon të prodhojë rezultate dhe performanca të nivelit të lartë. Trashëgimia e Thomas Frank dhe efekti Keith Andrews Dalja nga skena e Thomas Frank do të mund të kishte përfaqësuar një pikë kritike. Trajneri danez ka qenë për vite me radhë simboli i Brentford modern, ai që e ka përkthyer në fushë modelin analitik të klubit. Por vendimi për të promovuar Keith Andrews ka garantuar jo vetëm vazhdimësinë, por edhe një përmirësim të dukshëm të cilësisë.Të dhënat nga pjesa e parë e sezonit tregojnë se Brentfordi po performon më mirë se në periudhën e fundit nën drejtimin e Frank, si në prodhimin ofensiv ashtu edhe në kontrollin e ndeshjeve. Andrews ka përmirësuar disa mekanizma kyç, përfshirë menaxhimin më të matur të ritmeve, presionin më të saktë dhe më pak shpenzues, si dhe shfrytëzimin më të mirë të hapësirave gjatë posedimit të topit. Skuadra duket më stabile emocionalisht, më pak e varur nga episodet e veçanta dhe më koherente në performancat javore. Ky është një tregues i qartë i forcës së sistemit të Brentford, që funksionon pavarësisht nga ndryshimet e trajnerit, duke vlerësuar punën e tij.Igor Thiago, referencë teknike e sulmit Në këtë kontekst të strukturuar, Igor Thiago është shfaqur si terminali kryesor ofensiv. Pesë golat e shënuar në vitin 2026 janë një pasojë natyrale e një performance të qëndrueshme dhe përdorimit inteligjent brenda sistemit.Thiago nuk është një sulmues që jeton vetëm nga finalizimi; kontributi i tij është i dukshëm në shumë aspekte, si aftësia për të ngritur skuadrën, punimi me shpinë ndaj portës, prezenca e vazhdueshme në zonën kundërshtare dhe pjesëmarrja aktive në fazën e presionit. Në Ligën Premier, ai ka regjistruar 16 gola dhe 1 asist në 21 paraqitje, një gol çdo 109 minuta, duke u renditur menjëherë pas Haaland që ka 20 gola. telegrafi.com Një nga elementët më tërheqës të këtij Brentford është varieteti i zgjidhjeve ofensive. Skuadra nuk mbështetet në një skemë të vetme apo një lojtar të vetëm, por ndërton lojën e saj përmes parimeve të qarta: shfrytëzimi racional i hapësirave, verticalizime selektive dhe vëmendje e madhe ndaj cilësisë së rasteve të krijuara.Igor Thiago është pika kyçe e këtij sistemi, por jo i vetmi motor. Performanca e tij lidhet me një kontekst kolektiv që funksionon, duke e bërë sulmin e Bees më të vështirë për t’u lexuar dhe neutralizuar krahasuar me të kaluarën.Brentford, tashmë një siguri Në këtë pikë të sezonit, Brentford nuk mund të konsiderohet më thjesht një surprizë. Performancat, numrat dhe vazhdimësia e treguar tregojnë një skuadër tashmë stabilisht konkurruese në Ligën Premier.Keith Andrews ka ditur të marrë një trashëgimi komplekse dhe ta transformojë në një mundësi për rritje, ndërsa Igor Thiago përfaqëson fytyrën ofensive të një projekti që vazhdon të demonstrojë se metoda, koherenca dhe racionaliteti mund të bëjnë ende diferencën në futbollin modern anglez. /Telegrafi/",
-      "published": "Wed, 14 Jan 2026 22:54:24 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/brentford-befasi-ne-ligen-premier-igor-thiago-udheheq-nje-sistem-qe-funksionon/",
-      "fetched_at": "2026-01-15T03:39:57.710946",
-      "ai_summary": "Njëra nga surprizat e këtij sezoni në Ligën Premier është Brentford i Keith Andrews: dhe ylli i skuadrës, gjithnjë e më shumë, është sulmuesi Igor Thiago.Në futbollin anglez, surprizat e vërteta zakon..."
-    },
-    {
-      "title": "Arrestohen dy shqiptarë për vjedhje veturash në Zvicër dhe Itali, publikohen pamjet e kapjes",
-      "link": "https://telegrafi.com/arrestohen-dy-shqiptare-per-vjedhje-veturash-ne-zvicer-dhe-itali-publikohen-pamjet-e-kapjes/",
-      "description": "Policia e Shtetit në Shqipëri ka realizuar operacione të koduara, si “Stolen Line” dhe “Relay”, për goditjen e trafikut të automjeteve dhe transportimit të paligjshëm të emigrantëve.Sipas raportimeve zyrtare, dy persona janë proceduar penalisht për trafikim automjetesh, me vlerë totale rreth 90,000 euro, të cilat dyshohet se janë vjedhur në Zvicër dhe Itali.M. S., 36 vjeç, akuzohet për trafikun e një automjeti tip “Benz” me vlerë rreth 80,000 euro, i cili rezultoi i vjedhur në Zvicër.E.M., 29 vjeç, dyshohet për trafikun e një automjeti tip “Opel” me vlerë rreth 10,000 euro, i vjedhur në Itali.Gjithashtu, gjatë operacionit “Relay” u arrestua në flagrancë edhe shtetasi O. T., 36 vjeç, banues në Krujë, pasi u kap duke transportuar me automjet tre emigrantë që tentonin të kalonin ilegalisht drejt vendeve të Bashkimit Evropian. Materialet e procedimit i janë dorëzuar Prokurorisë së Tiranës për veprime të mëtejshme.",
-      "published": "Wed, 14 Jan 2026 22:53:02 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/arrestohen-dy-shqiptare-per-vjedhje-veturash-ne-zvicer-dhe-itali-publikohen-pamjet-e-kapjes/",
-      "fetched_at": "2026-01-15T03:39:57.712139",
-      "ai_summary": "Policia e Shtetit në Shqipëri ka realizuar operacione të koduara, si “Stolen Line” dhe “Relay”, për goditjen e trafikut të automjeteve dhe transportimit të paligjshëm të emigrantëve.Sipas raportimeve ..."
-    },
-    {
-      "title": "Maroku eliminon Nigerinë pas penalltive dhe prek finalen e Kupës së Afrikës",
-      "link": "https://telegrafi.com/maroku-eliminon-nigerine-pas-penalltive-dhe-prek-finalen-e-kupes-se-afrikes/",
-      "description": "Kombëtarja e Marokut ka siguruar kualifikimin në finale, pas triumfit në penallti ndaj kombëtares së Nigerisë, pasi 120 minuta nuk mjaftuan për t’u përcaktuar fituesi.Maroku u shfaq më kërkues në pjesën e parë, duke rrezikuar që në minutat e hershme. Brahim Diaz dhe Achraf Hakimi provuan nga distanca, ndërsa rasti më i pastër erdhi në minutën e 39-të, kur Noussair Mazraoui u ndal nga një pritje spektakolare e portierit Stanley Nwabali, një nga figurat kryesore të ndeshjes për Nigerinë.Nigeria reagoi me kundërsulme të rrezikshme, ku Ademola Lookman testoi portierin Bono, ndërsa loja u karakterizua edhe nga ndërhyrje të forta dhe kartonë të verdhë, me Calvin Bassey dhe Raphael Onyedika që u ndëshkuan. Në pjesën e dytë, Maroku vazhdoi presionin. Abde Ezzalzouli pati dy raste shumë të mira për shënim, por në të dyja herët u ndal nga pritjet vendimtare të Nwabalit. As ndryshimet taktike nga Walid Regragui, përfshirë aktivizimin e Youssef En-Nesyri, nuk arritën të ndryshojnë rezultatin. As koha shtesë nuk solli zgjidhje, pavarësisht freskimit të skuadrave me zëvendësime dhe përpjekjeve të fundit për të gjetur golin e fitores. Pas 120 minutash, rezultati mbeti i pandryshuar, duke e çuar ndeshjen drejt ekzekutimit të penalltive.Në penallti më të saktë u treguan Maroku që fituan me rezultat 4-2 dhe tashmë do të përballen në finale me Senegalin./Telegrafi/",
-      "published": "Wed, 14 Jan 2026 22:52:13 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/maroku-eliminon-nigerine-pas-penalltive-dhe-prek-finalen-e-kupes-se-afrikes/",
-      "fetched_at": "2026-01-15T03:39:57.712526",
-      "ai_summary": "Kombëtarja e Marokut ka siguruar kualifikimin në finale, pas triumfit në penallti ndaj kombëtares së Nigerisë, pasi 120 minuta nuk mjaftuan për t’u përcaktuar fituesi.Maroku u shfaq më kërkues në pjes..."
+      "guid": "https://www.balkanweb.com/?p=2889277",
+      "fetched_at": "2026-01-15T04:39:15.011284",
+      "ai_summary": "Presidenti i SHBA-së , Donald Trump, ka shprehur dyshime nëse disidenti iranian në mërgim, Reza Pahlavi, mund të sigurojë mbështetje të mjaftueshme brenda Iranit për të marrë përsipër udhëheqjen e ven..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 3,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "Telegrafi",
-    "Telegrafi",
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
