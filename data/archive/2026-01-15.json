@@ -1,6 +1,6 @@
 {
   "date": "2026-01-15",
-  "timestamp": "2026-01-15T04:39:19.730442",
+  "timestamp": "2026-01-15T06:32:54.938579",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,124 @@
   },
   "articles": [
     {
-      "title": "SHBA-të vendosin tarifë prej 25% për importet e gjysmëpërçuesve",
-      "link": "https://www.balkanweb.com/shba-te-vendosin-tarife-prej-25-per-importet-e-gjysmepercuesve/",
-      "description": "Shtetet e Bashkuara kanë vendosur një tarifë prej 25% për importet e gjysmëpërçuesve. Kjo u tha në një deklaratë të lëshuar nga shërbimi për shtyp i Shtëpisë së Bardhë i Presidentit të SHBA-së, Donald Trump. Dokumenti thotë se importi i mikroqarqeve “të caktuara të avancuara” dhe produkteve të tjera të ngjashme i nënshtrohet taksës. Megjithatë, […]",
-      "published": "Thu, 15 Jan 2026 04:30:13 +0000",
+      "title": "“Lumë” parash për superstradën, tjetër tender 1.4 miliardë lekë për Tiranë-Durrës",
+      "link": "https://www.balkanweb.com/lume-parash-per-superstraden-tjeter-tender-1-4-miliarde-leke-per-tirane-durres/",
+      "description": "Arredimi dhe rikualifikimi urban i superstradës Tiranë – Durrës, nga kthesa e Kamzës, deri në urën e Limuthit parashikohet të kushtojë rreth 1.4 mld lekë. Autoriteti Rrugor Shqiptar ka bërë gati tenderin që përfshin fazat I, II dhe III, ku aktualisht po punohet për zgjerimin e këtij aksi të rëndësishëm rrugor. Ndërkaq, brenda këtij muaji […]",
+      "published": "Thu, 15 Jan 2026 06:25:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889249",
-      "fetched_at": "2026-01-15T04:39:15.011047",
-      "ai_summary": "Shtetet e Bashkuara kanë vendosur një tarifë prej 25% për importet e gjysmëpërçuesve. Kjo u tha në një deklaratë të lëshuar nga shërbimi për shtyp i Shtëpisë së Bardhë i Presidentit të SHBA-së, Donald..."
+      "guid": "https://www.balkanweb.com/?p=2889286",
+      "fetched_at": "2026-01-15T06:32:19.255725",
+      "ai_summary": "Arredimi dhe rikualifikimi urban i superstradës Tiranë – Durrës, nga kthesa e Kamzës, deri në urën e Limuthit parashikohet të kushtojë rreth 1.4 mld lekë. Autoriteti Rrugor Shqiptar ka bërë gati tende..."
     },
     {
-      "title": "Delcy Rodriguez: Venezuela po hyn në një ‘epokë të re’ pas rrëzimit të Maduros",
-      "link": "https://www.balkanweb.com/delcy-rodriguez-venezuela-po-hyn-ne-nje-epoke-te-re-pas-rrezimit-te-maduros/",
-      "description": "Presidentja e përkohshme e Venezuelës, Delcy Rodriguez, deklaroi të mërkurën se vendi i saj po hynte në një epokë të re të shënuar nga tolerancë më e madhe ndaj rivalëve politikë, pas rrëzimit nga SHBA të ish-shefit të saj, Nicolas Maduro. Në konferencën e saj të parë për shtyp që nga kapja dramatike e Maduros […]",
-      "published": "Thu, 15 Jan 2026 04:00:25 +0000",
+      "title": "“Ngricat vazhdojnë, – 22 gradë, ushtarët me flluska në duar e këmbë nga të ftohtit, rrugët të bllokuara, nga orteku në Vilë, u gjetën 7 të vdekur, kërkohen 5 të tjerë, në Spaç te kampi…”/ Dokumenti sekret i 15 janarit ‘85",
+      "link": "https://www.balkanweb.com/ngricat-vazhdojne-22-grade-ushtaret-me-flluska-ne-duar-e-kembe-nga-te-ftohtit-rruget-te-bllokuara-nga-orteku-ne-vile-u-gjeten-7-te-vdekur-kerkohen-5-te-tjere-ne-spac-te-kampi/",
+      "description": "Nga DASHNOR KALOÇI Situata tejet e vështirë që po kalon vendi këto ditë si pasojë e motit të keq, nuk është një “muzikë” e padëgjuar për Shqipërinë. Përmbytjet, dalja e lumenjve nga shtrati dhe dëmet e konsiderueshme në toka bujqësore, shtëpi banimi, biznese private, ekonomi e infrastrukturë, duket se ndjekin të njëjtin “refren” prej dekadash. […]",
+      "published": "Thu, 15 Jan 2026 06:18:46 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889236",
-      "fetched_at": "2026-01-15T04:39:15.011200",
-      "ai_summary": "Presidentja e përkohshme e Venezuelës, Delcy Rodriguez, deklaroi të mërkurën se vendi i saj po hynte në një epokë të re të shënuar nga tolerancë më e madhe ndaj rivalëve politikë, pas rrëzimit nga SHB..."
+      "guid": "https://www.balkanweb.com/?p=2888631",
+      "fetched_at": "2026-01-15T06:32:19.255867",
+      "ai_summary": "Nga DASHNOR KALOÇI Situata tejet e vështirë që po kalon vendi këto ditë si pasojë e motit të keq, nuk është një “muzikë” e padëgjuar për Shqipërinë. Përmbytjet, dalja e lumenjve nga shtrati dhe dëmet ..."
     },
     {
-      "title": "Trump për Reza Pahlavi: Shumë simpatik, por nuk e di nëse iranianët do ta pranojnë",
-      "link": "https://www.balkanweb.com/trump-per-reza-pahlavi-shume-simpatik-por-nuk-e-di-nese-iranianet-do-ta-pranojne/",
-      "description": "Presidenti i SHBA-së , Donald Trump, ka shprehur dyshime nëse disidenti iranian në mërgim, Reza Pahlavi, mund të sigurojë mbështetje të mjaftueshme brenda Iranit për të marrë përsipër udhëheqjen e vendit, duke lënë të hapur mundësinë e rënies së regjimit teokratik të Teheranit. Në deklaratat për Reuters, Donald Trump e përshkroi Reza Pahlavi si “shumë […]",
-      "published": "Thu, 15 Jan 2026 03:45:53 +0000",
+      "title": "Parashikimi i motit për sot, 15 janar 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-15-janar-2026/",
+      "description": "Ditën e enjte vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet alternime kthjellimesh e vranësirash kalimatre. Mjegull /mjegullinë përgjatë zonave luginore në orët e mëngjesit e të mbrëmjes. Era do të fryjë me drejtim verilindje– juglindje, me shpejtësi mesatare 8 m/s. Deti – Valëzimi forcës 1-2 ballë.",
+      "published": "Thu, 15 Jan 2026 06:12:19 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889277",
-      "fetched_at": "2026-01-15T04:39:15.011284",
-      "ai_summary": "Presidenti i SHBA-së , Donald Trump, ka shprehur dyshime nëse disidenti iranian në mërgim, Reza Pahlavi, mund të sigurojë mbështetje të mjaftueshme brenda Iranit për të marrë përsipër udhëheqjen e ven..."
+      "guid": "https://www.balkanweb.com/?p=2889154",
+      "fetched_at": "2026-01-15T06:32:19.256197",
+      "ai_summary": "Ditën e enjte vendi ynë do të ndikohet nga kushte atmosferike të qëndrueshme. Moti parashikohet alternime kthjellimesh e vranësirash kalimatre. Mjegull /mjegullinë përgjatë zonave luginore në orët e m..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 15 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-15-janar-2026/",
+      "description": "Dashi Ndjen se je i destinuar për një qëllim më të lartë. Mos e shpërfill këtë zë të brendshëm që këmbëngul se je i destinuar për madhështi. Ushqej këtë ide dhe kultivo në mënyrë aktive këto qëllime të rëndësishme në vend që t’i lësh të humbasin në jetën e përditshme. Demi Përfitoni nga mundësitë e […]",
+      "published": "Thu, 15 Jan 2026 06:05:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2888760",
+      "fetched_at": "2026-01-15T06:32:19.256308",
+      "ai_summary": "Dashi Ndjen se je i destinuar për një qëllim më të lartë. Mos e shpërfill këtë zë të brendshëm që këmbëngul se je i destinuar për madhështi. Ushqej këtë ide dhe kultivo në mënyrë aktive këto qëllime t..."
+    },
+    {
+      "title": "Trump akuzon Ukrainën për bllokimin e paqes me Rusinë: Putini është gati për një marrëveshje",
+      "link": "https://www.balkanweb.com/trump-akuzon-ukrainen-per-bllokimin-e-paqes-me-rusine-putini-eshte-gati-per-nje-marreveshje/",
+      "description": "Presidenti i SHBA-së, Donald Trump, akuzoi Ukrainën për bllokimin e një marrëveshjeje paqeje me Rusinë , në vërejtje që kundërshtojnë drejtpërdrejt qëndrimin e aleatëve evropianë, të cilët argumentojnë se Moska nuk tregon ndonjë interes të vërtetë për t’i dhënë fund luftës . Në një intervistë ekskluzive me Reuters nga Zyra Ovale të mërkurën, Trump tha […]",
+      "published": "Thu, 15 Jan 2026 05:00:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2889274",
+      "fetched_at": "2026-01-15T06:32:19.256382",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, akuzoi Ukrainën për bllokimin e një marrëveshjeje paqeje me Rusinë , në vërejtje që kundërshtojnë drejtpërdrejt qëndrimin e aleatëve evropianë, të cilët argumentojn..."
+    },
+    {
+      "title": "Senati amerikan bllokon rezolutën për të mos përdorur forcë në Venezuelë pa autorizimin e Kongresit",
+      "link": "https://www.balkanweb.com/senati-amerikan-bllokon-rezoluten-per-te-mos-perdorur-force-ne-venezuele-pa-autorizimin-e-kongresit/",
+      "description": "Senati i SHBA-së ka bllokuar një rezolutë që do t’i kërkonte administratës së Presidentit Donald Trump të mos përdorte forcë ushtarake kundër Venezuelës pa pëlqimin e legjislaturës. Votimi në Dhomën e Lartë të Kongresit u transmetua drejtpërdrejt në kanalin televiziv C-SPAN. Dokumenti u mbështet nga 50 ligjvënës, ndërsa po aq senatorë votuan kundër tij. Meqenëse […]",
+      "published": "Thu, 15 Jan 2026 04:50:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2889270",
+      "fetched_at": "2026-01-15T06:32:19.256469",
+      "ai_summary": "Senati i SHBA-së ka bllokuar një rezolutë që do t’i kërkonte administratës së Presidentit Donald Trump të mos përdorte forcë ushtarake kundër Venezuelës pa pëlqimin e legjislaturës. Votimi në Dhomën e..."
+    },
+    {
+      "title": "Witkoff njofton fillimin e fazës së dytë të planit të paqes në Gaza",
+      "link": "https://www.balkanweb.com/witkoff-njofton-fillimin-e-fazes-se-dyte-te-planit-te-paqes-ne-gaza/",
+      "description": "I dërguari special i Presidentit të SHBA-së, Donald Trump, Steve Witkoff, njoftoi se faza e dytë e planit të udhëheqësit të vendit për të rregulluar situatën në Rripin e Gazës ka filluar të zbatohet. Uitkoff shkroi për këtë në faqen e tij në rrjetin social “X”. “Sot, në emër të Presidentit Trump, po njoftojmë nisjen […]",
+      "published": "Thu, 15 Jan 2026 04:45:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2889246",
+      "fetched_at": "2026-01-15T06:32:19.256587",
+      "ai_summary": "I dërguari special i Presidentit të SHBA-së, Donald Trump, Steve Witkoff, njoftoi se faza e dytë e planit të udhëheqësit të vendit për të rregulluar situatën në Rripin e Gazës ka filluar të zbatohet. ..."
+    },
+    {
+      "title": "Rockstar Games ndalon misionet në GTA Online që lidhen me atentatin ndaj Charlie Kirk",
+      "link": "https://telegrafi.com/rockstar-games-ndalon-misionet-ne-gta-online-qe-lidhen-me-atentatin-ndaj-charlie-kirk/",
+      "description": "Pas një përditësimi në dhjetor 2025 që u dha lojtarëve mundësinë të krijojnë vetë misione, Grand Theft Auto Online dhe Rockstar Games kanë ndaluar misionet që simulonin atentatin ndaj aktivistit konservator Charlie Kirk.Kirk u vra në shtator 2025 gjatë një paraqitjeje publike në Universitetin Utah Valley (UVU). Rockstar Games ka shtuar emrin e tij në listën e termave të cenzuruar në lojë, që do të thotë se lojtarët tani nuk mund të krijojnë misione me emrin e tij të plotë apo të kërkojnë për to. Megjithatë, ende ka përmbajtje që shfaqet kur kërkohet për fjalët “Charlie” ose “Kirk” veç e veç.Një prej misioneve të krijuara nga lojtarët quhej “Mi smo Charlie Kirk”, ku loja përshkruante një snajperist të vendosur në një çati që duhej të qëllonte një personazh me emrin Charlie Kirk, duke përdorur një pushkë snajper. Rockstar e hoqi këtë mision nga serverët e GTA Online dhe nuk është më i disponueshëm. /Telegrafi/",
+      "published": "Thu, 15 Jan 2026 06:20:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/rockstar-games-ndalon-misionet-ne-gta-online-qe-lidhen-me-atentatin-ndaj-charlie-kirk/",
+      "fetched_at": "2026-01-15T06:32:21.582155",
+      "ai_summary": "Pas një përditësimi në dhjetor 2025 që u dha lojtarëve mundësinë të krijojnë vetë misione, Grand Theft Auto Online dhe Rockstar Games kanë ndaluar misionet që simulonin atentatin ndaj aktivistit konse..."
+    },
+    {
+      "title": "Mot i vranët, temperaturat deri në 7 gradë",
+      "link": "https://telegrafi.com/mot-i-vranet-temperaturat-deri-ne-7-grade/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -5 deri -2°C, ndërkaq ato maksimale nga 3 deri 7 gradë Celsius. Era do të fryjë nga juglindja 1-5m/s. /Telegrafi/",
+      "published": "Thu, 15 Jan 2026 06:11:52 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mot-i-vranet-temperaturat-deri-ne-7-grade/",
+      "fetched_at": "2026-01-15T06:32:21.582609",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe me intervale me diell.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -5 deri -2°C, ndërkaq ato maksimale nga ..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 9,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
