@@ -1,6 +1,6 @@
 {
   "date": "2026-01-16",
-  "timestamp": "2026-01-16T03:39:15.710953",
+  "timestamp": "2026-01-16T04:39:14.225438",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,96 +9,44 @@
   },
   "articles": [
     {
-      "title": "Trump përshëndet ‘lajmin e mirë’ se Irani nuk do t’i ekzekutojë protestuesit",
-      "link": "https://www.balkanweb.com/trump-pershendet-lajmin-e-mire-se-irani-nuk-do-ti-ekzekutoje-protestuesit/",
-      "description": "Presidenti i SHBA-së, Donald Trump, përshëndeti të enjten “lajmin e mirë” se Irani nuk do të ekzekutojë protestuesit, duke thënë se shpresonte që kjo të vazhdonte. “FoxNews: ‘Protestuesi iranian nuk do të dënohet më me vdekje pas paralajmërimeve të Presidentit Trump. Njësoj si të tjerët.’ Ky është një lajm i mirë. Shpresojmë që kështu do […]",
-      "published": "Fri, 16 Jan 2026 03:30:01 +0000",
+      "title": "Spanja pret që numri i turistëve të vazhdojë të rritet në vitin 2026",
+      "link": "https://www.balkanweb.com/spanja-pret-qe-numri-i-turisteve-te-vazhdoje-te-rritet-ne-vitin-2026/",
+      "description": "Spanja pret të presë më shumë vizitorë të huaj dhe që ata të shpenzojnë më shumë në total në vitin 2026, pasi vendi priti një rekord prej 97 milionë turistësh vitin e kaluar, u tha gazetarëve të enjten Ministri i Turizmit Jordi Hereu. “Nëse rritja vazhdon këtë vit, do të arrijmë 100 milionë turistë të […]",
+      "published": "Fri, 16 Jan 2026 04:00:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889993",
-      "fetched_at": "2026-01-16T03:38:40.769166",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, përshëndeti të enjten “lajmin e mirë” se Irani nuk do të ekzekutojë protestuesit, duke thënë se shpresonte që kjo të vazhdonte. “FoxNews: ‘Protestuesi iranian nuk d..."
+      "guid": "https://www.balkanweb.com/?p=2890001",
+      "fetched_at": "2026-01-16T04:39:09.305378",
+      "ai_summary": "Spanja pret të presë më shumë vizitorë të huaj dhe që ata të shpenzojnë më shumë në total në vitin 2026, pasi vendi priti një rekord prej 97 milionë turistësh vitin e kaluar, u tha gazetarëve të enjte..."
     },
     {
-      "title": "Sulmi rus shkatërron infrastrukturën kritike të energjisë në Kharkiv",
-      "link": "https://www.balkanweb.com/sulmi-rus-shkaterron-infrastrukturen-kritike-te-energjise-ne-kharkiv/",
-      "description": "Forcat ruse kanë shkatërruar “infrastrukturën kritike energjetike” në Kharkiv , qytetin e dytë më të madh të Ukrainës , tha të enjten kryebashkiaku i tij Ihor Terekhov, ndërsa Moska vazhdon një fushatë grevash që ka zhytur miliona ukrainas në errësirë ​​dhe të ftohtë. Presidenti ukrainas Volodymyr Zelensky, i cili një ditë më parë kritikoi përpjekjet […]",
-      "published": "Fri, 16 Jan 2026 03:15:29 +0000",
+      "title": "Trazira në Minesota pasi Trump kërcënon të aktivizojë Aktin e Kryengritjes",
+      "link": "https://www.balkanweb.com/trazira-ne-minesota-pasi-trump-kercenon-te-aktivizoje-aktin-e-kryengritjes/",
+      "description": "Donald Trump kërcënoi të enjten se do të zbatojë Aktin e Kryengritjes për të vendosur trupa për të shuar protestat në Minesota pas dy të shtënave me armë nga agjentët federalë të imigracionit , njëri prej të cilëve ishte fatal. Presidenti amerikan ka kërcënuar vazhdimisht se do të zbatojë ligjin federal të përdorur rrallë që […]",
+      "published": "Fri, 16 Jan 2026 03:45:47 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2890034",
-      "fetched_at": "2026-01-16T03:38:40.769318",
-      "ai_summary": "Forcat ruse kanë shkatërruar “infrastrukturën kritike energjetike” në Kharkiv , qytetin e dytë më të madh të Ukrainës , tha të enjten kryebashkiaku i tij Ihor Terekhov, ndërsa Moska vazhdon një fushat..."
+      "guid": "https://www.balkanweb.com/?p=2890019",
+      "fetched_at": "2026-01-16T04:39:09.305521",
+      "ai_summary": "Donald Trump kërcënoi të enjten se do të zbatojë Aktin e Kryengritjes për të vendosur trupa për të shuar protestat në Minesota pas dy të shtënave me armë nga agjentët federalë të imigracionit , njëri ..."
     },
     {
-      "title": "Maria Corina Machado i jep Trumpit Çmimin Nobel për Paqen",
-      "link": "https://www.balkanweb.com/maria-corina-machado-i-jep-trumpit-cmimin-nobel-per-paqen/",
-      "description": "Figura opozitare venezueliane, Maria Corina Machado, tha të enjten se ia dha Presidentit të SHBA-së, Donald Trump, Çmimin Nobel për Paqen , duke sfiduar theksin e Komitetit të Nobelit se çmimi nuk mund të transferohej. “Ia dorëzova Presidentit të Shteteve të Bashkuara medaljen e Çmimit Nobel për Paqen”, u tha Machado gazetarëve në Kapitol pas […]",
-      "published": "Fri, 16 Jan 2026 03:00:10 +0000",
+      "title": "Trump për Çmimin Nobel që iu dha nga Machado: Një gjest i mrekullueshëm respekti të ndërsjellë",
+      "link": "https://www.balkanweb.com/trump-per-cmimin-nobel-qe-iu-dha-nga-machado-nje-gjest-i-mrekullueshem-respekti-te-ndersjelle/",
+      "description": "Një takim shumë simbolik u zhvillua në Shtëpinë e Bardhë të enjten, ku udhëheqësja e opozitës venezueliane, Maria Corina Machado, i ofroi Donald Trump Çmimin Nobel për Paqen, të cilit iu dha në dhjetor, një veprim që shkaktoi debat dhe reagime ndërkombëtare. Në një postim në rrjetet sociale, presidenti amerikan shkroi: Vetë Machado e konfirmoi […]",
+      "published": "Fri, 16 Jan 2026 03:40:23 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889982",
-      "fetched_at": "2026-01-16T03:38:40.769434",
-      "ai_summary": "Figura opozitare venezueliane, Maria Corina Machado, tha të enjten se ia dha Presidentit të SHBA-së, Donald Trump, Çmimin Nobel për Paqen , duke sfiduar theksin e Komitetit të Nobelit se çmimi nuk mun..."
-    },
-    {
-      "title": "Shtëpia e Bardhë: Venezuela po i plotëson të gjitha kërkesat e SHBA-së",
-      "link": "https://www.balkanweb.com/shtepia-e-bardhe-venezuela-po-i-ploteson-te-gjitha-kerkesat-e-shba-se/",
-      "description": "Qeveria e përkohshme e Venezuelës po përmbush të gjitha kërkesat e SHBA-së dhe Presidenti i SHBA-së, Donald Trump, pret bashkëpunim të vazhdueshëm. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt, e bëri këtë deklaratë në një konferencë të rregullt për gazetarët. “Sekretari i Shtetit Marco Rubio, si dhe administrata, janë në kontakt të vazhdueshëm […]",
-      "published": "Fri, 16 Jan 2026 02:45:07 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2890016",
-      "fetched_at": "2026-01-16T03:38:40.769529",
-      "ai_summary": "Qeveria e përkohshme e Venezuelës po përmbush të gjitha kërkesat e SHBA-së dhe Presidenti i SHBA-së, Donald Trump, pret bashkëpunim të vazhdueshëm. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline ..."
-    },
-    {
-      "title": "KE miraton fazën e parë të financimit të mbrojtjes për tetë shtete të BE-së",
-      "link": "https://www.balkanweb.com/ke-miraton-fazen-e-pare-te-financimit-te-mbrojtjes-per-tete-shtete-te-be-se/",
-      "description": "Komisioni Evropian (KE) ka miratuar fazën e parë të financimit të mbrojtjes për tetë shtete anëtare të BE-së në kuadër të programit të militarizimit SAFE. Kjo u tha në një njoftim për shtyp të publikuar në faqen e internetit të KE-së. “Komisioni Evropian ka miratuar planet kombëtare të mbrojtjes të tetë shteteve anëtare, një hap […]",
-      "published": "Fri, 16 Jan 2026 02:30:00 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889989",
-      "fetched_at": "2026-01-16T03:38:40.769611",
-      "ai_summary": "Komisioni Evropian (KE) ka miratuar fazën e parë të financimit të mbrojtjes për tetë shtete anëtare të BE-së në kuadër të programit të militarizimit SAFE. Kjo u tha në një njoftim për shtyp të publiku..."
-    },
-    {
-      "title": "Ushtria izraelite sulmon depot e Hezbollahut në Liban",
-      "link": "https://www.balkanweb.com/ushtria-izraelite-sulmon-depot-e-hezbollahut-ne-liban/",
-      "description": "Ushtria izraelite tha se depot e armëve që i përkisnin organizatës radikale Hezbollah në disa zona të Libanit ishin shënjestra të sulmeve të reja. Kjo u raportua nga Shërbimi i Shtypit i Ushtrisë Izraelite. “Në Libanin jugor, Forcat Mbrojtëse të Izraelit goditën disa depo armësh të Hezbollahut dhe objekte të tjera terroriste të përdorura për […]",
-      "published": "Fri, 16 Jan 2026 02:00:29 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2889975",
-      "fetched_at": "2026-01-16T03:38:40.769690",
-      "ai_summary": "Ushtria izraelite tha se depot e armëve që i përkisnin organizatës radikale Hezbollah në disa zona të Libanit ishin shënjestra të sulmeve të reja. Kjo u raportua nga Shërbimi i Shtypit i Ushtrisë Izra..."
-    },
-    {
-      "title": "Spanja kundërshton veprimin e njëanshëm të SHBA-së në Iran dhe Venezuelë",
-      "link": "https://www.balkanweb.com/spanja-kundershton-veprimin-e-njeanshem-te-shba-se-ne-iran-dhe-venezuele/",
-      "description": "Spanja ka kundërshtuar me vendosmëri ndërhyrjen e njëanshme të huaj në punët e brendshme të shteteve sovrane, duke adresuar konkretisht tensionet e fundit që përfshijnë Iranin dhe Venezuelën. Ministri i Jashtëm Jose Manuel Albares deklaroi se veprimet e jashtme nuk do të sillnin stabilitet në Iran, ndërsa theksoi se vetë venezuelasit duhet të vendosin për […]",
-      "published": "Fri, 16 Jan 2026 01:45:20 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2890013",
-      "fetched_at": "2026-01-16T03:38:40.769768",
-      "ai_summary": "Spanja ka kundërshtuar me vendosmëri ndërhyrjen e njëanshme të huaj në punët e brendshme të shteteve sovrane, duke adresuar konkretisht tensionet e fundit që përfshijnë Iranin dhe Venezuelën. Ministri..."
+      "guid": "https://www.balkanweb.com/?p=2890037",
+      "fetched_at": "2026-01-16T04:39:09.305605",
+      "ai_summary": "Një takim shumë simbolik u zhvillua në Shtëpinë e Bardhë të enjten, ku udhëheqësja e opozitës venezueliane, Maria Corina Machado, i ofroi Donald Trump Çmimin Nobel për Paqen, të cilit iu dha në dhjeto..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
