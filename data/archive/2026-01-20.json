@@ -1,6 +1,6 @@
 {
   "date": "2026-01-20",
-  "timestamp": "2026-01-20T03:42:35.516942",
+  "timestamp": "2026-01-20T04:43:27.514169",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,96 +9,44 @@
   },
   "articles": [
     {
-      "title": "Kryeministri i Izraelit: Nuk ka vend për ushtarët turq dhe katarianë në Gaza",
-      "link": "https://www.balkanweb.com/kryeministri-i-izraelit-nuk-ka-vend-per-ushtaret-turq-dhe-katariane-ne-gaza/",
-      "description": "Kryeministri Benjamin Netanyahu u zotua të hënën se nuk do të ketë vend për ushtarë turq apo katarianë në Gazën e pasluftës dhe përsëriti kundërshtimin e Izraelit ndaj përbërjes së një paneli këshillues të mbështetur nga SHBA-të për territorin palestinez. Si pjesë e planit 20-pikësh të Presidentit të SHBA- së Donald Trump për t’i dhënë […]",
-      "published": "Tue, 20 Jan 2026 03:30:03 +0000",
+      "title": "Metsola: Ne kërkojmë që IRGC të njihet si organizatë terroriste",
+      "link": "https://www.balkanweb.com/metsola-ne-kerkojme-qe-irgc-te-njihet-si-organizate-terroriste/",
+      "description": "Parlamenti Evropian ka bërë thirrje për shtrëngimin e sanksioneve kundër Iranit dhe për përcaktimin e Trupave të Gardës Revolucionare Islamike (IRGC) si një organizatë terroriste, në dritën e viktimave të shumta gjatë protestave në shkallë të gjerë. Kjo u deklarua nga Presidentja e Parlamentit Evropian, Roberta Metsola, në seancën plenare. “Ky nuk është një gjest […]",
+      "published": "Tue, 20 Jan 2026 04:30:48 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892524",
-      "fetched_at": "2026-01-20T03:42:30.236835",
-      "ai_summary": "Kryeministri Benjamin Netanyahu u zotua të hënën se nuk do të ketë vend për ushtarë turq apo katarianë në Gazën e pasluftës dhe përsëriti kundërshtimin e Izraelit ndaj përbërjes së një paneli këshillu..."
+      "guid": "https://www.balkanweb.com/?p=2892516",
+      "fetched_at": "2026-01-20T04:43:22.051826",
+      "ai_summary": "Parlamenti Evropian ka bërë thirrje për shtrëngimin e sanksioneve kundër Iranit dhe për përcaktimin e Trupave të Gardës Revolucionare Islamike (IRGC) si një organizatë terroriste, në dritën e viktimav..."
     },
     {
-      "title": "Guatemala nën rrethim: Oficeri i nëntë i policisë vritet pas një vale sulmesh nga bandat",
-      "link": "https://www.balkanweb.com/guatemala-nen-rrethim-oficeri-i-nente-i-policise-vritet-pas-nje-vale-sulmesh-nga-bandat/",
-      "description": "Një tjetër oficer policie , i nënti me radhë, ndërroi jetë dje nga plagët e marra, një ditë pas një vale sulmesh dhe trazirash në burgje që e shtynë presidentin e Guatemalës të shpallte një “gjendje rrethimi” për të luftuar bandat. Personeli i policisë është shënjestruar në sulme të shumta të koordinuara në të gjithë […]",
-      "published": "Tue, 20 Jan 2026 03:00:28 +0000",
+      "title": "Von der Leyen kërkon respekt për sovranitetin e Groenlandës dhe Danimarkës",
+      "link": "https://www.balkanweb.com/von-der-leyen-kerkon-respekt-per-sovranitetin-e-groenlandes-dhe-danimarkes/",
+      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen, tha të hënën se sovraniteti i Groenlandës dhe i Mbretërisë së Danimarkës duhet të respektohet “pa mëdyshje”, duke theksuar se çështja është me “rëndësi të madhe” për marrëdhënien transatlantike, ndërsa kërcënimet e SHBA-së për tarifa shtojnë tensione të reja në lidhje. Von der Leyen i bëri këto […]",
+      "published": "Tue, 20 Jan 2026 04:00:57 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892502",
-      "fetched_at": "2026-01-20T03:42:30.236980",
-      "ai_summary": "Një tjetër oficer policie , i nënti me radhë, ndërroi jetë dje nga plagët e marra, një ditë pas një vale sulmesh dhe trazirash në burgje që e shtynë presidentin e Guatemalës të shpallte një “gjendje r..."
+      "guid": "https://www.balkanweb.com/?p=2892513",
+      "fetched_at": "2026-01-20T04:43:22.051984",
+      "ai_summary": "Presidentja e Komisionit Evropian, Ursula von der Leyen, tha të hënën se sovraniteti i Groenlandës dhe i Mbretërisë së Danimarkës duhet të respektohet “pa mëdyshje”, duke theksuar se çështja është me ..."
     },
     {
-      "title": "OKB: Më shumë se gjysmë milioni njerëz të prekur nga përmbytjet në Mozambik",
-      "link": "https://www.balkanweb.com/okb-me-shume-se-gjysme-milioni-njerez-te-prekur-nga-permbytjet-ne-mozambik/",
-      "description": "Përmbytjet në shkallë të gjerë në Mozambik kanë prekur më shumë se gjysmë milioni njerëz. Zëvendëssekretari i Përgjithshëm i OKB-së për Çështjet Humanitare Tom Fletcher e ndau këtë informacion në rrjetin social “X”. “Më shumë se gjysmë milioni njerëz janë prekur nga përmbytjet e rënda në Mozambik”, shkroi ai. Sipas një përfaqësuesi të OKB-së, fatkeqësia […]",
-      "published": "Tue, 20 Jan 2026 02:45:00 +0000",
+      "title": "Parlamenti Europian pezullon ratifikimin e marrëveshjes tregtare BE-SHBA",
+      "link": "https://www.balkanweb.com/parlamenti-europian-pezullon-ratifikimin-e-marreveshjes-tregtare-be-shba/",
+      "description": "Parlamenti Evropian po pezullon ratifikimin e planifikuar të marrëveshjes tregtare BE-SHBA për shkak të kërcënimeve nga Presidenti i SHBA-së, Donald Trump. Manfred Weber, kreu i Partisë Popullore Evropiane, fraksioni kryesor në Parlamentin Evropian, e tha këtë në një intervistë me kanalin televiziv ZDF. “Vendimi i parë që morëm mbrëmë është të pezullojmë ratifikimin e marrëveshjes […]",
+      "published": "Tue, 20 Jan 2026 03:45:16 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892541",
-      "fetched_at": "2026-01-20T03:42:30.237071",
-      "ai_summary": "Përmbytjet në shkallë të gjerë në Mozambik kanë prekur më shumë se gjysmë milioni njerëz. Zëvendëssekretari i Përgjithshëm i OKB-së për Çështjet Humanitare Tom Fletcher e ndau këtë informacion në rrje..."
-    },
-    {
-      "title": "Kryeministri i Hungarisë: Evropa drejtohet nga “trojka gjermane e luftës”",
-      "link": "https://www.balkanweb.com/kryeministri-i-hungarise-evropa-drejtohet-nga-trojka-gjermane-e-luftes/",
-      "description": "Kryeministri i Hungarisë kritikoi të hënën ” përgatitjet e luftës ” të Brukselit, duke thënë se Evropa tani “drejtohet nga një trojkë gjermane lufte “, duke sulmuar kancelaren e Gjermanisë, presidentin e Këshillit të BE-së dhe kreun e Partisë Popullore Evropiane (PPE). Duke folur në një aktivitet në kryeqytetin Budapest, Viktor Orban akuzoi politikanët gjermanë […]",
-      "published": "Tue, 20 Jan 2026 02:30:25 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892520",
-      "fetched_at": "2026-01-20T03:42:30.237167",
-      "ai_summary": "Kryeministri i Hungarisë kritikoi të hënën ” përgatitjet e luftës ” të Brukselit, duke thënë se Evropa tani “drejtohet nga një trojkë gjermane lufte “, duke sulmuar kancelaren e Gjermanisë, presidenti..."
-    },
-    {
-      "title": "Më shumë se 100 makina përplasen në Michigan, disa të plagosur",
-      "link": "https://www.balkanweb.com/me-shume-se-100-makina-perplasen-ne-michigan-disa-te-plagosur/",
-      "description": "Një aksident i madh trafiku ku janë përfshirë më shumë se 100 automjete ka ndodhur në Michiganin perëndimor të SHBA-së. Incidenti thuhet se ndodhi në autostradën I-196 në Zeland Township. Disa persona u plagosën në aksident, por numri i saktë nuk dihet. Aksidenti u shkaktua nga rrëshqitjet e dheut dhe dukshmëria e zvogëluar në rrugë […]",
-      "published": "Tue, 20 Jan 2026 02:00:41 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892498",
-      "fetched_at": "2026-01-20T03:42:30.237262",
-      "ai_summary": "Një aksident i madh trafiku ku janë përfshirë më shumë se 100 automjete ka ndodhur në Michiganin perëndimor të SHBA-së. Incidenti thuhet se ndodhi në autostradën I-196 në Zeland Township. Disa persona..."
-    },
-    {
-      "title": "Akuza të reja kundër djalit të princeshës së Norvegjisë",
-      "link": "https://www.balkanweb.com/akuza-te-reja-kunder-djalit-te-princeshes-se-norvegjise/",
-      "description": "Djali i princeshës së kurorës së Norvegjisë , i cili del në gjyq në shkurt i akuzuar për përdhunimin e katër grave, është akuzuar për krime të reja, përfshirë një “vepër të rëndë penale që lidhet me narkotikët”, tha prokurori të hënën. Marius Borg Hoiby , djali i Princeshës së Kurorës Mette-Marit nga një marrëdhënie […]",
-      "published": "Tue, 20 Jan 2026 01:50:17 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892538",
-      "fetched_at": "2026-01-20T03:42:30.237337",
-      "ai_summary": "Djali i princeshës së kurorës së Norvegjisë , i cili del në gjyq në shkurt i akuzuar për përdhunimin e katër grave, është akuzuar për krime të reja, përfshirë një “vepër të rëndë penale që lidhet me n..."
-    },
-    {
-      "title": "Sateliti kinez tregon një ajsberg të madh në prag të shpërbërjes",
-      "link": "https://www.balkanweb.com/sateliti-kinez-tregon-nje-ajsberg-te-madh-ne-prag-te-shperberjes/",
-      "description": "Sateliti Fengyun-3D i Kinës ka zbuluar se A23a , dikur ajsbergu më i madh në botë, tani është në fazën përfundimtare të shpërbërjes, raportoi agjencia shtetërore Xinhua News, duke cituar Administratën Meteorologjike të Kinës. Imazhet e marra më 14 janar treguan se masa kryesore e ajsbergut është zvogëluar në rreth 506 kilometra katrorë (195 milje […]",
-      "published": "Tue, 20 Jan 2026 01:45:10 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892535",
-      "fetched_at": "2026-01-20T03:42:30.237421",
-      "ai_summary": "Sateliti Fengyun-3D i Kinës ka zbuluar se A23a , dikur ajsbergu më i madh në botë, tani është në fazën përfundimtare të shpërbërjes, raportoi agjencia shtetërore Xinhua News, duke cituar Administratën..."
+      "guid": "https://www.balkanweb.com/?p=2892545",
+      "fetched_at": "2026-01-20T04:43:22.052086",
+      "ai_summary": "Parlamenti Evropian po pezullon ratifikimin e planifikuar të marrëveshjes tregtare BE-SHBA për shkak të kërcënimeve nga Presidenti i SHBA-së, Donald Trump. Manfred Weber, kreu i Partisë Popullore Evro..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 3,
   "sources": [
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb"
