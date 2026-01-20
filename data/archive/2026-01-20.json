@@ -1,6 +1,6 @@
 {
   "date": "2026-01-20",
-  "timestamp": "2026-01-20T04:43:27.514169",
+  "timestamp": "2026-01-20T06:35:19.926662",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,150 @@
   },
   "articles": [
     {
-      "title": "Metsola: Ne kërkojmë që IRGC të njihet si organizatë terroriste",
-      "link": "https://www.balkanweb.com/metsola-ne-kerkojme-qe-irgc-te-njihet-si-organizate-terroriste/",
-      "description": "Parlamenti Evropian ka bërë thirrje për shtrëngimin e sanksioneve kundër Iranit dhe për përcaktimin e Trupave të Gardës Revolucionare Islamike (IRGC) si një organizatë terroriste, në dritën e viktimave të shumta gjatë protestave në shkallë të gjerë. Kjo u deklarua nga Presidentja e Parlamentit Evropian, Roberta Metsola, në seancën plenare. “Ky nuk është një gjest […]",
-      "published": "Tue, 20 Jan 2026 04:30:48 +0000",
+      "title": "Treguesit gjeografik dhe emërtimet e origjinës, gati projektligji për rregullimin dhe mbrojtjen",
+      "link": "https://www.balkanweb.com/treguesit-gjeografik-dhe-emertimet-e-origjines-gati-projektligji-per-rregullimin-dhe-mbrojtjen/",
+      "description": "Një projektligj i Ministrisë së Ekonomisë dhe Inovacionit i nxjerrë për konsultim lidhur me treguesit gjeografikë dhe emërtimin e origjinës synon të përafrojë kuadrin ligjor shqiptar më afër direktivave të Bashkimit Europian çka siguron përmirësime në disa aspekte. Referuar relacionit që shoqëron këtë projekt ka një seri ndërhyrjesh në funksion të zgjidhjes së disa ngërçeve […]",
+      "published": "Tue, 20 Jan 2026 06:25:27 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892516",
-      "fetched_at": "2026-01-20T04:43:22.051826",
-      "ai_summary": "Parlamenti Evropian ka bërë thirrje për shtrëngimin e sanksioneve kundër Iranit dhe për përcaktimin e Trupave të Gardës Revolucionare Islamike (IRGC) si një organizatë terroriste, në dritën e viktimav..."
+      "guid": "https://www.balkanweb.com/?p=2892557",
+      "fetched_at": "2026-01-20T06:34:44.257639",
+      "ai_summary": "Një projektligj i Ministrisë së Ekonomisë dhe Inovacionit i nxjerrë për konsultim lidhur me treguesit gjeografikë dhe emërtimin e origjinës synon të përafrojë kuadrin ligjor shqiptar më afër direktiva..."
     },
     {
-      "title": "Von der Leyen kërkon respekt për sovranitetin e Groenlandës dhe Danimarkës",
-      "link": "https://www.balkanweb.com/von-der-leyen-kerkon-respekt-per-sovranitetin-e-groenlandes-dhe-danimarkes/",
-      "description": "Presidentja e Komisionit Evropian, Ursula von der Leyen, tha të hënën se sovraniteti i Groenlandës dhe i Mbretërisë së Danimarkës duhet të respektohet “pa mëdyshje”, duke theksuar se çështja është me “rëndësi të madhe” për marrëdhënien transatlantike, ndërsa kërcënimet e SHBA-së për tarifa shtojnë tensione të reja në lidhje. Von der Leyen i bëri këto […]",
-      "published": "Tue, 20 Jan 2026 04:00:57 +0000",
+      "title": "Dyshohen për përfshirje në baste sportive, masa sigurie për 5 oficerë policie, mes tyre edhe një efektiv i RENEA-s",
+      "link": "https://www.balkanweb.com/dyshohen-per-perfshirje-ne-baste-sportive-masa-sigurie-per-5-oficere-policie-mes-tyre-edhe-nje-efektiv-i-renea-s/",
+      "description": "5 oficerë policie mes tyee dhe nje i RENEA dyshohen per perfshirje në baste sportive. Gazetarja Klodiana Lala raporton se 3 prej tyre janë derguar në arrest shtëpie, ndërsa 3 ta tjerë, pasi u implikuar eshtë dhe një shtetas kanë masën e ndalimit për të dalë jashtë vendit vijon/…",
+      "published": "Tue, 20 Jan 2026 06:24:36 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892513",
-      "fetched_at": "2026-01-20T04:43:22.051984",
-      "ai_summary": "Presidentja e Komisionit Evropian, Ursula von der Leyen, tha të hënën se sovraniteti i Groenlandës dhe i Mbretërisë së Danimarkës duhet të respektohet “pa mëdyshje”, duke theksuar se çështja është me ..."
+      "guid": "https://www.balkanweb.com/?p=2892561",
+      "fetched_at": "2026-01-20T06:34:44.257785",
+      "ai_summary": "5 oficerë policie mes tyee dhe nje i RENEA dyshohen per perfshirje në baste sportive. Gazetarja Klodiana Lala raporton se 3 prej tyre janë derguar në arrest shtëpie, ndërsa 3 ta tjerë, pasi u implikua..."
     },
     {
-      "title": "Parlamenti Europian pezullon ratifikimin e marrëveshjes tregtare BE-SHBA",
-      "link": "https://www.balkanweb.com/parlamenti-europian-pezullon-ratifikimin-e-marreveshjes-tregtare-be-shba/",
-      "description": "Parlamenti Evropian po pezullon ratifikimin e planifikuar të marrëveshjes tregtare BE-SHBA për shkak të kërcënimeve nga Presidenti i SHBA-së, Donald Trump. Manfred Weber, kreu i Partisë Popullore Evropiane, fraksioni kryesor në Parlamentin Evropian, e tha këtë në një intervistë me kanalin televiziv ZDF. “Vendimi i parë që morëm mbrëmë është të pezullojmë ratifikimin e marrëveshjes […]",
-      "published": "Tue, 20 Jan 2026 03:45:16 +0000",
+      "title": "“Në Gjyqin Special, kur Koçi Xoxe e akuzoi për mos organizimin e rezistencës, në 7 prill ‘39, Koço Kotta i tha…”/ Historia e trishtë e ish-kryeministrit shqiptar që vdiq në tortura në burgun e Burrelit",
+      "link": "https://www.balkanweb.com/ne-gjyqin-special-kur-koci-xoxe-e-akuzoi-per-mos-organizimin-e-rezistences-ne-7-prill-39-koco-kotta-i-tha-historia-e-trishte-e-ish-kryeministrit-shqiptar-qe-vdi/",
+      "description": "Kostaq Kota ose Koço, siç i pëlqente ta quanin, lindi më 14 mars 1888 në Korçë, qytet shqiptar i dalluar për lëvizjet e mëdha patriotike, për lirinë e mëmëdheut, për kulturë dhe arsimimin në gjuhën shqipe, procese në të cilat ishin përfshirë historikisht edhe kontribuon intensivisht familjet Kota. Origjina e tyre është nga Kalaja e […]",
+      "published": "Tue, 20 Jan 2026 06:18:30 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2892545",
-      "fetched_at": "2026-01-20T04:43:22.052086",
-      "ai_summary": "Parlamenti Evropian po pezullon ratifikimin e planifikuar të marrëveshjes tregtare BE-SHBA për shkak të kërcënimeve nga Presidenti i SHBA-së, Donald Trump. Manfred Weber, kreu i Partisë Popullore Evro..."
+      "guid": "https://www.balkanweb.com/?p=2891812",
+      "fetched_at": "2026-01-20T06:34:44.257868",
+      "ai_summary": "Kostaq Kota ose Koço, siç i pëlqente ta quanin, lindi më 14 mars 1888 në Korçë, qytet shqiptar i dalluar për lëvizjet e mëdha patriotike, për lirinë e mëmëdheut, për kulturë dhe arsimimin në gjuhën sh..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, 20 janar 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-20-janar-2026/",
+      "description": "Për ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike relativisht të paqëndrueshme. Moti parashikohet me kthjellime dhe shtim gradual të vranësirave deri të dendura. Reshjet e shiut pritet të bëhen prezente në orët e mbrëmjes, fillimisht në jug e gradualisht do të shtrihen edhe në pjesën tjetër të vendit. Në juglindje në […]",
+      "published": "Tue, 20 Jan 2026 06:12:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2892555",
+      "fetched_at": "2026-01-20T06:34:44.258188",
+      "ai_summary": "Për ditën e sotme vendi ynë do të ndikohet nga kushte atmosferike relativisht të paqëndrueshme. Moti parashikohet me kthjellime dhe shtim gradual të vranësirave deri të dendura. Reshjet e shiut pritet..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 20 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-20-janar-2026/",
+      "description": "Dashi Mund të tundohesh të kënaqesh me pothuajse gjithçka tani. Sot i dëshiron të gjitha. Do të dukesh bukur, të të thonë se je personi më magjepsës në botë, të të adhurojnë, të të çmojnë dhe, mbi të gjitha, do të doje të ndieje se personi që të ndjek me kaq zell e të të […]",
+      "published": "Tue, 20 Jan 2026 06:00:21 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2892038",
+      "fetched_at": "2026-01-20T06:34:44.258329",
+      "ai_summary": "Dashi Mund të tundohesh të kënaqesh me pothuajse gjithçka tani. Sot i dëshiron të gjitha. Do të dukesh bukur, të të thonë se je personi më magjepsës në botë, të të adhurojnë, të të çmojnë dhe, mbi të ..."
+    },
+    {
+      "title": "Trump: Do të vendos 100% tarifa për vendet evropiane nëse nuk pranojnë kontrollin e Groenlandës",
+      "link": "https://www.balkanweb.com/trump-do-te-vendos-100-tarifa-per-vendet-evropiane-nese-nuk-pranojne-kontrollin-e-groenlandes/",
+      "description": "Presidenti i SHBA-së, Donald Trump, ka përsëritur qëllimin e tij për të vendosur tarifa “100%” ndaj vendeve evropiane që kundërshtojnë kërkesat e tij për të marrë kontrollin e Groenlandës , duke shkaktuar reagime të forta nga qeveritë evropiane dhe Bashkimi Evropian , të cilat thonë se sovraniteti i ishullit është i panegociueshëm. Në një intervistë […]",
+      "published": "Tue, 20 Jan 2026 05:00:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2892549",
+      "fetched_at": "2026-01-20T06:34:44.258421",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka përsëritur qëllimin e tij për të vendosur tarifa “100%” ndaj vendeve evropiane që kundërshtojnë kërkesat e tij për të marrë kontrollin e Groenlandës , duke shkak..."
+    },
+    {
+      "title": "Britania ndjek hapat e Australisë: Konsultime për ndalimin e mediave sociale për fëmijët nën 16 vjeç",
+      "link": "https://www.balkanweb.com/britania-ndjek-hapat-e-australise-konsultime-per-ndalimin-e-mediave-sociale-per-femijet-nen-16-vjec/",
+      "description": "Qeveria e Mbretërisë së Bashkuar do të nisë një konsultim mbi një ndalim të mundshëm të përdorimit të mediave sociale nga fëmijët nën 16 vjeç, duke ndjekur modelin australian , pas presionit të fortë nga dhjetëra deputetë të koalicionit, opozita dhe organizatat e prindërve dhe mësuesve. Edhe pse kryeministri britanik Keir Starmer fillimisht kundërshtoi një […]",
+      "published": "Tue, 20 Jan 2026 04:50:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2892532",
+      "fetched_at": "2026-01-20T06:34:44.258513",
+      "ai_summary": "Qeveria e Mbretërisë së Bashkuar do të nisë një konsultim mbi një ndalim të mundshëm të përdorimit të mediave sociale nga fëmijët nën 16 vjeç, duke ndjekur modelin australian , pas presionit të fortë ..."
+    },
+    {
+      "title": "Moti në Shqipëri, vranësira të dendura dhe shi",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-vranesira-te-dendura-dhe-shi/",
+      "description": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të martën do të ndikohet nga kushte atmosferike relativisht të paqëndrueshme.SHMU njofton se moti parashikohet me kthjellime dhe shtim gradual të vranësirave deri të dendura, ndërkaq reshjet e shiut pritet të bëhen prezentë në orët e mbrëmjes, fillimisht në jug e gradualisht do të shtrihen edhe në pjesën tjetër të vendit. Në juglindje në lartësitë mbi 600-700 metër dhe në relievet malore në lindje në lartësitë mbi 800-900 metër reshje dëbore me intensitet të ulët.Era do të fryjë me drejtim verilindje– lindje, me shpejtësi mesatare 9 m/s, përgjatë vijës bregdetare dhe zonat luginore era me shpejtësi deri në 20 m/s.Deti - Valëzimi forcës 3-4 ballë. /Telegrafi/",
+      "published": "Tue, 20 Jan 2026 06:22:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-vranesira-te-dendura-dhe-shi/",
+      "fetched_at": "2026-01-20T06:34:46.544745",
+      "ai_summary": "Shërbimi Meteorologjik Ushtarak bën të ditur se Shqipëria të martën do të ndikohet nga kushte atmosferike relativisht të paqëndrueshme.SHMU njofton se moti parashikohet me kthjellime dhe shtim gradual..."
+    },
+    {
+      "title": "iPhone 18 Pro dhe Pro Max do të kenë ekrane OLED të përparuara LTPO+",
+      "link": "https://telegrafi.com/iphone-18-pro-dhe-pro-max-do-te-kene-ekrane-oled-te-perparuara-ltpo/",
+      "description": "Një raport i ri që vjen nga burimet e zinxhirit të furnizimit të ETNews, thotë se Apple po planifikon të prezantojë panele të përparuara LTPO+ OLED me modelet e ardhshme iPhone 18 Pro dhe 18 Pro Max.Përveç natyrës së supozuar më efikase nga ana e energjisë të ekraneve LTPO+, ato do t'i lejojnë gjithashtu Apple të vendosë skanerin IR, të përdorur për Face ID, pas ekranit. Për më tepër, disa njerëz të njohur me çështjen dyshojnë se Apple do ta zhvendosë edhe kamerën selfie pas ekranit pa bërë kompromis me cilësinë, transmeton Telegrafi.Është interesante se kjo do ta nxirrte prodhuesin kinez të paneleve BOE nga zinxhiri i furnizimit të Apple për modelet Pro, pasi vetëm LG dhe Samsung mund të prodhojnë ekrane LTPO+ OLED. Megjithatë, BOE mund të prodhojë ende panele për modelet jo-Pro.Raporti gjithashtu sugjeron që Apple do të përfshijë panele LTPO+ në M6 MacBook Pro të ridizajnuar. /Telegrafi/",
+      "published": "Tue, 20 Jan 2026 06:20:04 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/iphone-18-pro-dhe-pro-max-do-te-kene-ekrane-oled-te-perparuara-ltpo/",
+      "fetched_at": "2026-01-20T06:34:46.545343",
+      "ai_summary": "Një raport i ri që vjen nga burimet e zinxhirit të furnizimit të ETNews, thotë se Apple po planifikon të prezantojë panele të përparuara LTPO+ OLED me modelet e ardhshme iPhone 18 Pro dhe 18 Pro Max.P..."
+    },
+    {
+      "title": "Moti sot, mëngjesi me ngrica – rekomandohet kujdes i shtuar në trafik",
+      "link": "https://telegrafi.com/moti-sot-mengjesi-me-ngrica-rekomandohet-kujdes-i-shtuar-ne-trafik/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe intervale me diell, ndërsa mëngjesi parashihet të jetë me mjegull dhe ngrica.IHK rekomandon kujdes të shtuar për pjesëmarrësit në trafik.Instituti tutje bën të ditur se temperaturat minimale do të lëvizin -9 deri -7 C, ndërkaq ato maksimale nga 1 deri °5C.Era do të fryjë nga veriperëndimi me shpejtësi 1-4m/s. /Telegrafi/",
+      "published": "Tue, 20 Jan 2026 06:15:00 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-sot-mengjesi-me-ngrica-rekomandohet-kujdes-i-shtuar-ne-trafik/",
+      "fetched_at": "2026-01-20T06:34:46.545645",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbajë mot i vranët dhe intervale me diell, ndërsa mëngjesi parashihet të jetë me mjegull dhe ngrica.IHK rekomandon kujdes të shtuar për pjesëmarr..."
+    },
+    {
+      "title": "Ivanka Trump tregoi çfarë të vishni kur doni të dukeni speciale, por pa e tepruar",
+      "link": "https://telegrafi.com/ivanka-trump-tregoi-cfare-te-vishni-kur-doni-te-dukeni-speciale-por-pa-e-tepruar/",
+      "description": "Një fustan luksoz, një ambient familjar dhe shumë elegancëTrump edhe një herë tregoi pse çdo zgjedhje e saj e modës analizohet me kaq kujdes. Në festën intime të 45-vjetorit të bashkëshortit të saj, Jared Kushner, ajo u shfaq me një fustan luksoz prej kadifeje dhe ari, që ngjall frymën e Rilindjes italiane dhe duket si një vepër arti.E mësuar me jetën nën vëmendjen e publikut, Ivanka Trump edhe kësaj here tërhoqi vëmendje në një ambient privat dhe familjar. Ish-këshilltarja e Shtëpisë së Bardhë e festoi ditëlindjen e bashkëshortit në shoqërinë e fëmijëve të tyre Arabella, Joseph dhe Theodore, si dhe të miqve më të afërt dhe anëtarëve të familjes.Mbrëmjen, të mbushur me muzikë dhe intimitet, ajo e përshkroi në rrjetet sociale me një mesazh emocional, duke falënderuar për mundësinë që të festojnë “të rrethuar nga njerëzit që të njohin më mirë dhe të duan më shumë”, transmeton Telegrafi. View this post on Instagram A post shared by Ivanka Trump (@ivankatrump)Fustani si vepër arti Për këtë rast, Ivanka Trump zgjodhi modelin Divinus të markës Annie’s Ibiza, me çmim 2.382,95 euro. Bëhet fjalë për një fustan prej kadifeje blu të errët, me një siluetë të theksuar, të formësuar në mënyrë arkitektonike dhe me pjesën e sipërme të strukturuar, të përforcuar me “kocka” çeliku. Fundi voluminoz, paksa në formë zile, e thekson edhe më shumë ndjesinë madhështore.Vëmendje të veçantë tërheqin qëndisjet e arta, të punuara me dorë, që shtrihen mbi fustan si panele metalike, të frymëzuara nga të famshmet “Portat e Parajsës” në Firence. Dekolteja elegante dhe e harkuar e kornizon me saktësi trupin, ndërsa çdo detaj kujton obsesionin e Rilindjes për përsosmëri, inovacion dhe bukuri. Fustani fsheh edhe elemente të papritura, si xhepat anësorë dhe një fund mini tutu të heqshëm, gjë që ilustron në mënyrë perfekte kombinimin e traditës dhe dizajnit bashkëkohor, për të cilin kjo shtëpi mode është e njohur. Ivanka e kompletoi pamjen me geta të zeza, këpucë elegante dhe çantë në të njëjtin ton, duke ia lënë rolin kryesor fustanit. Moda me histori Marka Annie’s Ibiza, e themeluar nga dizajnerja britanike Annie Doble, vitet e fundit ka fituar status kult mes adhuruesve të modës me karakter. Doble e hapi dyqanin e saj të parë në qytetin e vjetër të Ibizës me vetëm 200 euro, ndërsa sot drejton një markë të njohur për punën artizanale, seritë e kufizuara dhe qasjen e qëndrueshme.Koleksionet bazohen në materiale natyrore dhe teknika si qëndisja me qelq dhe metal, motive osmane, silueta viktoriane dhe estetikë teatrale të viteve ’50. Fustanet janë konceptuar si pjesë të përhershme, të destinuara të kalojnë nga brezi në brez, dhe shiten ekskluzivisht në butikët në Ibiza dhe Londër. /Telegrafi/",
+      "published": "Mon, 19 Jan 2026 23:10:26 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/ivanka-trump-tregoi-cfare-te-vishni-kur-doni-te-dukeni-speciale-por-pa-e-tepruar/",
+      "fetched_at": "2026-01-20T06:34:46.545883",
+      "ai_summary": "Një fustan luksoz, një ambient familjar dhe shumë elegancëTrump edhe një herë tregoi pse çdo zgjedhje e saj e modës analizohet me kaq kujdes. Në festën intime të 45-vjetorit të bashkëshortit të saj, J..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 11,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
