@@ -1,6 +1,6 @@
 {
   "date": "2026-01-21",
-  "timestamp": "2026-01-21T04:42:42.211491",
+  "timestamp": "2026-01-21T06:35:02.027960",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,72 +9,137 @@
   },
   "articles": [
     {
-      "title": "BE zotohet për përgjigje të “paepur” ndaj hapit të Trump për Groenlandën",
-      "link": "https://www.balkanweb.com/be-zotohet-per-pergjigje-te-paepur-ndaj-hapit-te-trump-per-groenlanden/",
-      "description": "Udhëheqësit evropianë hoqën një vijë të qartë në lidhje me Groenlandën të martën, duke u zotuar për një përgjigje “të palëkundur” ndaj kërcënimeve të Uashingtonit, edhe pse Presidenti i SHBA-së Donald Trump tha se ishte gati të zhvillonte një takim në Davos në lidhje me planet e tij për të marrë territorin autonom danez. Udhëheqësit […]",
-      "published": "Wed, 21 Jan 2026 04:30:44 +0000",
+      "title": "Nga hotelet, qiratë, kafetë e argëtimi, si turistët ndikuan në 54% të rritjes së çmimeve në dhjetor",
+      "link": "https://www.balkanweb.com/nga-hotelet-qirate-kafete-e-argetimi-si-turistet-ndikuan-ne-54-te-rritjes-se-cmimeve-ne-dhjetor/",
+      "description": "Në muajin dhjetor, teksa inflacioni ishte 2.2%, tre grupe, të lidhura direkt me aktivitetin e turistëve sollën rreth 54% të rritjes së së çmimeve. Sipas të dhënave të INSTAT, grupi “Qira, ujë, lëndë djegëse dhe energji” ndikoi me 0.96 pikë përqindje; “Hotele, kafene dhe restorante”, me 0.15 pikë përqindje dhe “Argëtim dhe kulturë” me 0.08 […]",
+      "published": "Wed, 21 Jan 2026 06:24:24 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2893329",
-      "fetched_at": "2026-01-21T04:42:37.097043",
-      "ai_summary": "Udhëheqësit evropianë hoqën një vijë të qartë në lidhje me Groenlandën të martën, duke u zotuar për një përgjigje “të palëkundur” ndaj kërcënimeve të Uashingtonit, edhe pse Presidenti i SHBA-së Donald..."
+      "guid": "https://www.balkanweb.com/?p=2893384",
+      "fetched_at": "2026-01-21T06:34:56.440647",
+      "ai_summary": "Në muajin dhjetor, teksa inflacioni ishte 2.2%, tre grupe, të lidhura direkt me aktivitetin e turistëve sollën rreth 54% të rritjes së së çmimeve. Sipas të dhënave të INSTAT, grupi “Qira, ujë, lëndë d..."
     },
     {
-      "title": "Australia miraton ligje më të ashpra për armët dhe krimet e urrejtjes pas të shtënave me armë në Bondi",
-      "link": "https://www.balkanweb.com/australia-miraton-ligje-me-te-ashpra-per-armet-dhe-krimet-e-urrejtjes-pas-te-shtenave-me-arme-ne-bondi/",
-      "description": "Australia ka miratuar ligje të reja për një riblerje kombëtare të armëve, kontrolle më të rrepta të së kaluarës për licencat e armëve dhe një goditje ndaj krimeve të urrejtjes në përgjigje të të shtënave masive më të këqija në vend në dekada në një festival hebre muajin e kaluar. Dy projektligje për kontroll më […]",
-      "published": "Wed, 21 Jan 2026 04:15:54 +0000",
+      "title": "“Shoku Rexh Bërç që prita sot, më tha se djali i tij, kirurg, ishte ngjitur në një majë mali në Groenlandë, ku kishte vënë librin ‘Historia e P.P.SH-së’…”/ Zbulohet ditari i Enverit, shtator ’73, për mikun nga Anglia",
+      "link": "https://www.balkanweb.com/shoku-rexh-berc-qe-prita-sot-me-tha-se-djali-i-tij-kirurg-ishte-ngjitur-ne-nje-maje-mali-ne-groenlande-ku-kishte-vene-librin-historia-e-p-p-sh-se-zbul/",
+      "description": "Nga DASHNOR KALOÇI Ishulli akullnajor i Groneladës, më i madhi në botë, i cili gjendet ndërmjet Oqeanit Arktik dhe atij Atlantik, me një sipërfaqe prej 2.166.086 km² dhe popullsi prej afro 70 mijë banorësh, i cili prej disa ditësh është bërë një “mollë sherri” dhe kryefjala e pjesës më të madhe të mediave botërore, për […]",
+      "published": "Wed, 21 Jan 2026 06:18:11 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2893371",
-      "fetched_at": "2026-01-21T04:42:37.097202",
-      "ai_summary": "Australia ka miratuar ligje të reja për një riblerje kombëtare të armëve, kontrolle më të rrepta të së kaluarës për licencat e armëve dhe një goditje ndaj krimeve të urrejtjes në përgjigje të të shtën..."
+      "guid": "https://www.balkanweb.com/?p=2892810",
+      "fetched_at": "2026-01-21T06:34:56.440794",
+      "ai_summary": "Nga DASHNOR KALOÇI Ishulli akullnajor i Groneladës, më i madhi në botë, i cili gjendet ndërmjet Oqeanit Arktik dhe atij Atlantik, me një sipërfaqe prej 2.166.086 km² dhe popullsi prej afro 70 mijë ban..."
     },
     {
-      "title": "SHBA-të sekuestrojnë një tjetër anije cisternë nafte të lidhur me Venezuelën në Karaibe",
-      "link": "https://www.balkanweb.com/shba-te-sekuestrojne-nje-tjeter-anije-cisterne-nafte-te-lidhur-me-venezuelen-ne-karaibe/",
-      "description": "Një cisternë nafte që dyshohet se është e lidhur me Venezuelën u sekuestrua në Karaibe të martën pas një operacioni ushtarak amerikan, njoftoi Komanda Jugore e SHBA-së (SouthCom), komanda amerikane për Amerikën Qendrore dhe Jugore. Sipas një postimi nga SouthCom në platformën e saj X, operacioni u krye pa probleme dhe përfundoi me sukses. Cisterna, […]",
-      "published": "Wed, 21 Jan 2026 04:00:05 +0000",
+      "title": "Parashikimi i motit për sot, 21 janar 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-21-janar-2026/",
+      "description": "Për ditën e mërkurë vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura. Reshje shiu të herëpashershme me intensitet kryesisht të ulët që në orët e para të 24-orëshit. Lokalisht në jug të vendit në intervale të shkurtra kohore reshje shiu në formën e shtrëngatave. Gjatë […]",
+      "published": "Wed, 21 Jan 2026 06:12:40 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2893325",
-      "fetched_at": "2026-01-21T04:42:37.097290",
-      "ai_summary": "Një cisternë nafte që dyshohet se është e lidhur me Venezuelën u sekuestrua në Karaibe të martën pas një operacioni ushtarak amerikan, njoftoi Komanda Jugore e SHBA-së (SouthCom), komanda amerikane pë..."
+      "guid": "https://www.balkanweb.com/?p=2893382",
+      "fetched_at": "2026-01-21T06:34:56.441173",
+      "ai_summary": "Për ditën e mërkurë vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura. Reshje shiu të herëpashershme me intensitet kryesisht të ..."
     },
     {
-      "title": "Meksika ekstradon 37 të dyshuar si udhëheqës të kartelit në SHBA nën presionin e Trump",
-      "link": "https://www.balkanweb.com/meksika-ekstradon-37-te-dyshuar-si-udheheqes-te-kartelit-ne-shba-nen-presionin-e-trump/",
-      "description": "Qeveria meksikane njoftoi të martën se u kishte dorëzuar autoriteteve amerikane 37 persona që dyshohet se i përkasin organizatave kriminale, ndërsa Presidenti i SHBA-së Donald Trump vazhdon të ushtrojë presion mbi Meksikën, duke kërcënuar shpesh me “sulme tokësore kundër karteleve të drogës “. Kjo është vala e tretë e ekstradimeve që nga viti 2025, gjë […]",
-      "published": "Wed, 21 Jan 2026 03:50:13 +0000",
+      "title": "Horoskopi për ditën e sotme, 21 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-21-janar-2026/",
+      "description": "Dashi Mund ta kesh të vështirë të përshtatesh me energjinë e ditës. Shumicën e kohës, mendimet e tua do të jenë të shpërndara dhe do të jetë e vështirë për ty të jesh produktiv, pasi shpërqendrimet janë kudo. Mos e kritiko veten për këtë. Thjesht bëj më të mirën tënde. Demi Ka më shumë të […]",
+      "published": "Wed, 21 Jan 2026 06:00:25 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2893368",
-      "fetched_at": "2026-01-21T04:42:37.097369",
-      "ai_summary": "Qeveria meksikane njoftoi të martën se u kishte dorëzuar autoriteteve amerikane 37 persona që dyshohet se i përkasin organizatave kriminale, ndërsa Presidenti i SHBA-së Donald Trump vazhdon të ushtroj..."
+      "guid": "https://www.balkanweb.com/?p=2892946",
+      "fetched_at": "2026-01-21T06:34:56.441300",
+      "ai_summary": "Dashi Mund ta kesh të vështirë të përshtatesh me energjinë e ditës. Shumicën e kohës, mendimet e tua do të jenë të shpërndara dhe do të jetë e vështirë për ty të jesh produktiv, pasi shpërqendrimet ja..."
     },
     {
-      "title": "Izraeli drejt OKB-së: Jemi në gatishmëri të lartë për Iranin dhe në koordinim me SHBA-në",
-      "link": "https://www.balkanweb.com/izraeli-drejt-okb-se-jemi-ne-gatishmeri-te-larte-per-iranin-dhe-ne-koordinim-me-shba-ne/",
-      "description": "Përfaqësuesi i Përhershëm i Izraelit në OKB , Ambasadori Danny Danon, paraqiti një vlerësim të situatës në Lindjen e Mesme, duke u përqendruar në Iran , Gaza, Liban dhe Siri, në një takim informues për një grup korrespondentësh të akredituar, duke nënvizuar se Izraeli mbetet në “gatishmëri të lartë” dhe se “nuk do të lejojë […]",
-      "published": "Wed, 21 Jan 2026 03:45:55 +0000",
+      "title": "Referencat e ndërtesave për banim në fshat, ja në cilat zona çmimet do barazohen me qytetin",
+      "link": "https://www.balkanweb.com/referencat-e-ndertesave-per-banim-ne-fshat-ja-ne-cilat-zona-cmimet-do-barazohen-me-qytetin/",
+      "description": "Sipas ndarjes së re të propozuar nga qeveria për çmimet e reja të referencës sipas rretheve, qyteti i Durrësit aktualisht ka një çmim të vetëm reference prej 67,500 lekësh për metër katror. Me hartën e re të çmimeve kadastrale, qyteti i Durrësit parashikohet të ndahet në 12 zona. Zona nr. 12 do të përfshijë të […]",
+      "published": "Wed, 21 Jan 2026 05:33:37 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2893355",
-      "fetched_at": "2026-01-21T04:42:37.097454",
-      "ai_summary": "Përfaqësuesi i Përhershëm i Izraelit në OKB , Ambasadori Danny Danon, paraqiti një vlerësim të situatës në Lindjen e Mesme, duke u përqendruar në Iran , Gaza, Liban dhe Siri, në një takim informues pë..."
+      "guid": "https://www.balkanweb.com/?p=2893387",
+      "fetched_at": "2026-01-21T06:34:56.441378",
+      "ai_summary": "Sipas ndarjes së re të propozuar nga qeveria për çmimet e reja të referencës sipas rretheve, qyteti i Durrësit aktualisht ka një çmim të vetëm reference prej 67,500 lekësh për metër katror. Me hartën ..."
+    },
+    {
+      "title": "Kallas: BE-ja po përgatit sanksione të reja kundër Iranit për shtypjen brutale të protestave",
+      "link": "https://www.balkanweb.com/kallas-be-ja-po-pergatit-sanksione-te-reja-kunder-iranit-per-shtypjen-brutale-te-protestave/",
+      "description": "Bashkimi Evropian (BE) po përgatit kufizime të reja kundër Iranit në përgjigje të shtypjes në shkallë të gjerë dhe brutale të protestave në Iran. Kjo u deklarua nga Përfaqësuesja e Lartë e BE-së për Punët e Jashtme dhe Politikën e Sigurisë, Kaya Kallas, gjatë seancave dëgjimore mbi Iranin në parlament në Strasburg. Kallas theksoi se […]",
+      "published": "Wed, 21 Jan 2026 05:00:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2893349",
+      "fetched_at": "2026-01-21T06:34:56.441453",
+      "ai_summary": "Bashkimi Evropian (BE) po përgatit kufizime të reja kundër Iranit në përgjigje të shtypjes në shkallë të gjerë dhe brutale të protestave në Iran. Kjo u deklarua nga Përfaqësuesja e Lartë e BE-së për P..."
+    },
+    {
+      "title": "Shpërthimi i fruthit në SHBA jashtë kontrollit: Mbi 600 raste në Karolinën e Jugut",
+      "link": "https://www.balkanweb.com/shperthimi-i-fruthit-ne-shba-jashte-kontrollit-mbi-600-raste-ne-karolinen-e-jugut/",
+      "description": "Numri i rasteve të fruthit vazhdon të rritet në Shtetet e Bashkuara , veçanërisht në shtetin juglindor të Karolinës së Jugut, ku që nga vjeshta janë konfirmuar më shumë se 600 raste, thanë autoritetet lokale të martën. Ndërsa hezitimi ndaj vaksinimit rritet, sëmundja serioze dhe shumë ngjitëse po bën një rikthim shqetësues në vendet e […]",
+      "published": "Wed, 21 Jan 2026 04:45:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2893377",
+      "fetched_at": "2026-01-21T06:34:56.441528",
+      "ai_summary": "Numri i rasteve të fruthit vazhdon të rritet në Shtetet e Bashkuara , veçanërisht në shtetin juglindor të Karolinës së Jugut, ku që nga vjeshta janë konfirmuar më shumë se 600 raste, thanë autoritetet..."
+    },
+    {
+      "title": "Moti në Shqipëri, vranët dhe reshje shiu të herëpashershme",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-reshje-shiu-te-herepashershme-2674915142/",
+      "description": "Shqipëria të mërkurën do të ndikohet nga kushte atmosferike të paqëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me vranësira mesatare deri të dendura, ndërkaq reshje shiu të herëpashershme do të ketë me intensitet kryesisht të ulët që në orët e para të 24-orëshit.SHMU njofton se lokalisht në jug të vendit në intervale të shkurtra kohore reshje shiu në formën e shtrëngatave. Gjatë ditës reshjet e shiut do të mbeten prezentë të herëpashershme me intensitet kryesisht të ulët, lokalisht në qendër dhe jug të vendit hera-herës reshje shiu me intensitet deri mesatar në formën e shtrëngatave. Në zonën e Alpeve, në verilindje-lindje në lartësitë mbi 300-400 metër si dhe në juglindje-jug në lartësitë mbi 600-700 metër reshje dëbore me intensitet të ulët. Era do të fryjë me drejtim verilindje– lindje, me shpejtësi mesatare 7 m/s, përgjatë vijës bregdetare dhe zonat luginore era me shpejtësi deri në 18 m/s.Deti - Valëzimi forcës 3-4 ballë. /Telegrafi/",
+      "published": "Wed, 21 Jan 2026 06:22:41 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-vranet-dhe-reshje-shiu-te-herepashershme-2674915142/",
+      "fetched_at": "2026-01-21T06:34:58.764807",
+      "ai_summary": "Shqipëria të mërkurën do të ndikohet nga kushte atmosferike të paqëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me vranësira mesatare deri të dendura, ndërkaq reshje shi..."
+    },
+    {
+      "title": "Brooklyn Beckham pretendon se prindërit e tij David dhe Victoria u përpoqën ta korruptonin që të ‘nënshkruante të drejtat’ mbi emrin e tij",
+      "link": "https://telegrafi.com/brooklyn-beckham-pretendon-se-prinderit-e-tij-david-dhe-victoria-u-perpoqen-ta-korruptonin-qe-te-nenshkruante-te-drejtat-mbi-emrin-e-tij/",
+      "description": "Brooklyn Beckham pretendon se para dasmës së tij me Nicola Peltz Beckham, prindërit e tij u përpoqën ta korruptonin që të “nënshkruante të drejtat” mbi emrin e tij.Duke thyer heshtjen lidhur me largimin e tij nga prindërit David dhe Victoria Beckham në një seri postimesh shpërthyese në Instagram më 19 janar, djali më i madh i familjes Beckham, 26 vjeç, pretendoi se prindërit e tij ishin munduar ta korruptonin para martesës së tij në 2022.Në një nga postimet, Brooklyn shkroi: “Javë përpara ditës sonë të madhe, prindërit e mi më shtynin vazhdimisht dhe u përpoqën të më jepnin ryshfet për të nënshkruar të drejtat mbi emrin tim, gjë që do të kishte ndikuar tek unë, gruaja ime dhe fëmijët tanë të ardhshëm”. “Ata ishin të vendosur që unë ta nënshkruaja para datës së dasmës, sepse atëherë do të fillonin kushtet e marrëveshjes,” shkroi ai. “Refuzimi im ndikoi tek pagesa e tyre, dhe që atëherë nuk më kanë trajtuar më njësoj.”Brooklyn ngriti pretendimet për ryshfet menjëherë pas deklaratës së tij se prindërit e tij “po përpiqen pafundësisht të shkatërrojnë” marrëdhënien e tij me gruan Nicola, 31 vjeç, “që para dasmës sime, dhe kjo nuk ka ndaluar”. Situata u përkeqësua gjatë vetë dasmës, ku Brooklyn pretendoi se nëna e tij, Victoria, 51 vjeç, “e rrëmbeu” vallëzimin e tij romantik të parë me Nicola dhe “vallëzoi në mënyrë shumë të papërshtatshme” përpara 500 mysafirëve të dasmës. Ai gjithashtu pretendoi se nëna e tij “anuloi qepjen” e fustanit të gruas së tij.(Të dy pretendimet vijnë pas deklaratave të burimeve për PEOPLE, të cilat thanë se grindja e familjes me çiftin filloi nga fustani i dasmës së Nicola-s dhe përshkruan situatën e pretenduar të vallëzimit së parë, vitin e kaluar.)",
+      "published": "Wed, 21 Jan 2026 06:20:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/brooklyn-beckham-pretendon-se-prinderit-e-tij-david-dhe-victoria-u-perpoqen-ta-korruptonin-qe-te-nenshkruante-te-drejtat-mbi-emrin-e-tij/",
+      "fetched_at": "2026-01-21T06:34:58.765503",
+      "ai_summary": "Brooklyn Beckham pretendon se para dasmës së tij me Nicola Peltz Beckham, prindërit e tij u përpoqën ta korruptonin që të “nënshkruante të drejtat” mbi emrin e tij.Duke thyer heshtjen lidhur me largim..."
+    },
+    {
+      "title": "Mëngjesi me ngrica dhe vende-vende me mjegull",
+      "link": "https://telegrafi.com/mengjesi-me-ngrica-dhe-vende-vende-me-mjegull/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot kryesisht i vranët.IHK njofton se në mëngjes do të ketë ngrica dhe vende-vende mjegull.Temperaturat minimale do të lëvizin ndërmjet -8 deri -5°C, ndërkaq ato maksimale nga 1-4°CEra do të fryjë kryesisht nga juglindjes me shpejtësi 1-8m/s. /Telegrafi/",
+      "published": "Wed, 21 Jan 2026 06:08:23 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mengjesi-me-ngrica-dhe-vende-vende-me-mjegull/",
+      "fetched_at": "2026-01-21T06:34:58.765958",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovë do të mbajë mot kryesisht i vranët.IHK njofton se në mëngjes do të ketë ngrica dhe vende-vende mjegull.Temperaturat minimale do të lëvizin nd..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 10,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
