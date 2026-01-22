@@ -1,6 +1,6 @@
 {
   "date": "2026-01-22",
-  "timestamp": "2026-01-22T04:47:18.125107",
+  "timestamp": "2026-01-22T06:34:01.719134",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,46 +9,150 @@
   },
   "articles": [
     {
-      "title": "Trump paralajmëron Teheranin të ndalojë përpjekjet për të zhvilluar armë bërthamore",
-      "link": "https://www.balkanweb.com/trump-paralajmeron-teheranin-te-ndaloje-perpjekjet-per-te-zhvilluar-arme-berthamore/",
-      "description": "Presidenti i SHBA-së, Donald Trump, i ka bërë thirrje Iranit të ndalojë së kërkuari armë bërthamore, duke paralajmëruar se nëse nuk e bën këtë, SHBA-të do të ndërmarrin veprime. Në një intervistë me CNBC nga Davos i Zvicrës, Trump tha për Iranin: “Ata duhet të ndalojnë me armët bërthamore”. Duke kujtuar sulmin e SHBA-së ndaj […]",
-      "published": "Thu, 22 Jan 2026 04:45:02 +0000",
+      "title": "500 mln euro për e-qeverisjen në 4 vjet, rekord punonjësish në administratë, por sistemi nuk punon!",
+      "link": "https://www.balkanweb.com/500-mln-euro-per-e-qeverisjen-ne-4-vjet-rekord-punonjesish-ne-administrate-por-sistemi-nuk-punon/",
+      "description": "Numri i punonjësve dhe fondet për administratën publike janë rritur në rekorde historike në 2025. Paralelisht, qeveria po rrit me shpejtësi financimet për qeverisjen digjitale, por nga ana tjetër qytetarët dhe bizneset muajt e fundit po përballen me më vështirësi për të aksesuar shërbimet publike. Në vitin 2014, fondet për paga dhe kontribute për punonjësit […]",
+      "published": "Thu, 22 Jan 2026 06:26:38 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2894189",
-      "fetched_at": "2026-01-22T04:47:12.815588",
-      "ai_summary": "Presidenti i SHBA-së, Donald Trump, i ka bërë thirrje Iranit të ndalojë së kërkuari armë bërthamore, duke paralajmëruar se nëse nuk e bën këtë, SHBA-të do të ndërmarrin veprime. Në një intervistë me C..."
+      "guid": "https://www.balkanweb.com/?p=2894238",
+      "fetched_at": "2026-01-22T06:33:55.934511",
+      "ai_summary": "Numri i punonjësve dhe fondet për administratën publike janë rritur në rekorde historike në 2025. Paralelisht, qeveria po rrit me shpejtësi financimet për qeverisjen digjitale, por nga ana tjetër qyte..."
     },
     {
-      "title": "Spanja i kërkon BE-së të krijojë ushtri të përbashkët për shkak të mosmarrëveshjes për Groenlandën",
-      "link": "https://www.balkanweb.com/spanja-i-kerkon-be-se-te-krijoje-ushtri-te-perbashket-per-shkak-te-mosmarreveshjes-per-groenlanden/",
-      "description": "Spanja po i kërkon BE-së të ecë drejt krijimit të një ushtrie të përbashkët për bllokun si një masë parandaluese, tha Ministri i Jashtëm i Spanjës, Jose Manuel Albares, në komentet për Reuters të mërkurën përpara një dite takimesh në Davos. Rajoni duhet të përqendrohet së pari në bashkimin e aseteve të tij të prekshme […]",
-      "published": "Thu, 22 Jan 2026 04:30:04 +0000",
+      "title": "“Julian Amery në kujtimet e tij ka shkruar; kur Mbretërit e tjerë të mërguar nuk u ndaheshin klubeve të natës në Londër, Zogu rrallë dilte në publik, pasi…”/ Historia e panjohur e Mbretit Zog në Angli",
+      "link": "https://www.balkanweb.com/julian-amery-ne-kujtimet-e-tij-ka-shkruar-kur-mbreterit-e-tjere-te-merguar-nuk-u-ndaheshin-klubeve-te-nates-ne-londer-zogu-rralle-dilte-ne-publik-pasi-historia-e-panjohu/",
+      "description": "Nga Ermira Isufaj Ndoshta në fillim gjithçka lindi si kërshëri. Nuk të qëllon shpesh të kesh gjiton një mbret dhe një mbretëreshë. Neil Rees, një shkrimtar amator i apasionuar pas historisë së Shqipërisë, qëlloi të kish pranë kështjellën e famshme të lordit Parmur, të cilën Mbreti Zog e bleu gjatë viteve të qëndrimit në Angli. […]",
+      "published": "Thu, 22 Jan 2026 06:18:44 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2894203",
-      "fetched_at": "2026-01-22T04:47:12.815734",
-      "ai_summary": "Spanja po i kërkon BE-së të ecë drejt krijimit të një ushtrie të përbashkët për bllokun si një masë parandaluese, tha Ministri i Jashtëm i Spanjës, Jose Manuel Albares, në komentet për Reuters të mërk..."
+      "guid": "https://www.balkanweb.com/?p=2893662",
+      "fetched_at": "2026-01-22T06:33:55.934652",
+      "ai_summary": "Nga Ermira Isufaj Ndoshta në fillim gjithçka lindi si kërshëri. Nuk të qëllon shpesh të kesh gjiton një mbret dhe një mbretëreshë. Neil Rees, një shkrimtar amator i apasionuar pas historisë së Shqipër..."
     },
     {
-      "title": "SHBA-të vendosin sanksione ndaj organizatave me seli në Gaza për financimin e Hamasit",
-      "link": "https://www.balkanweb.com/shba-te-vendosin-sanksione-ndaj-organizatave-me-seli-ne-gaza-per-financimin-e-hamasit/",
-      "description": "SHBA-të po vendosin sanksione ndaj gjashtë organizatave me seli në Rripin e Gazës për “mbështetje të krahut ushtarak të Hamasit”. Kjo u tha në një deklaratë nga Departamenti Amerikan i Shtetit. Sipas raportit, lista e sanksioneve përfshin edhe Konferencën Popullore të Palestinezëve Jashtë Vendit. Sipas administratës së Uashingtonit, këto organizata, të cilat ofrojnë ndihmë humanitare […]",
-      "published": "Thu, 22 Jan 2026 04:00:58 +0000",
+      "title": "Parashikimi i motit për sot, 22 janar 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-22-janar-2026/",
+      "description": "Ditën e enjte vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura si dhe intervale të herëpashershme me diell (kthjellime). Përgjatë ultësirës perëndimore dhe zonave bregdetare reshje shiu të herëpashershme me intensitet kryesisht të ulët. Këto reshje në periudha tepër afatshkurtra në formën e shtrëngatave. Mjegull […]",
+      "published": "Thu, 22 Jan 2026 06:11:45 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2894179",
-      "fetched_at": "2026-01-22T04:47:12.815808",
-      "ai_summary": "SHBA-të po vendosin sanksione ndaj gjashtë organizatave me seli në Rripin e Gazës për “mbështetje të krahut ushtarak të Hamasit”. Kjo u tha në një deklaratë nga Departamenti Amerikan i Shtetit. Sipas ..."
+      "guid": "https://www.balkanweb.com/?p=2894134",
+      "fetched_at": "2026-01-22T06:33:55.934988",
+      "ai_summary": "Ditën e enjte vendi ynë do të ndikohet nga kushte atmosferike të paqëndrueshme. Moti parashikohet me vranësira mesatare deri të dendura si dhe intervale të herëpashershme me diell (kthjellime). Përgja..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 22 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-22-janar-2026/",
+      "description": "Dashi Mendimet tuaja kanë tendencë të jenë të forta sot dhe mund të ndiheni në majë të botës. Megjithatë, mbani mend se ka njerëz të tjerë që ndajnë botën me ju, prandaj mos i shpërfillni ata ndërsa ecni përpara gjatë ditës. Shprehja e mendimeve tuaja nuk duhet të jetë problem, por shprehja e emocioneve tuaja […]",
+      "published": "Thu, 22 Jan 2026 06:00:25 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2893806",
+      "fetched_at": "2026-01-22T06:33:55.935106",
+      "ai_summary": "Dashi Mendimet tuaja kanë tendencë të jenë të forta sot dhe mund të ndiheni në majë të botës. Megjithatë, mbani mend se ka njerëz të tjerë që ndajnë botën me ju, prandaj mos i shpërfillni ata ndërsa e..."
+    },
+    {
+      "title": "NYT: Danimarka mund t’ia dorëzojë SHBA-së një pjesë të Groenlandës për baza ushtarake",
+      "link": "https://www.balkanweb.com/nyt-danimarka-mund-tia-dorezoje-shba-se-nje-pjese-te-groenlandes-per-baza-ushtarake/",
+      "description": "Një marrëveshje e SHBA-së për Groenlandën mund të përfshijë marrjen e kontrollit nga Uashingtoni të zonave të vogla të ishullit. Gazeta The New York Times (NYT) e raportoi këtë, duke cituar burime. U vu re se, përpara njoftimit të udhëheqësit të Shtëpisë së Bardhë, Donald Trump, më 21 janar se një marrëveshje e ardhshme ishte […]",
+      "published": "Thu, 22 Jan 2026 05:00:04 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2894217",
+      "fetched_at": "2026-01-22T06:33:55.935242",
+      "ai_summary": "Një marrëveshje e SHBA-së për Groenlandën mund të përfshijë marrjen e kontrollit nga Uashingtoni të zonave të vogla të ishullit. Gazeta The New York Times (NYT) e raportoi këtë, duke cituar burime. U ..."
+    },
+    {
+      "title": "Putin takohet me Witkov dhe Kushner për luftën në Ukrainë: Mundësia e përdorimit të burimeve të ngrira ruse është e hapur",
+      "link": "https://www.balkanweb.com/putin-takohet-me-witkov-dhe-kushner-per-luften-ne-ukraine-mundesia-e-perdorimit-te-burimeve-te-ngrira-ruse-eshte-e-hapur/",
+      "description": "Presidenti rus Vladimir Putin konfirmoi të mërkurën se do të takohet më vonë gjatë ditës me të dërguarin special të Shtëpisë së Bardhë, Steve Witkoff , dhe Jared Kushner , dhëndër dhe këshilltar i Presidentit të SHBA-së Donald Trump, të cilët janë ngarkuar me negocimin e kushteve të një marrëveshjeje për t’i dhënë fund luftës […]",
+      "published": "Thu, 22 Jan 2026 04:55:25 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2894233",
+      "fetched_at": "2026-01-22T06:33:55.935367",
+      "ai_summary": "Presidenti rus Vladimir Putin konfirmoi të mërkurën se do të takohet më vonë gjatë ditës me të dërguarin special të Shtëpisë së Bardhë, Steve Witkoff , dhe Jared Kushner , dhëndër dhe këshilltar i Pre..."
+    },
+    {
+      "title": "Presidenti në detyrë i Perusë: “Jam viktimë e një komploti për të më detyruar të jap dorëheqjen”",
+      "link": "https://www.balkanweb.com/presidenti-ne-detyre-i-peruse-jam-viktime-e-nje-komploti-per-te-me-detyruar-te-jap-doreheqjen/",
+      "description": "Presidenti në detyrë i Perusë , Jose Gerry, deklaroi të mërkurën se ishte viktimë e një komploti për ta detyruar të jepte dorëheqjen, gjatë një seance dëgjimore para një komisioni hetimor parlamentar mbi dyshimet për abuzim me ndikimin e lidhur me takimet midis kreut të përkohshëm të shtetit dhe një biznesmeni kinez. Jose Gerry, i […]",
+      "published": "Thu, 22 Jan 2026 04:50:37 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2894228",
+      "fetched_at": "2026-01-22T06:33:55.935477",
+      "ai_summary": "Presidenti në detyrë i Perusë , Jose Gerry, deklaroi të mërkurën se ishte viktimë e një komploti për ta detyruar të jepte dorëheqjen, gjatë një seance dëgjimore para një komisioni hetimor parlamentar ..."
+    },
+    {
+      "title": "OpenAI nis parashikimin e moshës së përdoruesve të ChatGPT‑s",
+      "link": "https://telegrafi.com/openai-nis-parashikimin-e-moshes-se-perdoruesve-te-chatgpt-s/",
+      "description": "OpenAI është bërë kompania e fundit që po ndjek trendin e kufizimit të qasjes sipas moshës së përdoruesve.OpenAI ka filluar futjen globale të një mjeti për parashikimin e moshës, me qëllim të përcaktimit nëse një përdorues është i mitur.Sipas kompanisë, modeli vlerëson një kombinim treguesish të sjelljes dhe parametrave të llogarisë, përfshirë: sa kohë ka ekzistuar llogaria, kohët tipike kur përdoruesi është aktiv, modelet e përdorimit me kalimin e kohës dhe moshën e deklaruar nga vetë përdoruesi.Nëse ChatGPT e vlerëson gabimisht një person si të mitur, përdoruesi do të duhet të dërgojë një selfie përmes platformës Persona për të verifikuar moshën dhe për të korrigjuar gabimin.Shumica e kompanive të inteligjencës artificiale kanë futur fillimisht funksione të reja, e më pas i kanë shtuar masa të shumta mbrojtëse dhe sigurie vetëm pasi ka pasur probleme.OpenAI ka përballur edhe një padinë lidhur me vdekjen e një adoleshenti, që hipotezohej se përdori ChatGPT për planifikimin e një veprimi vetëvrasës, dhe vetëm muajt e fundit ka filluar të konsiderojë kufizime automatike të përmbajtjes për përdoruesit e mitur dhe krijimin e një këshilli këshillues për shëndetin mendor.Tani kompania po përgatitet të prezantojë “modalitetin për të rritur” (adult mode), që do t’u lejojë përdoruesve krijimin dhe përdorimin e përmbajtjeve më të hapura (NSFW). Duke marrë parasysh se si ndryshime të ngjashme u janë bërë platformave të tjera si Roblox, është e mundshme që përdoruesit e mitur të gjejnë mënyra për të shmangur mjetet ekzistuese nëse duan të përdorin ChatGPT si të rritur. /Telegrafi/",
+      "published": "Thu, 22 Jan 2026 06:20:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/openai-nis-parashikimin-e-moshes-se-perdoruesve-te-chatgpt-s/",
+      "fetched_at": "2026-01-22T06:33:58.251424",
+      "ai_summary": "OpenAI është bërë kompania e fundit që po ndjek trendin e kufizimit të qasjes sipas moshës së përdoruesve.OpenAI ka filluar futjen globale të një mjeti për parashikimin e moshës, me qëllim të përcakti..."
+    },
+    {
+      "title": "Mot i paqëndrueshëm në Shqipëri, reshje shiu të herëpashershme dhe mjegull",
+      "link": "https://telegrafi.com/mot-i-paqendrueshem-ne-shqiperi-reshje-shiu-te-herepashershme-dhe-mjegull/",
+      "description": "Shqipëria të enjten do të ndikohet nga kushte atmosferike të paqëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me vranësira mesatare deri të dendura si dhe intervale të herëpashershme me diell (kthjellime). SHMU njofton se përgjatë ultësirës perëndimore dhe zonave bregdetare do të ketë reshje shiu të herëpashershme me intensitet kryesisht të ulët, ndërkaq këto reshje në periudha tepër afatshkurtra në formën e shtrëngatave. Po ashtu do të ketë mjegull të dendur/mjegullinë në zonat luginore në orët e mëngjesit si dhe në momentin e reshjeve të shiut.Në zonën e Alpeve reshje dëbore me intensitet të ulët kryesisht në orët e mëngjesit dhe ato të mbrëmjes vonë. Era do të fryjë me drejtim verilindje – juglindje, me shpejtësi mesatare 7 m/s, përgjatë vijës bregdetare dhe zonat luginore era me shpejtësi deri në 16 m/s.Deti - Valëzimi forcës 2-4 ballë. /Telegrafi/",
+      "published": "Thu, 22 Jan 2026 06:19:49 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/mot-i-paqendrueshem-ne-shqiperi-reshje-shiu-te-herepashershme-dhe-mjegull/",
+      "fetched_at": "2026-01-22T06:33:58.251940",
+      "ai_summary": "Shqipëria të enjten do të ndikohet nga kushte atmosferike të paqëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me vranësira mesatare deri të dendura si dhe intervale të h..."
+    },
+    {
+      "title": "Sot riga shiu, në viset e larta borë",
+      "link": "https://telegrafi.com/sot-riga-shiu-ne-viset-e-larta-bore/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovës do të mbajë mot i vranët dhe vende-vende me riga shiu, ndërkaq në viset e larta parashihen fjolla bore.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -3 deri -1°C, ndërkaq ato maksimale nga temperaturat maksimale 3 deri 5°CEra do të fryjë nga juglindja 1-5m/s. /Telegrafi/",
+      "published": "Thu, 22 Jan 2026 06:11:17 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sot-riga-shiu-ne-viset-e-larta-bore/",
+      "fetched_at": "2026-01-22T06:33:58.252429",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot në Kosovës do të mbajë mot i vranët dhe vende-vende me riga shiu, ndërkaq në viset e larta parashihen fjolla bore.IHK njofton se temperaturat minimale ..."
+    },
+    {
+      "title": "Koci e pret në kufi Hazir Hazirin: Asnjë qytetar i pafajshëm nuk guxon të mbetet në burgjet e Serbisë",
+      "link": "https://telegrafi.com/koci-e-pret-ne-kufi-hazir-hazirin-asnje-qytetar-i-pafajshem-nuk-guxon-te-mbetet-ne-burgjet-e-serbise/",
+      "description": "Autoritetet serbe e kanë liruar nga paraburgimi shtetasin e Kosovës, Hazir Haziri – rreth katër muaj pasi e kishin arrestuar për gjoja krime lufte – njoftoi të mërkurën avokati Arianit Koci.Haziri ishte arrestuar më 8 shtator në pikën kufitare në Merdare dhe prej atëherë ishte mbajtur në paraburgim në Serbi.Lirimi i Hazirit “konfirmon se arrestimi ka qenë i pabazuar dhe i ngritur mbi pretendime të pambështetura në fakte”, tha avokati Koci, i cili ka qenë i angazhuar në rastin e tij.Avokati Koci ka dalë në pikën kufitare Kosovë-Serbi për ta pritur personalisht Hazir Hazirin pas lirimit.Ai ka theksuar se do të vazhdojë angazhimin për lirimin e qytetarëve shqiptarë që mbahen padrejtësisht në burgjet e Serbisë.“Fjalën e dhënë e mbaj. Kam thënë se Hazir Hazirin do ta kthej nga burgu i Serbisë. Sonte, Hazir Haziri është në Kosovë. Asnjë qytetar i pafajshëm nuk guxon të mbetet në burgjet e Serbisë,” ka deklaruar Koci.Haziri, 77 vjeç, ishte arrestuar për gjoja krime lufte gjatë luftës së fundit në Kosovë më 1998-’99.Autoritetet serbe pretendonin asokohe se “në qershor të vitit 1999, në Podujevë, në bashkëpunim me disa pjesëtarë të UÇK-së [Ushtrisë Çlirimtare të Kosovës], e ka vrarë me armë zjarri një civil serb”.Serbia ka arrestuar vazhdimisht shtetas të Kosovës nën pretendime të tilla, dhe vetëm në vitin 2025 u regjistruan disa arrestime të tilla./Telegrafi.",
+      "published": "Wed, 21 Jan 2026 22:57:56 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/koci-e-pret-ne-kufi-hazir-hazirin-asnje-qytetar-i-pafajshem-nuk-guxon-te-mbetet-ne-burgjet-e-serbise/",
+      "fetched_at": "2026-01-22T06:33:58.252650",
+      "ai_summary": "Autoritetet serbe e kanë liruar nga paraburgimi shtetasin e Kosovës, Hazir Haziri – rreth katër muaj pasi e kishin arrestuar për gjoja krime lufte – njoftoi të mërkurën avokati Arianit Koci.Haziri ish..."
     }
   ],
-  "total_articles": 3,
+  "total_articles": 11,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
