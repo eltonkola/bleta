@@ -1,6 +1,6 @@
 {
   "date": "2026-01-23",
-  "timestamp": "2026-01-23T04:41:37.524600",
+  "timestamp": "2026-01-23T06:34:45.926938",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,98 +9,85 @@
   },
   "articles": [
     {
-      "title": "Trump tërheq ftesën drejtuar kryeministrit kanadez për ‘Këshillin e Paqes’",
-      "link": "https://www.balkanweb.com/trump-terheq-ftesen-drejtuar-kryeministrit-kanadez-per-keshillin-e-paqes/",
-      "description": "Donald Trump ka njoftuar tërheqjen e ftesës së tij drejtuar kryeministrit kanadez Mark Carney për të marrë pjesë në të ashtuquajturin “Këshilli i Paqes”, duke përshkallëzuar përballjen e tij publike me Otavën. Presidenti amerikan e njoftoi vendimin e tij në një postim në platformën Truth Social , ku deklaroi: “Ju lutem konsiderojeni këtë letër si […]",
-      "published": "Fri, 23 Jan 2026 04:40:35 +0000",
+      "title": "“Në Pukë, dëbora arrin në 4 m., në Laç, era rrëzoi 21 shtylla tensioni, oretku zuri 17 veta në Dibër, në Lezhë ngordhën 6500 zogj pule, Vlora u përmbyt…”/ Zbulohen raportet sekrete për motin e keq, dhjetor ‘73",
+      "link": "https://www.balkanweb.com/ne-puke-debora-arrin-ne-4-m-ne-lac-era-rrezoi-21-shtylla-tensioni-oretku-zuri-17-veta-ne-diber-ne-lezhe-ngordhen-6500-zogj-pule-vlora-u-permbyt-zbulohen-raportet-sek/",
+      "description": "Nga DASHNOR KALOÇI Moti i keq me reshje të dendura shiu dhe dëbore që ka përfshirë këto dy tre ditët e fundit jo vetëm vendin tonë por edhe fqinjët tanë, si Greqia, Italia etj., madje duke arritur në përmasa apokaliptike siç ishte mbrëmja e djeshme (21 janar) ku cikloni “Harry” goditi jugun e Italisë (gjë […]",
+      "published": "Fri, 23 Jan 2026 06:18:58 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895249",
-      "fetched_at": "2026-01-23T04:41:32.141334",
-      "ai_summary": "Donald Trump ka njoftuar tërheqjen e ftesës së tij drejtuar kryeministrit kanadez Mark Carney për të marrë pjesë në të ashtuquajturin “Këshilli i Paqes”, duke përshkallëzuar përballjen e tij publike m..."
+      "guid": "https://www.balkanweb.com/?p=2894497",
+      "fetched_at": "2026-01-23T06:34:10.891706",
+      "ai_summary": "Nga DASHNOR KALOÇI Moti i keq me reshje të dendura shiu dhe dëbore që ka përfshirë këto dy tre ditët e fundit jo vetëm vendin tonë por edhe fqinjët tanë, si Greqia, Italia etj., madje duke arritur në ..."
     },
     {
-      "title": "Kremlini njofton se do të mbahet samiti trepalësh i Rusisë, Ukrainës dhe SHBA-së në Emiratet e Bashkuara Arabe",
-      "link": "https://www.balkanweb.com/kremlini-njofton-se-do-te-mbahet-samiti-trepalesh-i-rusise-ukraines-dhe-shba-se-ne-emiratet-e-bashkuara-arabe/",
-      "description": "Kremlini njoftoi herët sot se një takim trepalësh i zyrtarëve nga Rusia , Ukraina dhe Shtetet e Bashkuara do të mbahet në Emiratet e Bashkuara Arabe, disa orë pas bisedimeve midis Presidentit rus Vladimir Putin dhe të dërguarit të posaçëm të SHBA-së Steve Wittkow në Moskë. Siç u tha gazetarëve këshilltari i Kremlinit për çështjet […]",
-      "published": "Fri, 23 Jan 2026 04:30:55 +0000",
+      "title": "Horoskopi për ditën e sotme, 23 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-23-janar-2026/",
+      "description": "Dashi Një projekt krijues mund të kërkojë një shpenzim më të madh parash, kohe ose burimesh të tjera nga sa mendonit fillimisht, dhe kjo mund t’ju bëjë të mendoni nëse do të jeni në gjendje ta vazhdoni atë. Mund të kërkojhet një hap i vogël nga ana juaj, por duhet të jeni në gjendje ta […]",
+      "published": "Fri, 23 Jan 2026 06:00:19 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895246",
-      "fetched_at": "2026-01-23T04:41:32.141492",
-      "ai_summary": "Kremlini njoftoi herët sot se një takim trepalësh i zyrtarëve nga Rusia , Ukraina dhe Shtetet e Bashkuara do të mbahet në Emiratet e Bashkuara Arabe, disa orë pas bisedimeve midis Presidentit rus Vlad..."
+      "guid": "https://www.balkanweb.com/?p=2894680",
+      "fetched_at": "2026-01-23T06:34:10.891947",
+      "ai_summary": "Dashi Një projekt krijues mund të kërkojë një shpenzim më të madh parash, kohe ose burimesh të tjera nga sa mendonit fillimisht, dhe kjo mund t’ju bëjë të mendoni nëse do të jeni në gjendje ta vazhdon..."
     },
     {
-      "title": "Italia mirëpret vendimin e Trump për të pezulluar tarifat e planifikuara ndaj Evropës",
-      "link": "https://www.balkanweb.com/italia-mirepret-vendimin-e-trump-per-te-pezulluar-tarifat-e-planifikuara-ndaj-evropes/",
-      "description": "Kryeministrja italiane Giorgia Meloni përshëndeti vendimin e Presidentit të SHBA-së Donald Trump për të pezulluar tarifat e planifikuara për disa vende evropiane, duke thënë se dialogu i vazhdueshëm midis vendeve aleate është thelbësor. “E mirëpres njoftimin e Presidentit Trump për të pezulluar vendosjen e tarifave të planifikuara për 1 shkurt ndaj disa vendeve evropiane”, tha […]",
-      "published": "Fri, 23 Jan 2026 04:20:52 +0000",
+      "title": "Trump për Iranin: Forca të mëdha ushtarake amerikane po lëvizin drejt rajonit",
+      "link": "https://www.balkanweb.com/trump-per-iranin-forca-te-medha-ushtarake-amerikane-po-levizin-drejt-rajonit/",
+      "description": "Tensionet e reja në marrëdhëniet SHBA – Iran janë nxitur nga deklaratat e Donald Trump , i cili tha se forca të konsiderueshme ushtarake amerikane po lëviznin drejt rajonit të Republikës Islamike, ndërsa Uashingtoni po monitoronte nga afër zhvillimet në Teheran. Duke folur me gazetarët në aeroplanin presidencial, presidenti amerikan tha se ende po “peshonte […]",
+      "published": "Fri, 23 Jan 2026 05:00:18 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895220",
-      "fetched_at": "2026-01-23T04:41:32.141576",
-      "ai_summary": "Kryeministrja italiane Giorgia Meloni përshëndeti vendimin e Presidentit të SHBA-së Donald Trump për të pezulluar tarifat e planifikuara për disa vende evropiane, duke thënë se dialogu i vazhdueshëm m..."
+      "guid": "https://www.balkanweb.com/?p=2895240",
+      "fetched_at": "2026-01-23T06:34:10.892031",
+      "ai_summary": "Tensionet e reja në marrëdhëniet SHBA – Iran janë nxitur nga deklaratat e Donald Trump , i cili tha se forca të konsiderueshme ushtarake amerikane po lëviznin drejt rajonit të Republikës Islamike, ndë..."
     },
     {
-      "title": "Ekuadori shpall tarifat në stilin e Trump ndaj Kolumbisë për shkak të drogës",
-      "link": "https://www.balkanweb.com/ekuadori-shpall-tarifat-ne-stilin-e-trump-ndaj-kolumbise-per-shkak-te-droges/",
-      "description": "Presidenti i Ekuadorit, Daniel Noboa, njoftoi të mërkurën tarifa prej 30% për importet nga Kolumbia , duke akuzuar fqinjin e saj se nuk ka ndihmuar në luftën kundër karteleve të drogës. Ky veprim i bëri jehonë rritjes së tarifave të Presidentit të SHBA- së Donald Trump ndaj Kanadasë dhe Kinës – dhe kërcënoi me rritje […]",
-      "published": "Fri, 23 Jan 2026 04:15:55 +0000",
+      "title": "Kushner: Investimet në Gaza do të kalojnë 40 miliardë dollarë",
+      "link": "https://www.balkanweb.com/kushner-investimet-ne-gaza-do-te-kalojne-40-miliarde-dollare/",
+      "description": "Është planifikuar të investohen më shumë se 40 miliardë dollarë amerikanë për rindërtimin e Gazës. Kjo u deklarua në një prezantim nga sipërmarrësi amerikan dhe dhëndri i Presidentit të SHBA-së, Jared Kushner, në ceremoninë e nënshkrimit të “Kartës së Këshillit të Paqes”. Sipas prezantimit, plani i rimëkëmbjes përfshin investime në shkallë të gjerë për të […]",
+      "published": "Fri, 23 Jan 2026 04:50:41 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895214",
-      "fetched_at": "2026-01-23T04:41:32.141655",
-      "ai_summary": "Presidenti i Ekuadorit, Daniel Noboa, njoftoi të mërkurën tarifa prej 30% për importet nga Kolumbia , duke akuzuar fqinjin e saj se nuk ka ndihmuar në luftën kundër karteleve të drogës. Ky veprim i bë..."
+      "guid": "https://www.balkanweb.com/?p=2895217",
+      "fetched_at": "2026-01-23T06:34:10.892117",
+      "ai_summary": "Është planifikuar të investohen më shumë se 40 miliardë dollarë amerikanë për rindërtimin e Gazës. Kjo u deklarua në një prezantim nga sipërmarrësi amerikan dhe dhëndri i Presidentit të SHBA-së, Jared..."
     },
     {
-      "title": "Një i vdekur dhe mbi 20 të plagosur në sulmet ajrore ruse në juglindje të Ukrainës",
-      "link": "https://www.balkanweb.com/nje-i-vdekur-dhe-mbi-20-te-plagosur-ne-sulmet-ajrore-ruse-ne-juglindje-te-ukraines/",
-      "description": "Sulmet ushtarake ruse ndaj dy komuniteteve ukrainase në juglindje të vendit të enjten vranë të paktën një person dhe plagosën më shumë se 20 të tjerë, thanë zyrtarët. Guvernatori rajonal i Zaporizhias, Ivan Fedorov, tha në një seri postimesh në Telegram se forcat ruse kishin nisur një seri sulmesh ndaj Komyzyvakha, duke vrarë një person […]",
-      "published": "Fri, 23 Jan 2026 04:10:38 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
+      "title": "Rikthehet memoria DDR3 - DDR4 RAM-i është shumë i shtrenjtë",
+      "link": "https://telegrafi.com/rikthehet-memoria-ddr3-ddr4-ram-i-eshte-shume-i-shtrenjte/",
+      "description": "Memoria RAM DDR3, e cila konsiderohej e vjetruar, po përjeton një rikthim të papritur në treg, kryesisht për shkak të rritjes së vazhdueshme të çmimeve të memorieve më moderne. Sipas raportimeve nga TechSpot, çmimet e DDR5 dhe tani edhe të DDR4 po rriten, duke detyruar përdoruesit të kthehen tek zgjidhjet më të vjetra dhe më të lira.Interesim i veçantë është vënë re në tregun aziatik, ku po shfaqen pllaka amë Intel X99 të modifikuara, të cilat mbështesin memorien DDR3, edhe pse fillimisht ishin projektuar për DDR4. Këto pllaka lejojnë përdorimin e moduleve ECC DDR3 me kapacitete deri në 256 GB, gjë që i bën ato tërheqëse për përdoruesit që kanë nevojë për shumë RAM me kosto më të ulët.Sipas të dhënave të disponueshme, kërkesa për komponentë DDR3 është rritur nga 100 deri në 200 për qind gjatë vitit të kaluar. Arsyet kryesore janë çmimet e larta të standardeve më të reja dhe fakti që prodhuesit po zvogëlojnë prodhimin e moduleve DDR4, duke iu fokusuar DDR5, i cili është më fitimprurës dhe përdoret në kompjuterë modernë dhe qendra të të dhënave.Edhe vetë DDR4, i cili më parë konsiderohej një “zgjedhje e arsyeshme” midis teknologjive të vjetra dhe të reja, po përballet me rritje çmimesh. Kjo e bën më të vështirë për përdoruesit të vendosin për një përmirësim të sistemit, pasi ndryshimi në performancë midis DDR4 dhe DDR5 shpeshherë nuk justifikon koston shtesë të lartë. /Telegrafi/",
+      "published": "Fri, 23 Jan 2026 06:20:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895243",
-      "fetched_at": "2026-01-23T04:41:32.141738",
-      "ai_summary": "Sulmet ushtarake ruse ndaj dy komuniteteve ukrainase në juglindje të vendit të enjten vranë të paktën një person dhe plagosën më shumë se 20 të tjerë, thanë zyrtarët. Guvernatori rajonal i Zaporizhias..."
+      "guid": "https://telegrafi.com/rikthehet-memoria-ddr3-ddr4-ram-i-eshte-shume-i-shtrenjte/",
+      "fetched_at": "2026-01-23T06:34:13.135296",
+      "ai_summary": "Memoria RAM DDR3, e cila konsiderohej e vjetruar, po përjeton një rikthim të papritur në treg, kryesisht për shkak të rritjes së vazhdueshme të çmimeve të memorieve më moderne. Sipas raportimeve nga T..."
     },
     {
-      "title": "Presidenti i SHBA-së, Donald Trump: Putini do të bëjë kompromis për Ukrainën",
-      "link": "https://www.balkanweb.com/presidenti-i-shba-se-donald-trump-putini-do-te-beje-kompromis-per-ukrainen/",
-      "description": "Presidenti rus Vladimir Putin do të bëjë lëshime si pjesë e negociatave për t’i dhënë fund luftës Rusi-Ukrainë. Presidenti i SHBA-së Donald Trump e tha këtë gjatë një bisede me gazetarët në Air Force 1, ndërsa ishte duke udhëtuar nga Davosi i Zvicrës për në Uashington. Sipas tij, për të arritur një marrëveshje, të gjitha […]",
-      "published": "Fri, 23 Jan 2026 04:00:36 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
+      "title": "Sot vranët, temperaturat deri në 7 gradë",
+      "link": "https://telegrafi.com/sot-vranet-temperaturat-deri-ne-7-grade/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se sot do të mbaj mot kryesisht i vranët.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -2 deri 1 gradë Celsius, ndërkaq temperaturat maksimale nga 3 deri 7 gradë Celsius. Era do të fryjë e lehtë deri mesatare nga drejtimi i juglindjes. /Telegrafi/",
+      "published": "Fri, 23 Jan 2026 06:10:46 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895187",
-      "fetched_at": "2026-01-23T04:41:32.141815",
-      "ai_summary": "Presidenti rus Vladimir Putin do të bëjë lëshime si pjesë e negociatave për t’i dhënë fund luftës Rusi-Ukrainë. Presidenti i SHBA-së Donald Trump e tha këtë gjatë një bisede me gazetarët në Air Force ..."
-    },
-    {
-      "title": "Kina hedh poshtë dyshimet e Trump mbi kuadrin e saj të energjisë së rinovueshme",
-      "link": "https://www.balkanweb.com/kina-hedh-poshte-dyshimet-e-trump-mbi-kuadrin-e-saj-te-energjise-se-rinovueshme/",
-      "description": "Kina hodhi poshtë të enjten komentet e Presidentit të SHBA-së Donald Trump në lidhje me kuadrin e Pekinit për energjinë e rinovueshme dhe tha se përpjekjet e saj në adresimin e ndryshimeve klimatike dhe në promovimin e zhvillimit dhe zbatimit global të energjisë së rinovueshme janë “të dukshme për të gjithë”. Të mërkurën, Trump i […]",
-      "published": "Fri, 23 Jan 2026 03:45:40 +0000",
-      "source": "BalkanWeb",
-      "source_url": "https://www.balkanweb.com/feed/",
-      "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2895211",
-      "fetched_at": "2026-01-23T04:41:32.141895",
-      "ai_summary": "Kina hodhi poshtë të enjten komentet e Presidentit të SHBA-së Donald Trump në lidhje me kuadrin e Pekinit për energjinë e rinovueshme dhe tha se përpjekjet e saj në adresimin e ndryshimeve klimatike d..."
+      "guid": "https://telegrafi.com/sot-vranet-temperaturat-deri-ne-7-grade/",
+      "fetched_at": "2026-01-23T06:34:13.135829",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se sot do të mbaj mot kryesisht i vranët.IHK njofton se temperaturat minimale do të lëvizin ndërmjet -2 deri 1 gradë Celsius, ndërkaq temperaturat maksimale n..."
     }
   ],
-  "total_articles": 7,
+  "total_articles": 6,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb",
-    "BalkanWeb"
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
