@@ -1,6 +1,6 @@
 {
   "date": "2026-01-27",
-  "timestamp": "2026-01-27T04:46:10.035342",
+  "timestamp": "2026-01-27T06:34:09.011319",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,72 +9,111 @@
   },
   "articles": [
     {
-      "title": "Shtëpia e Bardhë: Bisedimet në Abu Dhabi janë ngjarje historike",
-      "link": "https://www.balkanweb.com/shtepia-e-bardhe-bisedimet-ne-abu-dhabi-jane-ngjarje-historike/",
-      "description": "Shtetet e Bashkuara i kanë quajtur bisedimet trepalëshe në Emiratet e Bashkuara Arabe (EBA) për përfundimin e luftës Rusi-Ukrainë një ngjarje historike. Kjo u deklarua nga Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Leavitt. “Një takim trepalësh pak i publikuar, por historik, u zhvillua fundjavën e kaluar. Ekipi i presidentit ishte vërtet në gjendje […]",
-      "published": "Tue, 27 Jan 2026 04:45:01 +0000",
+      "title": "Raporti i BERZH me fokus tek emigrimi: një e katërta e shqiptarëve me arsim të lartë janë larguar",
+      "link": "https://www.balkanweb.com/raporti-i-berzh-me-fokus-tek-emigrimi-nje-e-katerta-e-shqiptareve-me-arsim-te-larte-jane-larguar/",
+      "description": "Raporti i Tranzicionit 2025–26 i Bankës Europiane për Rindërtim dhe Zhvillim (BERZH): “Një botë e vjetër, por më e guximshme”, i cili do të prezantohet sot në ambientet e Bankës së Shqipërisë e vë fokusin tek emigracioni, i cili është bërë mjaft shqetësues në vend dhe nuk duket se po ndalet. Sipas raportit, Shqipëria dhe […]",
+      "published": "Tue, 27 Jan 2026 06:25:17 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2897727",
-      "fetched_at": "2026-01-27T04:46:04.952028",
-      "ai_summary": "Shtetet e Bashkuara i kanë quajtur bisedimet trepalëshe në Emiratet e Bashkuara Arabe (EBA) për përfundimin e luftës Rusi-Ukrainë një ngjarje historike. Kjo u deklarua nga Sekretarja e Shtypit e Shtëp..."
+      "guid": "https://www.balkanweb.com/?p=2897781",
+      "fetched_at": "2026-01-27T06:34:03.531217",
+      "ai_summary": "Raporti i Tranzicionit 2025–26 i Bankës Europiane për Rindërtim dhe Zhvillim (BERZH): “Një botë e vjetër, por më e guximshme”, i cili do të prezantohet sot në ambientet e Bankës së Shqipërisë e vë fok..."
     },
     {
-      "title": "KE miraton 74 miliardë euro kredi për mbrojtje për 8 vende",
-      "link": "https://www.balkanweb.com/ke-miraton-74-miliarde-euro-kredi-per-mbrojtje-per-8-vende/",
-      "description": "Komisioni Evropian ka miratuar planet e dyta të mbrojtjes kombëtare në kuadër të nismës SAFE (Veprimi i Sigurisë për Evropën), duke hapur rrugën për miliarda dollarë kredi për tetë shtete anëtare për të rritur urgjentisht gatishmërinë e tyre ushtarake. Komisioni i ka paraqitur një propozim Këshillit të BE-së për të siguruar financim për 8 vende. […]",
-      "published": "Tue, 27 Jan 2026 04:30:39 +0000",
+      "title": "“Në gusht 1943, te zyra e shtypit komunist në Prefekturën e Beratit, që kontrollohej nga PKSH-ja, më ra në dorë një letër e firmosur nga ‘Shpati’, Enver Hoxha, ku thuhej…”/ Dëshmia e Sejfi Protopapës nga SHBA-ja",
+      "link": "https://www.balkanweb.com/ne-gusht-1943-te-zyra-e-shtypit-komunist-ne-prefekturen-e-beratit-qe-kontrollohej-nga-pksh-ja-me-ra-ne-dore-nje-leter-e-firmosur-nga-shpati-enver-hoxha-ku-thuhej/",
+      "description": "Nga Jonida PLAKU Historia është plot labirinte dhe askush nuk mund të pretendojë se i shkon asaj drejt që nga fillimet, për ta ndjekur me tërë hollësitë që ajo ka e mbart me vete në jetën e njerëzve. Veçanërisht, kur shtigjet e saj janë mbyllur apo në to janë vendosur pengesa nga vetë ata të […]",
+      "published": "Tue, 27 Jan 2026 06:17:49 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2897730",
-      "fetched_at": "2026-01-27T04:46:04.952174",
-      "ai_summary": "Komisioni Evropian ka miratuar planet e dyta të mbrojtjes kombëtare në kuadër të nismës SAFE (Veprimi i Sigurisë për Evropën), duke hapur rrugën për miliarda dollarë kredi për tetë shtete anëtare për ..."
+      "guid": "https://www.balkanweb.com/?p=2897125",
+      "fetched_at": "2026-01-27T06:34:03.531366",
+      "ai_summary": "Nga Jonida PLAKU Historia është plot labirinte dhe askush nuk mund të pretendojë se i shkon asaj drejt që nga fillimet, për ta ndjekur me tërë hollësitë që ajo ka e mbart me vete në jetën e njerëzve. ..."
     },
     {
-      "title": "16 të vdekur dhe 120 të plagosur nga reshjet e dendura të borës në Japoni",
-      "link": "https://www.balkanweb.com/16-te-vdekur-dhe-120-te-plagosur-nga-reshjet-e-dendura-te-bores-ne-japoni/",
-      "description": "Të paktën 16 persona kanë vdekur dhe rreth 120 të tjerë janë plagosur si pasojë e reshjeve të dendura të borës në Japoni. Autoritetet lokale kanë publikuar informacione në lidhje me këtë. Sipas kompanisë hekurudhore JR Hokkaido, rreth një mijë udhëtime me tren janë anuluar ose vonuar për shkak të borës së madhe në ishullin […]",
-      "published": "Tue, 27 Jan 2026 04:15:00 +0000",
+      "title": "Parashikimi i motit për sot, 27 janar 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-27-janar-2026/",
+      "description": "Sot vendi ynë do të ndikohet nga kushte atmosferike relativisht të qëndrueshme. Moti parashikohet me kthjellime dhe vranësira kryesisht përgjatë relieveve malore të vendit. Në orët e mesditës në jugperëndim të vendit reshje lokale shiu me intensitet të ulët. Era do të fryjë me drejtim verindje-veriperëndim me shpejtësi mesatare 7 m/s, përgjatë vijës bregdetare dhe […]",
+      "published": "Tue, 27 Jan 2026 06:12:48 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2897746",
-      "fetched_at": "2026-01-27T04:46:04.952256",
-      "ai_summary": "Të paktën 16 persona kanë vdekur dhe rreth 120 të tjerë janë plagosur si pasojë e reshjeve të dendura të borës në Japoni. Autoritetet lokale kanë publikuar informacione në lidhje me këtë. Sipas kompan..."
+      "guid": "https://www.balkanweb.com/?p=2897779",
+      "fetched_at": "2026-01-27T06:34:03.531777",
+      "ai_summary": "Sot vendi ynë do të ndikohet nga kushte atmosferike relativisht të qëndrueshme. Moti parashikohet me kthjellime dhe vranësira kryesisht përgjatë relieveve malore të vendit. Në orët e mesditës në jugpe..."
     },
     {
-      "title": "Ligjvënësit francezë miratojnë projektligjin që ndalon mediat sociale për fëmijët nën 15 vjeç",
-      "link": "https://www.balkanweb.com/ligjvenesit-franceze-miratojne-projektligjin-qe-ndalon-mediat-sociale-per-femijet-nen-15-vjec/",
-      "description": "Ligjvënësit francezë kanë miratuar një projektligj që do të ndalojë përdorimin e mediave sociale nga fëmijët nën 15 vjeç, një veprim i mbështetur nga Presidenti Emmanuel Macron si një mënyrë për të mbrojtur fëmijët nga koha e tepërt para ekranit. Asambleja Kombëtare e nivelit të ulët e miratoi tekstin me 130 vota pro dhe 21 […]",
-      "published": "Tue, 27 Jan 2026 04:10:39 +0000",
+      "title": "Horoskopi për ditën e sotme, 27 janar 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-27-janar-2026/",
+      "description": "Dashi Idetë që mendonit se ishin të shkëlqyera rreth një javë më parë, papritmas nuk duken aq të zgjuara në fund të fundit. Dikush del me një perspektivë të re që ju bën të rimendoni pikëpamjen tuaj aktuale. Mos kini frikë të bëni ndryshime të minutës së fundit në strategjinë tuaj. Demi Planifikoni një ngjarje […]",
+      "published": "Tue, 27 Jan 2026 06:00:31 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2897763",
-      "fetched_at": "2026-01-27T04:46:04.952332",
-      "ai_summary": "Ligjvënësit francezë kanë miratuar një projektligj që do të ndalojë përdorimin e mediave sociale nga fëmijët nën 15 vjeç, një veprim i mbështetur nga Presidenti Emmanuel Macron si një mënyrë për të mb..."
+      "guid": "https://www.balkanweb.com/?p=2897206",
+      "fetched_at": "2026-01-27T06:34:03.531881",
+      "ai_summary": "Dashi Idetë që mendonit se ishin të shkëlqyera rreth një javë më parë, papritmas nuk duken aq të zgjuara në fund të fundit. Dikush del me një perspektivë të re që ju bën të rimendoni pikëpamjen tuaj a..."
     },
     {
-      "title": "Barrot drejtuar Rutte: Evropa mund dhe duhet të marrë përsipër sigurinë e saj",
-      "link": "https://www.balkanweb.com/barrot-drejtuar-rutte-evropa-mund-dhe-duhet-te-marre-persiper-sigurine-e-saj/",
-      "description": "Jean -Noel Barrot i është kundërvënë deklaratës së Sekretarit të Përgjithshëm të NATO-s, Mark Rutte, se Evropa nuk mund të mbrohet pa ndihmën e Shteteve të Bashkuara , duke theksuar se Evropa duhet të marrë përgjegjësinë për sigurinë e saj. “Jo, i dashur Mark Rutte. Evropianët mund dhe duhet të marrin përgjegjësinë për sigurinë e […]",
-      "published": "Tue, 27 Jan 2026 04:00:20 +0000",
+      "title": "VIDEO/ Terror për turistët rusë në Sri Lanka, ata sulmohen nga një elefant kur u përpoqën ta ushqenin",
+      "link": "https://www.balkanweb.com/video-terror-per-turistet-ruse-ne-sri-lanka-ata-sulmohen-nga-nje-elefant-kur-u-perpoqen-ta-ushqenin/",
+      "description": "Turistët në Sri Lanka mbetën të tmerruar pasi një elefant sulmoi dhe shkatërroi automjetin e tyre pasi njëri prej tyre u përpoq t’i “ofronte ushqim”. Incidenti, në të cilin morën pjesë turistë rusë – përfshirë një djalë 11-vjeçar – i cili iku për t’i shpëtuar, ndodhi gjatë një safari për kafshë të egra. Siç shihet […]",
+      "published": "Tue, 27 Jan 2026 05:10:14 +0000",
       "source": "BalkanWeb",
       "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.balkanweb.com/?p=2897716",
-      "fetched_at": "2026-01-27T04:46:04.952408",
-      "ai_summary": "Jean -Noel Barrot i është kundërvënë deklaratës së Sekretarit të Përgjithshëm të NATO-s, Mark Rutte, se Evropa nuk mund të mbrohet pa ndihmën e Shteteve të Bashkuara , duke theksuar se Evropa duhet të..."
+      "guid": "https://www.balkanweb.com/?p=2897774",
+      "fetched_at": "2026-01-27T06:34:03.531964",
+      "ai_summary": "Turistët në Sri Lanka mbetën të tmerruar pasi një elefant sulmoi dhe shkatërroi automjetin e tyre pasi njëri prej tyre u përpoq t’i “ofronte ushqim”. Incidenti, në të cilin morën pjesë turistë rusë – ..."
+    },
+    {
+      "title": "Koreja e Jugut planifikon bisedime me SHBA-në mbi tarifat e reja të Trumpit",
+      "link": "https://www.balkanweb.com/koreja-e-jugut-planifikon-bisedime-me-shba-ne-mbi-tarifat-e-reja-te-trumpit/",
+      "description": "Qeveria e Koresë së Jugut theksoi se nuk kishte asnjë njoftim paraprak për njoftimin e Presidentit të SHBA- së Donald Trump të hënën në mbrëmje për një rritje prej 25% të tarifave për disa nga produktet e saj të eksportuara në SHBA dhe shtoi se synon të zhvillojë bisedime me Uashingtonin sa më shpejt të […]",
+      "published": "Tue, 27 Jan 2026 05:00:21 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2897750",
+      "fetched_at": "2026-01-27T06:34:03.532108",
+      "ai_summary": "Qeveria e Koresë së Jugut theksoi se nuk kishte asnjë njoftim paraprak për njoftimin e Presidentit të SHBA- së Donald Trump të hënën në mbrëmje për një rritje prej 25% të tarifave për disa nga produkt..."
+    },
+    {
+      "title": "Moti në Shqipëri, reshje lokale shiu dhe erëra",
+      "link": "https://telegrafi.com/moti-ne-shqiperi-reshje-lokale-shiu-dhe-erera/",
+      "description": "Shqipëria të martën do të ndikohet nga kushte atmosferike relativisht të qëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me kthjellime dhe vranësira kryesisht përgjatë relieveve malore të vendit. Në orët e mesditës në jugperëndim të vendit reshje lokale shiu me intensitet të ulët. Era do të fryjë me drejtim verilindje-veriperëndim me shpejtësi mesatare 7 m/s, përgjatë vijës bregdetare dhe në zonat luginore era me shpejtësi deri në 15 m/s.Deti - Valëzimi forcës 2-3 ballë. /Telegrafi/",
+      "published": "Tue, 27 Jan 2026 06:23:56 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/moti-ne-shqiperi-reshje-lokale-shiu-dhe-erera/",
+      "fetched_at": "2026-01-27T06:34:05.934041",
+      "ai_summary": "Shqipëria të martën do të ndikohet nga kushte atmosferike relativisht të qëndrueshme.Shërbimi Meteorologjik Ushtarak bën të ditur se moti parashikohet me kthjellime dhe vranësira kryesisht përgjatë re..."
+    },
+    {
+      "title": "Sot vranët dhe me riga shiu",
+      "link": "https://telegrafi.com/sot-vranet-dhe-me-riga-shiu-2675036327/",
+      "description": "Instituti Hidrometeorologjik bën të ditur se kjo javë në Kosovë do të jetë me mot të ndryshueshëm.IHK për të martën ka njoftuar se do të jetë vranët dhe me riga shiu. Temperaturat minimale do të lëvizin ndërmjet 2–4 gradë Celsius, ndërkaq ato maksimale nga 5 deri 8 gradë Celsius. Era do të fryjë nga verilindja, 1–5 m/s. /Telegrafi/",
+      "published": "Tue, 27 Jan 2026 06:07:46 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/sot-vranet-dhe-me-riga-shiu-2675036327/",
+      "fetched_at": "2026-01-27T06:34:05.934635",
+      "ai_summary": "Instituti Hidrometeorologjik bën të ditur se kjo javë në Kosovë do të jetë me mot të ndryshueshëm.IHK për të martën ka njoftuar se do të jetë vranët dhe me riga shiu. Temperaturat minimale do të lëviz..."
     }
   ],
-  "total_articles": 5,
+  "total_articles": 8,
   "sources": [
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
     "BalkanWeb",
-    "BalkanWeb"
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
   ]
 }
