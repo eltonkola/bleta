@@ -1,0 +1,145 @@
+{
+  "date": "2026-03-31",
+  "timestamp": "2026-03-31T02:13:17.816528",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Trump pas sulmit të Iranit në rafinerinë e Haifës: Përgjigja jonë do të vijë së shpejti",
+      "link": "https://www.balkanweb.com/trump-pas-sulmit-te-iranit-ne-rafinerine-e-haifes-pergjigja-jone-do-te-vije-se-shpejti/",
+      "description": "Presidenti i SHBA-së, Donald Trump, e ka paralajmëruar Iranin dhe kryetarin e parlamentit iranian, Mohammad Bayer Ghalibaf , se përgjigja e SHBA-së ndaj sulmeve të fundit ndaj infrastrukturës energjetike do të vijë ” së shpejti “, pas një sulmi me raketa që shkaktoi zjarr në rafinerinë më të madhe të naftës së Izraelit në Haifa. […]",
+      "published": "Tue, 31 Mar 2026 02:00:08 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941068",
+      "fetched_at": "2026-03-31T02:13:11.776357",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, e ka paralajmëruar Iranin dhe kryetarin e parlamentit iranian, Mohammad Bayer Ghalibaf , se përgjigja e SHBA-së ndaj sulmeve të fundit ndaj infrastrukturës energjet..."
+    },
+    {
+      "title": "Pezeshkian: Vendimi për t’i dhënë fund luftës duhet të garantojë sigurinë dhe interesat e njerëzve",
+      "link": "https://www.balkanweb.com/pezeshkian-vendimi-per-ti-dhene-fund-luftes-duhet-te-garantoje-sigurine-dhe-interesat-e-njerezve/",
+      "description": "Presidenti i Iranit , Masoud Pezeshkian, tha të hënën se çdo vendim për t’i dhënë fund luftës me SHBA-në dhe Izraelin duhet të “garantojë sigurinë dhe interesat e popullit iranian”. “Rezistenca e treguar nga ushtria, së bashku me unitetin kombëtar të treguar nga populli iranian gjatë luftës , janë ndër faktorët më të rëndësishëm që […]",
+      "published": "Tue, 31 Mar 2026 01:45:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941118",
+      "fetched_at": "2026-03-31T02:13:11.776516",
+      "ai_summary": "Presidenti i Iranit , Masoud Pezeshkian, tha të hënën se çdo vendim për t’i dhënë fund luftës me SHBA-në dhe Izraelin duhet të “garantojë sigurinë dhe interesat e popullit iranian”. “Rezistenca e treg..."
+    },
+    {
+      "title": "Shirat e rrëmbyeshëm dhe përmbytjet shkaktojnë vdekjen e 22 personave në Afganistan",
+      "link": "https://www.balkanweb.com/shirat-e-rrembyeshem-dhe-permbytjet-shkaktojne-vdekjen-e-22-personave-ne-afganistan/",
+      "description": "Shirat e rrëmbyeshëm që shkaktuan përmbytje të mëdha dhe shembje ndërtesash kanë vrarë 22 persona dhe plagosur 32 të tjerë në Afganistan gjatë dy ditëve të fundit, tha të hënën Autoriteti Kombëtar i Menaxhimit të Fatkeqësive (NDMA) i vendit, ndërsa paralajmëroi për rrezik të vazhdueshëm për shkak të motit të keq. Shumica e vdekjeve u […]",
+      "published": "Tue, 31 Mar 2026 01:30:44 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941109",
+      "fetched_at": "2026-03-31T02:13:11.776620",
+      "ai_summary": "Shirat e rrëmbyeshëm që shkaktuan përmbytje të mëdha dhe shembje ndërtesash kanë vrarë 22 persona dhe plagosur 32 të tjerë në Afganistan gjatë dy ditëve të fundit, tha të hënën Autoriteti Kombëtar i M..."
+    },
+    {
+      "title": "Dy të vdekur dhe rreth 30 të plagosur në sulmet ruse në Ukrainën veriore dhe qendrore",
+      "link": "https://www.balkanweb.com/dy-te-vdekur-dhe-rreth-30-te-plagosur-ne-sulmet-ruse-ne-ukrainen-veriore-dhe-qendrore/",
+      "description": "Sulmet ajrore ruse në rajonet në Ukrainën veriore dhe qendrore kanë vrarë të paktën dy persona dhe kanë plagosur rreth 30 të tjerë, thanë zyrtarët lokalë. Pranë qytetit të Poltavas, mbeturinat e një droni të rrëzuar vranë një person, plagosën tre të tjerë dhe dëmtuan një pallat, tha guvernatori rajonal Vitaly Diakinevich nëpërmjet Telegram. Sulmet […]",
+      "published": "Tue, 31 Mar 2026 01:20:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941128",
+      "fetched_at": "2026-03-31T02:13:11.776699",
+      "ai_summary": "Sulmet ajrore ruse në rajonet në Ukrainën veriore dhe qendrore kanë vrarë të paktën dy persona dhe kanë plagosur rreth 30 të tjerë, thanë zyrtarët lokalë. Pranë qytetit të Poltavas, mbeturinat e një d..."
+    },
+    {
+      "title": "Merz: 80% e sirianëve që jetojnë në Gjermani duhet të largohen brenda tre viteve të ardhshme",
+      "link": "https://www.balkanweb.com/merz-80-e-sirianeve-qe-jetojne-ne-gjermani-duhet-te-largohen-brenda-tre-viteve-te-ardhshme/",
+      "description": "80% e 1.3 milion sirianëve që jetojnë në Gjermani duhet të kthehen në vendin e tyre brenda tre viteve të ardhshme, tha kancelari Friedrich Merz , duke premtuar mbështetje financiare për Damaskun. Një thirrje për investime gjermane në Siri u bë nga presidenti i vendit Ahmed al-Sharaa. “Ne kemi nevojë për një mundësi të besueshme riatdhesimi, bashkëpunim me Sirinë, veçanërisht dhe […]",
+      "published": "Tue, 31 Mar 2026 01:00:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941057",
+      "fetched_at": "2026-03-31T02:13:11.776775",
+      "ai_summary": "80% e 1.3 milion sirianëve që jetojnë në Gjermani duhet të kthehen në vendin e tyre brenda tre viteve të ardhshme, tha kancelari Friedrich Merz , duke premtuar mbështetje financiare për Damaskun. Një ..."
+    },
+    {
+      "title": "Bangladeshi fik dritat ndërsa lufta në Lindjen e Mesme thellon krizën e energjisë",
+      "link": "https://www.balkanweb.com/bangladeshi-fik-dritat-ndersa-lufta-ne-lindjen-e-mesme-thellon-krizen-e-energjise/",
+      "description": "Bangladeshi u ka urdhëruar nëpunësve civilë të fikin dritat dhe të ulin temperaturën e ajrit të kondicionuar për të kursyer energji, ndërsa lufta në Lindjen e Mesme përkeqëson krizën e energjisë, thanë zyrtarët të hënën. Kombi i Azisë Jugore me 170 milionë banorë importon 95 përqind të nevojave të tij për naftë dhe gaz. Ministria […]",
+      "published": "Tue, 31 Mar 2026 00:45:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941112",
+      "fetched_at": "2026-03-31T02:13:11.776857",
+      "ai_summary": "Bangladeshi u ka urdhëruar nëpunësve civilë të fikin dritat dhe të ulin temperaturën e ajrit të kondicionuar për të kursyer energji, ndërsa lufta në Lindjen e Mesme përkeqëson krizën e energjisë, than..."
+    },
+    {
+      "title": "Zelensky: Aleatët i dërguan Ukrainës ‘sinjale’ për reduktimin e sulmeve ndaj naftës ruse",
+      "link": "https://www.balkanweb.com/zelensky-aleatet-i-derguan-ukraines-sinjale-per-reduktimin-e-sulmeve-ndaj-naftes-ruse/",
+      "description": "Disa nga aleatët e Ukrainës i kanë dërguar Kievit “sinjale” në lidhje me mundësinë e zvogëlimit të sulmeve të saj me rreze të gjatë veprimi ndaj sektorit të naftës të Rusisë, ndërsa çmimet globale të energjisë janë rritur, tha Presidenti Volodymyr Zelensky të hënën. Duke folur me gazetarët në një bisedë në WhatsApp, Zelensky tha […]",
+      "published": "Tue, 31 Mar 2026 00:30:51 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941103",
+      "fetched_at": "2026-03-31T02:13:11.776957",
+      "ai_summary": "Disa nga aleatët e Ukrainës i kanë dërguar Kievit “sinjale” në lidhje me mundësinë e zvogëlimit të sulmeve të saj me rreze të gjatë veprimi ndaj sektorit të naftës të Rusisë, ndërsa çmimet globale të ..."
+    },
+    {
+      "title": "Një nxënës 15-vjeçar qëllon mësuesen në një shkollë të mesme në Teksas dhe më pas kryen vetëvrasje",
+      "link": "https://www.balkanweb.com/nje-nxenes-15-vjecar-qellon-mesuesen-ne-nje-shkolle-te-mesme-ne-teksas-dhe-me-pas-kryen-vetevrasje/",
+      "description": "Një nxënës 15-vjeçar qëlloi dhe plagosi një mësuese në një shkollë të mesme në Teksas të hënën përpara se t’i jepte fund jetës së tij, thanë autoritetet. Mësuesja u dërgua në spital, por gjendja e saj nuk dihet menjëherë. “Një mësuese u qëllua nga një nxënëse dhe u dërgua në një spital të San Antonios. […]",
+      "published": "Tue, 31 Mar 2026 00:00:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941048",
+      "fetched_at": "2026-03-31T02:13:11.777056",
+      "ai_summary": "Një nxënës 15-vjeçar qëlloi dhe plagosi një mësuese në një shkollë të mesme në Teksas të hënën përpara se t’i jepte fund jetës së tij, thanë autoritetet. Mësuesja u dërgua në spital, por gjendja e saj..."
+    },
+    {
+      "title": "Sulmues të armatosur vrasin mbi 70 persona në një minierë ari në periferi të kryeqytetit të Sudanit Jugor",
+      "link": "https://www.balkanweb.com/sulmues-te-armatosur-vrasin-mbi-70-persona-ne-nje-miniere-ari-ne-periferi-te-kryeqytetit-te-sudanit-jugor/",
+      "description": "Sulmues të armatosur vranë më shumë se 70 persona në një minierë ari në periferi të kryeqytetit të Sudanit Jugor gjatë fundjavës, konfirmoi të hënën një zëdhënës i policisë. Një video që tregon dhjetëra trupa të pajetë në një fushë të hapur u shpërnda në internet, dhe një gazetar vendas tha se shumë viktima të […]",
+      "published": "Mon, 30 Mar 2026 23:45:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941106",
+      "fetched_at": "2026-03-31T02:13:11.777142",
+      "ai_summary": "Sulmues të armatosur vranë më shumë se 70 persona në një minierë ari në periferi të kryeqytetit të Sudanit Jugor gjatë fundjavës, konfirmoi të hënën një zëdhënës i policisë. Një video që tregon dhjetë..."
+    },
+    {
+      "title": "Buldozeri përplas një turmë njerëzish në tregun e hapur në Pekin, duke lënë të paktën 13 të vdekur dhe shumë të plagosur",
+      "link": "https://www.balkanweb.com/buldozeri-perplas-nje-turme-njerezish-ne-tregun-e-hapur-ne-pekin-duke-lene-te-pakten-13-te-vdekur-dhe-shume-te-plagosur/",
+      "description": "Një incident i rëndë ndodhi në një treg të mbushur me njerëz në Pekin , kur një shofer buldozeri dyshohet se përplasi një turmë njerëzish të shtunën, më 29 mars, në tregun e hapur Dahanji, në lagjen Fangshan. Edhe pse autoritetet kineze nuk kanë njoftuar një numër zyrtar viktimash, gazeta Sun raporton të paktën 13 […]",
+      "published": "Mon, 30 Mar 2026 23:30:14 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2941054",
+      "fetched_at": "2026-03-31T02:13:11.777218",
+      "ai_summary": "Një incident i rëndë ndodhi në një treg të mbushur me njerëz në Pekin , kur një shofer buldozeri dyshohet se përplasi një turmë njerëzish të shtunën, më 29 mars, në tregun e hapur Dahanji, në lagjen F..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
