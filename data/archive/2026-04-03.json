@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-03",
+  "timestamp": "2026-04-03T02:11:20.404532",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Çmimi i vezëve për Pashkë në SHBA më i ulët se një vit më parë",
+      "link": "https://www.balkanweb.com/cmimi-i-vezeve-per-pashke-ne-shba-me-i-ulet-se-nje-vit-me-pare/",
+      "description": "Çmimet e vezëve në SHBA kanë rënë me 60 përqind nga nivelet rekord të vitit të kaluar, duke e bërë më të lehtë për konsumatorët të mbushin shportat e Pashkëve dhe pjatat Seder të Pashkës. Gripi i shpendëve ishte fajtor për çmimet e larta me pakicë gjatë pesë muajve të parë të vitit 2025, dhe […]",
+      "published": "Fri, 03 Apr 2026 02:00:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943347",
+      "fetched_at": "2026-04-03T02:11:13.807479",
+      "ai_summary": "Çmimet e vezëve në SHBA kanë rënë me 60 përqind nga nivelet rekord të vitit të kaluar, duke e bërë më të lehtë për konsumatorët të mbushin shportat e Pashkëve dhe pjatat Seder të Pashkës. Gripi i shpe..."
+    },
+    {
+      "title": "Shefi i NATO-s do të vizitojë Uashingtonin javën e ardhshme, Trump kërcënon daljen nga aleanca",
+      "link": "https://www.balkanweb.com/shefi-i-nato-s-do-te-vizitoje-uashingtonin-javen-e-ardhshme-trump-kercenon-daljen-nga-aleanca/",
+      "description": "Sekretari i Përgjithshëm i NATO-s, Mark Rutte, do të vizitojë Uashingtonin javën e ardhshme për atë që një zëdhënës i aleancës ushtarake e quajti një “vizitë të planifikuar prej kohësh”, që vjen pasi Presidenti Donald Trump kritikoi ashpër aleatët evropianë për mosmarrëveshjet mbi luftën e Iranit. “Mund të konfirmoj se Sekretari i Përgjithshëm do të […]",
+      "published": "Fri, 03 Apr 2026 01:30:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943350",
+      "fetched_at": "2026-04-03T02:11:13.807626",
+      "ai_summary": "Sekretari i Përgjithshëm i NATO-s, Mark Rutte, do të vizitojë Uashingtonin javën e ardhshme për atë që një zëdhënës i aleancës ushtarake e quajti një “vizitë të planifikuar prej kohësh”, që vjen pasi ..."
+    },
+    {
+      "title": "Trump: Izraeli do të veprojë sipas udhëzimeve të mia ndaj Iranit",
+      "link": "https://www.balkanweb.com/trump-izraeli-do-te-veproje-sipas-udhezimeve-te-mia-ndaj-iranit/",
+      "description": "Donald Trump tha se Izraeli do të ndjekë vendimet e tij në lidhje me përfundimin e luftës me Iranin, duke pretenduar se operacionet do të ndalen kur ai të vendosë kështu. “Ata do të bëjnë atë që u them unë. Ata kanë qenë partnerë të mirë. Do të ndalen kur të ndalem unë”, tha ai […]",
+      "published": "Fri, 03 Apr 2026 01:15:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943399",
+      "fetched_at": "2026-04-03T02:11:13.807724",
+      "ai_summary": "Donald Trump tha se Izraeli do të ndjekë vendimet e tij në lidhje me përfundimin e luftës me Iranin, duke pretenduar se operacionet do të ndalen kur ai të vendosë kështu. “Ata do të bëjnë atë që u the..."
+    },
+    {
+      "title": "Vendet e Gjirit i bëjnë thirrje Këshillit të Sigurimit të OKB-së të autorizojë përdorimin e forcës për të hapur Ngushticën e Hormuzit",
+      "link": "https://www.balkanweb.com/vendet-e-gjirit-i-bejne-thirrje-keshillit-te-sigurimit-te-okb-se-te-autorizoje-perdorimin-e-forces-per-te-hapur-ngushticen-e-hormuzit/",
+      "description": "Sekretari i përgjithshëm i Këshillit të Bashkëpunimit të Gjirit (GCC) i bëri thirrje sot Këshillit të Sigurimit të OKB-së që t’i japë “dritën jeshile” përdorimit të forcës për të hapur Ngushticën e Hormuzit , pasi një projektrezolutë ndan vendet. “Irani ka mbyllur Ngushticën e Hormuzit , duke penguar kalimin e anijeve tregtare dhe tankerëve dhe […]",
+      "published": "Fri, 03 Apr 2026 01:00:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943322",
+      "fetched_at": "2026-04-03T02:11:13.807838",
+      "ai_summary": "Sekretari i përgjithshëm i Këshillit të Bashkëpunimit të Gjirit (GCC) i bëri thirrje sot Këshillit të Sigurimit të OKB-së që t’i japë “dritën jeshile” përdorimit të forcës për të hapur Ngushticën e Ho..."
+    },
+    {
+      "title": "Të paktën 8 viktima dhe dhjetëra të plagosur pas një shpërthimi me bombë në një urë në perëndim të Teheranit",
+      "link": "https://www.balkanweb.com/te-pakten-8-viktima-dhe-dhjetera-te-plagosur-pas-nje-shperthimi-me-bombe-ne-nje-ure-ne-perendim-te-teheranit/",
+      "description": "Të paktën tetë persona u vranë dhe 95 të tjerë u plagosën në një shpërthim bombe në një urë në autostradën që lidh Teheranin me qytetin Karaj në Iranin perëndimor , sipas Ghandratollah Seif, zëvendësguvernator i provincës Alborz, i cituar nga agjencia e lajmeve Fars dhe televizioni shtetëror i Republikës Islamike. Earlier today, the B1 […]",
+      "published": "Fri, 03 Apr 2026 00:45:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943362",
+      "fetched_at": "2026-04-03T02:11:13.807932",
+      "ai_summary": "Të paktën tetë persona u vranë dhe 95 të tjerë u plagosën në një shpërthim bombe në një urë në autostradën që lidh Teheranin me qytetin Karaj në Iranin perëndimor , sipas Ghandratollah Seif, zëvendësg..."
+    },
+    {
+      "title": "Guterres bën thirrje për ndërprerje të menjëhershme të armiqësive në Lindjen e Mesme: Është në prag të një lufte të përgjithësuar",
+      "link": "https://www.balkanweb.com/guterres-ben-thirrje-per-nderprerje-te-menjehershme-te-armiqesive-ne-lindjen-e-mesme-eshte-ne-prag-te-nje-lufte-te-pergjithesuar/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, ka paralajmëruar se kriza në Lindjen e Mesme po hyn në muajin e dytë me një rrezik në rritje të një shpërthimi të përgjithshëm rajonal. Siç deklaroi ai, “me çdo ditë që kjo luftë vazhdon, vuajtjet njerëzore rriten”, ndërsa “shkalla e shkatërrimit rritet”, ashtu si “sulmet pa dallim” […]",
+      "published": "Fri, 03 Apr 2026 00:30:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943332",
+      "fetched_at": "2026-04-03T02:11:13.808010",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, ka paralajmëruar se kriza në Lindjen e Mesme po hyn në muajin e dytë me një rrezik në rritje të një shpërthimi të përgjithshëm rajonal. Siç deklaro..."
+    },
+    {
+      "title": "Rusia akuzon Ukrainën për një sulm tjetër ndaj tubacioneve që furnizojnë me karburant Turqinë",
+      "link": "https://www.balkanweb.com/rusia-akuzon-ukrainen-per-nje-sulm-tjeter-ndaj-tubacioneve-qe-furnizojne-me-karburant-turqine/",
+      "description": "Rusia akuzoi të enjten Ukrainën për një tjetër sulm me dronë gjatë natës në stacionin e kompresorëve Russkaya të gazsjellësit TurkStream. Sipas një deklarate nga kompania ruse e energjisë Gazprom, sulmi i ri u zmbraps me sukses. “Sonte, midis orës 00:40 dhe 01:00, stacioni i kompresorëve Russkaya, i cili siguron besueshmërinë e furnizimeve me gaz […]",
+      "published": "Fri, 03 Apr 2026 00:15:07 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943378",
+      "fetched_at": "2026-04-03T02:11:13.808107",
+      "ai_summary": "Rusia akuzoi të enjten Ukrainën për një tjetër sulm me dronë gjatë natës në stacionin e kompresorëve Russkaya të gazsjellësit TurkStream. Sipas një deklarate nga kompania ruse e energjisë Gazprom, sul..."
+    },
+    {
+      "title": "Shtëpia e Bardhë: Melania Trump ndërmjetësoi me Putinin për të kthyer gjashtë fëmijë nga Ukraina në familjet e tyre",
+      "link": "https://www.balkanweb.com/shtepia-e-bardhe-melania-trump-ndermjetesoi-me-putinin-per-te-kthyer-gjashte-femije-nga-ukraina-ne-familjet-e-tyre/",
+      "description": "Gjashtë fëmijë ukrainas do të kthehen nga Rusia te familjet e tyre në Ukrainë, njoftoi sot Shtëpia e Bardhë , duke përmendur përpjekjet e Zonjës së Parë Melania Trump për të përshpejtuar kthimin e tyre. Një fëmijë i shtatë nga Ukraina do t’i kthehet gjithashtu familjes së tij më vonë këtë muaj, tha zyra e […]",
+      "published": "Fri, 03 Apr 2026 00:00:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943313",
+      "fetched_at": "2026-04-03T02:11:13.808190",
+      "ai_summary": "Gjashtë fëmijë ukrainas do të kthehen nga Rusia te familjet e tyre në Ukrainë, njoftoi sot Shtëpia e Bardhë , duke përmendur përpjekjet e Zonjës së Parë Melania Trump për të përshpejtuar kthimin e tyr..."
+    },
+    {
+      "title": "Antarktida po ngrohet dhe po dëmton planetin: Çfarë zbulon studimi i ri",
+      "link": "https://www.balkanweb.com/antarktida-po-ngrohet-dhe-po-demton-planetin-cfare-zbulon-studimi-i-ri/",
+      "description": "Rritja e temperaturave në Antarktidë po forcon valët e gravitetit, me ndikime të mundshme të rëndësishme në klimën globale, sipas një studimi të ri nga Agjencia Kombëtare Italiane për Teknologji të Reja, Energji dhe Zhvillim të Qëndrueshëm (ENEA) të botuar në Journal of Climate . Ngrohja e sipërfaqes së Antarktidës që nga viti 1950, dhe […]",
+      "published": "Thu, 02 Apr 2026 23:40:13 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943384",
+      "fetched_at": "2026-04-03T02:11:13.808271",
+      "ai_summary": "Rritja e temperaturave në Antarktidë po forcon valët e gravitetit, me ndikime të mundshme të rëndësishme në klimën globale, sipas një studimi të ri nga Agjencia Kombëtare Italiane për Teknologji të Re..."
+    },
+    {
+      "title": "Ministri i Energjisë, Sergei Tsivilev: Rusia do të dërgojë anijen e dytë me naftë në Kubë",
+      "link": "https://www.balkanweb.com/ministri-i-energjise-sergei-tsivilev-rusia-do-te-dergoje-anijen-e-dyte-me-nafte-ne-kube/",
+      "description": "Rusia do të dërgojë një anije të dytë që transporton naftë në Kubë, ndërsa ishulli përballet me bllokadën amerikane të karburantit, tha të enjten Ministri i Energjisë Sergei Tsivilev. Kuba ka vuajtur nga një krizë energjitike që nga janari, kur forcat amerikane rrëmbyen presidentin e Venezuelës dhe aleatin kubanez Nicolas Maduro. Largimi i tij e […]",
+      "published": "Thu, 02 Apr 2026 23:30:01 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943338",
+      "fetched_at": "2026-04-03T02:11:13.808347",
+      "ai_summary": "Rusia do të dërgojë një anije të dytë që transporton naftë në Kubë, ndërsa ishulli përballet me bllokadën amerikane të karburantit, tha të enjten Ministri i Energjisë Sergei Tsivilev. Kuba ka vuajtur ..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
