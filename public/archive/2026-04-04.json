@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "timestamp": "2026-04-04T02:04:15.932790",
+  "timestamp": "2026-04-04T05:20:36.030012",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,59 +9,85 @@
   },
   "articles": [
     {
-      "title": "Sfida me pyetje që u rrezikon qëndrimin në Ferma Vip 3, kush janë 4 fermerët në televotim",
-      "link": "https://www.gazetaexpress.com/sfida-me-pyetje-qe-u-rrezikon-qendrimin-ne-ferma-vip-3-kush-jane-4-fermeret-ne-televotim/",
-      "description": "100 fakte mbi bujqësinë dhe blegtorinë ishte një nga sfidat që Agai u dha fermerëve në 1 prill. Fakte, të cilat ishin të ngatërrueshme, por që fermerët duhet të gjenin se kush prej tyre ishte I vërtetë dhe kush gënjeshtër. Të ndarë në dy grupe, afida solli mjaft atmosferë dhe të qeshura, por vetëm njëri prej tyre arriti t’ia dilte. Dhe ai ishte grupi i Mozës. Ndërkohë që grupi i Romirit, si grupi që humbën sfidën, u përballën me një disavantazh. Ata nisën një zinxhir shpëtimi, që nisi me Romirin si lider, i cili zgjodhi të shpëtonte Olën. Kjo e fundit zgjodhi Donën, ndërsa Dona Sonin. Këngëtarja Soni Malaj zgjodhi Blerinën. Akili, Indri, Rafaela dhe Gresa janë 4 të fundit që mbetën nga zinxhiri, të cilët shkuan në një nominim. Do të jetë publiku ai që do të vendosë se cili prej tyre do të shpëtojë. Ndërsa grupi fitues, përfitoj imunitet, duke patur mundësinë të kalojnë një javë më të qetë. The post Sfida me pyetje që u rrezikon qëndrimin në Ferma Vip 3, kush janë 4 fermerët në televotim appeared first on Gazeta Express.",
-      "published": "Fri, 03 Apr 2026 22:44:02 +0000",
+      "title": "“Përveç Kadri Hazbiut, shumica e Byrosë ishin me ‘Partizanit’, madje gjeneral Petrit Dume, në pushime të ndeshjes, zbriste në dhomat e zhveshjes dhe…”/ Dëshmia e rrallë e gazetarit dhe shkrimtarit të njohur",
+      "link": "https://www.balkanweb.com/pervec-kadri-hazbiut-shumica-e-byrose-ishin-me-partizanit-madje-gjeneral-petrit-dume-ne-pushime-te-ndeshjes-zbriste-ne-dhomat-e-zhveshjes-dhe-deshmia/",
+      "description": "Historia e futbollit botëror njeh shumë skandale që kanë ndodhur brenda dhe jashtë fushave të futbollit – përleshje të futbollistëve në fushë dhe jashtë saj, ndërhyrje të tifozëve të njërës, a tjetrës skuadër, kërcënime dhe joshje të drejtuesve të klubeve ndaj gjyqtarëve, allishverishe, shfaqje korrupsioni që kanë sjellë si pasojë përjashtime futbollistësh, trajnerësh, drejtuesish, por […]",
+      "published": "Sat, 04 Apr 2026 05:15:14 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943977",
+      "fetched_at": "2026-04-04T05:20:30.417406",
+      "ai_summary": "Historia e futbollit botëror njeh shumë skandale që kanë ndodhur brenda dhe jashtë fushave të futbollit – përleshje të futbollistëve në fushë dhe jashtë saj, ndërhyrje të tifozëve të njërës, a tjetrës..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, e shtunë 4 prill 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-e-shtune-4-prill-2026/",
+      "description": "Sot (e shtunë) vendi ynë do të ndikohet nga kushte atmosferike kryesisht të qëndrueshme. Moti parashikohet alternime kthjellimesh dhe vranësira të cilat hera-herës priten të jenë deri të dendura. Pas orëve të pasdites mot i kthjellët në pjesën më të madhe të territorit. Reshjet e dobëta të shiut parashikohen të bëhen prezente prej orëve të […]",
+      "published": "Sat, 04 Apr 2026 05:07:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943974",
+      "fetched_at": "2026-04-04T05:20:30.417852",
+      "ai_summary": "Sot (e shtunë) vendi ynë do të ndikohet nga kushte atmosferike kryesisht të qëndrueshme. Moti parashikohet alternime kthjellimesh dhe vranësira të cilat hera-herës priten të jenë deri të dendura. Pas ..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 4 Prill 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-4-prill-2026/",
+      "description": "Dashi Sot shënohet fillimi i një trendi dy-mujor gjatë të cilit duhet të jeni më të ndjeshëm dhe të vëmendshëm ndaj njerëzve përreth jush. Tani nuk është koha për të punuar në një flluskë. Përkundrazi, duhet të jeni të vetëdijshëm dhe të respektoni të gjithë situatën. Demi Energjia juaj e përgjithshme fizike rritet sot dhe […]",
+      "published": "Sat, 04 Apr 2026 05:05:43 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2943663",
+      "fetched_at": "2026-04-04T05:20:30.417959",
+      "ai_summary": "Dashi Sot shënohet fillimi i një trendi dy-mujor gjatë të cilit duhet të jeni më të ndjeshëm dhe të vëmendshëm ndaj njerëzve përreth jush. Tani nuk është koha për të punuar në një flluskë. Përkundrazi..."
+    },
+    {
+      "title": "Vranët dhe intervale me diell – Parashikimi i motit për ditën e sotme",
+      "link": "https://www.gazetaexpress.com/vranet-dhe-intervale-me-diell-parashikimi-i-motit-per-diten-e-sotme/",
+      "description": "Instituti Hidrometeorologjik i Kosovës, ka bërë parashikimin e motit për ditën e sotme, ku ka njoftuar se temperaturat minimale pritet të jenë mes 3 dhe 6 gradë celsius. Ndërsa ato maksimale, pritet të jenë mes 10 dhe 13 gradë celsius. Postimi: Parashikimi i motit për vikend (04 & 05 prill 2026) 🌥️ E shtunë: Mot i vranët me intervale me diell. Vranësirat, vende-vende, parashihen të sjellin reshje shiu 🌧️. 🌡️ Temperaturat minimale: 3°C – 6°C 🌡️ Temperaturat maksimale: 10°C – 13°C 🌬️ Era: veriperëndim, 1–7 m/s 🌤️ E diel: Nga e diela pritet përmirësim i kushteve meteorologjike. Moti parashihet me vranësira të shpërndara dhe me diell ☀️. 🌡️ Temperaturat minimale: 1°C – 3°C 🌡️ Temperaturat maksimale: 15°C – 18°C 🌬️ Era: nga verilindja, e lehtë deri mesatare The post Vranët dhe intervale me diell – Parashikimi i motit për ditën e sotme appeared first on Gazeta Express.",
+      "published": "Sat, 04 Apr 2026 05:12:24 +0000",
       "source": "Gazeta Express",
       "source_url": "https://www.gazetaexpress.com/feed/",
       "language": "sq",
-      "guid": "https://www.gazetaexpress.com/?p=3065733",
-      "fetched_at": "2026-04-04T02:04:11.638964",
-      "ai_summary": "100 fakte mbi bujqësinë dhe blegtorinë ishte një nga sfidat që Agai u dha fermerëve në 1 prill. Fakte, të cilat ishin të ngatërrueshme, por që fermerët duhet të gjenin se kush prej tyre ishte I vërtet..."
+      "guid": "https://www.gazetaexpress.com/?p=3065745",
+      "fetched_at": "2026-04-04T05:20:31.829199",
+      "ai_summary": "Instituti Hidrometeorologjik i Kosovës, ka bërë parashikimin e motit për ditën e sotme, ku ka njoftuar se temperaturat minimale pritet të jenë mes 3 dhe 6 gradë celsius. Ndërsa ato maksimale, pritet t..."
     },
     {
-      "title": "Xhesi, fermeri i parë që largohet nga Ferma Vip 3",
-      "link": "https://www.gazetaexpress.com/xhesi-fermeri-i-pare-qe-largohet-nga-ferma-vip-3/",
-      "description": "Xhesi Loci është fermeri i parë që është larguar nga Ferma Vip 3. Xhesi ishte në nominim me Rafaelën, pas humbjes së sfidës që patën ditën e hënë. Të dy fermerët, përpara komunikimit të votimit të publikut, patën një mesazh surprizë nga familjarët e tyre. Pas verdiktit final, të komunikuar nga moderatorja Arbana Osmani, Xhesi është përshëndetur me pjesën tjetër të banorëve, ndësa ka shprehur edhe keqardhje për kohën e shkurtër të qëndrimit, duke mos treguar sipas tij vlerat më të mira të vetes. Qëndrimi i Xhesit në Ferma Vip 3, zgjati vetëm një javë. Edhe pse për një kohë të shkurtër, Xhesi u shpreh se kjo ishte një eksperiencë e veçantë dhe e vështirë, për shkak se më parë nuk kishte qëndruar kaq gjatë në izolim dhe nën monitorimin e kamerave. “Sfida mu duk e lehtë, por isha me Rafaelën dhe nuk mund ta lija pas. Shpresoja të jepja më shumë në sfida të tjera”, tha Xhesi ndër të tjerat pas eliminimit. The post Xhesi, fermeri i parë që largohet nga Ferma Vip 3 appeared first on Gazeta Express.",
-      "published": "Fri, 03 Apr 2026 22:41:23 +0000",
+      "title": "Disa orë diskutime për çmimin e naftës- Opozita kërkoi heqjen e TVSH’së, pushteti refuzoi, Kurti u shfajësua për inflacionin – Çka u tha në Kuvend",
+      "link": "https://www.gazetaexpress.com/disa-ore-diskutime-per-cmimin-e-naftes-opozita-kerkoi-heqjen-e-tvshse-pushteti-refuzoi-kurti-u-shfajesua-per-inflacionin-cka-u-tha-ne-kuvend/",
+      "description": "Çmimi i rritur për derivatet e naftës, u bë shkak diskutimi për orë të tëra ditën e djeshme në Kuvendin e Kosovës. Në njërën anë ishin deputetët e opozitës të cilët i kërkonin qeverisë që të heq TVSH’në e akcizën për këto produkte, e në anën tjetër, ishte pushteti i Lëvizjes Vetëvendosje që kundërshtonte një gjë të tillë, shkruan Gazeta Express. Të parët, pra deputetët e opozitës në deklarimet e tyre, argumentuan se rritja e çmimit ndodh edhe për shkak të mosveprimit të qeverisë së udhëhequr nga Albin Kurti. Arben Mustafa, nga Partia Demokratike të Kosovës, dje tha se s’është hera e parë që qeveria e ‘’lë inflacionin të shpërthejë’’ pasi që një gjë e tillë, theksoi ai, ka ndodhur edhe në 2022. “Po kalojmë në një valë të re të rritjes së çmimeve. Dhe kjo rritje e çmimeve nuk po vjen vetëm nga jashtë, po vjen nga brenda si pasojë e mosveprimit të kësaj qeverie. Dhe kjo nuk është hera e parë. Ngjashëm ka ndodhur në vitin 2022. Edhe atëherë e lat inflacionin të shpërthejë lirshëm, ndërsa qytetarët i latë të vetëm të ballafaqohen me rritjen e çmimeve’’, deklaroi ai mes tjerash. Edhe kryetari i kësaj partie, Bedri Hamza, argumentoi se qeveria e Kurtit ka lënë anash ‘’zhvillimin ekonomik’’. “Kjo Qeveri nuk është duke u përkujdesur për zhvillimin ekonomik dhe standardin e jetesës por është duke bërë veprime vetëm si të konvertohen në votë. Blerjen e votës përmes parasë publike”, deklaroi ai dje. Kritik ndaj qeverisë ishte edhe deputeti i Lidhjes Demokratike të Kosovës, Avdullah Hoti. Ky i fundit theksoi se qeveria ka marrë vetëm një masë për përballimin e krizës e që është përcaktimin e marzhës së fitimit për bizneset që merren me derivate. I njëjti shtoi se, masa e qeverisë ‘’nuk është adekuate’’ dhe se, ‘’ caktimi i marzhës së fitimit e mban fitimin e biznesit brenda një kufiri të caktuar’’. “Për informim, vetëm mes datës 2 dhe 3 prill (dje dhe pardje), çmimi i naftës është rritur me 14% — çmimi i furnizimit në burim është rritur me 14%. Tani, kjo masë e qeverisë, ne vlerësojmë që nuk është adekuate për dy arsye: Së pari, caktimi i marzhës së fitimit e mban fitimin e biznesit brenda një kufiri të caktuar, por kjo u mundëson bizneseve që çdo rritje në tregjet ndërkombëtare ta bartin plotësisht tek konsumatori i fundit. Me këtë masë, bizneset nuk kanë nxitje për ulje të shpenzimeve, kështu që konsumatori, në vend që të mbrohet, në fakt ai e bart plotësisht barrën e rritjes së çmimit. Së dyti, përvoja dëshmon se ndërhyrjet e tilla, që janë dukur tërheqëse për qytetarët, në fakt e përkeqësojnë situatën. Këto lloj ndërhyrjesh bëjnë që, në pamundësi të operimit brenda marzhave të fitimit të përcaktuara nga qeveria, disa biznese të dalin nga tregu. Rrjedhimisht, konkurrenca dëmtohet pasi tregu koncentrohet në më pak biznese, të cilat mund të përballojnë marzha më të ulëta për shkak të ekonomizimit të shkallës, ndërkohë që fitimi i tyre rritet”, deklaroi dje Hoti. Kritikat ndaj pushtetit vazhduan edhe nga ana e Aleancës për Ardhmërinë e Kosovës. Deputeti i kësaj partie, Besnik Tahiri, dje kritikoi qeverinë për papërgjegjësi, e cila, shtoi Tahri, tenton të ‘’viktimizohet’’. Pra sot nuk po flasim vetëm për rritjen e çmimit të naftës. Sot, ndërsa ne po përballemi me një sfidë globale, realisht në këtë kuvend po e rikthejmë një problem serioz të brendshëm, që lidhet drejtpërdrejt me kulturën e një papërgjegjësie serioze të kësaj qeverie. Pse? Për vite me radhë kemi parë se sa herë që ky vend përballet me kriza, kjo qeveri në vend se të ofrojë zgjidhje, të ulet, të diskutojmë brenda mundësitë reale, kërkon mundësi diqysh me kriju njëfarë përfitimi, me u viktimizu brenda kabinetit të vet“, tha dje Tahiri. Në anën tjetër pushteti argumentoi ndryshe. Ministrja e Industrisë, Ndërmarrësisë, Tregtisë dhe Inovacionit, Mimoza Kusari-Lila, vlerësoi se heqja e TVSH’së është ‘’vendim i lehtë’’, dhe se i njëjtë sjellë ‘’dëm të madh’’. “Kërkesat kryesor në raport me heqje të akcizës dhe TVSH-së, të cilat po konsistojnë në vazhdimësi duke u përsëritur, janë e para vetëm të lehta dhe mendimi se kemi bërë diçka, por nuk është ideja për të sjellë vetëm vendime të shpejta e të lehta me dëm të madh. Ideja është për të bërë analiza të mirëfillta dhe për të ruajtur mirëqenien e atyre që kanë nevojë të ruhen më së shumti me mekanizma shtetëror”, tha Kusari-Lila. Kundërshtime ndaj kërkesës së opozitës erdhën edhe nga Hekuran Murati, ministër i Financave. I njëjti ndër tjerash dje tha heqja e TVSH’së dhe ulja e akcizës do të kishte efekt shumë të vogël për qytetarët, por humbje të mëdha për buxhetin e shtetit. Ndërsa i pari i Qeverisë, Albin Kurti, në deklarimet e tij, tha se edhe në të kaluarën kur i ishte kërkuar një gjë e tillë, ai s’e kishte bërë. ‘’Nuk është hera e parë që e kërkoni këtë gjë prej qeverisë sonë, jam kryeministër për herë të tretë, gjithmonë keni kërkuar herë hiqe akcizën, herë TVSH-në, nuk e kom bo asnjërën, kom fitu veç ma shumë, a po kuptoni. Pra edhe populli nuk është për atë që po më këshilloni, dhe unë përfaqësoj një politikë tjetër”, deklaroi dje ai. Kurti i cili dje foli edhe për inflacionin, u shfajësua se ky i fundit është i ‘’importuar’’. ‘‘Inflacioni është i importuar, nuk është burimor. Nëse do të ishte burimor ne do të mbanim kryekëput përgjegjësi. Por infalcioni është i importuar. Dhe kjo ndodh për shkak se, në Ngushticën e Hormuzit, anijet nuk janë me qymyr por janë me naftë. E qysh e dini gjithë ju, Kosova nuk ka burime të naftës.’’, ka thënë ai. /GazetaExpress The post Disa orë diskutime për çmimin e naftës- Opozita kërkoi heqjen e TVSH’së, pushteti refuzoi, Kurti u shfajësua për inflacionin – Çka u tha në Kuvend appeared first on Gazeta Express.",
+      "published": "Sat, 04 Apr 2026 05:11:05 +0000",
       "source": "Gazeta Express",
       "source_url": "https://www.gazetaexpress.com/feed/",
       "language": "sq",
-      "guid": "https://www.gazetaexpress.com/?p=3065727",
-      "fetched_at": "2026-04-04T02:04:11.640148",
-      "ai_summary": "Xhesi Loci është fermeri i parë që është larguar nga Ferma Vip 3. Xhesi ishte në nominim me Rafaelën, pas humbjes së sfidës që patën ditën e hënë. Të dy fermerët, përpara komunikimit të votimit të pub..."
+      "guid": "https://www.gazetaexpress.com/?p=3065736",
+      "fetched_at": "2026-04-04T05:20:31.830997",
+      "ai_summary": "Çmimi i rritur për derivatet e naftës, u bë shkak diskutimi për orë të tëra ditën e djeshme në Kuvendin e Kosovës. Në njërën anë ishin deputetët e opozitës të cilët i kërkonin qeverisë që të heq TVSH’..."
     },
     {
-      "title": "Pamjet kur Korab Bajgora që shau dhe kërcënoi Ramush Haradinajn, sillet i arrestuar në stacionin e policisë në Pejë",
-      "link": "https://www.gazetaexpress.com/pamjet-kur-korab-bajgora-qe-shau-dhe-kercenoi-ramush-haradinajn-sillet-i-arrestuar-ne-stacionin-e-policise-ne-peje/",
-      "description": "Korab Bajgora është arrestuar pak më parë nga Policia e Kosovës, pasi që i njëjti ka kërcënuar Ramush Haradinajn. I arrestuar përmes një video ka kërcënuar, e ka sharë Haradinajn, në forma të ndryshme duke fyer edhe gruan e tij. Pamjet e arrestimit të tij janë ndarë nga BalkaInfoNews. The post Pamjet kur Korab Bajgora që shau dhe kërcënoi Ramush Haradinajn, sillet i arrestuar në stacionin e policisë në Pejë appeared first on Gazeta Express.",
-      "published": "Fri, 03 Apr 2026 22:40:36 +0000",
+      "title": "Osmani s’e arriti qëllimin për një mandat të dytë, sot dorëzon detyrën – Haxhiu u.d e Presidentes",
+      "link": "https://www.gazetaexpress.com/osmani-se-arriti-qellimin-per-nje-mandat-te-dyte-sot-dorezon-detyren-haxhiu-u-d-e-presidentes/",
+      "description": "Pas pesë vitesh në krye të shteti, Vjosa Osmani, pasditen e sotme do e dorëzojë detyrën e presidentes. Nga ceremonia e cila është paraparë të fillojë nga ora 16:00, këtë detyrë si ushtruese e saj, do ta marrë kryetarja e Kuvendit, Albulena Haxhiu, shkruan Gazeta Express. Osmani qe pesë vite me parë mori detyrën me përkrahjen e Vetëvendosjes, s’arriti të siguronte edhe një mandat të dytë, anipse, dëshirën për një gjë të tillë e kishte shprehur haptazi. Çështja e presidentit është tema kryesore e diskutimeve në sferën politike, qe nga zgjedhjet e fundvitit të kaluar. Edhe pse vazhdimisht pjesë e debateve e diskutimeve, kjo çështje ende s’ka gjetur zgjidhje. Deputetët, siç vendosi Kushtetuesja pak ditë më parë, kanë afat afërsisht deri në fund të këtij muaji për të zgjedhur kryetarin e ri të shtetit, përndryshe, vendi shkon në zgjedhje. Arsyeja e ngërçit sigurisht është mungesa e numrave nga cilado palë në këtë rast. Vetëvendosja që ka bërë tashmë dy propozimet e saj, Glauk Konjufca e Fatmire Kollçaku, s’ka deputetët të mjaftueshëm që të procedojë tutje me zgjedhjen e të parit të vendit. Në anën tjetër, opozita gjatë tërë kohës ka bërë thirrje për kandidat konsensual. Kësisoj, ata kanë refuzuar që të votojnë kandidatët e VV'së. Megjithatë, i pari i ekzekutivit ka paralajmëruar se gjatë ditëve të ardhshme do të takohet me liderët e Partisë Demokratike të Kosovës, dhe atë të Lidhjes Demokratike të Kosovës, për diskutime rreth kësaj çështjeje. Për këtë të fundit, Lutfi Haziri, mbrëmë konfirmoi se Lumir Abdixhiku, do ta takojë Kurtin në mëngjesin e së hënës. Në anën tjetër, ende s’ka datë të njoftuar për një takim mes Kurtit dhe Bedri Hamzës së PDK’së. Këto s’do të jenë takimet e vetme, pasi që këta tre në takime ndaras janë takuar edhe javë më parë, porse, takime të cilat, s’prodhuan rezultat. /GazetaExpress The post Osmani s’e arriti qëllimin për një mandat të dytë, sot dorëzon detyrën – Haxhiu u.d e Presidentes appeared first on Gazeta Express.",
+      "published": "Sat, 04 Apr 2026 05:10:18 +0000",
       "source": "Gazeta Express",
       "source_url": "https://www.gazetaexpress.com/feed/",
       "language": "sq",
-      "guid": "https://www.gazetaexpress.com/?p=3065724",
-      "fetched_at": "2026-04-04T02:04:11.640995",
-      "ai_summary": "Korab Bajgora është arrestuar pak më parë nga Policia e Kosovës, pasi që i njëjti ka kërcënuar Ramush Haradinajn. I arrestuar përmes një video ka kërcënuar, e ka sharë Haradinajn, në forma të ndryshme..."
-    },
-    {
-      "title": "Nëna e regjistroi në shkollë në moshën 3-vjeçare dhe e quajti gjeni, drejtori tha se ka probleme mendore – sot e njeh gjithë bota",
-      "link": "https://telegrafi.com/nena-e-regjistroi-ne-shkolle-ne-moshen-3-vjecare-dhe-e-quajti-gjeni-drejtori-tha-se-ka-probleme-mendore-sot-e-njeh-gjithe-bota/",
-      "description": "Nuk dëgjonte mësuesit dhe dukej i humbur – sot është miliarder: Historia që do t’ju befasojëElon Musk që në moshë shumë të hershme është konsideruar i ndryshëm nga të tjerët, si nga bashkëmoshatarët ashtu edhe nga mësuesit, të cilët shpesh shqetësoheshin sepse ai dukej i zhytur në botën e tij.Nëna e tij, Maye Musk, këmbëngulte që djali të fillonte shkollën në moshën trevjeçare, edhe pse drejtori i institucionit e paralajmëroi se mund të kishte vështirësi në të nxënë. “Unë kam një fëmijë gjeni”, thoshte ajo.Megjithatë, vështirësi pati. “Mësuesja më afrohej dhe më fliste me zë të lartë, por unë nuk e shihja dhe nuk e dëgjoja fare”, ka treguar Elon Musk. Kjo bëri që drejtori të thërriste një takim me prindërit dhe të shprehte shqetësimin se Elon mund të kishte vështirësi mendore.Prindërit menduan fillimisht se problemi lidhej me dëgjimin, ndaj ai iu nënshtrua një ndërhyrjeje për bajamet. Megjithatë, kjo nuk solli ndryshim. Më vonë u kuptua se mungesa e përqendrimit nuk kishte lidhje as me dëgjimin dhe as me inteligjencën.“Që nga fëmijëria, kur përqendrohem në diçka komplekse, sikur të gjitha shqisat e mia ‘fiken’”, ka shpjeguar Musk. Ndërsa nëna e tij ka thënë se në ato momente është e vështirë të komunikosh me të. Sipas saj, ai shpesh ka qenë i vetmuar dhe i mërzitur.Megjithatë, ai kishte nevojë për shoqëri. “Kur isha fëmijë, i thashë vetes: nuk dua të jem kurrë vetëm”, ka deklaruar ai në një intervistë për Rolling Stone, transmeton Telegrafi. Elon Musk miqtë e parë i krijoi gjatë studimeve universitare, ndërsa në vitin 2021, në emisionin Saturday Night Live, ai zbuloi publikisht se ka sindromën Asperger, një gjendje që mund të vështirësojë ndërveprimin social.Kjo sindromë është një çrregullim neuro-zhvillimor në spektrin e autizmit, që ndikon në komunikim, sjellje dhe ndërveprim social, pa ndikuar ndjeshëm në inteligjencë. Personat me këtë sindromë shpesh kanë interesa shumë specifike dhe të theksuara, si dhe vështirësi në interpretimin e sinjaleve joverbale.Sindroma Asperger mban emrin e pediatrit austriak Hans Asperger, i cili në vitin 1944 përshkroi fëmijë me inteligjencë normale, por me vështirësi në komunikim dhe koordinim.Personat me këtë sindromë mund të kenë nevojë për më shumë kohë për të përpunuar informacionin dhe shpesh e shprehin emocionin ndryshe. Megjithatë, shumë prej tyre kanë aftësi të jashtëzakonshme dhe interesa të thelluara, që shpesh çojnë në karriera të suksesshme, sipas Autism.org.uk. /Telegrafi/",
-      "published": "Fri, 03 Apr 2026 22:59:50 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
-      "language": "sq",
-      "guid": "https://telegrafi.com/nena-e-regjistroi-ne-shkolle-ne-moshen-3-vjecare-dhe-e-quajti-gjeni-drejtori-tha-se-ka-probleme-mendore-sot-e-njeh-gjithe-bota/",
-      "fetched_at": "2026-04-04T02:04:13.009744",
-      "ai_summary": "Nuk dëgjonte mësuesit dhe dukej i humbur – sot është miliarder: Historia që do t’ju befasojëElon Musk që në moshë shumë të hershme është konsideruar i ndryshëm nga të tjerët, si nga bashkëmoshatarët a..."
+      "guid": "https://www.gazetaexpress.com/?p=3065737",
+      "fetched_at": "2026-04-04T05:20:31.833055",
+      "ai_summary": "Pas pesë vitesh në krye të shteti, Vjosa Osmani, pasditen e sotme do e dorëzojë detyrën e presidentes. Nga ceremonia e cila është paraparë të fillojë nga ora 16:00, këtë detyrë si ushtruese e saj, do ..."
     }
   ],
-  "total_articles": 4,
+  "total_articles": 6,
   "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
     "Gazeta Express",
     "Gazeta Express",
-    "Gazeta Express",
-    "Telegrafi"
+    "Gazeta Express"
   ]
 }
