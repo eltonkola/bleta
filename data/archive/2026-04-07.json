@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-07",
+  "timestamp": "2026-04-07T02:22:07.433227",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Akili largohet përfundimisht nga Ferma Vip",
+      "link": "https://www.gazetaexpress.com/akili-largohet-perfundimisht-nga-ferma-vip/",
+      "description": "Aktori Akil Varfi është larguar përfundimisht nga Ferma Vip 3. Akili ishte në një televotim që prej të premtes së bashku me Indrin, Gresën dhe Fairfax. Publiku fillimisht shpëtoi Indrin, duke bërë që tre të tjerët, Akili, Gresa dhe Fairfax të shkonin në një sfidë. Akili ja doli i pari ta fitonte sfidën, por nuk e pranoi këtë fitore, duke ia “dhuruar” Gresës. Kjo bëri që aktori dhe Fairfax të shkonin në një televotim kokë më kokë brenda mbrëmjes. Publiku vendosi që Akili duhej të largohej përfundimisht, duke humbur shansin për të fituar çmimin e madh prej 200 mijë euro. Në fillim të mbrëmjes, u diskutua debati që Akili kishte me Sarën. Pas diskutimit dhe vendimit të publikut për të shpëtuar Indrin, bëri që Akili ta kërkonte vetë largimin nga Ferma Vip. Ka qenë ndërhyrja e moderatores për ta mbajtur në garë, por në fund, publiku vendosi që ai të largohej nga gara. https://www.youtube.com/live/zZTmW641ZoY?si=c2tgqdPHWFdoK8gn The post Akili largohet përfundimisht nga Ferma Vip appeared first on Gazeta Express.",
+      "published": "Mon, 06 Apr 2026 22:53:51 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3067493",
+      "fetched_at": "2026-04-07T02:22:03.704630",
+      "ai_summary": "Aktori Akil Varfi është larguar përfundimisht nga Ferma Vip 3. Akili ishte në një televotim që prej të premtes së bashku me Indrin, Gresën dhe Fairfax. Publiku fillimisht shpëtoi Indrin, duke bërë që ..."
+    },
+    {
+      "title": "Në 30-vjetorin e lindjes, Teni rrëfen jetën e vështirë dhe mungesën e babait",
+      "link": "https://www.gazetaexpress.com/ne-30-vjetorin-e-lindjes-teni-rrefen-jeten-e-veshtire-dhe-mungesen-e-babait/",
+      "description": "Teni Vllaçaj feston sot datëlindjen e tij të 30-të. Mes urimeve të fermerëve të tjerë, Teni është surprizuar edhe nga një letër që i kishte dërguar babi i tij. Teni rrëfue në linjën e jetës së tij se është rritur vetëm me figurën e nënës, pasi babi i emigroi herët për të siguruar të ardhmen e familjes. Por, siç rrëfen ai, babai i iku kur ishte 6 vjeç dhe u kthye kur bëri 16 vjeç. Përgjatë kësaj periudhe 10-vjeçare larg njëri-tjetrit, ata kanë qëndruar 4 vite pa pasur asnjë lloj komunikimi, aq sa sipas Tenit, i harroj edhe zërin edhe fytyrën. Por kur babai iu kthye, Teni rrëfen një tjetër episod sakrifice, hemoragjinë celebrale që i ati i tij pësoi. Kjo ka qenë një moment i vështirë sipas tij, ndërsa në letrën drejtuar të birit, i ati e falenderon për sakrificat që ka bërë dhe i uron fat në jetë. Ky moment, solli shumë lot dhe emocione, jo vetëm tek fermerët, por edhe tek opinionistët dhe publikun në studio. https://www.youtube.com/live/zZTmW641ZoY?si=kH53PY8OmXZO1pHE The post Në 30-vjetorin e lindjes, Teni rrëfen jetën e vështirë dhe mungesën e babait appeared first on Gazeta Express.",
+      "published": "Mon, 06 Apr 2026 22:38:30 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3067490",
+      "fetched_at": "2026-04-07T02:22:03.706019",
+      "ai_summary": "Teni Vllaçaj feston sot datëlindjen e tij të 30-të. Mes urimeve të fermerëve të tjerë, Teni është surprizuar edhe nga një letër që i kishte dërguar babi i tij. Teni rrëfue në linjën e jetës së tij se ..."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "Gazeta Express",
+    "Gazeta Express"
+  ]
+}
