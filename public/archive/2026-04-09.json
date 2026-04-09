@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-09",
+  "timestamp": "2026-04-09T02:08:51.321529",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Macron: Që armëpushimi të zgjasë, ai duhet të përfshijë edhe Libanin",
+      "link": "https://www.balkanweb.com/macron-qe-armepushimi-te-zgjase-ai-duhet-te-perfshije-edhe-libanin/",
+      "description": "Emmanuel Macron e përshkroi armëpushimin si “zgjidhjen më të mirë të mundshme”, duke theksuar se që të jetë thelbësor dhe i qëndrueshëm, duhet të përfshijë edhe Libanin. Presidenti francez shprehu shpresën se marrëveshja do të respektohet plotësisht “në të gjitha frontet” , duke vënë në dukje se shtrirja e saj në Liban është një kusht […]",
+      "published": "Thu, 09 Apr 2026 02:00:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946918",
+      "fetched_at": "2026-04-09T02:08:45.418532",
+      "ai_summary": "Emmanuel Macron e përshkroi armëpushimin si “zgjidhjen më të mirë të mundshme”, duke theksuar se që të jetë thelbësor dhe i qëndrueshëm, duhet të përfshijë edhe Libanin. Presidenti francez shprehu shp..."
+    },
+    {
+      "title": "“Spiegel”: Gjermania po përgatit plane sekrete për të vendosur forca në Ngushticën e Hormuzit",
+      "link": "https://www.balkanweb.com/spiegel-gjermania-po-pergatit-plane-sekrete-per-te-vendosur-forca-ne-ngushticen-e-hormuzit/",
+      "description": "Qeveria gjermane po shqyrton privatisht skenarë për përfshirjen e mundshme të Bundeswehr-it (Forcave të Armatosura) në një operacion për mbrojtjen e anijeve në Ngushticën e Hormuzit. Për këtë shkruan botimi vendas “Der Spiegel”. Publikimi vuri në dukje se pavarësisht se Berlini aktualisht po tregon kujdes maksimal, prapa skenave, po zhvillohen në mënyrë aktive opsione të […]",
+      "published": "Thu, 09 Apr 2026 01:45:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946942",
+      "fetched_at": "2026-04-09T02:08:45.418711",
+      "ai_summary": "Qeveria gjermane po shqyrton privatisht skenarë për përfshirjen e mundshme të Bundeswehr-it (Forcave të Armatosura) në një operacion për mbrojtjen e anijeve në Ngushticën e Hormuzit. Për këtë shkruan ..."
+    },
+    {
+      "title": "Qalibaf: Tre pika të planit të marrëveshjes së Iranit me SHBA-në janë shkelur tashmë",
+      "link": "https://www.balkanweb.com/qalibaf-tre-pika-te-planit-te-marreveshjes-se-iranit-me-shba-ne-jane-shkelur-tashme/",
+      "description": "Tre nga 10 pikat e planit iranian, i cili u përdor si bazë për negociatat mbi një marrëveshje të ardhshme paqeje me Shtetet e Bashkuara, janë shkelur. Kryetari i Parlamentit iranian, Mohammadbagher Ghalibaf, shkroi për këtë në rrjetin social “X”. Ai përmendi dështimin e SHBA-së dhe Izraelit për të respektuar armëpushimin në Liban si shkeljen […]",
+      "published": "Thu, 09 Apr 2026 01:30:33 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946939",
+      "fetched_at": "2026-04-09T02:08:45.418795",
+      "ai_summary": "Tre nga 10 pikat e planit iranian, i cili u përdor si bazë për negociatat mbi një marrëveshje të ardhshme paqeje me Shtetet e Bashkuara, janë shkelur. Kryetari i Parlamentit iranian, Mohammadbagher Gh..."
+    },
+    {
+      "title": "Katër persona, përfshirë një gazetar të Al Jazeera-s, u vranë në sulmet ajrore izraelite në Rripin e Gazës",
+      "link": "https://www.balkanweb.com/kater-persona-perfshire-nje-gazetar-te-al-jazeera-s-u-vrane-ne-sulmet-ajrore-izraelite-ne-rripin-e-gazes/",
+      "description": "Katër persona, përfshirë një gazetar të Al Jazeera-s, u vranë në sulmet ajrore izraelite në Rripin e Gazës , njoftuan shërbimet lokale shëndetësore dhe televizioni shtetëror i Katarit. Sulmi që vrau gazetarin e Al Jazeera-s, Muhammad Wasah, kishte në shënjestër automjetin me të cilin po udhëtonte ai dhe një palestinez tjetër – i cili gjithashtu […]",
+      "published": "Thu, 09 Apr 2026 01:00:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946910",
+      "fetched_at": "2026-04-09T02:08:45.418865",
+      "ai_summary": "Katër persona, përfshirë një gazetar të Al Jazeera-s, u vranë në sulmet ajrore izraelite në Rripin e Gazës , njoftuan shërbimet lokale shëndetësore dhe televizioni shtetëror i Katarit. Sulmi që vrau g..."
+    },
+    {
+      "title": "FMN: Lufta në Lindjen e Mesme do të çojë në rritje të çmimeve të ushqimeve",
+      "link": "https://www.balkanweb.com/fmn-lufta-ne-lindjen-e-mesme-do-te-coje-ne-rritje-te-cmimeve-te-ushqimeve/",
+      "description": "Lufta në Lindjen e Mesme po përmbys jetën dhe jetesën e njerëzve në rajon dhe më gjerë. Kjo u theksua në një deklaratë pas takimit të mbajtur më 8 prill midis krerëve të Fondit Monetar Ndërkombëtar (FMN), Grupit të Bankës Botërore (WBG) dhe Programit Botëror të Ushqimit (WFP). Në takim u diskutua efektet e luftës […]",
+      "published": "Thu, 09 Apr 2026 00:45:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946936",
+      "fetched_at": "2026-04-09T02:08:45.418931",
+      "ai_summary": "Lufta në Lindjen e Mesme po përmbys jetën dhe jetesën e njerëzve në rajon dhe më gjerë. Kjo u theksua në një deklaratë pas takimit të mbajtur më 8 prill midis krerëve të Fondit Monetar Ndërkombëtar (F..."
+    },
+    {
+      "title": "Caroline Levitt: SHBA-të po shqyrtojnë përfshirjen e Libanit në një marrëveshje të përkohshme armëpushimi me Iranin",
+      "link": "https://www.balkanweb.com/caroline-levitt-shba-te-po-shqyrtojne-perfshirjen-e-libanit-ne-nje-marreveshje-te-perkohshme-armepushimi-me-iranin/",
+      "description": "SHBA-të po shqyrtojnë përfshirjen e Libanit në një marrëveshje të përkohshme armëpushimi me Iranin. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Levitt, e bëri këtë deklaratë në një konferencë për gazetarët. Ajo përsëriti se marrëveshja aktuale e armëpushimit me Iranin nuk përfshin ndërprerjen e operacioneve ushtarake në Liban. “Libani nuk është pjesë e armëpushimit… […]",
+      "published": "Thu, 09 Apr 2026 00:30:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946933",
+      "fetched_at": "2026-04-09T02:08:45.418989",
+      "ai_summary": "SHBA-të po shqyrtojnë përfshirjen e Libanit në një marrëveshje të përkohshme armëpushimi me Iranin. Sekretarja e Shtypit e Shtëpisë së Bardhë, Caroline Levitt, e bëri këtë deklaratë në një konferencë ..."
+    },
+    {
+      "title": "Erdogan telefonon Trumpin për armëpushimin me Iranin dhe zhvillimet në Lindjen e Mesme",
+      "link": "https://www.balkanweb.com/erdogan-telefonon-trumpin-per-armepushimin-me-iranin-dhe-zhvillimet-ne-lindjen-e-mesme/",
+      "description": "Presidenti turk, Recep Tayyip Erdogan, dhe Presidenti i SHBA-së, Donald Trump, zhvilluan një bisedë telefonike , me temë kryesore armëpushimin e shpallur në kontekstin e krizës me Iranin . Sipas një deklarate nga Drejtoria e Komunikimit e Presidencës Turke, të dy udhëheqësit diskutuan zhvillimet e fundit rajonale dhe perspektivat për një marrëveshje të përhershme paqeje. […]",
+      "published": "Thu, 09 Apr 2026 00:30:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946906",
+      "fetched_at": "2026-04-09T02:08:45.419055",
+      "ai_summary": "Presidenti turk, Recep Tayyip Erdogan, dhe Presidenti i SHBA-së, Donald Trump, zhvilluan një bisedë telefonike , me temë kryesore armëpushimin e shpallur në kontekstin e krizës me Iranin . Sipas një d..."
+    },
+    {
+      "title": "Nigeria djersitet nga vala e të nxehtit, ndërsa kostot për t’u freskuar rriten",
+      "link": "https://www.balkanweb.com/nigeria-djersitet-nga-vala-e-te-nxehtit-ndersa-kostot-per-tu-freskuar-rriten/",
+      "description": "Azeez Akanni hipi në një autobus të verdhë duke u drejtuar për në lagjen qendrore të biznesit në ishullin Lagos, me kokrra djerse që i rridhnin në qafë dhe krahë. Rrobaqepësi 32-vjeçar lëviz rregullisht në trafikun kaotik për t’u shpërndarë rroba dhe këpucë luksoze klientëve në të gjithë megaqytetin e Lagosit, kryeqytetin tregtar të Nigerisë. […]",
+      "published": "Thu, 09 Apr 2026 00:15:14 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946952",
+      "fetched_at": "2026-04-09T02:08:45.419120",
+      "ai_summary": "Azeez Akanni hipi në një autobus të verdhë duke u drejtuar për në lagjen qendrore të biznesit në ishullin Lagos, me kokrra djerse që i rridhnin në qafë dhe krahë. Rrobaqepësi 32-vjeçar lëviz rregullis..."
+    },
+    {
+      "title": "Vance: Libani nuk është pjesë e armëpushimit, do të ishte budallallëk që Irani ta shkelte atë për këtë arsye",
+      "link": "https://www.balkanweb.com/vance-libani-nuk-eshte-pjese-e-armepushimit-do-te-ishte-budallallek-qe-irani-ta-shkelte-ate-per-kete-arsye/",
+      "description": "Do të ishte marrëzi që Irani të shkelte armëpushimin mbi Libanin, tha në Hungari zëvendëspresidenti i SHBA-së J.D. Vance. “Nëse Irani dëshiron që këto negociata të dështojnë për shkak të Libanit, i cili nuk ka të bëjë fare me të, kjo është në fund të fundit zgjedhja e tij”, tha ai. “Ne mendojmë se kjo […]",
+      "published": "Thu, 09 Apr 2026 00:00:13 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946903",
+      "fetched_at": "2026-04-09T02:08:45.419184",
+      "ai_summary": "Do të ishte marrëzi që Irani të shkelte armëpushimin mbi Libanin, tha në Hungari zëvendëspresidenti i SHBA-së J.D. Vance. “Nëse Irani dëshiron që këto negociata të dështojnë për shkak të Libanit, i ci..."
+    },
+    {
+      "title": "Ministria e Jashtme e Malit të Zi: Liria e lundrimit në Ngushticën e Hormuzit duhet të jetë përparësi",
+      "link": "https://www.balkanweb.com/ministria-e-jashtme-e-malit-te-zi-liria-e-lundrimit-ne-ngushticen-e-hormuzit-duhet-te-jete-perparesi/",
+      "description": "Mali i Zi ka mirëpritur armëpushimin e arritur midis Shteteve të Bashkuara të Amerikës (SHBA) dhe Iranit. Kjo u tha në një deklaratë nga Ministria e Punëve të Jashtme e Malit të Zi në lidhje me marrëveshjen e armëpushimit të arritur midis SHBA-së dhe Iranit. U vu re se Podgorica është në favor të përparimit […]",
+      "published": "Wed, 08 Apr 2026 23:30:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2946927",
+      "fetched_at": "2026-04-09T02:08:45.419253",
+      "ai_summary": "Mali i Zi ka mirëpritur armëpushimin e arritur midis Shteteve të Bashkuara të Amerikës (SHBA) dhe Iranit. Kjo u tha në një deklaratë nga Ministria e Punëve të Jashtme e Malit të Zi në lidhje me marrëv..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
