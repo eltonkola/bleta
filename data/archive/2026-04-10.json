@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-10",
+  "timestamp": "2026-04-10T02:28:12.615172",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Opozita, shumë zhurmë për asgjë",
+      "link": "https://www.balkanweb.com/opozita-shume-zhurme-per-asgje/",
+      "description": "Prej vitesh, përballë një shumice të konsoliduar si ajo e drejtuar nga Edi Rama, opozita ka zgjedhur një strategji që në letër duket agresive, denoncime të përditshme, konferenca shtypi, akuza për “vjedhje shekulli” dhe korrupsion të përhapur. Por në praktikë, kjo strategji është shndërruar në një rutinë boshe, që nuk prodhon më as indinjatë dhe […]",
+      "published": "Thu, 09 Apr 2026 21:00:25 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2947291",
+      "fetched_at": "2026-04-10T02:28:07.449985",
+      "ai_summary": "Prej vitesh, përballë një shumice të konsoliduar si ajo e drejtuar nga Edi Rama, opozita ka zgjedhur një strategji që në letër duket agresive, denoncime të përditshme, konferenca shtypi, akuza për “vj..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
