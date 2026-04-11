@@ -1,0 +1,28 @@
+{
+  "date": "2026-04-11",
+  "timestamp": "2026-04-11T02:07:56.015787",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Artemis II përfundon me sukses misionin: Astronautët kthehen në Tokë pas udhëtimit historik rreth Hënës",
+      "link": "https://www.gazetaexpress.com/artemis-ii-perfundon-me-sukses-misionin-astronautet-kthehen-ne-toke-pas-udhetimit-historik-rreth-henes/",
+      "description": "Astronautët e misionit Artemis II janë kthyer me sukses në Tokë, duke u ulur në Oqeanin Paqësor pranë bregdetit të Kalifornisë, pas një udhëtimi historik 10-ditor rreth Hënës që ka hyrë në librat e rekordeve. Ekuipazhi i përbërë nga astronautët e NASA-s Reid Wiseman, Victor Glover dhe Christina Koch, si dhe astronauti i Agjencisë Hapësinore Kanadeze Jeremy Hansen, përfundoi një nga misionet më të guximshme të eksplorimit hapësinor modern. Gjatë kësaj rruge, ata udhëtuan më larg nga Toka se çdo njeri tjetër në histori, duke thyer rekordin e vendosur më parë nga misioni Apollo 13 në vitin 1970. Zbritja në oqean ndodhi kur kapsula Orion preku sipërfaqen e Paqësorit dhe parashutat e saj u hapën për të siguruar një ulje të kontrolluar. Menjëherë pas kontaktit me ujin, u aktivizuan ekipet e rikuperimit, ndërsa në NASA u shënuan momente lehtësimi dhe emocionesh. https://www.youtube.com/watch?v=nfhDuOHMp0A Në Qendrën Hapësinore Johnson në Houston, atmosfera u tensionua deri në momentin kur u konfirmua rikthimi i komunikimit mes ekuipazhit dhe kontrollit të misionit. Salla shpërtheu në duartrokitje, ndërsa parashutat u panë duke u hapur gjatë hyrjes në atmosferë. Pas konfirmimit të suksesit të uljes, në qendrat e NASA-s u dëgjuan brohoritje, duartrokitje dhe emocione të forta, duke shënuar përfundimin e sigurt të një misioni që konsiderohet kyç për hapat e ardhshëm të programit të eksplorimit të Hënës. /GazetaExpress/ The post Artemis II përfundon me sukses misionin: Astronautët kthehen në Tokë pas udhëtimit historik rreth Hënës appeared first on Gazeta Express.",
+      "published": "Sat, 11 Apr 2026 00:16:24 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3071141",
+      "fetched_at": "2026-04-11T02:07:52.307251",
+      "ai_summary": "Astronautët e misionit Artemis II janë kthyer me sukses në Tokë, duke u ulur në Oqeanin Paqësor pranë bregdetit të Kalifornisë, pas një udhëtimi historik 10-ditor rreth Hënës që ka hyrë në librat e re..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Gazeta Express"
+  ]
+}
