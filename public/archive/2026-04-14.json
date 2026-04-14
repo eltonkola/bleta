@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-14",
+  "timestamp": "2026-04-14T02:28:57.026290",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Guterres: Nuk ka zgjidhje ushtarake në Lindjen e Mesme",
+      "link": "https://www.balkanweb.com/guterres-nuk-ka-zgjidhje-ushtarake-ne-lindjen-e-mesme/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, theksoi në një deklaratë se, pas javësh operacionesh ushtarake dhe një barre të rëndë humanitare në Lindjen e Mesme, “është e qartë se nuk ka zgjidhje ushtarake për konfliktin aktual”, duke nënvizuar se vazhdimi i rrugës diplomatike është e vetmja perspektivë realiste e deeskalimit. Në deklaratën e lexuar […]",
+      "published": "Tue, 14 Apr 2026 02:00:15 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949905",
+      "fetched_at": "2026-04-14T02:28:50.975256",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, theksoi në një deklaratë se, pas javësh operacionesh ushtarake dhe një barre të rëndë humanitare në Lindjen e Mesme, “është e qartë se nuk ka zgjid..."
+    },
+    {
+      "title": "Vendet anëtare të NATO-s refuzojnë të përfshihen në bllokadën e Ngushticës së Hormuzit",
+      "link": "https://www.balkanweb.com/vendet-anetare-te-nato-s-refuzojne-te-perfshihen-ne-bllokaden-e-ngushtices-se-hormuzit/",
+      "description": "Vendet anëtare të NATO-s njoftuan sot se nuk do të përfshihen në planin e Presidentit të SHBA-së Donald Trump për të vendosur një bllokadë në Ngushticën e Hormuzit, duke propozuar në vend të kësaj të ndërhyjnë vetëm pasi të kenë mbaruar armiqësitë, një veprim që ka të ngjarë të zemërojë republikanin dhe të përkeqësojë tensionet […]",
+      "published": "Tue, 14 Apr 2026 01:45:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949929",
+      "fetched_at": "2026-04-14T02:28:50.975405",
+      "ai_summary": "Vendet anëtare të NATO-s njoftuan sot se nuk do të përfshihen në planin e Presidentit të SHBA-së Donald Trump për të vendosur një bllokadë në Ngushticën e Hormuzit, duke propozuar në vend të kësaj të ..."
+    },
+    {
+      "title": "Papa: Nuk kam frikë nga Trump, kam detyrë morale të flas hapur kundër luftës",
+      "link": "https://www.balkanweb.com/papa-nuk-kam-frike-nga-trump-kam-detyre-morale-te-flas-hapur-kunder-luftes/",
+      "description": "Papa Leo XIV tha të hënën se kishte “një detyrë morale” të fliste kundër luftës dhe nuk i “frikësohej” Presidentit Donald Trump, ndërsa udhëheqësi amerikan kritikoi thirrjet e tij për t’i dhënë fund konfliktit në Lindjen e Mesme. Përpara se të nisej nga Roma për në Algjer për një vizitë papnore, Papa u kritikua ashpër […]",
+      "published": "Tue, 14 Apr 2026 01:30:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949909",
+      "fetched_at": "2026-04-14T02:28:50.975488",
+      "ai_summary": "Papa Leo XIV tha të hënën se kishte “një detyrë morale” të fliste kundër luftës dhe nuk i “frikësohej” Presidentit Donald Trump, ndërsa udhëheqësi amerikan kritikoi thirrjet e tij për t’i dhënë fund k..."
+    },
+    {
+      "title": "Vance: “Jam i trishtuar” nga humbja e Orban, SHBA-të do të bashkëpunojnë me Magyar",
+      "link": "https://www.balkanweb.com/vance-jam-i-trishtuar-nga-humbja-e-orban-shba-te-do-te-bashkepunojne-me-magyar/",
+      "description": "Zëvendëspresidenti i SHBA-së tha të hënën se ishte “i trishtuar” për humbjen e kryeministrit populist nacionalist hungarez në largim , Viktor Orban, në zgjedhjet e së dielës, duke nxituar të shtonte se Uashingtoni synon të “punojë me” pasardhësin e tij, të krahut të djathtë Péter Magyar , pavarësisht mbështetjes së tij për ndryshime drastike në […]",
+      "published": "Tue, 14 Apr 2026 01:15:04 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949948",
+      "fetched_at": "2026-04-14T02:28:50.975584",
+      "ai_summary": "Zëvendëspresidenti i SHBA-së tha të hënën se ishte “i trishtuar” për humbjen e kryeministrit populist nacionalist hungarez në largim , Viktor Orban, në zgjedhjet e së dielës, duke nxituar të shtonte s..."
+    },
+    {
+      "title": "Trump: SHBA-të mund të “shikojnë” nga Kuba pas zgjidhjes së konfliktit me Iranin",
+      "link": "https://www.balkanweb.com/trump-shba-te-mund-te-shikojne-nga-kuba-pas-zgjidhjes-se-konfliktit-me-iranin/",
+      "description": "SHBA-të mund të “shikojnë” nga Kuba pas zgjidhjes së konfliktit me Iranin. Presidenti i SHBA-së Donald Trump e tha këtë në një bisedë me gazetarët përpara Shtëpisë së Bardhë. “Do të merremi me Iranin dhe kur të mbarojmë me këtë, mund të shqyrtojmë çështjen e Kubës”, tha ai. Sipas Trump, Kuba është në rënie për […]",
+      "published": "Tue, 14 Apr 2026 01:00:43 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949897",
+      "fetched_at": "2026-04-14T02:28:50.975676",
+      "ai_summary": "SHBA-të mund të “shikojnë” nga Kuba pas zgjidhjes së konfliktit me Iranin. Presidenti i SHBA-së Donald Trump e tha këtë në një bisedë me gazetarët përpara Shtëpisë së Bardhë. “Do të merremi me Iranin ..."
+    },
+    {
+      "title": "Metoda ekstreme e humbjes së peshës në Kinë: Hanë me qese plastike dhe nuk e gëlltisin ushqimin",
+      "link": "https://www.balkanweb.com/metoda-ekstreme-e-humbjes-se-peshes-ne-kine-hane-me-qese-plastike-dhe-nuk-e-gelltisin-ushqimin/",
+      "description": "Një trend i ri për humbjen e peshës në Kinë ka shkaktuar bujë, duke rezultuar jashtëzakonisht i rrezikshëm për shëndetin. Siç shihet në videot që kanë dalë në dritë, ata vënë mbështjellës plastik në gojë dhe hanë ushqimin pa e gëlltitur atë. Kjo parandalon marrjen e kalorive dhe supozohet se e mashtron trupin e tyre […]",
+      "published": "Tue, 14 Apr 2026 00:45:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949926",
+      "fetched_at": "2026-04-14T02:28:50.975776",
+      "ai_summary": "Një trend i ri për humbjen e peshës në Kinë ka shkaktuar bujë, duke rezultuar jashtëzakonisht i rrezikshëm për shëndetin. Siç shihet në videot që kanë dalë në dritë, ata vënë mbështjellës plastik në g..."
+    },
+    {
+      "title": "Dronët ukrainas godasin uzinën e amoniakut në Rusinë veriore pas armëpushimit të Pashkëve",
+      "link": "https://www.balkanweb.com/dronet-ukrainas-godasin-uzinen-e-amoniakut-ne-rusine-veriore-pas-armepushimit-te-pashkeve/",
+      "description": "Mjetet ajrore pa pilot me rreze të gjatë veprimi të forcave të armatosura ukrainase shënjestruan një uzinë kimike në veri të Rusisë , pasi përfundoi një armëpushim 32-orësh për Pashkët Ortodokse, tha Kievi të martën. Objektivi ishte një uzinë amoniaku në Cherepovets, rreth 400 kilometra në veri të Moskës, tha në Telegram Robert Brovdy, kreu […]",
+      "published": "Tue, 14 Apr 2026 00:30:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949941",
+      "fetched_at": "2026-04-14T02:28:50.975862",
+      "ai_summary": "Mjetet ajrore pa pilot me rreze të gjatë veprimi të forcave të armatosura ukrainase shënjestruan një uzinë kimike në veri të Rusisë , pasi përfundoi një armëpushim 32-orësh për Pashkët Ortodokse, tha ..."
+    },
+    {
+      "title": "Lavrov i drejtohet Aragçit: Armiqësitë nuk duhet të rifillojnë",
+      "link": "https://www.balkanweb.com/lavrov-i-drejtohet-aragcit-armiqesite-nuk-duhet-te-rifillojne/",
+      "description": "Ministri i Jashtëm rus Sergei Lavrov i tha homologut të tij iranian Abbas Araghchi të martën se ishte e rëndësishme të parandalohej rifillimi i armiqësive në Lindjen e Mesme dhe shprehu gatishmërinë e Moskës për të kontribuar në një zgjidhje. Lavrov “theksoi rëndësinë e parandalimit të rifillimit të konflikteve të armatosura dhe konfirmoi edhe një […]",
+      "published": "Tue, 14 Apr 2026 00:15:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949945",
+      "fetched_at": "2026-04-14T02:28:50.975941",
+      "ai_summary": "Ministri i Jashtëm rus Sergei Lavrov i tha homologut të tij iranian Abbas Araghchi të martën se ishte e rëndësishme të parandalohej rifillimi i armiqësive në Lindjen e Mesme dhe shprehu gatishmërinë e..."
+    },
+    {
+      "title": "30,000 të evakuuar, tre të vdekur në Republikën Dominikane për shkak të shirave të rrëmbyeshëm",
+      "link": "https://www.balkanweb.com/30000-te-evakuuar-tre-te-vdekur-ne-republiken-dominikane-per-shkak-te-shirave-te-rrembyeshem/",
+      "description": "Gati 30,000 njerëz kanë ikur nga shtëpitë e tyre në Republikën Dominikane për shkak të efekteve të shirave të rrëmbyeshëm që kanë përfshirë vendin për më shumë se një muaj. Rrebeshët kanë shkaktuar vdekjen e tre personave. “Prioriteti aktual i qeverisë është të shpëtojë jetë, të mbrojë pronën dhe të ruajë infrastrukturën”, thuhet në një […]",
+      "published": "Tue, 14 Apr 2026 00:00:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949893",
+      "fetched_at": "2026-04-14T02:28:50.976018",
+      "ai_summary": "Gati 30,000 njerëz kanë ikur nga shtëpitë e tyre në Republikën Dominikane për shkak të efekteve të shirave të rrëmbyeshëm që kanë përfshirë vendin për më shumë se një muaj. Rrebeshët kanë shkaktuar vd..."
+    },
+    {
+      "title": "Shefi i IEA-s: Prilli mund të rezultojë të jetë një muaj më i vështirë se marsi për tregjet e energjisë dhe ekonominë për shkak të luftës në Lindjen e Mesme",
+      "link": "https://www.balkanweb.com/shefi-i-iea-s-prilli-mund-te-rezultoje-te-jete-nje-muaj-me-i-veshtire-se-marsi-per-tregjet-e-energjise-dhe-ekonomine-per-shkak-te-luftes-ne-lindjen-e-mesme/",
+      "description": "Prilli mund të rezultojë të jetë një muaj më i vështirë se marsi për tregjet e energjisë dhe ekonominë për shkak të luftës në Lindjen e Mesme, tha të hënën kreu i Agjencisë Ndërkombëtare të Energjisë. Ndërsa muaji mars pa dërgimin e ngarkesave nga rajoni “të ngarkuara shumë kohë para fillimit të krizës”, tha drejtori […]",
+      "published": "Mon, 13 Apr 2026 23:30:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2949932",
+      "fetched_at": "2026-04-14T02:28:50.976107",
+      "ai_summary": "Prilli mund të rezultojë të jetë një muaj më i vështirë se marsi për tregjet e energjisë dhe ekonominë për shkak të luftës në Lindjen e Mesme, tha të hënën kreu i Agjencisë Ndërkombëtare të Energjisë...."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
