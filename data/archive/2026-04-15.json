@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-15",
+  "timestamp": "2026-04-15T02:27:23.022779",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Katër të vdekur në sulmin amerikan ndaj një anijeje të dyshuar për kontrabandë droge në Paqësorin Lindor",
+      "link": "https://www.balkanweb.com/kater-te-vdekur-ne-sulmin-amerikan-ndaj-nje-anijeje-te-dyshuar-per-kontrabande-droge-ne-paqesorin-lindor/",
+      "description": "Katër burra u vranë në një tjetër sulm ajror amerikan në Paqësorin Lindor të martën, njoftoi Komanda e Përbashkët e SHBA-së përgjegjëse për rajonin e Amerikës Latine (SOUTHCOM), ndërsa fushata kontraverse e sulmeve kundër motoskafeve që dyshohet se janë të përfshira në trafikun e drogës vazhdon, me të paktën 174 të vdekur – përfshirë 11 […]",
+      "published": "Wed, 15 Apr 2026 02:15:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950817",
+      "fetched_at": "2026-04-15T02:27:17.108351",
+      "ai_summary": "Katër burra u vranë në një tjetër sulm ajror amerikan në Paqësorin Lindor të martën, njoftoi Komanda e Përbashkët e SHBA-së përgjegjëse për rajonin e Amerikës Latine (SOUTHCOM), ndërsa fushata kontrav..."
+    },
+    {
+      "title": "Destinacionet kryesore të Kubës të shkreta, pa energji elektrike apo karburant për shkak të sanksioneve të SHBA-së",
+      "link": "https://www.balkanweb.com/destinacionet-kryesore-te-kubes-te-shkreta-pa-energji-elektrike-apo-karburant-per-shkak-te-sanksioneve-te-shba-se/",
+      "description": "Dielli po perëndon në Pálpite, një qytet i vogël në buzë të kënetës së madhe Zapata të Kubës, kur papritmas rruga mbushet me aktivitet. Por jo me gaforret e kuqe të tokës që dikur tërhiqnin qindra mijëra turistë çdo vit në një nga destinacionet kryesore të eko-turizmit të ishullit. Turmat tani janë banorë vendas që […]",
+      "published": "Wed, 15 Apr 2026 02:00:07 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950770",
+      "fetched_at": "2026-04-15T02:27:17.108506",
+      "ai_summary": "Dielli po perëndon në Pálpite, një qytet i vogël në buzë të kënetës së madhe Zapata të Kubës, kur papritmas rruga mbushet me aktivitet. Por jo me gaforret e kuqe të tokës që dikur tërhiqnin qindra mij..."
+    },
+    {
+      "title": "Qindra të zhdukur pas përmbytjes së një varke me refugjatë në Detin Andaman",
+      "link": "https://www.balkanweb.com/qindra-te-zhdukur-pas-permbytjes-se-nje-varke-me-refugjate-ne-detin-andaman/",
+      "description": "Të paktën 250 persona, përfshirë gra dhe fëmijë, rezultojnë të zhdukur pasi një varkë u përmbys në Detin Andaman pranë brigjeve të Bangladeshit. Sipas raportimeve, pasagjerët në anije ishin refugjatë Rohingya, si dhe qytetarë të Bangladeshit. Anija u nis nga Teknaf në Bangladeshin jugor dhe u drejtua drejt Malajzisë. Sipas informacioneve paraprake, shkaku i aksidentit […]",
+      "published": "Wed, 15 Apr 2026 01:45:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950783",
+      "fetched_at": "2026-04-15T02:27:17.108580",
+      "ai_summary": "Të paktën 250 persona, përfshirë gra dhe fëmijë, rezultojnë të zhdukur pasi një varkë u përmbys në Detin Andaman pranë brigjeve të Bangladeshit. Sipas raportimeve, pasagjerët në anije ishin refugjatë ..."
+    },
+    {
+      "title": "Policia nigeriane arreston një bandë prej 33 personash për rrëmbime në kisha",
+      "link": "https://www.balkanweb.com/policia-nigeriane-arreston-nje-bande-prej-33-personash-per-rrembime-ne-kisha/",
+      "description": "Policia nigeriane tha të martën se kishte arrestuar një bandë prej 33 personash të dyshuar për përfshirje në rrëmbimin e 38 personave nga një kishë në nëntor. Sulmi ndaj Kishës Apostolike të Krishtit në qytetin Euruku, në shtetin qendror të Kwara, bëri bujë kur u kap gjatë një transmetimi të drejtpërdrejtë online të shërbesave, me […]",
+      "published": "Wed, 15 Apr 2026 01:30:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950766",
+      "fetched_at": "2026-04-15T02:27:17.108647",
+      "ai_summary": "Policia nigeriane tha të martën se kishte arrestuar një bandë prej 33 personash të dyshuar për përfshirje në rrëmbimin e 38 personave nga një kishë në nëntor. Sulmi ndaj Kishës Apostolike të Krishtit ..."
+    },
+    {
+      "title": "WSJ: Plani evropian për Ngushticën e Hormuzit pa SHBA-në",
+      "link": "https://www.balkanweb.com/wsj-plani-evropian-per-ngushticen-e-hormuzit-pa-shba-ne/",
+      "description": "Vendet evropiane po punojnë mbi një plan për të formuar një aleancë të gjerë ndërkombëtare që do të ndihmonte në rivendosjen e lundrimit në Ngushticën e Hormuzit , duke përfshirë dërgimin e minapastruesve dhe anijeve të tjera ushtarake. Megjithatë, plani synon të zbatohet vetëm pas përfundimit të luftës dhe mund të përjashtojë një vend në […]",
+      "published": "Wed, 15 Apr 2026 01:15:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950794",
+      "fetched_at": "2026-04-15T02:27:17.108710",
+      "ai_summary": "Vendet evropiane po punojnë mbi një plan për të formuar një aleancë të gjerë ndërkombëtare që do të ndihmonte në rivendosjen e lundrimit në Ngushticën e Hormuzit , duke përfshirë dërgimin e minapastru..."
+    },
+    {
+      "title": "Presidenti i SHBA-së, Donald Trump: Meloni nuk ka ‘guxim’ në luftën me Iranin",
+      "link": "https://www.balkanweb.com/presidenti-i-shba-se-donald-trump-meloni-nuk-ka-guxim-ne-luften-me-iranin/",
+      "description": "Presidenti i SHBA-së, Donald Trump, të martën lëshoi ​​një kritikë të ashpër ndaj kryeministres italiane, Giorgia Meloni, një nga aleatet e tij kryesore evropiane, për shkak të mosgatishmërisë së saj për t’u bashkuar me luftën e Iranit. “Jam i shokuar prej saj. Mendova se kishte guxim, por gabohesha”, tha ai në një intervistë me të […]",
+      "published": "Wed, 15 Apr 2026 01:00:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950757",
+      "fetched_at": "2026-04-15T02:27:17.108768",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, të martën lëshoi ​​një kritikë të ashpër ndaj kryeministres italiane, Giorgia Meloni, një nga aleatet e tij kryesore evropiane, për shkak të mosgatishmërisë së saj ..."
+    },
+    {
+      "title": "Zyrtari i OKB-së paralajmëron se lufta në Sudan është ‘e bllokuar në cikël’, ndërsa mizoritë shtohen në 3-vjeçarin e fundit",
+      "link": "https://www.balkanweb.com/zyrtari-i-okb-se-paralajmeron-se-lufta-ne-sudan-eshte-e-bllokuar-ne-cikel-ndersa-mizorite-shtohen-ne-3-vjecarin-e-fundit/",
+      "description": "Zyrtari më i lartë humanitar i OKB -së në Sudan paralajmëroi se lufta e vendit ka rënë në një cikël shkatërrues dhune dhe vuajtjesh të përsëritura , ndërsa konflikti shënon përvjetorin e tretë. “Ndërsa po përfundojmë vitin e tretë të luftës, doja të komentoja se në Sudan po përsëritet dhuna seksuale, zhvendosja, vdekjet. Pra, e […]",
+      "published": "Wed, 15 Apr 2026 00:45:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950800",
+      "fetched_at": "2026-04-15T02:27:17.108843",
+      "ai_summary": "Zyrtari më i lartë humanitar i OKB -së në Sudan paralajmëroi se lufta e vendit ka rënë në një cikël shkatërrues dhune dhe vuajtjesh të përsëritura , ndërsa konflikti shënon përvjetorin e tretë. “Ndërs..."
+    },
+    {
+      "title": "Kolumbia nis planin për të shfarosur popullatën pushtuese të hipopotamëve",
+      "link": "https://www.balkanweb.com/kolumbia-nis-planin-per-te-shfarosur-popullaten-pushtuese-te-hipopotameve/",
+      "description": "Ministria e Mjedisit dhe Zhvillimit të Qëndrueshëm e Kolumbisë nisi një plan për të shfarosur popullatën e hipopotamëve të vendit për herë të parë në 40 vjet. Qeveria ka ndarë rreth 7.2 miliardë peso kolumbiane (rreth 2 milionë dollarë amerikanë) për të zbatuar planin duke filluar nga gjysma e dytë e vitit 2026, tha Ministrja […]",
+      "published": "Wed, 15 Apr 2026 00:40:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950807",
+      "fetched_at": "2026-04-15T02:27:17.108913",
+      "ai_summary": "Ministria e Mjedisit dhe Zhvillimit të Qëndrueshëm e Kolumbisë nisi një plan për të shfarosur popullatën e hipopotamëve të vendit për herë të parë në 40 vjet. Qeveria ka ndarë rreth 7.2 miliardë peso ..."
+    },
+    {
+      "title": "Italia pezullon marrëveshjen e bashkëpunimit në mbrojtje me Izraelin",
+      "link": "https://www.balkanweb.com/italia-pezullon-marreveshjen-e-bashkepunimit-ne-mbrojtje-me-izraelin/",
+      "description": "Kryeministrja e Italisë, Giorgia Meloni, tha të martën se qeveria e saj kishte pezulluar një marrëveshje bashkëpunimi në mbrojtje me Izraelin, duke reflektuar lidhjet e tensionuara midis aleatëve të ngushtë, ndërsa konfliktet në Lindjen e Mesme vazhdojnë. Qeveria e krahut të djathtë e Melonit ka qenë një nga miqtë më të ngushtë të Izraelit në […]",
+      "published": "Wed, 15 Apr 2026 00:30:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950763",
+      "fetched_at": "2026-04-15T02:27:17.108975",
+      "ai_summary": "Kryeministrja e Italisë, Giorgia Meloni, tha të martën se qeveria e saj kishte pezulluar një marrëveshje bashkëpunimi në mbrojtje me Izraelin, duke reflektuar lidhjet e tensionuara midis aleatëve të n..."
+    },
+    {
+      "title": "Zelensky: Ukraina dhe Gjermania kanë rinisur konsultimet ndërqeveritare pas 22 vitesh",
+      "link": "https://www.balkanweb.com/zelensky-ukraina-dhe-gjermania-kane-rinisur-konsultimet-nderqeveritare-pas-22-vitesh/",
+      "description": "Ukraina dhe Gjermania kanë rinisur formatin e konsultimeve ndërqeveritare në nivel udhëheqësish pas një ndërprerjeje 22-vjeçare. Presidenti ukrainas Volodymyr Zelensky e bëri këtë deklaratë pas takimit të tij me Kancelarin gjerman Friedrich Merz. Si pjesë e vizitës së Zelensky-t në Berlin, u nënshkruan 10 dokumente, duke vendosur marrëveshje midis dy vendeve në shumë fusha. “Deklarata […]",
+      "published": "Wed, 15 Apr 2026 00:15:43 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2950786",
+      "fetched_at": "2026-04-15T02:27:17.109032",
+      "ai_summary": "Ukraina dhe Gjermania kanë rinisur formatin e konsultimeve ndërqeveritare në nivel udhëheqësish pas një ndërprerjeje 22-vjeçare. Presidenti ukrainas Volodymyr Zelensky e bëri këtë deklaratë pas takimi..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
