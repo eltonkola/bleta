@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-16",
+  "timestamp": "2026-04-16T02:34:11.215309",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Irani kërcënon se do të fundosë anijet amerikane nëse ato përpiqen të kontrollojnë Ngushticën e Hormuzit",
+      "link": "https://www.balkanweb.com/irani-kercenon-se-do-te-fundose-anijet-amerikane-nese-ato-perpiqen-te-kontrollojne-ngushticen-e-hormuzit/",
+      "description": "Një këshilltar ushtarak i Udhëheqësit Suprem të Iranit , Ajatollah Ali Khamenei, kërcënoi të mërkurën se forcat e armatosura të Republikës Islamike do të “fundosin” anijet luftarake amerikane nëse ato përpiqen të “ruajnë nën kontroll” Ngushticën e Hormuzit . “Z. Trump dëshiron të ruajë Ngushticën e Hormuzit. A është kjo vërtet puna juaj? A është […]",
+      "published": "Thu, 16 Apr 2026 02:15:49 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951589",
+      "fetched_at": "2026-04-16T02:34:04.784893",
+      "ai_summary": "Një këshilltar ushtarak i Udhëheqësit Suprem të Iranit , Ajatollah Ali Khamenei, kërcënoi të mërkurën se forcat e armatosura të Republikës Islamike do të “fundosin” anijet luftarake amerikane nëse ato..."
+    },
+    {
+      "title": "Bessant: SHBA-të nuk do ta zgjasin pezullimin e sanksioneve për naftën ruse në rezervuarët e anijeve",
+      "link": "https://www.balkanweb.com/bessant-shba-te-nuk-do-ta-zgjasin-pezullimin-e-sanksioneve-per-naften-ruse-ne-rezervuaret-e-anijeve/",
+      "description": "Qeveria e SHBA-së nuk do të zgjasë një përjashtim të përkohshëm nga sanksionet që lejon shitjen e naftës ruse të ruajtur në rezervuarët e anijeve në det, tha të mërkurën Sekretari i Thesarit i SHBA-së, Scott Bessant , në një veprim të lidhur me përpjekjet për të kontrolluar çmimet e energjisë mes tensioneve gjeopolitike. Scott […]",
+      "published": "Thu, 16 Apr 2026 02:00:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951559",
+      "fetched_at": "2026-04-16T02:34:04.785060",
+      "ai_summary": "Qeveria e SHBA-së nuk do të zgjasë një përjashtim të përkohshëm nga sanksionet që lejon shitjen e naftës ruse të ruajtur në rezervuarët e anijeve në det, tha të mërkurën Sekretari i Thesarit i SHBA-së..."
+    },
+    {
+      "title": "Regjimi iranian pritet të dënojë me vdekje çiftin për pjesëmarrje në protestat e janarit",
+      "link": "https://www.balkanweb.com/regjimi-iranian-pritet-te-denoje-me-vdekje-ciftin-per-pjesemarrje-ne-protestat-e-janarit/",
+      "description": "Regjimi iranian po përgatitet të ekzekutojë gruan e parë për pjesëmarrje në protestat e janarit, një nga afërsisht 1,600 të dënuarit me vdekje nga Republika Islamike vitin e kaluar. Bita Hemati u dënua me vdekje me varje për një sërë akuzash, duke përfshirë përdorimin e eksplozivëve dhe armëve, hedhjen e objekteve si blloqe betoni, pjesëmarrjen […]",
+      "published": "Thu, 16 Apr 2026 01:30:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951555",
+      "fetched_at": "2026-04-16T02:34:04.785144",
+      "ai_summary": "Regjimi iranian po përgatitet të ekzekutojë gruan e parë për pjesëmarrje në protestat e janarit, një nga afërsisht 1,600 të dënuarit me vdekje nga Republika Islamike vitin e kaluar. Bita Hemati u dënu..."
+    },
+    {
+      "title": "Italia do të ndajë 30 milionë euro ndihmë humanitare për Sudanin",
+      "link": "https://www.balkanweb.com/italia-do-te-ndaje-30-milione-euro-ndihme-humanitare-per-sudanin/",
+      "description": "Italia ka njoftuar një paketë shtesë ndihme humanitare prej 30 milionë eurosh për të mbështetur Sudanin, i cili po përjeton një krizë të rëndë mes një lufte civile. Zëvendëskryeministri dhe Ministri i Jashtëm italian Antonio Tajani e bëri të ditur këtë në rrjetin social “X” në lidhje me rezultatet e pjesëmarrjes së tij në konferencën […]",
+      "published": "Thu, 16 Apr 2026 01:15:33 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951583",
+      "fetched_at": "2026-04-16T02:34:04.785225",
+      "ai_summary": "Italia ka njoftuar një paketë shtesë ndihme humanitare prej 30 milionë eurosh për të mbështetur Sudanin, i cili po përjeton një krizë të rëndë mes një lufte civile. Zëvendëskryeministri dhe Ministri i..."
+    },
+    {
+      "title": "‘Nuk do të dorëzohem’: Starmer i përgjigjet kërcënimit të Trump për të anuluar marrëveshjen tregtare Britani-SHBA",
+      "link": "https://www.balkanweb.com/nuk-do-te-dorezohem-starmer-i-pergjigjet-kercenimit-te-trump-per-te-anuluar-marreveshjen-tregtare-britani-shba/",
+      "description": "Kryeministri britanik Keir Starmer tha të mërkurën se nuk do të “dorëzohet” para presionit për t’u bashkuar me luftën e Iranit, pasi Presidenti i SHBA-së Donald Trump kërcënoi të anulojë një marrëveshje tregtare me Mbretërinë e Bashkuar. «Nuk do të përfshihemi në këtë luftë. Nuk është lufta jonë», i tha Starmer parlamentit. “Nuk do të […]",
+      "published": "Thu, 16 Apr 2026 01:00:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951551",
+      "fetched_at": "2026-04-16T02:34:04.785309",
+      "ai_summary": "Kryeministri britanik Keir Starmer tha të mërkurën se nuk do të “dorëzohet” para presionit për t’u bashkuar me luftën e Iranit, pasi Presidenti i SHBA-së Donald Trump kërcënoi të anulojë një marrëvesh..."
+    },
+    {
+      "title": "Fituesja e Çmimit Nobel, Nargis Mohammadi, në gjendje “kritike” pasi pësoi atak në zemër në burg",
+      "link": "https://www.balkanweb.com/fituesja-e-cmimit-nobel-nargis-mohammadi-ne-gjendje-kritike-pasi-pesoi-atak-ne-zemer-ne-burg/",
+      "description": "Laureatja e burgosur iraniane e Çmimit Nobel për Paqen (2023), Nargis Mohammadi, është në gjendje “kritike” pasi pësoi një atak në zemër, njoftoi të mërkurën vëllai i aktivistes 53-vjeçare për të drejtat e grave dhe heqjen e dënimit me vdekje. Hamidreza Mohammadi tha nëpërmjet X se motra e tij është jashtëzakonisht e dobët pasi pësoi […]",
+      "published": "Thu, 16 Apr 2026 00:45:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951595",
+      "fetched_at": "2026-04-16T02:34:04.785397",
+      "ai_summary": "Laureatja e burgosur iraniane e Çmimit Nobel për Paqen (2023), Nargis Mohammadi, është në gjendje “kritike” pasi pësoi një atak në zemër, njoftoi të mërkurën vëllai i aktivistes 53-vjeçare për të drej..."
+    },
+    {
+      "title": "Dy të arrestuar për tentativë zjarrvënieje në një sinagogë në Londër",
+      "link": "https://www.balkanweb.com/dy-te-arrestuar-per-tentative-zjarrvenieje-ne-nje-sinagoge-ne-londer/",
+      "description": "Dy persona janë arrestuar në lidhje me një tentativë sulmi me zjarrvënie në një sinagogë në veri të Londrës, tha të mërkurën Policia Metropolitane. Incidenti po trajtohet si një krim urrejtjeje antisemite, tha policia në një deklaratë. Një grua 47-vjeçare dhe një burrë 46-vjeçar u arrestuan me dyshimin për zjarrvënie të qëllimshme që rrezikoi jetën, […]",
+      "published": "Thu, 16 Apr 2026 00:30:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951586",
+      "fetched_at": "2026-04-16T02:34:04.785479",
+      "ai_summary": "Dy persona janë arrestuar në lidhje me një tentativë sulmi me zjarrvënie në një sinagogë në veri të Londrës, tha të mërkurën Policia Metropolitane. Incidenti po trajtohet si një krim urrejtjeje antise..."
+    },
+    {
+      "title": "Netanyahu: Ushtria izraelite vazhdon sulmet kundër Hezbollahut",
+      "link": "https://www.balkanweb.com/netanyahu-ushtria-izraelite-vazhdon-sulmet-kunder-hezbollahut/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu tha të mërkurën se ushtria po vazhdonte sulmet kundër Hezbollahut dhe ishte afër “shkatërrimit” të Bind Jbeil, ndërsa presioni u rrit për një armëpushim midis Izraelit dhe Libanit. Në një deklaratë të filmuar, Netanyahu tha se i kishte urdhëruar ushtrisë të vazhdonte përforcimin e zonës së sigurisë në Libanin jugor. Ai […]",
+      "published": "Thu, 16 Apr 2026 00:15:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951572",
+      "fetched_at": "2026-04-16T02:34:04.785560",
+      "ai_summary": "Kryeministri izraelit Benjamin Netanyahu tha të mërkurën se ushtria po vazhdonte sulmet kundër Hezbollahut dhe ishte afër “shkatërrimit” të Bind Jbeil, ndërsa presioni u rrit për një armëpushim midis ..."
+    },
+    {
+      "title": "Trump: Kryeministri i ri i Hungarisë, Peter Magyar do të “bëjë një punë të mirë”",
+      "link": "https://www.balkanweb.com/trump-kryeministri-i-ri-i-hungarise-peter-magyar-do-te-beje-nje-pune-te-mire/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha se kryeministri i ri i Hungarisë, Peter Magyar, “do të bëjë një punë të mirë”, edhe pse ai e kishte mbështetur fuqimisht kryeministrin në largim Viktor Orban , ashtu si edhe zëvendëspresidenti J.D. Vance . Ai madje i tha Jonathan Karl të ABC News se Magyar “është një njeri […]",
+      "published": "Thu, 16 Apr 2026 00:00:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951545",
+      "fetched_at": "2026-04-16T02:34:04.785636",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se kryeministri i ri i Hungarisë, Peter Magyar, “do të bëjë një punë të mirë”, edhe pse ai e kishte mbështetur fuqimisht kryeministrin në largim Viktor Orban , ..."
+    },
+    {
+      "title": "Papa Leo i bën thirrje Kamerunit t’u rezistojë “tekave të të fuqishmëve”",
+      "link": "https://www.balkanweb.com/papa-leo-i-ben-thirrje-kamerunit-tu-rezistoje-tekave-te-te-fuqishmeve/",
+      "description": "Të drejtat e njeriut , lufta kundër korrupsionit dhe abuzimit me pushtetin: Papa Leo XIV u dërgoi sot një mesazh të fortë politik autoriteteve të Kamerunit , duke u bërë thirrje atyre të “shqyrtojnë ndërgjegjen e tyre”, në ditën e parë të vizitës së tij zyrtare në vend. Në prani të Presidentit 93-vjeçar Paul Biya […]",
+      "published": "Wed, 15 Apr 2026 23:30:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2951548",
+      "fetched_at": "2026-04-16T02:34:04.785748",
+      "ai_summary": "Të drejtat e njeriut , lufta kundër korrupsionit dhe abuzimit me pushtetin: Papa Leo XIV u dërgoi sot një mesazh të fortë politik autoriteteve të Kamerunit , duke u bërë thirrje atyre të “shqyrtojnë n..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
