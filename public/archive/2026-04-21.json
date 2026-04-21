@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-21",
+  "timestamp": "2026-04-21T02:30:58.823705",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Tre të vdekur nga bombardimet e reja izraelite në Gaza",
+      "link": "https://www.balkanweb.com/tre-te-vdekur-nga-bombardimet-e-reja-izraelite-ne-gaza/",
+      "description": "Tre persona u vranë në një sulm ajror izraelit në veriperëndim të Khan Younis në Rripin jugor të Gazës gjatë natës, tha një zëdhënës i mbrojtjes civile për AFP-në. Avionë ushtarakë izraelitë fluturuan mbi Rripin e Gazës gjatë natës, njoftuan gazetarët e AFP-së. Enklava palestineze ka pësuar shkatërrime masive që nga lufta që shpërtheu më […]",
+      "published": "Tue, 21 Apr 2026 02:15:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954922",
+      "fetched_at": "2026-04-21T02:30:52.918554",
+      "ai_summary": "Tre persona u vranë në një sulm ajror izraelit në veriperëndim të Khan Younis në Rripin jugor të Gazës gjatë natës, tha një zëdhënës i mbrojtjes civile për AFP-në. Avionë ushtarakë izraelitë fluturuan..."
+    },
+    {
+      "title": "Zelensky: Tërheqja e ushtrisë ukrainase nga Donbasi do të ishte një disfatë strategjike",
+      "link": "https://www.balkanweb.com/zelensky-terheqja-e-ushtrise-ukrainase-nga-donbasi-do-te-ishte-nje-disfate-strategjike/",
+      "description": "Tërheqja e ushtrisë ukrainase nga Donbasi do të ishte një disfatë strategjike për Kievin. Kjo është deklaruar nga Presidenti ukrainas Volodymyr Zelensky. Sipas tij, një hap i tillë do të dobësonte mbrojtjen dhe pozicionet e Forcave të Armatosura, duke përfshirë fortifikimet dhe vijën e frontit. “Ata duan që ne të tërhiqemi nga rajonet Luhansk dhe […]",
+      "published": "Tue, 21 Apr 2026 02:00:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954874",
+      "fetched_at": "2026-04-21T02:30:52.918719",
+      "ai_summary": "Tërheqja e ushtrisë ukrainase nga Donbasi do të ishte një disfatë strategjike për Kievin. Kjo është deklaruar nga Presidenti ukrainas Volodymyr Zelensky. Sipas tij, një hap i tillë do të dobësonte mbr..."
+    },
+    {
+      "title": "OKB heton akuzat për abuzim seksual nga anëtarët e forcës shumëkombëshe në Haiti",
+      "link": "https://www.balkanweb.com/okb-heton-akuzat-per-abuzim-seksual-nga-anetaret-e-forces-shumekombeshe-ne-haiti/",
+      "description": "OKB-ja është informuar për katër akuza për “shfrytëzim dhe sulm seksual” që u atribuohen anëtarëve të forcës shumëkombëshe të udhëhequr nga Kenia që vepronte në Haiti, konfirmoi të hënën zëdhënësi i sekretarit të përgjithshëm të OKB-së, Stephane Dujarric. Edhe pse forca shumëkombëshe e mbështetjes së sigurisë e vendosur në vitin 2024 dhe që tani ka […]",
+      "published": "Tue, 21 Apr 2026 01:45:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954907",
+      "fetched_at": "2026-04-21T02:30:52.918807",
+      "ai_summary": "OKB-ja është informuar për katër akuza për “shfrytëzim dhe sulm seksual” që u atribuohen anëtarëve të forcës shumëkombëshe të udhëhequr nga Kenia që vepronte në Haiti, konfirmoi të hënën zëdhënësi i s..."
+    },
+    {
+      "title": "Në El Salvador ka filluar gjyqi i 500 të pandehurve të akuzuar për drejtimin e bandës Mara Salvatrucha",
+      "link": "https://www.balkanweb.com/ne-el-salvador-ka-filluar-gjyqi-i-500-te-pandehurve-te-akuzuar-per-drejtimin-e-bandes-mara-salvatrucha/",
+      "description": "Departamenti i Drejtësisë në El Salvador filloi të hënën gjyqin e 492 anëtarëve të dyshuar të bandës Mara Salvatrucha (MS-13), përfshirë bashkëthemeluesit dhe udhëheqësit e saj. Autoritetet akuzojnë bandën, ndër krime të tjera, për urdhërimin e vrasjes së 87 personave gjatë një fundjave në mars të vitit 2022. Zyra e prokurorit tha se 486 nga […]",
+      "published": "Tue, 21 Apr 2026 01:30:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954896",
+      "fetched_at": "2026-04-21T02:30:52.918887",
+      "ai_summary": "Departamenti i Drejtësisë në El Salvador filloi të hënën gjyqin e 492 anëtarëve të dyshuar të bandës Mara Salvatrucha (MS-13), përfshirë bashkëthemeluesit dhe udhëheqësit e saj. Autoritetet akuzojnë b..."
+    },
+    {
+      "title": "Mesazhi i Ghalibaf për Trumpin: Ne nuk negociojmë nën hijen e kërcënimeve",
+      "link": "https://www.balkanweb.com/mesazhi-i-ghalibaf-per-trumpin-ne-nuk-negociojme-nen-hijen-e-kercenimeve/",
+      "description": "Irani nuk do të negociojë nën hijen e kërcënimeve, tha Kryetari i Parlamentit Mohammad Bagher Ghalibaf, ndërsa po bëhen përpjekje për të ulur SHBA-në dhe Iranin në tryezën e negociatave në Pakistan. Në një postim në mesnatë të hënën, ai shkroi: “Trump, duke imponuar një rrethim dhe duke shkelur armëpushimin, kërkon ta shndërrojë këtë tryezë […]",
+      "published": "Tue, 21 Apr 2026 01:30:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954871",
+      "fetched_at": "2026-04-21T02:30:52.918964",
+      "ai_summary": "Irani nuk do të negociojë nën hijen e kërcënimeve, tha Kryetari i Parlamentit Mohammad Bagher Ghalibaf, ndërsa po bëhen përpjekje për të ulur SHBA-në dhe Iranin në tryezën e negociatave në Pakistan. N..."
+    },
+    {
+      "title": "OKB-ja dhe BE-ja vlerësojnë se nevojat për rindërtim në Gaza janë 71.4 miliardë dollarë gjatë 10 viteve të ardhshme",
+      "link": "https://www.balkanweb.com/okb-ja-dhe-be-ja-vleresojne-se-nevojat-per-rindertim-ne-gaza-jane-71-4-miliarde-dollare-gjate-10-viteve-te-ardhshme/",
+      "description": "Kombet e Bashkuara dhe Bashkimi Evropian njoftuan sot se vlerësojnë nevojat e rindërtimit në Gaza gjatë 10 viteve të ardhshme në 71.4 miliardë dollarë , sipas një studimi që ata kryen së bashku me Bankën Botërore. “Dëmi, humbjet ekonomike dhe nevojat për rehabilitim dhe rindërtim të Gazës pas 24 muajsh konflikti” vlerësohen në 71.4 miliardë […]",
+      "published": "Tue, 21 Apr 2026 01:00:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954868",
+      "fetched_at": "2026-04-21T02:30:52.919046",
+      "ai_summary": "Kombet e Bashkuara dhe Bashkimi Evropian njoftuan sot se vlerësojnë nevojat e rindërtimit në Gaza gjatë 10 viteve të ardhshme në 71.4 miliardë dollarë , sipas një studimi që ata kryen së bashku me Ban..."
+    },
+    {
+      "title": "Hungaria njofton se furnizimet me naftë me Druzhba do të rifillojnë sot",
+      "link": "https://www.balkanweb.com/hungaria-njofton-se-furnizimet-me-nafte-me-druzhba-do-te-rifillojne-sot/",
+      "description": "Autoritetet hungareze kanë njoftuar se transporti i naftës ruse në vend nëpërmjet tubacionit Druzhba do të rifillojë në mesditë më 21 prill. Ministri hungarez për Çështjet e Bashkimit Evropian, Janos Boka, e njoftoi këtë në faqen e tij në Facebook. Sipas tij, skenari më i mundshëm është një deklaratë nga pala ukrainase mbi rikthimin e […]",
+      "published": "Tue, 21 Apr 2026 00:45:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954899",
+      "fetched_at": "2026-04-21T02:30:52.919181",
+      "ai_summary": "Autoritetet hungareze kanë njoftuar se transporti i naftës ruse në vend nëpërmjet tubacionit Druzhba do të rifillojë në mesditë më 21 prill. Ministri hungarez për Çështjet e Bashkimit Evropian, Janos ..."
+    },
+    {
+      "title": "Më shumë se 200 turistë mbetën të bllokuar në majën e malit Mogo Dos Irmaos në Rio de Janeiro",
+      "link": "https://www.balkanweb.com/me-shume-se-200-turiste-mbeten-te-bllokuar-ne-majen-e-malit-mogo-dos-irmaos-ne-rio-de-janeiro/",
+      "description": "Më shumë se 200 turistë mbetën të bllokuar të hënën në mëngjes në majën e një mali në Rio de Janeiro, ku ishin ngjitur për të admiruar lindjen e diellit, kur shpërthyen përleshje midis policisë dhe anëtarëve të bandave në një favelë aty pranë. Turistët pritën gati dy orë për të zbritur nga maja e […]",
+      "published": "Tue, 21 Apr 2026 00:45:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954889",
+      "fetched_at": "2026-04-21T02:30:52.919275",
+      "ai_summary": "Më shumë se 200 turistë mbetën të bllokuar të hënën në mëngjes në majën e një mali në Rio de Janeiro, ku ishin ngjitur për të admiruar lindjen e diellit, kur shpërthyen përleshje midis policisë dhe an..."
+    },
+    {
+      "title": "Franca dhe Polonia po ndërtojnë një satelit ushtarak telekomunikacioni",
+      "link": "https://www.balkanweb.com/franca-dhe-polonia-po-ndertojne-nje-satelit-ushtarak-telekomunikacioni/",
+      "description": "Franca dhe Polonia do të ndërtojnë së bashku një satelit telekomunikacioni për ushtrinë polake , njoftuan sot kompanitë e përfshira në projekt, ndërsa Parisi dhe Varshava forcojnë lidhjet e tyre ekonomike dhe mbrojtëse. Thales Alenia Space, Airbus Defence and Space dhe RADMOR e Polonisë do të zhvillojnë një satelit në orbitën gjeostacionare për të mbështetur […]",
+      "published": "Tue, 21 Apr 2026 00:30:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954864",
+      "fetched_at": "2026-04-21T02:30:52.919354",
+      "ai_summary": "Franca dhe Polonia do të ndërtojnë së bashku një satelit telekomunikacioni për ushtrinë polake , njoftuan sot kompanitë e përfshira në projekt, ndërsa Parisi dhe Varshava forcojnë lidhjet e tyre ekono..."
+    },
+    {
+      "title": "Irani refuzon të negociojë me SHBA-në mes presionit dhe kërcënimeve",
+      "link": "https://www.balkanweb.com/irani-refuzon-te-negocioje-me-shba-ne-mes-presionit-dhe-kercenimeve/",
+      "description": "Irani nuk do të shqyrtojë negociatat me Shtetet e Bashkuara nëse Uashingtoni vazhdon të përdorë gjuhë kërcënuese. Këtë e deklaroi Kryetari i Parlamentit, Mohammad Bagher Ghalibaf. Ai tha se Presidenti i SHBA-së, Donald Trump, po përpiqet ta paraqesë procesin e negociatave si një formë të dorëzimit të detyruar, por Teherani e konsideron një qasje të […]",
+      "published": "Tue, 21 Apr 2026 00:15:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2954910",
+      "fetched_at": "2026-04-21T02:30:52.919436",
+      "ai_summary": "Irani nuk do të shqyrtojë negociatat me Shtetet e Bashkuara nëse Uashingtoni vazhdon të përdorë gjuhë kërcënuese. Këtë e deklaroi Kryetari i Parlamentit, Mohammad Bagher Ghalibaf. Ai tha se Presidenti..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
