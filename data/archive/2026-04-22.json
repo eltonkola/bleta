@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-22",
+  "timestamp": "2026-04-22T02:29:23.917177",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "SHBA-të mund të ofrojnë ndihmë financiare për vendet e Gjirit Persik",
+      "link": "https://www.balkanweb.com/shba-te-mund-te-ofrojne-ndihme-financiare-per-vendet-e-gjirit-persik/",
+      "description": "Shtetet e Bashkuara mund të ofrojnë ndihmë financiare për vendet e Gjirit Persik që mbështesin Uashingtonin në luftën me Iranin. Presidenti i SHBA-së Donald Trump e tha këtë në një intervistë me CNBC. Sipas tij, Uashingtoni mund të ofrojë mbështetje financiare për vendet e Gjirit Persik, të cilat veprojnë si aleatë të besueshëm përballë një […]",
+      "published": "Wed, 22 Apr 2026 02:15:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955650",
+      "fetched_at": "2026-04-22T02:29:17.631664",
+      "ai_summary": "Shtetet e Bashkuara mund të ofrojnë ndihmë financiare për vendet e Gjirit Persik që mbështesin Uashingtonin në luftën me Iranin. Presidenti i SHBA-së Donald Trump e tha këtë në një intervistë me CNBC...."
+    },
+    {
+      "title": "Kryeministri pakistanez Shehbaz Sharif falënderon Donald Trump për zgjatjen e armëpushimit",
+      "link": "https://www.balkanweb.com/kryeministri-pakistanez-shehbaz-sharif-falenderon-donald-trump-per-zgjatjen-e-armepushimit/",
+      "description": "Kryeministri pakistanez Shehbaz Sharif falënderoi Donald Trump për vendimin për të zgjatur armëpushimin, ndërsa shprehu shpresë për një marrëveshje. Në postimin e tij, ai deklaroi se, “në emër të Marshall Asim Munir “, e falënderoi presidentin amerikan për pranimin e kërkesës për zgjatje, në mënyrë që përpjekjet diplomatike të mund të vazhdonin. Siç vuri në […]",
+      "published": "Wed, 22 Apr 2026 02:00:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955615",
+      "fetched_at": "2026-04-22T02:29:17.631804",
+      "ai_summary": "Kryeministri pakistanez Shehbaz Sharif falënderoi Donald Trump për vendimin për të zgjatur armëpushimin, ndërsa shprehu shpresë për një marrëveshje. Në postimin e tij, ai deklaroi se, “në emër të Mars..."
+    },
+    {
+      "title": "IOM: Rreth 8,000 emigrantë kanë vdekur ose janë zhdukur në mbarë botën në vitin 2025",
+      "link": "https://www.balkanweb.com/iom-rreth-8000-emigrante-kane-vdekur-ose-jane-zhdukur-ne-mbare-boten-ne-vitin-2025/",
+      "description": "Organizata Ndërkombëtare për Migracionin (IOM) tha të martën se gati 8,000 emigrantë u raportuan të vdekur ose të zhdukur në të gjithë botën në vitin 2025, ndërsa përpiqeshin të gjenin siguri ose të kërkonin një të ardhme më të mirë. Maria Moita, drejtoreshë e departamentit të reagimit humanitar dhe rimëkëmbjes së agjencisë, u tha gazetarëve […]",
+      "published": "Wed, 22 Apr 2026 01:45:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955646",
+      "fetched_at": "2026-04-22T02:29:17.631885",
+      "ai_summary": "Organizata Ndërkombëtare për Migracionin (IOM) tha të martën se gati 8,000 emigrantë u raportuan të vdekur ose të zhdukur në të gjithë botën në vitin 2025, ndërsa përpiqeshin të gjenin siguri ose të k..."
+    },
+    {
+      "title": "Ekuadori vendos shtetrrethim në 9 provinca për shkak të rritjes së dhunës nga bandat",
+      "link": "https://www.balkanweb.com/ekuadori-vendos-shtetrrethim-ne-9-provinca-per-shkak-te-rritjes-se-dhunes-nga-bandat/",
+      "description": "Presidenti ekuadoras Daniel Noboa njoftoi një shtetrrethim të ri gjatë natës për nëntë nga 24 provincat e vendit, ndërsa autoritetet përpiqen të përmbajnë një valë të vazhdueshme të krimit të organizuar dhe trafikut të drogës. Masa do të jetë në fuqi nga 3 maji deri më 18 maj, duke vazhduar çdo ditë nga ora 23:00 […]",
+      "published": "Wed, 22 Apr 2026 01:30:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955633",
+      "fetched_at": "2026-04-22T02:29:17.631955",
+      "ai_summary": "Presidenti ekuadoras Daniel Noboa njoftoi një shtetrrethim të ri gjatë natës për nëntë nga 24 provincat e vendit, ndërsa autoritetet përpiqen të përmbajnë një valë të vazhdueshme të krimit të organizu..."
+    },
+    {
+      "title": "Peruja shtyn blerjen e avionëve F-16 nga SHBA-të",
+      "link": "https://www.balkanweb.com/peruja-shtyn-blerjen-e-avioneve-f-16-nga-shba-te/",
+      "description": "Presidenti në detyrë i Perusë, Jose Maria Balcazar, njoftoi të martën se do të shtyjë blerjen e avionëve luftarakë F-16 nga Shtetet e Bashkuara, duke thënë se vendimi do t’i lihet qeverisë së ardhshme, e cila do të marrë detyrën në korrik. Ky zhvillim vjen ndërsa vendi përballet me një balotazh zgjedhjesh presidenciale në qershor, […]",
+      "published": "Wed, 22 Apr 2026 01:15:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955665",
+      "fetched_at": "2026-04-22T02:29:17.632022",
+      "ai_summary": "Presidenti në detyrë i Perusë, Jose Maria Balcazar, njoftoi të martën se do të shtyjë blerjen e avionëve luftarakë F-16 nga Shtetet e Bashkuara, duke thënë se vendimi do t’i lihet qeverisë së ardhshme..."
+    },
+    {
+      "title": "Indi/ 13 të vdekur, 40 të plagosur nga zjarri në një depo fishekzjarrësh",
+      "link": "https://www.balkanweb.com/indi-13-te-vdekur-40-te-plagosur-nga-zjarri-ne-nje-depo-fishekzjarresh/",
+      "description": "Të paktën 13 persona kanë vdekur dhe më shumë se 40 të tjerë janë plagosur në një zjarr që shpërtheu në një depo fishekzjarrësh në Indinë jugore , raportojnë mediat indiane duke cituar policinë lokale. Aksidenti ndodhi në distriktin Thrissur të shtetit Kerala gjatë përgatitjeve për një festival hindu. 🚨 ANOTHER VIDEO Major explosion at […]",
+      "published": "Wed, 22 Apr 2026 01:00:01 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955611",
+      "fetched_at": "2026-04-22T02:29:17.632095",
+      "ai_summary": "Të paktën 13 persona kanë vdekur dhe më shumë se 40 të tjerë janë plagosur në një zjarr që shpërtheu në një depo fishekzjarrësh në Indinë jugore , raportojnë mediat indiane duke cituar policinë lokale..."
+    },
+    {
+      "title": "Shkencëtarët paralajmërojnë se humbja e akullit të detit Arktik tregon rënie sistematike",
+      "link": "https://www.balkanweb.com/shkencetaret-paralajmerojne-se-humbja-e-akullit-te-detit-arktik-tregon-renie-sistematike/",
+      "description": "Akulli detar i Arktikut arriti shtrirjen e tij maksimale vjetore prej 14.29 milionë kilometrash katrorë më 15 mars të këtij viti, pak më poshtë se maksimumi rekord i vitit të kaluar prej 14.31 milionë kilometrash katrorë. Këto të dhëna të reja përforcojnë gjetjet e shkencëtarëve se tendenca në rënie e mbulesës së akullit gjatë dimrit […]",
+      "published": "Wed, 22 Apr 2026 00:45:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955639",
+      "fetched_at": "2026-04-22T02:29:17.632416",
+      "ai_summary": "Akulli detar i Arktikut arriti shtrirjen e tij maksimale vjetore prej 14.29 milionë kilometrash katrorë më 15 mars të këtij viti, pak më poshtë se maksimumi rekord i vitit të kaluar prej 14.31 milionë..."
+    },
+    {
+      "title": "Macron i kërkon Izraelit të heqë dorë nga ambiciet territoriale në Liban",
+      "link": "https://www.balkanweb.com/macron-i-kerkon-izraelit-te-heqe-dore-nga-ambiciet-territoriale-ne-liban/",
+      "description": "Presidenti francez Emmanuel Macron i bëri thirrje të martën Izraelit të “heqë dorë nga ambiciet e tij territoriale”, duke theksuar se një zgjidhje politike është e vetmja rrugë drejt paqes së qëndrueshme, ndërsa priti kryeministrin libanez Nawaf Salam në Pallatin Elysee. Duke folur në një konferencë të përbashkët për shtyp, Macron tha se Izraeli duhet […]",
+      "published": "Wed, 22 Apr 2026 00:30:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955630",
+      "fetched_at": "2026-04-22T02:29:17.632534",
+      "ai_summary": "Presidenti francez Emmanuel Macron i bëri thirrje të martën Izraelit të “heqë dorë nga ambiciet e tij territoriale”, duke theksuar se një zgjidhje politike është e vetmja rrugë drejt paqes së qëndrues..."
+    },
+    {
+      "title": "Reagimi i parë nga Irani: Zgjatja e armëpushimit është një kurth për një sulm të papritur",
+      "link": "https://www.balkanweb.com/reagimi-i-pare-nga-irani-zgjatja-e-armepushimit-eshte-nje-kurth-per-nje-sulm-te-papritur/",
+      "description": "Zgjatja e armëpushimit nga Donald Trump “nuk do të thotë asgjë”, thotë Mahdi Mohammadi, këshilltar i kryetarit të Parlamentit iranian. Siç pohon ai, ” pala humbëse nuk mund të vendosë kushte “, ndërsa shton se vazhdimi i bllokadës “nuk është ndryshe nga bombardimet” dhe duhet të përballet me një përgjigje ushtarake. Në të njëjtën kohë, […]",
+      "published": "Wed, 22 Apr 2026 00:00:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955604",
+      "fetched_at": "2026-04-22T02:29:17.632633",
+      "ai_summary": "Zgjatja e armëpushimit nga Donald Trump “nuk do të thotë asgjë”, thotë Mahdi Mohammadi, këshilltar i kryetarit të Parlamentit iranian. Siç pohon ai, ” pala humbëse nuk mund të vendosë kushte “, ndërsa..."
+    },
+    {
+      "title": "Një burrë i dënuar me vdekje për vrasjen e fqinjit të tij gjatë një grabitjeje në vitin 1990 ekzekutohet në Florida",
+      "link": "https://www.balkanweb.com/nje-burre-i-denuar-me-vdekje-per-vrasjen-e-fqinjit-te-tij-gjate-nje-grabitjeje-ne-vitin-1990-ekzekutohet-ne-florida/",
+      "description": "Një burrë i dënuar me vdekje për vrasjen e fqinjit të tij gjatë një grabitjeje në vitin 1990 u ekzekutua në Florida të martën. Ekzekutimi i Chadwick Willacy, 58 vjeç, u zhvillua në orën 6:15 të mbrëmjes sipas kohës lokale, tha Departamenti i Korrektimeve i shtetit në një deklaratë. Ishte ekzekutimi i tetë në Shtetet […]",
+      "published": "Tue, 21 Apr 2026 23:50:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2955662",
+      "fetched_at": "2026-04-22T02:29:17.632768",
+      "ai_summary": "Një burrë i dënuar me vdekje për vrasjen e fqinjit të tij gjatë një grabitjeje në vitin 1990 u ekzekutua në Florida të martën. Ekzekutimi i Chadwick Willacy, 58 vjeç, u zhvillua në orën 6:15 të mbrëmj..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
