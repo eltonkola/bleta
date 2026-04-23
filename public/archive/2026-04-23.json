@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-23",
+  "timestamp": "2026-04-23T02:32:24.033208",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Ambasada amerikane u bën thirrje amerikanëve të largohen nga Libani",
+      "link": "https://www.balkanweb.com/ambasada-amerikane-u-ben-thirrje-amerikaneve-te-largohen-nga-libani/",
+      "description": "Ambasada e SHBA-së në Bejrut lëshoi ​​një paralajmërim të mërkurën duke i këshilluar qytetarët amerikanë të largohen nga Libani mes një armëpushimi midis ushtrisë izraelite dhe lëvizjes shiite Hezbollah, e lidhur me Iranin. “Ambasada e SHBA-së në Bejrut po monitoron nga afër situatën e sigurisë në Liban”, thuhej në paralajmërimin e ri. “Mjedisi i sigurisë […]",
+      "published": "Thu, 23 Apr 2026 02:15:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956419",
+      "fetched_at": "2026-04-23T02:32:17.966502",
+      "ai_summary": "Ambasada e SHBA-së në Bejrut lëshoi ​​një paralajmërim të mërkurën duke i këshilluar qytetarët amerikanë të largohen nga Libani mes një armëpushimi midis ushtrisë izraelite dhe lëvizjes shiite Hezboll..."
+    },
+    {
+      "title": "Lodra të buta, buzëkuq, pizhame… gjëra që nuk i dinit kurrë se vinin nga vaji",
+      "link": "https://www.balkanweb.com/lodra-te-buta-buzekuq-pizhame-gjera-qe-nuk-i-dinit-kurre-se-vinin-nga-vaji/",
+      "description": "Mund të jetë e vështirë të imagjinohet që lufta kundër Iranit të rëndojë mbi lodrat me emra si Snuggle Glove, Bizzikins dhe Wobblies, por edhe lodrat prej pelushi nuk janë imune kur dërgesat e naftës nga Lindja e Mesme janë të kufizuara. Ashtu si shumë lodra të buta, krijesat e zhvilluara nga një prodhues në […]",
+      "published": "Thu, 23 Apr 2026 02:00:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956379",
+      "fetched_at": "2026-04-23T02:32:17.966692",
+      "ai_summary": "Mund të jetë e vështirë të imagjinohet që lufta kundër Iranit të rëndojë mbi lodrat me emra si Snuggle Glove, Bizzikins dhe Wobblies, por edhe lodrat prej pelushi nuk janë imune kur dërgesat e naftës ..."
+    },
+    {
+      "title": "Më shumë se 600 milionë euro do t’i ndahen Ukrainës për projekte urgjente rindërtimi",
+      "link": "https://www.balkanweb.com/me-shume-se-600-milione-euro-do-ti-ndahen-ukraines-per-projekte-urgjente-rindertimi/",
+      "description": "Komisioni Evropian dhe Grupi i Bankës Evropiane të Investimeve kanë njoftuar një paketë të re financimi me vlerë më shumë se 600 milionë euro për Ukrainën, për të mbështetur projektet urgjente të rimëkëmbjes. Paketa përfshin një zgjatje të garancive të BE-së për Grupin e Bankës Evropiane të Investimeve, e cila do t’i mundësojë vendit të […]",
+      "published": "Thu, 23 Apr 2026 01:45:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956397",
+      "fetched_at": "2026-04-23T02:32:17.966778",
+      "ai_summary": "Komisioni Evropian dhe Grupi i Bankës Evropiane të Investimeve kanë njoftuar një paketë të re financimi me vlerë më shumë se 600 milionë euro për Ukrainën, për të mbështetur projektet urgjente të rimë..."
+    },
+    {
+      "title": "Ushtria izraelite sulmon një objekt të Hezbollahut",
+      "link": "https://www.balkanweb.com/ushtria-izraelite-sulmon-nje-objekt-te-hezbollahut/",
+      "description": "Forcat Mbrojtëse të Izraelit goditën një strukturë ushtarake të grupit radikal Hezbollah në Libanin jugor dhe një automjet që po largohej nga territori i tij. Kjo u raportua në kanalin Telegram të shërbimit për shtyp të ushtrisë. “Ushtria regjistroi dy automjete duke u larguar nga një strukturë ushtarake e përdorur nga Hezbollahu në Libanin jugor. […]",
+      "published": "Thu, 23 Apr 2026 01:30:12 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956382",
+      "fetched_at": "2026-04-23T02:32:17.966861",
+      "ai_summary": "Forcat Mbrojtëse të Izraelit goditën një strukturë ushtarake të grupit radikal Hezbollah në Libanin jugor dhe një automjet që po largohej nga territori i tij. Kjo u raportua në kanalin Telegram të shë..."
+    },
+    {
+      "title": "Britania dhe Franca pakt trevjeçar për të frenuar migrantët pa dokumente që bëjnë udhëtimin e rrezikshëm përmes Kanalit Anglez",
+      "link": "https://www.balkanweb.com/britania-dhe-franca-pakt-trevjecar-per-te-frenuar-migrantet-pa-dokumente-qe-bejne-udhetimin-e-rrezikshem-permes-kanalit-anglez/",
+      "description": "Britania dhe Franca kanë rënë dakord për një marrëveshje të re trevjeçare për të ndaluar migrantët pa dokumente që bëjnë udhëtimin e rrezikshëm përmes Kanalit Anglez, sipas një plani rrugor të ministrisë së brendshme franceze të parë nga AFP të mërkurën. Sipas marrëveshjes, Franca u zotua të rrisë zbatimin e ligjit në bregdet me më […]",
+      "published": "Thu, 23 Apr 2026 01:00:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956376",
+      "fetched_at": "2026-04-23T02:32:17.966951",
+      "ai_summary": "Britania dhe Franca kanë rënë dakord për një marrëveshje të re trevjeçare për të ndaluar migrantët pa dokumente që bëjnë udhëtimin e rrezikshëm përmes Kanalit Anglez, sipas një plani rrugor të ministr..."
+    },
+    {
+      "title": "Trump përgëzon Iranin për anulimin e ekzekutimeve të 8 grave: E vlerësoj shumë që udhëheqësit e tij respektuan kërkesën time",
+      "link": "https://www.balkanweb.com/trump-pergezon-iranin-per-anulimin-e-ekzekutimeve-te-8-grave-e-vleresoj-shume-qe-udheheqesit-e-tij-respektuan-kerkesen-time/",
+      "description": "Presidenti Trump tha të mërkurën se Irani nuk do të ekzekutojë tetë gra iraniane të akuzuara për përfshirje në protesta kundër regjimit, siç ishte planifikuar më parë. “Lajm shumë i mirë! Sapo më njoftuan se tetë protestueset gra që do të ekzekutoheshin sonte në Iran nuk do të vriten më”, shkroi Trump në një postim […]",
+      "published": "Thu, 23 Apr 2026 00:45:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956393",
+      "fetched_at": "2026-04-23T02:32:17.967028",
+      "ai_summary": "Presidenti Trump tha të mërkurën se Irani nuk do të ekzekutojë tetë gra iraniane të akuzuara për përfshirje në protesta kundër regjimit, siç ishte planifikuar më parë. “Lajm shumë i mirë! Sapo më njof..."
+    },
+    {
+      "title": "Sekretari i Thesarit i SHBA-së në favor të shitjes së naftës së sekuestruar iraniane dhe ruse te vendet e cenueshme",
+      "link": "https://www.balkanweb.com/sekretari-i-thesarit-i-shba-se-ne-favor-te-shitjes-se-naftes-se-sekuestruar-iraniane-dhe-ruse-te-vendet-e-cenueshme/",
+      "description": "Sekretari i Thesarit të SHBA-së, Scott Bessant, tha të mërkurën se vendimi i administratës për të lejuar shitjen e naftës ruse dhe iraniane të ruajtur në cisterna për një muaj u mor pas kërkesave nga vendet e cenueshme që janë goditur rëndë nga mungesat e shkaktuara nga bllokada e Ngushticës së Hormuzit. Duke folur para […]",
+      "published": "Thu, 23 Apr 2026 00:30:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956373",
+      "fetched_at": "2026-04-23T02:32:17.967105",
+      "ai_summary": "Sekretari i Thesarit të SHBA-së, Scott Bessant, tha të mërkurën se vendimi i administratës për të lejuar shitjen e naftës ruse dhe iraniane të ruajtur në cisterna për një muaj u mor pas kërkesave nga ..."
+    },
+    {
+      "title": "Kryenegociatori i Iranit: Ngushtica e Hormuzit do të mbetet e mbyllur për sa kohë vazhdon bllokada nga SHBA",
+      "link": "https://www.balkanweb.com/kryenegociatori-i-iranit-ngushtica-e-hormuzit-do-te-mbetet-e-mbyllur-per-sa-kohe-vazhdon-bllokada-nga-shba/",
+      "description": "Irani përjashton rihapjen e Ngushticës së Hormuzit për sa kohë që bllokada amerikane e porteve iraniane mbetet në fuqi, tha kryetari i parlamentit të hënën. Bayer Ghalibaf, negociatori kryesor i Iranit, tha në një postim në Platformën X se një armëpushim i plotë ka kuptim vetëm nëse nuk shkelet nga bllokada amerikane e porteve iraniane. […]",
+      "published": "Thu, 23 Apr 2026 00:00:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956367",
+      "fetched_at": "2026-04-23T02:32:17.967186",
+      "ai_summary": "Irani përjashton rihapjen e Ngushticës së Hormuzit për sa kohë që bllokada amerikane e porteve iraniane mbetet në fuqi, tha kryetari i parlamentit të hënën. Bayer Ghalibaf, negociatori kryesor i Irani..."
+    },
+    {
+      "title": "Wall Street Journal sulmon ambasadorin Tom Barrack në Turqi: Ai minon politikën amerikane",
+      "link": "https://www.balkanweb.com/wall-street-journal-sulmon-ambasadorin-tom-barrack-ne-turqi-ai-minon-politiken-amerikane/",
+      "description": "Ambasadorët amerikanë supozohet të mbrojnë politikën amerikane në vendet ku shërbejnë, jo të mbrojnë vendet pritëse kundër politikës amerikane. Tom Barrack, ambasadori i SHBA-së në Turqi dhe i dërguari për Sirinë, duket se ka nevojë për një kujtesë, vëren gjigandi amerikan i gazetave. Artikulli vëren se njeriu ynë në Stamboll duket se po merr disa […]",
+      "published": "Wed, 22 Apr 2026 23:45:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956389",
+      "fetched_at": "2026-04-23T02:32:17.967260",
+      "ai_summary": "Ambasadorët amerikanë supozohet të mbrojnë politikën amerikane në vendet ku shërbejnë, jo të mbrojnë vendet pritëse kundër politikës amerikane. Tom Barrack, ambasadori i SHBA-së në Turqi dhe i dërguar..."
+    },
+    {
+      "title": "Prokurorët holandezë kërkojnë 30 vjet burg për sirianin e akuzuar për torturim dhe përdhunim të të burgosurve",
+      "link": "https://www.balkanweb.com/prokuroret-holandeze-kerkojne-30-vjet-burg-per-sirianin-e-akuzuar-per-torturim-dhe-perdhunim-te-te-burgosurve/",
+      "description": "Zyra e prokurorit holandez kërkoi një dënim me 30 vjet burg për një burrë sirian të akuzuar për torturim dhe përdhunim të të burgosurve ndërsa ishte anëtar i një grupi paraushtarak që mbështeste qeverinë e ish-Presidentit sirian Bashar al-Assad . Rafik A., 58 vjeç (mbiemri i tij nuk u bë i ditur nga gjykata), akuzohet […]",
+      "published": "Wed, 22 Apr 2026 23:30:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2956364",
+      "fetched_at": "2026-04-23T02:32:17.967334",
+      "ai_summary": "Zyra e prokurorit holandez kërkoi një dënim me 30 vjet burg për një burrë sirian të akuzuar për torturim dhe përdhunim të të burgosurve ndërsa ishte anëtar i një grupi paraushtarak që mbështeste qever..."
+    },
+    {
+      "title": "Haradinaj kritikon ndërhyrjet në Projektligjin për Bordin e Paqes: Padituria në politikën e jashtme rrezikon shtetin",
+      "link": "https://telegrafi.com/haradinaj-kritikon-nderhyrjet-ne-projektligjin-per-bordin-e-paqes-padituria-ne-politiken-e-jashtme-rrezikon-shtetin/",
+      "description": "Ish-ministrja e Punëve të Jashtme, Meliza Haradinaj, ka reaguar ashpër ndaj debatit rreth Projektligjit për anëtarësimin e Kosovës në Bordin e Paqes, duke akuzuar për mungesë njohurie dhe papërgjegjësi institucionale disa përfaqësues politikë që, sipas saj, tentuan të ndryshonin dispozita që burojnë nga akti themelues i organizatës.Në një reagim publik, Haradinaj tha se zhvillimet e javës së kaluar dhe diskutimet në Komisionin për Punë të Jashtme treguan se vendimmarrja në politikën e jashtme nga njerëz pa njohuri profesionale përbën rrezik të drejtpërdrejtë për interesat shtetërore.Sipas saj, përfaqësues të Lëvizja Vetëvendosje kishin insistuar të ndryshonin nenin 2 të projektligjit, duke tentuar t’i përcaktonin vetë Bordit të Paqes zonat ku duhet të angazhohet për zgjidhjen e konflikteve në botë.Haradinaj argumentoi se kjo përbënte keqkuptim themelor të funksionimit të organizatës, duke theksuar se Bordi i Paqes operon mbi një kartë të miratuar nga shtetet themeluese, të udhëhequra nga Shtetet e Bashkuara, dhe se ajo nuk mund të rishkruhet apo interpretohet sipas vullnetit të komisioneve parlamentare.“Ajo Kartë pranohet ose refuzohet. Çdo tentativë për të ndërhyrë në fushëveprimin e organizatës jashtë aktit themelues është thjesht padituri”, ka deklaruar ajo.Sipas Haradinajt, megjithëse propozimet për ndryshim u tërhoqën dhe projektligji kaloi në komision pa asnjë ndryshim, ashtu siç ishte dërguar nga Presidentja më 12 shkurt, dëmi politik tashmë është shkaktuar.Ajo vlerësoi se debatet e krijuara janë interpretuar nga kundërshtarët e Kosovës si sinjal distancimi nga Shtetet e Bashkuara dhe janë përdorur kundër interesave të vendit.Haradinaj kërkoi që në seancën e ardhshme Kuvendi ta ratifikojë projektligjin me votë unanime, duke e cilësuar këtë si akt me peshë të dyfishtë: riafirmim të subjektivitetit ndërkombëtar të Kosovës dhe konfirmim të rreshtimit strategjik me SHBA-në.\"Çdo hezitim në këtë proces mund të lexohet si paqartësi gjeopolitike, ndërsa votimi unanim do të dërgonte mesazh të unitetit shtetëror dhe pozicionimit të qartë të Kosovës në rendin ndërkombëtar\".Ajo shtoi se situata duhet të shërbejë si mësim profesional dhe shtetëror për të gjithë akterët e përfshirë në vendimmarrje.",
+      "published": "Wed, 22 Apr 2026 23:13:25 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/haradinaj-kritikon-nderhyrjet-ne-projektligjin-per-bordin-e-paqes-padituria-ne-politiken-e-jashtme-rrezikon-shtetin/",
+      "fetched_at": "2026-04-23T02:32:20.774734",
+      "ai_summary": "Ish-ministrja e Punëve të Jashtme, Meliza Haradinaj, ka reaguar ashpër ndaj debatit rreth Projektligjit për anëtarësimin e Kosovës në Bordin e Paqes, duke akuzuar për mungesë njohurie dhe papërgjegjës..."
+    }
+  ],
+  "total_articles": 11,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
