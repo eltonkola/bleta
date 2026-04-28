@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-28",
+  "timestamp": "2026-04-28T02:47:54.234620",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Një burrë qëllon për vdekje tre të ftuar në një festë ditëlindjeje në Indi",
+      "link": "https://www.balkanweb.com/nje-burre-qellon-per-vdekje-tre-te-ftuar-ne-nje-feste-ditelindjeje-ne-indi/",
+      "description": "Një burrë që po festonte ditëlindjen në Indi qëlloi dhe vrau tre persona gjatë një feste. Gazeta The Times of India publikoi informacion në lidhje me këtë. Sipas raportimeve, grindja shpërtheu pasi të njohurit u përpoqën t’i hidhnin tortë në fytyrë djalit të ditëlindjes, duke e zemëruar atë. Grindja shpejt u shndërrua në një shkëmbim […]",
+      "published": "Tue, 28 Apr 2026 02:45:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959549",
+      "fetched_at": "2026-04-28T02:47:47.762830",
+      "ai_summary": "Një burrë që po festonte ditëlindjen në Indi qëlloi dhe vrau tre persona gjatë një feste. Gazeta The Times of India publikoi informacion në lidhje me këtë. Sipas raportimeve, grindja shpërtheu pasi të..."
+    },
+    {
+      "title": "Kaos në Meksikë pas arrestimit të udhëheqësit të kartelit të drogës",
+      "link": "https://www.balkanweb.com/kaos-ne-meksike-pas-arrestimit-te-udheheqesit-te-kartelit-te-droges/",
+      "description": "Arrestimi i një udhëheqësi të kartelit të drogës në qytetin meksikan të Reynosa-s , në kufirin me SHBA-në, shkaktoi bllokime rrugësh, vandalizëm dhe të shtëna me armë të hënën, thanë autoritetet. Alexander “N”, një “objektiv prioritar” dhe udhëheqës i një karteli droge që vepronte në shtetin veriperëndimor të Tamaulipas, u mor në paraburgim nga autoritetet, […]",
+      "published": "Tue, 28 Apr 2026 02:30:14 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959529",
+      "fetched_at": "2026-04-28T02:47:47.762979",
+      "ai_summary": "Arrestimi i një udhëheqësi të kartelit të drogës në qytetin meksikan të Reynosa-s , në kufirin me SHBA-në, shkaktoi bllokime rrugësh, vandalizëm dhe të shtëna me armë të hënën, thanë autoritetet. Alex..."
+    },
+    {
+      "title": "Rrëzohet një aeroplan në periferi të kryeqytetit të Sudanit të Jugut, duke vrarë 14 persona",
+      "link": "https://www.balkanweb.com/rrezohet-nje-aeroplan-ne-periferi-te-kryeqytetit-te-sudanit-te-jugut-duke-vrare-14-persona/",
+      "description": "Një avion Cessna u rrëzua të hënën në periferi të kryeqytetit të Sudanit të Jugut, duke vrarë të 13 pasagjerët dhe pilotin, tha autoriteti i aviacionit civil. Autoriteti tha se raportet paraprake tregojnë se avioni që mbërriti nga qyteti Yei mund të jetë rrëzuar për shkak të kushteve të motit që shkaktuan dukshmëri të dobët. […]",
+      "published": "Tue, 28 Apr 2026 02:00:46 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959514",
+      "fetched_at": "2026-04-28T02:47:47.763103",
+      "ai_summary": "Një avion Cessna u rrëzua të hënën në periferi të kryeqytetit të Sudanit të Jugut, duke vrarë të 13 pasagjerët dhe pilotin, tha autoriteti i aviacionit civil. Autoriteti tha se raportet paraprake treg..."
+    },
+    {
+      "title": "Rumania dhe Shtetet e Bashkuara nënshkruajnë një marrëveshje bashkëpunimi për UAV-të",
+      "link": "https://www.balkanweb.com/rumania-dhe-shtetet-e-bashkuara-nenshkruajne-nje-marreveshje-bashkepunimi-per-uav-te/",
+      "description": "Ministri rumun i Mbrojtjes Radu Miruce dhe Sekretari i Ushtrisë i SHBA-së Daniel Driscoll nënshkruan një marrëveshje bashkëpunimi mbi mjetet ajrore pa pilot (UAV) dhe kundërmasat. Shërbimi i Shtypit i Ministrisë së Mbrojtjes së Rumanisë publikoi informacion në lidhje me këtë. “Rumania është bërë vendi i dytë, pas Mbretërisë së Bashkuar, që fiton akses në […]",
+      "published": "Tue, 28 Apr 2026 01:45:41 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959536",
+      "fetched_at": "2026-04-28T02:47:47.763185",
+      "ai_summary": "Ministri rumun i Mbrojtjes Radu Miruce dhe Sekretari i Ushtrisë i SHBA-së Daniel Driscoll nënshkruan një marrëveshje bashkëpunimi mbi mjetet ajrore pa pilot (UAV) dhe kundërmasat. Shërbimi i Shtypit i..."
+    },
+    {
+      "title": "Shpenzime rekord për armatime në vitin 2025, duke arritur në 3 trilionë dollarë në mbarë botën",
+      "link": "https://www.balkanweb.com/shpenzime-rekord-per-armatime-ne-vitin-2025-duke-arritur-ne-3-trilione-dollare-ne-mbare-boten/",
+      "description": "Asnjëherë më parë në historinë botërore nuk janë shpenzuar kaq shumë para për programet e armatimit : sipas Institutit Ndërkombëtar të Kërkimeve për Paqen në Stokholm (SIPRI), shpenzimet globale për armët shënuan një tjetër rekord në vitin 2025 – për të njëmbëdhjetën vit radhazi – duke arritur në 2.89 trilionë dollarë . Kjo është një […]",
+      "published": "Tue, 28 Apr 2026 01:30:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959504",
+      "fetched_at": "2026-04-28T02:47:47.763265",
+      "ai_summary": "Asnjëherë më parë në historinë botërore nuk janë shpenzuar kaq shumë para për programet e armatimit : sipas Institutit Ndërkombëtar të Kërkimeve për Paqen në Stokholm (SIPRI), shpenzimet globale për a..."
+    },
+    {
+      "title": "Pasagjerja lind gjatë fluturimit të Delta Air Lines, pak para mbërritjes në Portland",
+      "link": "https://www.balkanweb.com/pasagjerja-lind-gjate-fluturimit-te-delta-air-lines-pak-para-mberritjes-ne-portland/",
+      "description": "Një pasagjere në një fluturim të Delta Air Lines lindi fëmijë ndërsa avioni ishte në ajër, rreth 30 minuta para se të mbërrinte në destinacionin e tij përfundimtar, ku bëri një ulje emergjente, njoftoi të hënën linja ajrore amerikane. Gruaja shtatzënë hipi në një avion në Atlanta (Georgia, juglindje) të premten për një fluturim pesë-orësh […]",
+      "published": "Tue, 28 Apr 2026 01:15:47 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959553",
+      "fetched_at": "2026-04-28T02:47:47.763349",
+      "ai_summary": "Një pasagjere në një fluturim të Delta Air Lines lindi fëmijë ndërsa avioni ishte në ajër, rreth 30 minuta para se të mbërrinte në destinacionin e tij përfundimtar, ku bëri një ulje emergjente, njofto..."
+    },
+    {
+      "title": "Netanyahu: Raketat dhe dronët e Hezbollahut janë një kërcënim, ne do të vazhdojmë aksionin tonë në Liban",
+      "link": "https://www.balkanweb.com/netanyahu-raketat-dhe-dronet-e-hezbollahut-jane-nje-kercenim-ne-do-te-vazhdojme-aksionin-tone-ne-liban/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu tha më parë se kërcënimi i dyfishtë i raketave dhe dronëve nga Hezbollahu pro-iranian kërkon veprime të vazhdueshme ushtarake në Liban , sipas një deklarate të lëshuar nga zyra e tij. “Dy kërcënime kryesore që burojnë nga Hezbollahu mbeten: Raketat dhe dronët e tipit 122. Kjo kërkon një kombinim veprimesh operacionale […]",
+      "published": "Tue, 28 Apr 2026 01:00:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959494",
+      "fetched_at": "2026-04-28T02:47:47.763426",
+      "ai_summary": "Kryeministri izraelit Benjamin Netanyahu tha më parë se kërcënimi i dyfishtë i raketave dhe dronëve nga Hezbollahu pro-iranian kërkon veprime të vazhdueshme ushtarake në Liban , sipas një deklarate të..."
+    },
+    {
+      "title": "Bahreini u heq shtetësinë 69 personave që mbështesin sulmet e Iranit",
+      "link": "https://www.balkanweb.com/bahreini-u-heq-shtetesine-69-personave-qe-mbeshtesin-sulmet-e-iranit/",
+      "description": "Autoritetet e Bahreinit u kanë hequr shtetësinë 69 personave dhe anëtarëve të familjeve të tyre “për shkak se kanë shprehur mbështetje për sulmet e Iranit”. Ministria e Brendshme e Bahreinit ka publikuar informacion në lidhje me këtë. Në deklaratën e Ministrisë së Brendshme thuhej se këta qytetarë shprehën mbështetje për sulmet e Iranit. Kujtojmë se […]",
+      "published": "Tue, 28 Apr 2026 00:45:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959523",
+      "fetched_at": "2026-04-28T02:47:47.763516",
+      "ai_summary": "Autoritetet e Bahreinit u kanë hequr shtetësinë 69 personave dhe anëtarëve të familjeve të tyre “për shkak se kanë shprehur mbështetje për sulmet e Iranit”. Ministria e Brendshme e Bahreinit ka publik..."
+    },
+    {
+      "title": "Autoritetet lituaneze akuzojnë inteligjencën ushtarake ruse për atentatet në Vilnius, 13 persona në hetim",
+      "link": "https://www.balkanweb.com/autoritetet-lituaneze-akuzojne-inteligjencen-ushtarake-ruse-per-atentatet-ne-vilnius-13-persona-ne-hetim/",
+      "description": "Policia lituaneze ka ngritur akuza ndaj 13 personave nga vende të ndryshme për dy atentate në Vilnius të lidhura me shërbimin e inteligjencës ushtarake GRU të Rusisë , tha të hënën kreu i Drejtorisë së Shtypjes së Krimit të Lituanisë , Saulius Bryginas. Hetimet policore që filluan në fillim të vitit të kaluar arritën në […]",
+      "published": "Tue, 28 Apr 2026 00:30:13 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959498",
+      "fetched_at": "2026-04-28T02:47:47.763597",
+      "ai_summary": "Policia lituaneze ka ngritur akuza ndaj 13 personave nga vende të ndryshme për dy atentate në Vilnius të lidhura me shërbimin e inteligjencës ushtarake GRU të Rusisë , tha të hënën kreu i Drejtorisë s..."
+    },
+    {
+      "title": "Cole Thomas Allen, i akuzuar për tentativë vrasjeje ndaj Donald Trump, përballet me burgim të përjetshëm",
+      "link": "https://www.balkanweb.com/cole-thomas-allen-i-akuzuar-per-tentative-vrasjeje-ndaj-donald-trump-perballet-me-burgim-te-perjetshem/",
+      "description": "Cole Thomas Allen, i cili hapi zjarr në një pritje ku mori pjesë Presidenti i SHBA-së Donald Trump më 25 prill, mund të përballet me burgim të përjetshëm nëse dënohet për tentativë vrasjeje të kreut të shtetit. Kjo u deklarua nga Prokurori i Përgjithshëm i SHBA-së në detyrë Todd Blanch. “Sot, Departamenti i Drejtësisë ngriti […]",
+      "published": "Tue, 28 Apr 2026 00:00:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2959539",
+      "fetched_at": "2026-04-28T02:47:47.763671",
+      "ai_summary": "Cole Thomas Allen, i cili hapi zjarr në një pritje ku mori pjesë Presidenti i SHBA-së Donald Trump më 25 prill, mund të përballet me burgim të përjetshëm nëse dënohet për tentativë vrasjeje të kreut t..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
