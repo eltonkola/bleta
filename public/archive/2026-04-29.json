@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-29",
+  "timestamp": "2026-04-29T02:47:21.123644",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "8 të vdekur nga sulmet izraelite në jug të Libanit",
+      "link": "https://www.balkanweb.com/8-te-vdekur-nga-sulmet-izraelite-ne-jug-te-libanit/",
+      "description": "Tetë persona u vranë të martën nga sulmet izraelite në Libanin jugor, sipas autoriteteve lokale. Midis të vdekurve janë tre shpëtimtarë që vdiqën ndërsa përpiqeshin të largonin të plagosurit nga një vendndodhje e bombarduar. Pesë persona u vranë në sulmet ajrore të njëpasnjëshme në qytetin Mazdal Zoun. Mbrojtja Civile e Libanit raportoi se forcat izraelite […]",
+      "published": "Wed, 29 Apr 2026 02:30:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960347",
+      "fetched_at": "2026-04-29T02:47:15.128399",
+      "ai_summary": "Tetë persona u vranë të martën nga sulmet izraelite në Libanin jugor, sipas autoriteteve lokale. Midis të vdekurve janë tre shpëtimtarë që vdiqën ndërsa përpiqeshin të largonin të plagosurit nga një v..."
+    },
+    {
+      "title": "OBSH: Bota po ecën shumë ngadalë në eliminimin e hepatitit",
+      "link": "https://www.balkanweb.com/obsh-bota-po-ecen-shume-ngadale-ne-eliminimin-e-hepatitit/",
+      "description": "Organizata Botërore e Shëndetësisë tha të martën se progresi në eliminimin e hepatitit ishte shumë i ngadaltë, me mjete në dispozicion për të eliminuar sëmundjen që vret më shumë se një milion njerëz çdo vit. OBSH tha se hepatiti viral B dhe C – dy infeksionet përgjegjëse për 95 përqind të vdekjeve të lidhura me […]",
+      "published": "Wed, 29 Apr 2026 02:00:12 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960335",
+      "fetched_at": "2026-04-29T02:47:15.128550",
+      "ai_summary": "Organizata Botërore e Shëndetësisë tha të martën se progresi në eliminimin e hepatitit ishte shumë i ngadaltë, me mjete në dispozicion për të eliminuar sëmundjen që vret më shumë se një milion njerëz ..."
+    },
+    {
+      "title": "Presidenti Zelensky: Ukraina do të fillojë eksportin e armëve",
+      "link": "https://www.balkanweb.com/presidenti-zelensky-ukraina-do-te-filloje-eksportin-e-armeve/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky njoftoi të martën se eksportet e armëve “do të bëhen realitet” pasi detajet kryesore u miratuan në nivel shtetëror. Zelensky tha se një format i ri bashkëpunimi i quajtur Marrëveshjet e Dronëve, që mbulon prodhimin dhe furnizimin e dronëve, raketave, municioneve dhe pajisjeve të tjera ushtarake, si dhe shkëmbimin e teknologjisë […]",
+      "published": "Wed, 29 Apr 2026 01:45:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960364",
+      "fetched_at": "2026-04-29T02:47:15.128629",
+      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky njoftoi të martën se eksportet e armëve “do të bëhen realitet” pasi detajet kryesore u miratuan në nivel shtetëror. Zelensky tha se një format i ri bashkëpunimi ..."
+    },
+    {
+      "title": "Feride Rushiti: Pranova kandidaturën për të ndihmuar vendin dhe për të kaluar ngërçin politik",
+      "link": "https://www.balkanweb.com/feride-rushiti-pranova-kandidaturen-per-te-ndihmuar-vendin-dhe-per-te-kaluar-ngercin-politik/",
+      "description": "Kandidatja për presidente, Feride Rushiti, ka deklaruar se e ka pranuar propozimin për kandidaturë me bindjen se është figurë unifikuese dhe se mund ta ndihmojë vendin të dalë nga ngërçi politik. Ajo tha se kërkesa për kandidimin i ka ardhur nga shumë qytetarë, shoqëria civile, kryeministri Albin Kurti dhe partnerët ndërkombëtarë. Rushiti theksoi se pas […]",
+      "published": "Wed, 29 Apr 2026 01:30:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960344",
+      "fetched_at": "2026-04-29T02:47:15.128700",
+      "ai_summary": "Kandidatja për presidente, Feride Rushiti, ka deklaruar se e ka pranuar propozimin për kandidaturë me bindjen se është figurë unifikuese dhe se mund ta ndihmojë vendin të dalë nga ngërçi politik. Ajo ..."
+    },
+    {
+      "title": "Trump sulmon Friedrich Merz : Nuk e di çfarë flet, nuk është rastësi që Gjermania po shkon kaq keq",
+      "link": "https://www.balkanweb.com/trump-sulmon-friedrich-merz-nuk-e-di-cfare-flet-nuk-eshte-rastesi-qe-gjermania-po-shkon-kaq-keq/",
+      "description": "Donald Trump iu përgjigj me stilin e tij unik kancelarit gjerman Friedrich Merz , i cili deklaroi se iranianët janë qartësisht më të fortë se sa pritej , dhe amerikanët qartësisht nuk kanë as një strategji vërtet bindëse në negociata. Nëpërmjet Truth Social, presidenti amerikan shkroi se Merz nuk ka idenë se për çfarë po […]",
+      "published": "Wed, 29 Apr 2026 01:00:23 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960329",
+      "fetched_at": "2026-04-29T02:47:15.128779",
+      "ai_summary": "Donald Trump iu përgjigj me stilin e tij unik kancelarit gjerman Friedrich Merz , i cili deklaroi se iranianët janë qartësisht më të fortë se sa pritej , dhe amerikanët qartësisht nuk kanë as një stra..."
+    },
+    {
+      "title": "OKB: 7.8 milionë njerëz në Sudanin e Jugut përballen me mungesë akute të ushqimit",
+      "link": "https://www.balkanweb.com/okb-7-8-milione-njerez-ne-sudanin-e-jugut-perballen-me-mungese-akute-te-ushqimit/",
+      "description": "Kriza në thellim e urisë në Sudanin e Jugut la 7.8 milionë njerëz përballë pasigurisë akute ushqimore midis prillit dhe korrikut 2026, me 2.2 milionë fëmijë që vuajnë nga uria. Ky informacion është postuar në faqen e internetit të Programit Botëror të Ushqimit të OKB-së. “Organizata e Ushqimit dhe Bujqësisë e Kombeve të Bashkuara, Programi […]",
+      "published": "Wed, 29 Apr 2026 00:45:24 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960356",
+      "fetched_at": "2026-04-29T02:47:15.128844",
+      "ai_summary": "Kriza në thellim e urisë në Sudanin e Jugut la 7.8 milionë njerëz përballë pasigurisë akute ushqimore midis prillit dhe korrikut 2026, me 2.2 milionë fëmijë që vuajnë nga uria. Ky informacion është po..."
+    },
+    {
+      "title": "Tahiri: Sonte shpëtoi demokracia në Kosovë",
+      "link": "https://www.balkanweb.com/tahiri-sonte-shpetoi-demokracia-ne-kosove/",
+      "description": "Shefi i Grupit Parlamentar të AAK-së, Besnik Tahiri, ka akuzuar kryeministrin për “keqpërdorim të foltores” dhe fajësim të opozitës pas dështimit të zgjedhjes së presidentit, duke e cilësuar situatën si të krijuar nga vet ai. Ai tha se seanca e fundit ishte vazhdim i një krize politike që, sipas tij, po i mban qytetarët në […]",
+      "published": "Wed, 29 Apr 2026 00:30:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960341",
+      "fetched_at": "2026-04-29T02:47:15.128908",
+      "ai_summary": "Shefi i Grupit Parlamentar të AAK-së, Besnik Tahiri, ka akuzuar kryeministrin për “keqpërdorim të foltores” dhe fajësim të opozitës pas dështimit të zgjedhjes së presidentit, duke e cilësuar situatën ..."
+    },
+    {
+      "title": "Provokimi në Shkup/ Ministri maqedonas përulet para përkujtimores ku shqiptarët etiketohen si terroristë",
+      "link": "https://www.balkanweb.com/provokimi-ne-shkup-ministri-maqedonas-perulet-para-perkujtimores-ku-shqiptaret-etiketohen-si-terroriste/",
+      "description": "Ministri i Mbrojtjes së Maqedonisë së Veriut, Vlado Misajlovski, ka zhvilluar mëngjesin e sotëm një ceremoni përkujtimore përpara memorialit të Batalionit të Forcave Speciale në nderim të katër pjesëtarëve të ushtrisë së vrarë në Vejcë në vitin 2001. Mirëpo, është shqetësues fakti që pllaka përpara së cilës u krye nderimi etiketon si “terroristë” shqiptarët e […]",
+      "published": "Wed, 29 Apr 2026 00:15:04 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960371",
+      "fetched_at": "2026-04-29T02:47:15.128970",
+      "ai_summary": "Ministri i Mbrojtjes së Maqedonisë së Veriut, Vlado Misajlovski, ka zhvilluar mëngjesin e sotëm një ceremoni përkujtimore përpara memorialit të Batalionit të Forcave Speciale në nderim të katër pjesët..."
+    },
+    {
+      "title": "Nicole Minetti, e cila ishte e përfshirë në rastin “Bunga-Bunga”, u fal, Meloni mbështet vendimin",
+      "link": "https://www.balkanweb.com/nicole-minetti-e-cila-ishte-e-perfshire-ne-rastin-bunga-bunga-u-fal-meloni-mbeshtet-vendimin/",
+      "description": "Kryeministrja italiane Giorgia Meloni iu referua në deklaratat e saj rastit të Nicole Minetti-t , e cila dyshohet se u fal nga Presidenti i Republikës Italiane Sergio Mattarella pa u përmbushur kushtet e kërkuara. “Unë i besoj Ministrit të Drejtësisë Carlo Nordio, përjashtoj dorëheqjen e tij të mundshme. Ne biseduam së bashku dhe iu referuam […]",
+      "published": "Wed, 29 Apr 2026 00:00:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960326",
+      "fetched_at": "2026-04-29T02:47:15.129324",
+      "ai_summary": "Kryeministrja italiane Giorgia Meloni iu referua në deklaratat e saj rastit të Nicole Minetti-t , e cila dyshohet se u fal nga Presidenti i Republikës Italiane Sergio Mattarella pa u përmbushur kushte..."
+    },
+    {
+      "title": "CNN: Ish-drejtori i FBI-së, James Comey, akuzohet për kërcënim ndaj Presidentit të SHBA-së, Donald Trump",
+      "link": "https://www.balkanweb.com/cnn-ish-drejtori-i-fbi-se-james-comey-akuzohet-per-kercenim-ndaj-presidentit-te-shba-se-donald-trump/",
+      "description": "Ish-drejtori i FBI-së, James Comey, u akuzua të martën për kërcënim ndaj Presidentit Donald Trump, pasi ai postoi një foto në mediat sociale që autoritetet thonë se përbën kërcënim për Presidentin Donald Trump . Një urdhër arresti është lëshuar për të, raporton CNN. Aktakuza u ngrit në Distriktin Lindor të Karolinës së Veriut dhe një […]",
+      "published": "Tue, 28 Apr 2026 23:52:28 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2960359",
+      "fetched_at": "2026-04-29T02:47:15.129436",
+      "ai_summary": "Ish-drejtori i FBI-së, James Comey, u akuzua të martën për kërcënim ndaj Presidentit Donald Trump, pasi ai postoi një foto në mediat sociale që autoritetet thonë se përbën kërcënim për Presidentin Don..."
+    },
+    {
+      "title": "Mimoza Kusari thotë “zgjedhje deshën, zgjedhje do të kemi”, kësaj here nuk e përmend “fajtorin”",
+      "link": "https://www.gazetaexpress.com/mimoza-kusari-thote-zgjedhje-deshen-zgjedhje-do-te-kemi-kesaj-here-nuk-e-permend-fajtorin/",
+      "description": "Ministrja në detyrë e Tregtisë, Mimoza Kusari-Lila, ka shkruar pasi Kuvendi i Kosovës dështoi të zgjidhte Presidenten. Ajo tha se ishte kohë e shkurtër të krye të ministrisë, por një filllim i mbarë i një mandati të ri. Pa specifikuar fajtor, Kusari-Lila tha se “zgjedhje deshën, zgjedhje do kenë”. “Kohë e shkurtër, me mandat të plotë, por ishte një fillim i mbarë i një mandati të ri. Zgjedhje deshën, zgjedhje do të kemi”, ka thënë ajo. /Gazeta Express The post Mimoza Kusari thotë “zgjedhje deshën, zgjedhje do të kemi”, kësaj here nuk e përmend “fajtorin” appeared first on Gazeta Express.",
+      "published": "Tue, 28 Apr 2026 23:50:03 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3088035",
+      "fetched_at": "2026-04-29T02:47:16.623147",
+      "ai_summary": "Ministrja në detyrë e Tregtisë, Mimoza Kusari-Lila, ka shkruar pasi Kuvendi i Kosovës dështoi të zgjidhte Presidenten. Ajo tha se ishte kohë e shkurtër të krye të ministrisë, por një filllim i mbarë i..."
+    }
+  ],
+  "total_articles": 11,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Gazeta Express"
+  ]
+}
