@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-30",
+  "timestamp": "2026-04-30T02:48:55.642418",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Vuçiç: Dhjetëra mijëra ton naftë do të nxirren nga rezervat në Serbi",
+      "link": "https://www.balkanweb.com/vucic-dhjetera-mijera-ton-nafte-do-te-nxirren-nga-rezervat-ne-serbi/",
+      "description": "Presidenti serb Aleksandar Vuçiç tha se dhjetëra mijëra ton naftë të re do të nxirren nga rezervat. Presidenti serb foli për këtë në një intervistë me TV Blic. Sipas A. Vuçiç, pasi të nxirret nafta, është e nevojshme të rivendosen rezervat, gjë që krijon një barrë shtesë financiare. “Aktualisht, 17 milionë euro nuk janë të […]",
+      "published": "Thu, 30 Apr 2026 02:30:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961091",
+      "fetched_at": "2026-04-30T02:48:49.454610",
+      "ai_summary": "Presidenti serb Aleksandar Vuçiç tha se dhjetëra mijëra ton naftë të re do të nxirren nga rezervat. Presidenti serb foli për këtë në një intervistë me TV Blic. Sipas A. Vuçiç, pasi të nxirret nafta, ë..."
+    },
+    {
+      "title": "Trump: Rusia duhet të zgjidhë krizën në Ukrainë, jo të merret me Iranin",
+      "link": "https://www.balkanweb.com/trump-rusia-duhet-te-zgjidhe-krizen-ne-ukraine-jo-te-merret-me-iranin/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha se është më e rëndësishme për të që Moska të merret me konfliktin Rusi-Ukrainë sesa me krizën iraniane. Trump u tha gazetarëve në Shtëpinë e Bardhë pas një telefonate me Presidentin rus Vladimir Putin. Trump tha se biseda e tij me homologun e tij rus shkoi mirë dhe vuri […]",
+      "published": "Thu, 30 Apr 2026 02:00:44 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961071",
+      "fetched_at": "2026-04-30T02:48:49.454732",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se është më e rëndësishme për të që Moska të merret me konfliktin Rusi-Ukrainë sesa me krizën iraniane. Trump u tha gazetarëve në Shtëpinë e Bardhë pas një tele..."
+    },
+    {
+      "title": "Axios: SHBA-të kanë përgatitur një plan të ri sulmi kundër Iranit",
+      "link": "https://www.balkanweb.com/axios-shba-te-kane-pergatitur-nje-plan-te-ri-sulmi-kunder-iranit/",
+      "description": "SHBA-të kanë përgatitur një plan për një valë të shkurtër dhe të fuqishme sulmesh kundër Iranit për të thyer bllokimin në negociata. Portali Axios e raportoi këtë, duke cituar burime. U vu re se Uashingtoni në fakt e ka hedhur poshtë planin me tre faza të propozuar nga Irani, sipas të cilit është gati të […]",
+      "published": "Thu, 30 Apr 2026 01:45:09 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961085",
+      "fetched_at": "2026-04-30T02:48:49.454788",
+      "ai_summary": "SHBA-të kanë përgatitur një plan për një valë të shkurtër dhe të fuqishme sulmesh kundër Iranit për të thyer bllokimin në negociata. Portali Axios e raportoi këtë, duke cituar burime. U vu re se Uashi..."
+    },
+    {
+      "title": "Trump: Dalja e Emirateve të Bashkuara Arabe nga OPEC do të ndihmojë në uljen e çmimeve të karburantit",
+      "link": "https://www.balkanweb.com/trump-dalja-e-emirateve-te-bashkuara-arabe-nga-opec-do-te-ndihmoje-ne-uljen-e-cmimeve-te-karburantit/",
+      "description": "Presidenti i SHBA-së, Donald Trump, përshëndet vendimin e Emirateve të Bashkuara Arabe (EBA) për t’u tërhequr nga marrëveshja OPEC dhe “OPEC+”. Trump u tha gazetarëve për këtë në Shtëpinë e Bardhë. Sipas tij, ky vendim do të ndihmojë në uljen e çmimeve të karburanteve në tregjet botërore. “Dua të them, kjo është shumë mirë. Ky […]",
+      "published": "Thu, 30 Apr 2026 01:30:34 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961068",
+      "fetched_at": "2026-04-30T02:48:49.454837",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, përshëndet vendimin e Emirateve të Bashkuara Arabe (EBA) për t’u tërhequr nga marrëveshja OPEC dhe “OPEC+”. Trump u tha gazetarëve për këtë në Shtëpinë e Bardhë. Si..."
+    },
+    {
+      "title": "Suedia do të gjobisë rrjetet sociale për ‘reklamat me vrasje’",
+      "link": "https://www.balkanweb.com/suedia-do-te-gjobise-rrjetet-sociale-per-reklamat-me-vrasje/",
+      "description": "Qeveria e Suedisë ka thënë se planifikon të prezantojë legjislacionin që u kërkon platformave të mediave sociale si TikTok dhe Snapchat të heqin ‘reklamat me vrasje’ të bandave kriminale brenda një ore ose do të përballen me gjoba të rënda. Bandat kriminale aktive në Suedi përdorin gjithnjë e më shumë mediat sociale për të rekrutuar […]",
+      "published": "Thu, 30 Apr 2026 01:00:23 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961055",
+      "fetched_at": "2026-04-30T02:48:49.454899",
+      "ai_summary": "Qeveria e Suedisë ka thënë se planifikon të prezantojë legjislacionin që u kërkon platformave të mediave sociale si TikTok dhe Snapchat të heqin ‘reklamat me vrasje’ të bandave kriminale brenda një or..."
+    },
+    {
+      "title": "OKB: 60% e familjeve në Gaza nuk kanë qasje të përditshme në ujë të pastër për shkak të sulmeve të vazhdueshme",
+      "link": "https://www.balkanweb.com/okb-60-e-familjeve-ne-gaza-nuk-kane-qasje-te-perditshme-ne-uje-te-paster-per-shkak-te-sulmeve-te-vazhdueshme/",
+      "description": "Zëdhënësi i OKB-së, Stephane Dujarric, tha të mërkurën se shumica e familjeve në Rripin e Gazës po përballen me vështirësi në aksesin ndaj ujit të pastër , ndërsa sulmet e vazhdueshme dhe dëmtimet në infrastrukturë thellojnë një krizë tashmë të rëndë humanitare. “Duke iu referuar territorit të pushtuar palestinez, kolegët tanë humanitarë thonë se sulmet […]",
+      "published": "Thu, 30 Apr 2026 00:45:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961082",
+      "fetched_at": "2026-04-30T02:48:49.454955",
+      "ai_summary": "Zëdhënësi i OKB-së, Stephane Dujarric, tha të mërkurën se shumica e familjeve në Rripin e Gazës po përballen me vështirësi në aksesin ndaj ujit të pastër , ndërsa sulmet e vazhdueshme dhe dëmtimet në ..."
+    },
+    {
+      "title": "Policia Metropolitane e Londrës e ka përshkruar sulmin me thikë ndaj dy hebrenjve në Golders Green si një akt terrorist",
+      "link": "https://www.balkanweb.com/policia-metropolitane-e-londres-e-ka-pershkruar-sulmin-me-thike-ndaj-dy-hebrenjve-ne-golders-green-si-nje-akt-terrorist/",
+      "description": "Policia Metropolitane e Londrës e ka përshkruar sulmin me thikë ndaj dy burrave hebrenj në Golders Green si një akt terrorist, duke publikuar videon e arrestimit të një të dyshuari britanik 45-vjeçar. Policia Metropolitane publikoi pamjet e kamerave të trupit të oficerëve që mbërritën në vendin e sulmit. Në video, i dyshuari shihet duke lëvizur […]",
+      "published": "Thu, 30 Apr 2026 00:30:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961065",
+      "fetched_at": "2026-04-30T02:48:49.455016",
+      "ai_summary": "Policia Metropolitane e Londrës e ka përshkruar sulmin me thikë ndaj dy burrave hebrenj në Golders Green si një akt terrorist, duke publikuar videon e arrestimit të një të dyshuari britanik 45-vjeçar...."
+    },
+    {
+      "title": "Washington Post analizon pamjet nga nata e sulmit ndaj Trump: Nuk ka asnjë indikacion se Allen qëlloi agjentët sekretë",
+      "link": "https://www.balkanweb.com/washington-post-analizon-pamjet-nga-nata-e-sulmit-ndaj-trump-nuk-ka-asnje-indikacion-se-allen-qelloi-agjentet-sekrete/",
+      "description": "Momenti kur Cole Thomas Allen ngre pushkën në drejtim të një oficeri të Shërbimit Sekret, i cili më pas e qëllon, është kapur në një video me definicion të lartë të shqyrtuar nga The Washington Post . Kamera u pozicionua mbi pikën e kontrollit të sigurisë jashtë Darkës së Korrespondentëve të Shtëpisë së Bardhë të […]",
+      "published": "Thu, 30 Apr 2026 00:00:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961051",
+      "fetched_at": "2026-04-30T02:48:49.455065",
+      "ai_summary": "Momenti kur Cole Thomas Allen ngre pushkën në drejtim të një oficeri të Shërbimit Sekret, i cili më pas e qëllon, është kapur në një video me definicion të lartë të shqyrtuar nga The Washington Post ...."
+    },
+    {
+      "title": "SHBA-të do të ndajnë 100 milionë dollarë për riparimin e mbulesës së termocentralit bërthamor të Çernobilit",
+      "link": "https://www.balkanweb.com/shba-te-do-te-ndajne-100-milione-dollare-per-riparimin-e-mbuleses-se-termocentralit-berthamor-te-cernobilit/",
+      "description": "Shtetet e Bashkuara do të ndajnë 100 milionë dollarë për riparimin e një mbylljeje të re të sigurt në Centralin Bërthamor të Çernobilit (NPP). Kjo u njoftua nga Zëvendëskryeministri i Parë i Ukrainës, Ministri i Energjisë Denys Shmygal në kanalin Telegram. “Gjatë Konferencës Ndërkombëtare të Çernobilit, diskutuam me partnerët nevojat financiare për restaurimin e mbulesës. […]",
+      "published": "Wed, 29 Apr 2026 23:45:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961079",
+      "fetched_at": "2026-04-30T02:48:49.455111",
+      "ai_summary": "Shtetet e Bashkuara do të ndajnë 100 milionë dollarë për riparimin e një mbylljeje të re të sigurt në Centralin Bërthamor të Çernobilit (NPP). Kjo u njoftua nga Zëvendëskryeministri i Parë i Ukrainës,..."
+    },
+    {
+      "title": "I dyshuari për të shtënat në Uashington bëri selfie para sulmit",
+      "link": "https://www.balkanweb.com/i-dyshuari-per-te-shtenat-ne-uashington-beri-selfie-para-sulmit/",
+      "description": "Burri i akuzuar për tentativën e vrasjes së Presidentit të SHBA-së, Donald Trump, bëri një selfie në dhomën e tij të hotelit pak çaste përpara se të shpërthente përmes sigurisë me një pushkë me pompë, thanë prokurorët. Cole Allen e nisi sulmin e tij menjëherë pas orës 20:30 të së shtunës, duke zbritur nga dhoma […]",
+      "published": "Wed, 29 Apr 2026 23:30:28 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961058",
+      "fetched_at": "2026-04-30T02:48:49.455161",
+      "ai_summary": "Burri i akuzuar për tentativën e vrasjes së Presidentit të SHBA-së, Donald Trump, bëri një selfie në dhomën e tij të hotelit pak çaste përpara se të shpërthente përmes sigurisë me një pushkë me pompë,..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
