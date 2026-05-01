@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-01",
+  "timestamp": "2026-05-01T02:55:22.612377",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Bullgaria mund të anulojë marrëveshjen e sigurisë me Ukrainën",
+      "link": "https://www.balkanweb.com/bullgaria-mund-te-anuloje-marreveshjen-e-sigurise-me-ukrainen/",
+      "description": "Në Bullgari, partia “Ringjallja” i ka paraqitur parlamentit një projekt-rezolutë për të ndërprerë marrëveshjen 10-vjeçare të sigurisë me Ukrainën. Portali lokal “Novinite” publikoi informacion në lidhje me këtë. Iniciativa u paraqit nga deputeti Petar Petrov, i cili beson se marrëveshja është e pavlefshme sepse është arritur pa miratimin e parlamentit. Sipas tij, projektrezoluta do ta […]",
+      "published": "Fri, 01 May 2026 02:45:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961728",
+      "fetched_at": "2026-05-01T02:55:16.582428",
+      "ai_summary": "Në Bullgari, partia “Ringjallja” i ka paraqitur parlamentit një projekt-rezolutë për të ndërprerë marrëveshjen 10-vjeçare të sigurisë me Ukrainën. Portali lokal “Novinite” publikoi informacion në lidh..."
+    },
+    {
+      "title": "Hegseth përplaset për të dytën ditë me demokratët në Kongres për luftën e Iranit",
+      "link": "https://www.balkanweb.com/hegseth-perplaset-per-te-dyten-dite-me-demokratet-ne-kongres-per-luften-e-iranit/",
+      "description": "Sekretari i Mbrojtjes Pete Hegseth u përplas me ligjvënësit demokratë në Kongres për të dytën ditë të enjten, duke hedhur poshtë akuzat e senatorëve se lufta kundër Iranit u nis pa prova të një kërcënimi të afërt dhe u zhvillua pa një strategji koherente. Në deklaratat e tij hapëse, Hegseth i quajti ligjvënësit demokratë “kundërshtarë […]",
+      "published": "Fri, 01 May 2026 02:30:41 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961712",
+      "fetched_at": "2026-05-01T02:55:16.582583",
+      "ai_summary": "Sekretari i Mbrojtjes Pete Hegseth u përplas me ligjvënësit demokratë në Kongres për të dytën ditë të enjten, duke hedhur poshtë akuzat e senatorëve se lufta kundër Iranit u nis pa prova të një kërcën..."
+    },
+    {
+      "title": "Të paktën 15 të vdekur në Liban nga bombardimet e reja izraelite",
+      "link": "https://www.balkanweb.com/te-pakten-15-te-vdekur-ne-liban-nga-bombardimet-e-reja-izraelite/",
+      "description": "Ministria e Shëndetësisë në Bejrut tha se bombardimet e reja izraelite në Libanin jugor vranë të paktën 15 persona të enjten, pavarësisht një armëpushimi që hyri në fuqi më 17 prill. Ushtria libaneze tha se një anëtar i saj dhe “anëtarë të familjes së tij” u vranë kur një sulm ajror goditi shtëpinë e tij […]",
+      "published": "Fri, 01 May 2026 02:15:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961740",
+      "fetched_at": "2026-05-01T02:55:16.582671",
+      "ai_summary": "Ministria e Shëndetësisë në Bejrut tha se bombardimet e reja izraelite në Libanin jugor vranë të paktën 15 persona të enjten, pavarësisht një armëpushimi që hyri në fuqi më 17 prill. Ushtria libaneze ..."
+    },
+    {
+      "title": "Franca do të organizojë një takim ndërkombëtar mbi konfliktin izraelito-palestinez në qershor",
+      "link": "https://www.balkanweb.com/franca-do-te-organizoje-nje-takim-nderkombetar-mbi-konfliktin-izraelito-palestinez-ne-qershor/",
+      "description": "Franca do të organizojë një takim ndërkombëtar në qershor kushtuar zgjidhjes së shumëpritur me dy shtete për konfliktin izraelito-palestinez, njoftoi të enjten ministri i jashtëm francez. “Më 22 shtator të vitit të kaluar, Franca mori vendimin e rëndësishëm për të njohur Shtetin e Palestinës dhe do të organizojë një konferencë ndërkombëtare në Paris më 12 […]",
+      "published": "Fri, 01 May 2026 02:00:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961709",
+      "fetched_at": "2026-05-01T02:55:16.582757",
+      "ai_summary": "Franca do të organizojë një takim ndërkombëtar në qershor kushtuar zgjidhjes së shumëpritur me dy shtete për konfliktin izraelito-palestinez, njoftoi të enjten ministri i jashtëm francez. “Më 22 shtat..."
+    },
+    {
+      "title": "Dy të burgosur të tjerë të dënuar me vdekje ekzekutohen në Florida dhe Teksas",
+      "link": "https://www.balkanweb.com/dy-te-burgosur-te-tjere-te-denuar-me-vdekje-ekzekutohen-ne-florida-dhe-teksas/",
+      "description": "Dy burra në pritje të dënimit me vdekje u ekzekutuan të enjten në Florida dhe Teksas, i pari pasi kaloi gati 50 vjet në pritje të vdekjes. Në Florida, James Hitchcock, 70 vjeç, u dënua me vdekje në vitin 1977 për vrasjen një vit më parë të Cynthia Driggers, 13 vjeç, mbesës së vëllait të […]",
+      "published": "Fri, 01 May 2026 01:50:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961744",
+      "fetched_at": "2026-05-01T02:55:16.582841",
+      "ai_summary": "Dy burra në pritje të dënimit me vdekje u ekzekutuan të enjten në Florida dhe Teksas, i pari pasi kaloi gati 50 vjet në pritje të vdekjes. Në Florida, James Hitchcock, 70 vjeç, u dënua me vdekje në vi..."
+    },
+    {
+      "title": "Sulm me thikë në një shkollë të mesme në Uashington, 5 të plagosur",
+      "link": "https://www.balkanweb.com/sulm-me-thike-ne-nje-shkolle-te-mesme-ne-uashington-5-te-plagosur/",
+      "description": "Të paktën pesë persona u plagosën në një sulm me thikë në një shkollë në shtetin amerikan të Uashingtonit. Sipas raportimeve, incidenti ndodhi në një shkollë të mesme në Tacoma menjëherë pas orës 12:00 të pasdites të enjten. Pesë persona u shtruan në spital, dhe katër prej të plagosurve janë në gjendje të rëndë. I […]",
+      "published": "Fri, 01 May 2026 01:45:39 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961725",
+      "fetched_at": "2026-05-01T02:55:16.582914",
+      "ai_summary": "Të paktën pesë persona u plagosën në një sulm me thikë në një shkollë në shtetin amerikan të Uashingtonit. Sipas raportimeve, incidenti ndodhi në një shkollë të mesme në Tacoma menjëherë pas orës 12:0..."
+    },
+    {
+      "title": "I dyshuari për tentativën e vrasjes së Trump nuk ka ndërmend të aplikojë për lirim me kusht",
+      "link": "https://www.balkanweb.com/i-dyshuari-per-tentativen-e-vrasjes-se-trump-nuk-ka-ndermend-te-aplikoje-per-lirim-me-kusht/",
+      "description": "Burri i akuzuar për përpjekjen për të vrarë Presidentin Donald Trump në Galën e Korrespondentëve të Shtëpisë së Bardhë të shtunën e kaluar nuk po kërkon lirim me kusht dhe do të mbetet në paraburgim ndërsa çështja e tij vazhdon. Cole Allen , 31 vjeç, aktualisht nuk po e kundërshton argumentin e prokurorëve se ai […]",
+      "published": "Fri, 01 May 2026 01:30:46 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961706",
+      "fetched_at": "2026-05-01T02:55:16.582989",
+      "ai_summary": "Burri i akuzuar për përpjekjen për të vrarë Presidentin Donald Trump në Galën e Korrespondentëve të Shtëpisë së Bardhë të shtunën e kaluar nuk po kërkon lirim me kusht dhe do të mbetet në paraburgim n..."
+    },
+    {
+      "title": "Misteri që rrethon shënimin e lënë nga vetëvrasja e Jeffrey Epstein: Shkruante “lamtumirë”, ishte fshehur nga autoritetet gjyqësore, të cilat e gjetën",
+      "link": "https://www.balkanweb.com/misteri-qe-rrethon-shenimin-e-lene-nga-vetevrasja-e-jeffrey-epstein-shkruante-lamtumire-ishte-fshehur-nga-autoritetet-gjyqesore-te-cilat-e-gjeten/",
+      "description": "Një shënim vetëvrasjeje që dyshohet se është shkruar nga Jeffrey Epstein në një burg të Manhattanit mbeti sekret për gati shtatë vjet, i mbyllur në një gjykatë të Nju Jorkut. The New York Times raporton se shënimi u zbulua nga një i burgosur tjetër në korrik 2019, kur financieri u gjet pa ndjenja me një […]",
+      "published": "Fri, 01 May 2026 01:00:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961699",
+      "fetched_at": "2026-05-01T02:55:16.583066",
+      "ai_summary": "Një shënim vetëvrasjeje që dyshohet se është shkruar nga Jeffrey Epstein në një burg të Manhattanit mbeti sekret për gati shtatë vjet, i mbyllur në një gjykatë të Nju Jorkut. The New York Times raport..."
+    },
+    {
+      "title": "Hapet një kafene e bazuar në inteligjencën artificiale në Stokholm",
+      "link": "https://www.balkanweb.com/hapet-nje-kafene-e-bazuar-ne-inteligjencen-artificiale-ne-stokholm/",
+      "description": "Një kafene është hapur në Stokholm që fuqizohet kryesisht nga inteligjenca artificiale, me sisteme të inteligjencës artificiale të përfshira në krijimin e menusë, vendimet për blerje dhe madje edhe në rekrutimin e stafit. Projekti u zhvillua nga startup-i Andon Labs duke përdorur sistemin Google Gemini. Agjenti i inteligjencës artificiale, i quajtur Mona, është projektuar për […]",
+      "published": "Fri, 01 May 2026 00:45:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961721",
+      "fetched_at": "2026-05-01T02:55:16.583171",
+      "ai_summary": "Një kafene është hapur në Stokholm që fuqizohet kryesisht nga inteligjenca artificiale, me sisteme të inteligjencës artificiale të përfshira në krijimin e menusë, vendimet për blerje dhe madje edhe në..."
+    },
+    {
+      "title": "Burri dënohet me vdekje për vrasjen e katër fëmijëve të vegjël në një qendër kujdesi ditore në Ugandë",
+      "link": "https://www.balkanweb.com/burri-denohet-me-vdekje-per-vrasjen-e-kater-femijeve-te-vegjel-ne-nje-qender-kujdesi-ditore-ne-ugande/",
+      "description": "Një gjykatë në Kampala dënoi me vdekje një burrë ugandano-amerikan të mërkurën për goditjen me thikë dhe vrasjen e tre djemve dhe një vajze në një qendër kujdesi ditore në fillim të prillit, një sulm që tronditi Ugandën . Vendimi u prit me duartrokitje nga publiku, ku përfshiheshin edhe prindërit e viktimave, të cilët ishin […]",
+      "published": "Fri, 01 May 2026 00:30:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2961703",
+      "fetched_at": "2026-05-01T02:55:16.583254",
+      "ai_summary": "Një gjykatë në Kampala dënoi me vdekje një burrë ugandano-amerikan të mërkurën për goditjen me thikë dhe vrasjen e tre djemve dhe një vajze në një qendër kujdesi ditore në fillim të prillit, një sulm ..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
