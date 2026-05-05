@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-05",
+  "timestamp": "2026-05-05T02:38:01.014668",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Kanadaja mbështet Ukrainën me 270 milionë dollarë ndihmë ushtarake",
+      "link": "https://www.balkanweb.com/kanadaja-mbeshtet-ukrainen-me-270-milione-dollare-ndihme-ushtarake/",
+      "description": "Kanadaja i ka premtuar Ukrainës 270 milionë dollarë kanadezë shtesë (198 milionë dollarë) për të blerë ndihmë ushtarake nga një listë e NATO-s me nevojat më urgjente të vendit, tha të hënën kryeministri Mark Carney . Carney e bëri njoftimin në samitin e Komunitetit Politik Evropian në Jerevan të Armenisë. Kanadaja, e cila pret një […]",
+      "published": "Tue, 05 May 2026 02:30:45 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963746",
+      "fetched_at": "2026-05-05T02:37:54.811756",
+      "ai_summary": "Kanadaja i ka premtuar Ukrainës 270 milionë dollarë kanadezë shtesë (198 milionë dollarë) për të blerë ndihmë ushtarake nga një listë e NATO-s me nevojat më urgjente të vendit, tha të hënën kryeminist..."
+    },
+    {
+      "title": "Aragchi për SHBA-në: “Operacioni Liria” çon në “Operacionin Bllokim”",
+      "link": "https://www.balkanweb.com/aragchi-per-shba-ne-operacioni-liria-con-ne-operacionin-bllokim/",
+      "description": "Tensionet po përshkallëzohen në Lindjen e Mesme, me Iranin që nis sulme ndaj Emirateve të Bashkuara Arabe dhe bashkësinë ndërkombëtare që shpreh shqetësim të fortë, ndërsa thirrjet për një zgjidhje diplomatike dhe shmangien e konfliktit të mëtejshëm ushtarak po intensifikohen. Ministri i Jashtëm iranian, Abbas Araghchi, tha nëpërmjet X se zhvillimet në Ngushticën e Hormuzit […]",
+      "published": "Tue, 05 May 2026 02:20:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963765",
+      "fetched_at": "2026-05-05T02:37:54.811899",
+      "ai_summary": "Tensionet po përshkallëzohen në Lindjen e Mesme, me Iranin që nis sulme ndaj Emirateve të Bashkuara Arabe dhe bashkësinë ndërkombëtare që shpreh shqetësim të fortë, ndërsa thirrjet për një zgjidhje di..."
+    },
+    {
+      "title": "Senatori paraguaian dënohet me 13 vjet burg për trafik droge",
+      "link": "https://www.balkanweb.com/senatori-paraguaian-denohet-me-13-vjet-burg-per-trafik-droge/",
+      "description": "Një anëtar i Senatit të Paraguait , i cili i përket partisë në pushtet, u dënua nga një gjykatë apeli të hënën me 13 vjet burg për pastrim parash, konkretisht trafik droge , si dhe për organizim dhe formimin e një bande. Erico Galeano, një anëtar i partisë dominuese të Kolorados (“E Kuqe”, djathtas) në […]",
+      "published": "Tue, 05 May 2026 02:15:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963762",
+      "fetched_at": "2026-05-05T02:37:54.811975",
+      "ai_summary": "Një anëtar i Senatit të Paraguait , i cili i përket partisë në pushtet, u dënua nga një gjykatë apeli të hënën me 13 vjet burg për pastrim parash, konkretisht trafik droge , si dhe për organizim dhe f..."
+    },
+    {
+      "title": "Giorgia Meloni kundër tërheqjes së trupave amerikane nga Italia",
+      "link": "https://www.balkanweb.com/giorgia-meloni-kunder-terheqjes-se-trupave-amerikane-nga-italia/",
+      "description": "Kryeministrja italiane, Giorgia Meloni, tha të hënën se nuk do të mbështeste asnjë vendim të Presidentit Donald Trump për tërheqjen e trupave amerikane nga Italia. “Është një vendim që nuk varet nga unë dhe me të cilin unë personalisht nuk do të pajtohesha”, u tha Meloni gazetarëve në Jerevan, Armeni, në margjinat e një samiti […]",
+      "published": "Tue, 05 May 2026 02:00:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963717",
+      "fetched_at": "2026-05-05T02:37:54.812051",
+      "ai_summary": "Kryeministrja italiane, Giorgia Meloni, tha të hënën se nuk do të mbështeste asnjë vendim të Presidentit Donald Trump për tërheqjen e trupave amerikane nga Italia. “Është një vendim që nuk varet nga u..."
+    },
+    {
+      "title": "Ursula von der Leyen: BE duhet të forcojë sigurinë në energji, mbrojtje dhe zinxhirët e furnizimit",
+      "link": "https://www.balkanweb.com/ursula-von-der-leyen-be-duhet-te-forcoje-sigurine-ne-energji-mbrojtje-dhe-zinxhiret-e-furnizimit/",
+      "description": "Evropa duhet të forcojë sigurinë e saj në fusha të tilla si energjia, mbrojtja dhe zinxhirët e furnizimit. Presidentja e Komisionit Evropian, Ursula von der Leyen, u tha gazetarëve para fillimit të samitit të Bashkimit Politik Evropian në Jerevan. Sipas saj, Bashkimi Evropian (BE) është tepër i varur nga lëndët djegëse fosile të importuara, gjë […]",
+      "published": "Tue, 05 May 2026 01:30:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963743",
+      "fetched_at": "2026-05-05T02:37:54.812126",
+      "ai_summary": "Evropa duhet të forcojë sigurinë e saj në fusha të tilla si energjia, mbrojtja dhe zinxhirët e furnizimit. Presidentja e Komisionit Evropian, Ursula von der Leyen, u tha gazetarëve para fillimit të sa..."
+    },
+    {
+      "title": "Irani var tre burra për protestat e janarit në ‘valën’ e ekzekutimeve",
+      "link": "https://www.balkanweb.com/irani-var-tre-burra-per-protestat-e-janarit-ne-valen-e-ekzekutimeve/",
+      "description": "Irani ekzekutoi tre burra të akuzuar për protesta këtë janar, thanë autoritetet të hënën, i fundit në një valë varjesh të të dënuarve të parë nga grupet e të drejtave të njeriut si të burgosur politikë në sfondin e luftës kundër Shteteve të Bashkuara dhe Izraelit . Autoritetet iraniane kanë kryer ekzekutime pothuajse çdo ditë […]",
+      "published": "Tue, 05 May 2026 01:15:44 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963755",
+      "fetched_at": "2026-05-05T02:37:54.812201",
+      "ai_summary": "Irani ekzekutoi tre burra të akuzuar për protesta këtë janar, thanë autoritetet të hënën, i fundit në një valë varjesh të të dënuarve të parë nga grupet e të drejtave të njeriut si të burgosur politik..."
+    },
+    {
+      "title": "Trump: Irani do të fshihet nga faqja e dheut nëse sulmon anijet amerikane në Ngushticën e Hormuzit",
+      "link": "https://www.balkanweb.com/trump-irani-do-te-fshihet-nga-faqja-e-dheut-nese-sulmon-anijet-amerikane-ne-ngushticen-e-hormuzit/",
+      "description": "Donald Trump ka thënë se Republika Islamike do të fshihet nga faqja e dheut nëse forcat ushtarake iraniane sulmojnë anijet amerikane që kalojnë nëpër Ngushticën e Hormuzit. Trump e tha këtë në një intervistë për Fox News. “Ose Irani do të bëjë një marrëveshje të mirë me ne, ose veprimet ushtarake do të vazhdojnë”, tha […]",
+      "published": "Tue, 05 May 2026 01:00:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963714",
+      "fetched_at": "2026-05-05T02:37:54.812278",
+      "ai_summary": "Donald Trump ka thënë se Republika Islamike do të fshihet nga faqja e dheut nëse forcat ushtarake iraniane sulmojnë anijet amerikane që kalojnë nëpër Ngushticën e Hormuzit. Trump e tha këtë në një int..."
+    },
+    {
+      "title": "Meloni bën thirrje për një qasje gjithëpërfshirëse ndaj krizave të migracionit dhe sigurisë në Evropë",
+      "link": "https://www.balkanweb.com/meloni-ben-thirrje-per-nje-qasje-gjitheperfshirese-ndaj-krizave-te-migracionit-dhe-sigurise-ne-evrope/",
+      "description": "Kryeministrja italiane Giorgia Meloni ka bërë thirrje për një qasje gjithëpërfshirëse për adresimin e krizave të ndërlidhura në Evropë, duke përfshirë migracionin, sigurinë dhe ekonominë. Ajo e tha këtë gjatë fjalimit të tij në samitin e Unionit Politik Evropian të mbajtur në Jerevan. Sipas saj, presioni në rritje i migracionit ndikon jo vetëm në siguri, […]",
+      "published": "Tue, 05 May 2026 00:45:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963740",
+      "fetched_at": "2026-05-05T02:37:54.812351",
+      "ai_summary": "Kryeministrja italiane Giorgia Meloni ka bërë thirrje për një qasje gjithëpërfshirëse për adresimin e krizave të ndërlidhura në Evropë, duke përfshirë migracionin, sigurinë dhe ekonominë. Ajo e tha kë..."
+    },
+    {
+      "title": "Shpërthim në një fabrikë fishekzjarrësh në Kinë, një i vdekur dhe disa të plagosur",
+      "link": "https://www.balkanweb.com/shperthim-ne-nje-fabrike-fishekzjarresh-ne-kine-nje-i-vdekur-dhe-disa-te-plagosur/",
+      "description": "Një shpërthim ndodhi në një fabrikë fishekzjarrësh në Guangdu Township, Liuyang City, Kinë (Kina Qendrore). Kjo u raportua nga agjencia e lajmeve Xinhua, duke cituar Departamentin e Menaxhimit të Emergjencave të qytetit Liuyang. Shpërthimi vrau tre persona dhe plagosi 25 të tjerë. Shërbimet lokale të emergjencës, zjarrfikësve dhe shpëtimit u thirrën në vendngjarje. Operacioni i […]",
+      "published": "Tue, 05 May 2026 00:30:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963737",
+      "fetched_at": "2026-05-05T02:37:54.812419",
+      "ai_summary": "Një shpërthim ndodhi në një fabrikë fishekzjarrësh në Guangdu Township, Liuyang City, Kinë (Kina Qendrore). Kjo u raportua nga agjencia e lajmeve Xinhua, duke cituar Departamentin e Menaxhimit të Emer..."
+    },
+    {
+      "title": "Katër migrantë gjenden të vdekur pranë kufirit Kroaci-Slloveni",
+      "link": "https://www.balkanweb.com/kater-migrante-gjenden-te-vdekur-prane-kufirit-kroaci-slloveni/",
+      "description": "Katër migrantë u gjetën të vdekur pranë kufirit slloven dhe dy të tjerë u dërguan në spital në gjendje të rëndë pasi u transportuan me kamion në “kushte çnjerëzore”, tha policia kroate të hënën. Trembëdhjetë persona të tjerë u gjetën gjithashtu nga policia pranë fshatit kroat Donje Prilisce, 70 kilometra (43 milje) në jugperëndim të […]",
+      "published": "Tue, 05 May 2026 00:30:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2963731",
+      "fetched_at": "2026-05-05T02:37:54.812486",
+      "ai_summary": "Katër migrantë u gjetën të vdekur pranë kufirit slloven dhe dy të tjerë u dërguan në spital në gjendje të rëndë pasi u transportuan me kamion në “kushte çnjerëzore”, tha policia kroate të hënën. Tremb..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
