@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-07",
+  "timestamp": "2026-05-07T02:45:13.529575",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Bahreini dhe Emiratet e Bashkuara Arabe kërkojnë reagim nga OKB-ja ndaj sulmeve iraniane",
+      "link": "https://www.balkanweb.com/bahreini-dhe-emiratet-e-bashkuara-arabe-kerkojne-reagim-nga-okb-ja-ndaj-sulmeve-iraniane/",
+      "description": "Këshilli i Sigurimit i OKB-së zhvilloi konsultime me dyer të mbyllura me kërkesë të Bahreinit, i cili e kërkoi takimin pas sulmeve të nisura nga Irani më 4 maj kundër Emirateve të Bashkuara Arabe . Bahreini i përshkroi sulmet si një kërcënim serioz për paqen dhe sigurinë ndërkombëtare, lundrimin, infrastrukturën kritike dhe stabilitetin në rajonin […]",
+      "published": "Thu, 07 May 2026 02:30:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965273",
+      "fetched_at": "2026-05-07T02:45:07.405487",
+      "ai_summary": "Këshilli i Sigurimit i OKB-së zhvilloi konsultime me dyer të mbyllura me kërkesë të Bahreinit, i cili e kërkoi takimin pas sulmeve të nisura nga Irani më 4 maj kundër Emirateve të Bashkuara Arabe . Ba..."
+    },
+    {
+      "title": "Macron bën thirrje për heqjen e bllokadës në Ngushticën e Hormuzit pas bisedimeve me Iranin",
+      "link": "https://www.balkanweb.com/macron-ben-thirrje-per-heqjen-e-bllokades-ne-ngushticen-e-hormuzit-pas-bisedimeve-me-iranin/",
+      "description": "Presidenti francez Emmanuel Macron ka bërë thirrje për rihapjen e menjëhershme të Ngushticës së Hormuzit , pas bisedimeve me Presidentin iranian Masud Peskov. Ai gjithashtu u bëri thirrje vendeve të marrin në konsideratë bashkimin me një iniciativë franko-britanike për të siguruar lundrimin në rajon. Duke folur pas bisedimeve me Iranin, Macron theksoi se “të gjitha […]",
+      "published": "Thu, 07 May 2026 02:00:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965250",
+      "fetched_at": "2026-05-07T02:45:07.405656",
+      "ai_summary": "Presidenti francez Emmanuel Macron ka bërë thirrje për rihapjen e menjëhershme të Ngushticës së Hormuzit , pas bisedimeve me Presidentin iranian Masud Peskov. Ai gjithashtu u bëri thirrje vendeve të m..."
+    },
+    {
+      "title": "SHBA-ja dhe Irani afër marrëveshjes: Trump këmbëngul se “lufta do të përfundojë shpejt”",
+      "link": "https://www.balkanweb.com/shba-ja-dhe-irani-afer-marreveshjes-trump-kembengul-se-lufta-do-te-perfundoje-shpejt/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha se lufta me Iranin “do të mbarojë shpejt”, ndërsa Uashingtoni shton përpjekjet për të arritur një marrëveshje me Teheranin që mund të ulë tensionet në konflikt. Komentet e presidentit të SHBA-së vijnë mes raportimeve në rritje se të dyja palët janë pranë një marrëveshjeje mbi një memorandum mirëkuptimi që […]",
+      "published": "Thu, 07 May 2026 01:30:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965270",
+      "fetched_at": "2026-05-07T02:45:07.405749",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se lufta me Iranin “do të mbarojë shpejt”, ndërsa Uashingtoni shton përpjekjet për të arritur një marrëveshje me Teheranin që mund të ulë tensionet në konflikt...."
+    },
+    {
+      "title": "27 vite bashkë: Çifti zbulon sekretin e një martese të lumtur",
+      "link": "https://www.balkanweb.com/27-vite-bashke-cifti-zbulon-sekretin-e-nje-martese-te-lumtur/",
+      "description": "Për Brian dhe Sarah Orozco, një martesë afatgjatë nuk ndërtohet mbi momentet perfekte. Ajo ndërtohet mbi mënyrën se si i qëndroni pranë njëri-tjetrit kur jeta vështirësohet. Në 27 vitet që kanë qenë bashkë, ata kanë kaluar nëpër sfida që kanë vënë në provë si marrëdhënien ashtu edhe qëndrueshmërinë e tyre. Nga vështirësitë financiare te diagnozat […]",
+      "published": "Thu, 07 May 2026 01:00:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965243",
+      "fetched_at": "2026-05-07T02:45:07.405848",
+      "ai_summary": "Për Brian dhe Sarah Orozco, një martesë afatgjatë nuk ndërtohet mbi momentet perfekte. Ajo ndërtohet mbi mënyrën se si i qëndroni pranë njëri-tjetrit kur jeta vështirësohet. Në 27 vitet që kanë qenë b..."
+    },
+    {
+      "title": "Bombardime të reja izraelite në Liban: 11 civilë dhe një komandant i Hezbollahut të vrarë",
+      "link": "https://www.balkanweb.com/bombardime-te-reja-izraelite-ne-liban-11-civile-dhe-nje-komandant-i-hezbollahut-te-vrare/",
+      "description": "Ushtria izraelite kreu sulmin e parë ajror në gati një muaj në një periferi jugore të kryeqytetit libanez Bejrut të mërkurën në mbrëmje, duke vrarë një anëtar të lartë të krahut ushtarak të lëvizjes Hezbollah , e lidhur me Iranin , thanë burime të AFP dhe DPA. Të paktën 11 persona u vranë në sulmet […]",
+      "published": "Thu, 07 May 2026 00:30:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965264",
+      "fetched_at": "2026-05-07T02:45:07.405930",
+      "ai_summary": "Ushtria izraelite kreu sulmin e parë ajror në gati një muaj në një periferi jugore të kryeqytetit libanez Bejrut të mërkurën në mbrëmje, duke vrarë një anëtar të lartë të krahut ushtarak të lëvizjes H..."
+    },
+    {
+      "title": "Fundi tragjik i një familjeje në Teksas: Pronari i restorantit vret gruan, fëmijët dhe më pas veten",
+      "link": "https://www.balkanweb.com/fundi-tragjik-i-nje-familjeje-ne-teksas-pronari-i-restorantit-vret-gruan-femijet-dhe-me-pas-veten/",
+      "description": "Një tragjedi familjare ka tronditur Teksasin në SHBA, ku një familje me katër anëtarë u gjet e vdekur brenda shtëpisë së tyre. Policia beson se babai vrau gruan dhe dy fëmijët e tij dhe më pas i mori jetën vetes. Matthew Mitchell, 52 vjeç, dhe Thea Mitchell, 39 vjeç, si dhe vajza e tyre 8-vjeçare […]",
+      "published": "Thu, 07 May 2026 00:00:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965228",
+      "fetched_at": "2026-05-07T02:45:07.406008",
+      "ai_summary": "Një tragjedi familjare ka tronditur Teksasin në SHBA, ku një familje me katër anëtarë u gjet e vdekur brenda shtëpisë së tyre. Policia beson se babai vrau gruan dhe dy fëmijët e tij dhe më pas i mori ..."
+    },
+    {
+      "title": "Irani i drejtohet Trumpit: “Operacioni ‘më beso vëlla’ dështoi” pas ngrirjes së ‘Planit të Lirisë’",
+      "link": "https://www.balkanweb.com/irani-i-drejtohet-trumpit-operacioni-me-beso-vella-deshtoi-pas-ngrirjes-se-planit-te-lirise/",
+      "description": "Një përplasje e re verbale shpërtheu midis Teheranit dhe Uashingtonit pasi Presidenti i SHBA-së Donald Trump njoftoi një pezullim të përkohshëm të “Projektit të Lirisë” në Ngushticën e Hormuzit , me qëllim intensifikimin e negociatave me Iranin. Pala iraniane u përgjigj me komente ironike, ndërsa Trump u shfaq optimist se një marrëveshje mund të arrihet […]",
+      "published": "Wed, 06 May 2026 23:45:36 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965258",
+      "fetched_at": "2026-05-07T02:45:07.406086",
+      "ai_summary": "Një përplasje e re verbale shpërtheu midis Teheranit dhe Uashingtonit pasi Presidenti i SHBA-së Donald Trump njoftoi një pezullim të përkohshëm të “Projektit të Lirisë” në Ngushticën e Hormuzit , me q..."
+    },
+    {
+      "title": "VIDEO/ Momenti kur një elefant shkel për vdekje një biznesmen 75-vjeçar",
+      "link": "https://www.balkanweb.com/video-momenti-kur-nje-elefant-shkel-per-vdekje-nje-biznesmen-75-vjecar/",
+      "description": "Një video e tmerrshme që qarkullon në internet tregon momentin kur një elefant sulmon dhe vret një biznesmen 75-vjeçar amerikan gjatë një safari në Gabon . Viktima është Ernie Drozio, pronar i një vreshti në Kaliforni, dhe incidenti ndodhi në mesin e prillit në pyllin tropikal Lope-Ocada. 🤯🚨😱 TRAGEDIA EN ÁFRICA.- Muere el millonario y […]",
+      "published": "Wed, 06 May 2026 23:45:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965239",
+      "fetched_at": "2026-05-07T02:45:07.406175",
+      "ai_summary": "Një video e tmerrshme që qarkullon në internet tregon momentin kur një elefant sulmon dhe vret një biznesmen 75-vjeçar amerikan gjatë një safari në Gabon . Viktima është Ernie Drozio, pronar i një vre..."
+    },
+    {
+      "title": "Katër të vrarë në trazirat pas zgjedhjeve në Bengalin Perëndimor të Indisë",
+      "link": "https://www.balkanweb.com/kater-te-vrare-ne-trazirat-pas-zgjedhjeve-ne-bengalin-perendimor-te-indise/",
+      "description": "Katër persona janë vrarë në trazirat politike pasi partia hindu-nacionaliste e kryeministrit indian Narendra Modi festoi fitoren në zgjedhjet shtetërore në Bengalin Perëndimor, thanë të mërkurën zyrtarët e policisë dhe partisë. Partia Bharatiya Janata (BJP) e Modit fitoi zgjedhjet në shtetin kyç lindor me më shumë se 100 milionë banorë, duke fituar 206 nga 294 […]",
+      "published": "Wed, 06 May 2026 23:30:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965236",
+      "fetched_at": "2026-05-07T02:45:07.406555",
+      "ai_summary": "Katër persona janë vrarë në trazirat politike pasi partia hindu-nacionaliste e kryeministrit indian Narendra Modi festoi fitoren në zgjedhjet shtetërore në Bengalin Perëndimor, thanë të mërkurën zyrta..."
+    },
+    {
+      "title": "Donald Trump beson se një marrëveshje e mundshme me Iranin mund të finalizohet brenda “një jave “",
+      "link": "https://www.balkanweb.com/donald-trump-beson-se-nje-marreveshje-e-mundshme-me-iranin-mund-te-finalizohet-brenda-nje-jave/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha se mund të duhet rreth një javë që Uashingtoni dhe Teherani të arrijnë një marrëveshje mbi një memorandum mirëkuptimi që do të çonte në një përfundim të përhershëm të luftës midis dy vendeve. Sipas Fox News, Trump e bëri komentin gjatë një interviste telefonike me rrjetin, duke u shfaqur […]",
+      "published": "Wed, 06 May 2026 23:00:11 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2965210",
+      "fetched_at": "2026-05-07T02:45:07.406691",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha se mund të duhet rreth një javë që Uashingtoni dhe Teherani të arrijnë një marrëveshje mbi një memorandum mirëkuptimi që do të çonte në një përfundim të përhers..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
