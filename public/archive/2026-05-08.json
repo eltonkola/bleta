@@ -1,0 +1,54 @@
+{
+  "date": "2026-05-08",
+  "timestamp": "2026-05-08T02:49:37.119865",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "“Nuk bëhet punë me këtë popull”",
+      "link": "https://www.balkanweb.com/nuk-behet-pune-me-kete-popull/",
+      "description": "Ideja e këtij shkrimi është marrë nga një artikull i vitit 1934, botuar tek “Illyria”. Autori i saj ishte një 30-vjeçar që quhej Tajar Zavalani. Për historianët është dhe mbetet një figurë e njohur me të gjithë dritë-hijet e tij. I përket atij grupi shqiptarësh të kulturuar, të cilët dyshonin me të drejtë për faktin […]",
+      "published": "Thu, 07 May 2026 23:34:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2966114",
+      "fetched_at": "2026-05-08T02:49:31.734694",
+      "ai_summary": "Ideja e këtij shkrimi është marrë nga një artikull i vitit 1934, botuar tek “Illyria”. Autori i saj ishte një 30-vjeçar që quhej Tajar Zavalani. Për historianët është dhe mbetet një figurë e njohur me..."
+    },
+    {
+      "title": "Reagojnë ushtria amerikane dhe presidenti Trump, pasi SHBA-të dhe Irani shkëmbyen zjarr në Ngushticën e Hormuzit",
+      "link": "https://telegrafi.com/reagon-ushtria-amerikane-dhe-presidenti-trump-pasi-shba-te-dhe-irani-shkembyen-zjarr-ne-ngushticen-e-hormuzit/",
+      "description": "Forcat amerikane shënjestruan objekte ushtarake iraniane përgjegjëse për nisjen e një serie sulmesh \"të paprovokuara\" me raketa, dronë dhe varka të vogla kundër anijeve luftarake amerikane që kalonin nëpër Ngushticën e Hormuzit, tha Komanda Qendrore e SHBA-së të enjten.\"Forcat amerikane ndërprenë sulme të paprovokuara iraniane dhe u përgjigjën me sulme vetëmbrojtëse ndërsa shkatërruesit me raketa të drejtuara të Marinës Amerikane kaluan nëpër Ngushticën e Hormuzit në Gjirin e Omanit, më 7 maj\", tha CENTCOM në një njoftim për shtyp, përcjell Telegrafi.https://t.co/FY4zUn9fYh— U.S. Central Command (@CENTCOM) May 7, 2026 Objektet iraniane të shënjestruara nga forcat amerikane përfshinin \"vende lëshimi raketash dhe dronësh, vende komande dhe kontrolli; dhe nyje inteligjence, mbikëqyrjeje dhe zbulimi\", sipas CENTCOM.\"Forcat iraniane nisën raketa të shumta, dronë dhe varka të vogla ndërsa USS Truxtun (DDG 103), USS Rafael Peralta (DDG 115) dhe USS Mason (DDG 87) kaluan nëpër kalimin ndërkombëtar detar. Asnjë aset amerikan nuk u godit\", shtoi deklarata e CENTCOM. Irani thotë se po sulmon anijet ushtarake amerikane - akuzon SHBA-në për shkelje të armëpushimit Një raport i medias shtetërore iraniane tha se objektet tregtare në skelën Bahman në ishullin Qeshm ishin shënjestruar në një shkëmbim zjarri midis forcave iraniane të sigurisë dhe \"armikut\".Në deklaratën e saj, Komanda Qendrore Amerikane tha se forcat amerikane \"nuk kërkojnë përshkallëzim\", por se ushtria është \"e gatshme të mbrojë forcat amerikane\".Ndërkohë ka ardhur edhe një reagim nga presidenti amerikan, Donald Trump.Ai tha të enjten se forcat amerikane shkatërruan sulmuesit iranianë që kishin në shënjestër tre shkatërrues të Marinës Amerikane ndërsa ata po kalonin nëpër Ngushticën e Hormuzit, duke paralajmëruar se \"ne do t'i rrëzojmë ata shumë më fort dhe shumë më dhunshëm\" nëse Irani nuk nënshkruan një marrëveshje së shpejti. Presidenti amerikan e paralajmëroi Iranin kundër përshkallëzimit të mëtejshëm të tensioneve, duke shkruar se “nëse do të kishin mundësinë të përdornin një armë bërthamore, do ta bënin, pa dyshim – Por ata nuk do ta kenë kurrë atë mundësi dhe, ashtu siç i rrëzuam përsëri sot, do t’i rrëzojmë shumë më fort dhe shumë më dhunshëm në të ardhmen, nëse nuk e nënshkruajnë marrëveshjen, SHPEJT!”. /Telegrafi/",
+      "published": "Thu, 07 May 2026 23:20:59 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/reagon-ushtria-amerikane-dhe-presidenti-trump-pasi-shba-te-dhe-irani-shkembyen-zjarr-ne-ngushticen-e-hormuzit/",
+      "fetched_at": "2026-05-08T02:49:34.398021",
+      "ai_summary": "Forcat amerikane shënjestruan objekte ushtarake iraniane përgjegjëse për nisjen e një serie sulmesh \"të paprovokuara\" me raketa, dronë dhe varka të vogla kundër anijeve luftarake amerikane që kalonin ..."
+    },
+    {
+      "title": "Gjykata tregtare e SHBA-së vendosi kundër tarifave të fundit globale prej 10% të presidentit Trump",
+      "link": "https://telegrafi.com/gjykata-tregtare-e-shba-se-vendosi-kunder-tarifave-te-fundit-globale-prej-10-te-presidentit-trump/",
+      "description": "Gjykata tregtare e SHBA-së vendosi të enjten kundër tarifave të fundit globale prej 10% të presidentit Donald Trump, duke konstatuar se tarifat gjithëpërfshirëse nuk ishin të justifikuara sipas një ligji tregtar të viteve 1970.Gjykata e Tregtisë Ndërkombëtare e SHBA-së vendosi në favor të bizneseve të vogla që kundërshtuan tarifat, të cilat hynë në fuqi më 24 shkurt. Vendimi ishte 2-1, me një gjyqtar që tha se ishte e parakohshme t'u jepej fitore paditësve të biznesit të vogël.Bizneset e vogla kishin argumentuar se tarifat e reja ishin një përpjekje për të anashkaluar një vendim historik të Gjykatës Supreme të SHBA-së që rrëzoi tarifat e presidentit republikan të vitit 2025 të vendosura sipas Aktit Ndërkombëtar të Fuqive Ekonomike të Emergjencës.Në urdhrin e tij të shkurtit, Trump thirri Seksionin 122 të Aktit të Tregtisë të vitit 1974, i cili lejon detyrime deri në 150 ditë për të korrigjuar \"deficitet serioze të bilancit të pagesave\" ose për të parandaluar një zhvlerësim të afërt të dollarit.Vendimi i gjykatës i së enjtes vendosi që ligji nuk ishte një hap i përshtatshëm për llojet e deficiteve tregtare që Trump përmendi në urdhrin e tij të shkurtit. /Telegrafi/",
+      "published": "Thu, 07 May 2026 22:10:01 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/gjykata-tregtare-e-shba-se-vendosi-kunder-tarifave-te-fundit-globale-prej-10-te-presidentit-trump/",
+      "fetched_at": "2026-05-08T02:49:34.398893",
+      "ai_summary": "Gjykata tregtare e SHBA-së vendosi të enjten kundër tarifave të fundit globale prej 10% të presidentit Donald Trump, duke konstatuar se tarifat gjithëpërfshirëse nuk ishin të justifikuara sipas një li..."
+    }
+  ],
+  "total_articles": 3,
+  "sources": [
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
