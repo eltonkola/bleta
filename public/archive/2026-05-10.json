@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-10",
+  "timestamp": "2026-05-10T02:50:03.337903",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Një vitaminë mund të ndihmojë në trajtimin e mëlçisë së dhjamosur, shkencëtarët zbulojnë “çelësin” molekular",
+      "link": "https://telegrafi.com/nje-vitamine-mund-te-ndihmoje-ne-trajtimin-e-melcise-se-dhjamosur-shkencetaret-zbulojne-celesin-molekular/",
+      "description": "Studimi i ri tregon se molekula miR-93 mund të luajë rol të rëndësishëm në grumbullimin e yndyrës në mëlçi, ndërsa një përbërës i njohur po shqyrtohet si mundësi e ardhshme terapeutikeSëmundja metabolike e mëlçisë së dhjamosur, e njohur si MASLD, lidhet me mbipeshën, rezistencën ndaj insulinës dhe diabetin e tipit 2. Sipas Ulsan National Institute of Science and Technology, rreth 25 deri në 30 për qind e popullsisë globale mund të jetë e prekur nga kjo gjendje, e cila shpesh përparon pa simptoma të dukshme. MASLD ndodh kur yndyra grumbullohet në mëlçi në prani të çrregullimeve metabolike, si mbipesha, trigliceridet e larta, diabeti i tipit 2 ose presioni i lartë i gjakut. Në fazat e para, shumë persona nuk ndiejnë asgjë, por me kalimin e kohës gjendja mund të çojë në inflamacion, fibrozë, cirrozë dhe dëmtim serioz të mëlçisë. Në studimin e botuar në revistën shkencore Metabolism, autorët theksojnë se MASLD përfshin një spektër gjendjesh, nga dhjamosja e thjeshtë deri te format më të avancuara si MASH, fibroza dhe cirroza. Ekipi i udhëhequr nga Jang Hyun Choi, nga Ulsan National Institute of Science and Technology, në bashkëpunim me studiues nga Pusan National University dhe Ulsan University Hospital, ka identifikuar miR-93 si faktor të rëndësishëm në përparimin e MASLD. Sipas UNIST, kjo molekulë u gjet në nivele të larta në indin e mëlçisë te pacientët me MASLD dhe te minjtë e ushqyer me dietë të pasur me yndyrë dhe fruktozë, transmeton Telegrafi.MicroRNA-të janë molekula të vogla që ndikojnë në aktivitetin e gjeneve. Në këtë rast, miR-93 duket se pengon veprimin e SIRT1, një gjen i rëndësishëm për përdorimin e energjisë dhe metabolizmin e yndyrave. Sipas studimit në Metabolism, miR-93 e shtyp SIRT1 dhe dobëson rrugën sinjalizuese LKB1 AMPK, e cila ndihmon qelizat të ruajnë ekuilibrin energjetik. Kur SIRT1 frenohet, mëlçia priret të ruajë më shumë yndyrë, në vend që ta djegë atë. Studiuesit vunë re se miR-93 ul oksidimin e acideve yndyrore dhe rrit proceset që lidhen me prodhimin e kolesterolit.Për të parë nëse bllokimi i miR-93 mund ta përmirësonte gjendjen, studiuesit krijuan minj që nuk mund të prodhonin këtë molekulë. Edhe kur u ushqyen me dietë të pasur me yndyrë dhe fruktozë, ata zhvilluan dukshëm më pak grumbullim yndyre në mëlçi. Sipas Metabolism, mungesa e miR-93 u shoqërua me rritje të gjeneve që lidhen me djegien e acideve yndyrore dhe me ulje të gjeneve që lidhen me biosintezën e kolesterolit. Në fazën tjetër, studiuesit testuan 150 barna të miratuara nga FDA për të parë nëse ndonjëri prej tyre mund ta ulte nivelin e miR-93. Sipas ScienceDaily, niacina, e njohur edhe si vitamina B3, doli si përbërësi më efektiv në këtë kontroll laboratorik. Te minjtë e trajtuar, nivelet e miR-93 ranë, aktiviteti i SIRT1 u rrit dhe u përmirësuan rrugët e përpunimit të yndyrës në mëlçi. Megjithatë, këto rezultate nuk do të thonë se niacina është tashmë trajtim i provuar për mëlçinë e dhjamosur. Autorët theksojnë se nevojiten studime klinike te njerëzit për të vërtetuar nëse efekti i parë në modele laboratorike përkthehet në përfitim real për pacientët.Edhe pse bëhet fjalë për vitaminë, në doza të larta niacina sillet si bar dhe mund të shkaktojë efekte anësore. Prandaj nuk duhet përdorur për vetëtrajtim, pa këshillë dhe mbikëqyrje mjekësore. Sipas ClinicalTrials.gov, një studim klinik me kodin NCT06843148, i udhëhequr nga Université de Sherbrooke, po vlerëson se si niacina ndikon në shpërndarjen e yndyrës dhe përgjigjet metabolike te personat me MASLD. Ky zbulim tregon se rruga miR-93/SIRT1 mund të jetë objektiv i ri për trajtime të ardhshme. Deri atëherë, baza e kujdesit mbetet ndryshimi i stilit të jetesës: humbja graduale e peshës, aktiviteti fizik, ulja e sheqernave dhe karbohidrateve të rafinuara, kufizimi i alkoolit, si dhe kontrolli i diabetit, triglicerideve dhe presionit të gjakut. /Telegrafi/",
+      "published": "Sat, 09 May 2026 22:50:21 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/nje-vitamine-mund-te-ndihmoje-ne-trajtimin-e-melcise-se-dhjamosur-shkencetaret-zbulojne-celesin-molekular/",
+      "fetched_at": "2026-05-10T02:50:00.792428",
+      "ai_summary": "Studimi i ri tregon se molekula miR-93 mund të luajë rol të rëndësishëm në grumbullimin e yndyrës në mëlçi, ndërsa një përbërës i njohur po shqyrtohet si mundësi e ardhshme terapeutikeSëmundja metabol..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Telegrafi"
+  ]
+}
