@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-11",
+  "timestamp": "2026-05-11T03:25:05.546293",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Garë e ashpër në Serie A për një vend në Champions",
+      "link": "https://www.gazetaexpress.com/gare-e-ashper-ne-serie-a-per-nje-vend-ne-champions/",
+      "description": "Beteja për një vend në Ligën e Kampionëve do të shkojë deri në fund të sezonit, pasi Juventusi u ngjit në vendin e tretë, Roma kapi Milanin në renditje, ndërsa Como ndodhet vetëm dy pikë prapa në tabelën e Serie A. Ndërkohë që Interi e ka fituar tashmë Scudetton me tri javë para fundit, lufta për pjesën tjetër të top katërshes mbetet plotësisht e hapur para dy javëve të fundit. Edhe Napoli mund të rikthehet në telashe nëse dështon të mposhtë Bolognan të hënën në mbrëmje. Humbja 3-2 e Milanit në shtëpi ndaj Atalantas bëri që Juventusi ta parakalojë në vendin e tretë, ndërsa Roma arriti në kuotën e 67 pikëve pas rikthimit dramatik për të fituar 3-2 ndaj Parmas në minutat shtesë. Fitore 1-0 e Comos në transfertë ndaj Hellas Veronas, që tashmë ka rënë nga liga, e riktheu edhe skuadrën lombarde në garë me 65 pikë, vetëm tre më pak se vendi i tretë. Nëse Napoli humbet ndaj Bolognas të hënën, atëherë diferenca mes vendit të dytë dhe të gjashtit do të jetë vetëm pesë pikë me dy ndeshje të mbetura. Prandaj, kalendari i ndeshjeve të fundit bëhet vendimtar. Rafael Leão mori karton të verdhë sonte dhe do të mungojë për shkak pezullimi në ndeshjen e Milanit ndaj Genoas./GazetaExpress/ Java 37: Como – Parma Genoa – Milan Juventus – Fiorentina Pisa – Napoli Roma – Lazio Java 38: Cremonese – Como Milan – Cagliari Napoli – Udinese Torino – Juventus Hellas Verona – Roma The post Garë e ashpër në Serie A për një vend në Champions appeared first on Gazeta Express.",
+      "published": "Sun, 10 May 2026 22:00:00 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3098404",
+      "fetched_at": "2026-05-11T03:25:01.914010",
+      "ai_summary": "Beteja për një vend në Ligën e Kampionëve do të shkojë deri në fund të sezonit, pasi Juventusi u ngjit në vendin e tretë, Roma kapi Milanin në renditje, ndërsa Como ndodhet vetëm dy pikë prapa në tabe..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Gazeta Express"
+  ]
+}
