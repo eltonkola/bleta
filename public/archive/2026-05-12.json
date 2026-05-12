@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-12",
+  "timestamp": "2026-05-12T02:50:59.268256",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Shefi i mbrojtjes suedeze paralajmëron se përgatitja e NATO-s mund të vihet në provë nga Rusia në të ardhmen",
+      "link": "https://www.balkanweb.com/shefi-i-mbrojtjes-suedeze-paralajmeron-se-pergatitja-e-nato-s-mund-te-vihet-ne-prove-nga-rusia-ne-te-ardhmen/",
+      "description": "Shefi i Mbrojtjes së Suedisë, Michael Claesson, paralajmëroi të hënën se Rusia mund të vërë në provë gatishmërinë e NATO -s në të ardhmen dhe se situata e sigurisë në rajonin e Detit Baltik mund të përkeqësohet. Duke folur në një intervistë me transmetuesin suedez SVT, Claesson përsëriti paralajmërimin e tij të fundit se Rusia […]",
+      "published": "Tue, 12 May 2026 02:45:36 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968250",
+      "fetched_at": "2026-05-12T02:50:53.013734",
+      "ai_summary": "Shefi i Mbrojtjes së Suedisë, Michael Claesson, paralajmëroi të hënën se Rusia mund të vërë në provë gatishmërinë e NATO -s në të ardhmen dhe se situata e sigurisë në rajonin e Detit Baltik mund të pë..."
+    },
+    {
+      "title": "SHBA-të heqin përkohësisht taksën e karburantit për shkak të rritjes së çmimeve",
+      "link": "https://www.balkanweb.com/shba-te-heqin-perkohesisht-taksen-e-karburantit-per-shkak-te-rritjes-se-cmimeve/",
+      "description": "SHBA-të do të ndalojnë mbledhjen e taksave federale mbi karburantin për shkak të rritjes së shpejtë të çmimeve. Presidenti i SHBA-së, Donald Trump, e konfirmoi këtë informacion në një bisedë me gazetarët në Shtëpinë e Bardhë. Kur u pyet se sa gjatë do të mbetej në fuqi ky vendim, udhëheqësi amerikan u përgjigj: “Për sa […]",
+      "published": "Tue, 12 May 2026 02:30:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968237",
+      "fetched_at": "2026-05-12T02:50:53.013886",
+      "ai_summary": "SHBA-të do të ndalojnë mbledhjen e taksave federale mbi karburantin për shkak të rritjes së shpejtë të çmimeve. Presidenti i SHBA-së, Donald Trump, e konfirmoi këtë informacion në një bisedë me gazeta..."
+    },
+    {
+      "title": "Të paktën 10 të vdekur nga moti i keq në Afrikën e Jugut",
+      "link": "https://www.balkanweb.com/te-pakten-10-te-vdekur-nga-moti-i-keq-ne-afriken-e-jugut/",
+      "description": "Shira të rrëmbyeshëm dhe erëra të forta kanë përfshirë pjesë të Afrikës së Jugut , duke lënë të paktën 10 të vdekur ditët e fundit, tha presidenca të hënën, me Cape Town dhe provincën e saj veçanërisht të prekura rëndë. Dy persona u vranë nga rënia e pemëve në zonën turistike Garden Route të dielën, […]",
+      "published": "Tue, 12 May 2026 02:15:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968264",
+      "fetched_at": "2026-05-12T02:50:53.013976",
+      "ai_summary": "Shira të rrëmbyeshëm dhe erëra të forta kanë përfshirë pjesë të Afrikës së Jugut , duke lënë të paktën 10 të vdekur ditët e fundit, tha presidenca të hënën, me Cape Town dhe provincën e saj veçanërish..."
+    },
+    {
+      "title": "Të paktën një i vdekur dhe tre të plagosur nga një shpërthim i fuqishëm në një lagje në Brazil",
+      "link": "https://www.balkanweb.com/te-pakten-nje-i-vdekur-dhe-tre-te-plagosur-nga-nje-shperthim-i-fuqishem-ne-nje-lagje-ne-brazil/",
+      "description": "Një shpërthim i fuqishëm që i atribuohet një rrjedhjeje gazi tronditi lagjen Jaguare në zonën perëndimore të São Paulo, Brazil , të hënën pasdite, më 11 gusht, duke vrarë të paktën një person, duke plagosur tre dhe duke shkaktuar dëme të mëdha në shtëpi. Zjarrfikësit dhe forcat e mbrojtjes civile po punojnë në vendngjarje, ndërsa […]",
+      "published": "Tue, 12 May 2026 02:00:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968223",
+      "fetched_at": "2026-05-12T02:50:53.014054",
+      "ai_summary": "Një shpërthim i fuqishëm që i atribuohet një rrjedhjeje gazi tronditi lagjen Jaguare në zonën perëndimore të São Paulo, Brazil , të hënën pasdite, më 11 gusht, duke vrarë të paktën një person, duke pl..."
+    },
+    {
+      "title": "NBC News: Trump është i zemëruar që Kuba nuk po i nënshtrohet presionit nga Uashingtoni",
+      "link": "https://www.balkanweb.com/nbc-news-trump-eshte-i-zemeruar-qe-kuba-nuk-po-i-nenshtrohet-presionit-nga-uashingtoni/",
+      "description": "Presidenti i SHBA-së, Donald Trump, është i zemëruar që qeveria kubaneze nuk po i nënshtrohet presionit nga Uashingtoni. NBC News e raportoi këtë, duke cituar zyrtarë amerikanë. U vu re se administrata amerikane ka vendosur sanksione të rrepta kundër Kubës, duke kufizuar furnizimin me burime thelbësore. Megjithatë, Uashingtoni mban marrëdhënie diplomatike me qeverinë e Presidentit […]",
+      "published": "Tue, 12 May 2026 01:45:12 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968247",
+      "fetched_at": "2026-05-12T02:50:53.014130",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, është i zemëruar që qeveria kubaneze nuk po i nënshtrohet presionit nga Uashingtoni. NBC News e raportoi këtë, duke cituar zyrtarë amerikanë. U vu re se administrat..."
+    },
+    {
+      "title": "Sondazh: Amerikanët mendojnë se Donald Trump nuk i ka shpjeguar qartë qëllimet e luftës me Iranin",
+      "link": "https://www.balkanweb.com/sondazh-amerikanet-mendojne-se-donald-trump-nuk-i-ka-shpjeguar-qarte-qellimet-e-luftes-me-iranin/",
+      "description": "Dy nga tre amerikanë mendojnë se Presidenti Donald Trump nuk e ka shpjeguar qartë pse vendi shkoi në luftë me Iranin , sipas një sondazhi të Reuters/Ipsos të përfunduar të hënën, i cili tregoi gjithashtu se vlerësimi i tij i miratimit po rritet nga niveli më i ulët i mandatit të tij. Sondazhi katër-ditor zbuloi […]",
+      "published": "Tue, 12 May 2026 01:30:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968228",
+      "fetched_at": "2026-05-12T02:50:53.014207",
+      "ai_summary": "Dy nga tre amerikanë mendojnë se Presidenti Donald Trump nuk e ka shpjeguar qartë pse vendi shkoi në luftë me Iranin , sipas një sondazhi të Reuters/Ipsos të përfunduar të hënën, i cili tregoi gjithas..."
+    },
+    {
+      "title": "Dasma kthehet në tragjedi, dhëndri vret gruan pas një debati",
+      "link": "https://www.balkanweb.com/dasma-kthehet-ne-tragjedi-dhendri-vret-gruan-pas-nje-debati/",
+      "description": "Një ngjarje tronditëse ka ndodhur në São Paulo, ku një 55-vjeçar dyshohet se vrau bashkëshorten e tij vetëm pak orë pas ceremonisë së martesës. Viktima është identifikuar si Nazila Duenas Nascimento, ndërsa në pranga ka përfunduar bashkëshorti i saj, Daniel Barboza Marinho, i cili akuzohet për vrasje. Sipas autoriteteve braziliane, ngjarja ndodhi gjatë festës së […]",
+      "published": "Tue, 12 May 2026 01:15:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968256",
+      "fetched_at": "2026-05-12T02:50:53.014284",
+      "ai_summary": "Një ngjarje tronditëse ka ndodhur në São Paulo, ku një 55-vjeçar dyshohet se vrau bashkëshorten e tij vetëm pak orë pas ceremonisë së martesës. Viktima është identifikuar si Nazila Duenas Nascimento, ..."
+    },
+    {
+      "title": "Vance apo Rubio: Kush do të trashëgojë fronin e Trump?",
+      "link": "https://www.balkanweb.com/vance-apo-rubio-kush-do-te-trashegoje-fronin-e-trump/",
+      "description": "Presidenti i SHBA-së, Donald Trump, po shqyrton mundësinë e zgjedhjes së një pasardhësi. Zgjedhja tani është midis Zëvendëspresidentit J. D. Vance dhe Sekretarit të Shtetit Marco Rubio. Lajmi bëhet i ditur nga gazeta New York Times, duke cituar burime të besueshme. Rubio fitoi votën e Trump me ndihmën e memeve. Rubio ndan imazhe dhe shaka […]",
+      "published": "Tue, 12 May 2026 01:00:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968217",
+      "fetched_at": "2026-05-12T02:50:53.014391",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, po shqyrton mundësinë e zgjedhjes së një pasardhësi. Zgjedhja tani është midis Zëvendëspresidentit J. D. Vance dhe Sekretarit të Shtetit Marco Rubio. Lajmi bëhet i ..."
+    },
+    {
+      "title": "Irani: Projektrezoluta e SHBA-së për Hormuzin në OKB “e motivuar politikisht”",
+      "link": "https://www.balkanweb.com/irani-projektrezoluta-e-shba-se-per-hormuzin-ne-okb-e-motivuar-politikisht/",
+      "description": "Irani nisi një sulm të ashpër kundër iniciativës amerikane për një rezolutë të Këshillit të Sigurimit në lidhje me Ngushticën e Hormuzit. Zëvendësministri i Jashtëm i Iranit për Çështjet Ligjore dhe Ndërkombëtare, Kazem Gharibabadi, akuzoi SHBA-në se po përpiqet të ndryshojë kushtet e krizës dhe ta paraqesë Iranin si përgjegjës për tensionin në rajon . […]",
+      "published": "Tue, 12 May 2026 00:50:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968267",
+      "fetched_at": "2026-05-12T02:50:53.014468",
+      "ai_summary": "Irani nisi një sulm të ashpër kundër iniciativës amerikane për një rezolutë të Këshillit të Sigurimit në lidhje me Ngushticën e Hormuzit. Zëvendësministri i Jashtëm i Iranit për Çështjet Ligjore dhe N..."
+    },
+    {
+      "title": "Ministrat e BE-së hedhin poshtë idenë e Putinit për rolin e Schroeder në bisedimet e ardhshme të sigurisë",
+      "link": "https://www.balkanweb.com/ministrat-e-be-se-hedhin-poshte-idene-e-putinit-per-rolin-e-schroeder-ne-bisedimet-e-ardhshme-te-sigurise/",
+      "description": "Qeveritë evropiane të hënën hodhën poshtë një sugjerim nga Presidenti rus Vladimir Putin se ish-kancelari gjerman Gerhard Schroeder mund t’i përfaqësonte ato në bisedimet e mundshme të ardhshme me Moskën mbi sigurinë e kontinentit. Putin tha të shtunën se besonte se lufta në Ukrainë po i vinte fundi dhe se do të ishte i gatshëm […]",
+      "published": "Tue, 12 May 2026 00:45:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2968244",
+      "fetched_at": "2026-05-12T02:50:53.014544",
+      "ai_summary": "Qeveritë evropiane të hënën hodhën poshtë një sugjerim nga Presidenti rus Vladimir Putin se ish-kancelari gjerman Gerhard Schroeder mund t’i përfaqësonte ato në bisedimet e mundshme të ardhshme me Mos..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
