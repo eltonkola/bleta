@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-14",
+  "timestamp": "2026-05-14T02:58:34.880944",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "SHBA-të kanë njoftuar gatishmërinë e tyre për të ofruar 100 milionë dollarë ndihmë humanitare për Kubën",
+      "link": "https://www.balkanweb.com/shba-te-kane-njoftuar-gatishmerine-e-tyre-per-te-ofruar-100-milione-dollare-ndihme-humanitare-per-kuben/",
+      "description": "Departamenti Amerikan i Shtetit ka njoftuar gatishmërinë e tij për të ofruar 100 milionë dollarë ndihmë humanitare për Kubën. Deklarata e Departamentit të Shtetit vëren se fondet do të përdoren për të mbështetur popullsinë dhe do të shpërndahen në koordinim me Kishën Katolike dhe organizata të tjera humanitare. Sipas Departamentit të Shtetit, iniciativa synon të […]",
+      "published": "Thu, 14 May 2026 02:30:51 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969655",
+      "fetched_at": "2026-05-14T02:58:28.585346",
+      "ai_summary": "Departamenti Amerikan i Shtetit ka njoftuar gatishmërinë e tij për të ofruar 100 milionë dollarë ndihmë humanitare për Kubën. Deklarata e Departamentit të Shtetit vëren se fondet do të përdoren për të..."
+    },
+    {
+      "title": "Senati amerikan konfirmon Kevin Warsh si kryetar të Rezervës Federale",
+      "link": "https://www.balkanweb.com/senati-amerikan-konfirmon-kevin-warsh-si-kryetar-te-rezerves-federale/",
+      "description": "Senati i SHBA-së ka konfirmuar Kevin Warshaw si kryetar të Rezervës Federale (FED), dhe ai do të shërbejë për një mandat katërvjeçar. 54 senatorë votuan në favor të tij, ndërsa 45 senatorë votuan kundër tij. Komiteti Bankar i Dhomës së Përfaqësuesve konfirmoi emërimin e tij në fund të prillit. Duhet theksuar se mandati i Jerome […]",
+      "published": "Thu, 14 May 2026 02:00:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969627",
+      "fetched_at": "2026-05-14T02:58:28.585491",
+      "ai_summary": "Senati i SHBA-së ka konfirmuar Kevin Warshaw si kryetar të Rezervës Federale (FED), dhe ai do të shërbejë për një mandat katërvjeçar. 54 senatorë votuan në favor të tij, ndërsa 45 senatorë votuan kund..."
+    },
+    {
+      "title": "Irani ekzekuton dy persona për spiunazh për Izraelin dhe vrasjen e nje oficeri policie",
+      "link": "https://www.balkanweb.com/irani-ekzekuton-dy-persona-per-spiunazh-per-izraelin-dhe-vrasjen-e-nje-oficeri-policie/",
+      "description": "Dy burra u varën në Iran të mërkurën, njëri për lidhje të dyshuara me agjencinë e spiunazhit të Izraelit dhe tjetri për vrasjen e dyshuar të një oficeri policie gjatë protestave antiqeveritare në janar, thanë autoritetet dhe grupet e të drejtave të njeriut. Dy ekzekutimet janë të fundit në një varg ekzekutimesh në Republikën Islamike […]",
+      "published": "Thu, 14 May 2026 01:45:20 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969661",
+      "fetched_at": "2026-05-14T02:58:28.585573",
+      "ai_summary": "Dy burra u varën në Iran të mërkurën, njëri për lidhje të dyshuara me agjencinë e spiunazhit të Izraelit dhe tjetri për vrasjen e dyshuar të një oficeri policie gjatë protestave antiqeveritare në jana..."
+    },
+    {
+      "title": "Rusia qëllon rreth 800 dronë drejt Ukrainës pavarësisht bisedimeve të fundit midis Putinit dhe Trumpit për një paqe të mundshme",
+      "link": "https://www.balkanweb.com/rusia-qellon-rreth-800-drone-drejt-ukraines-pavaresisht-bisedimeve-te-fundit-midis-putinit-dhe-trumpit-per-nje-paqe-te-mundshme/",
+      "description": "Rusia qëlloi të paktën 800 dronë në një sulm masiv gjatë ditës në rreth 20 rajone të Ukrainës të mërkurën, duke vrarë të paktën gjashtë persona dhe duke plagosur dhjetëra të tjerë, përfshirë fëmijë, në një nga sulmet më të gjata nga Moska në luftën 4-vjeçare, tha Presidenti Volodymyr Zelensky. Sulmi filloi në mes të […]",
+      "published": "Thu, 14 May 2026 01:30:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969640",
+      "fetched_at": "2026-05-14T02:58:28.585670",
+      "ai_summary": "Rusia qëlloi të paktën 800 dronë në një sulm masiv gjatë ditës në rreth 20 rajone të Ukrainës të mërkurën, duke vrarë të paktën gjashtë persona dhe duke plagosur dhjetëra të tjerë, përfshirë fëmijë, n..."
+    },
+    {
+      "title": "Donald Trump kërkon ndihmën e Kinës në luftën me Iranin",
+      "link": "https://www.balkanweb.com/donald-trump-kerkon-ndihmen-e-kines-ne-luften-me-iranin/",
+      "description": "Kur Presidenti i SHBA-së, Donald Trump, takohet me Presidentin Kinez Xi Jinping këtë javë, ai pritet të kërkojë ndihmë për zgjidhjen e luftës së tij të kushtueshme dhe jopopullore me Iranin . Nuk ka gjasa që ai të marrë mbështetjen që dëshiron. Analistët thanë se, ndërsa Xi mund të bjerë dakord t’i shtyjë udhëheqësit e […]",
+      "published": "Thu, 14 May 2026 01:00:44 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969618",
+      "fetched_at": "2026-05-14T02:58:28.585751",
+      "ai_summary": "Kur Presidenti i SHBA-së, Donald Trump, takohet me Presidentin Kinez Xi Jinping këtë javë, ai pritet të kërkojë ndihmë për zgjidhjen e luftës së tij të kushtueshme dhe jopopullore me Iranin . Nuk ka g..."
+    },
+    {
+      "title": "Kujdes nga drerët e “dehur”, policia franceze paralajmëron shoferët",
+      "link": "https://www.balkanweb.com/kujdes-nga-dreret-e-dehur-policia-franceze-paralajmeron-shoferet/",
+      "description": "Policia në Francë po i paralajmëron shoferët në zonat rurale të jenë vigjilentë ndaj drerëve “të dehur” që sillen në mënyrë të çrregullt pasi konsumojnë fruta të fermentuara – ose, siç e quajti policia, një “aperitiv pylli”. Fruti bie nga pemët dhe fermentohet në diell, duke prodhuar alkoole natyrale. “Jo të gjithë përdoruesit e rrugës […]",
+      "published": "Thu, 14 May 2026 00:45:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969652",
+      "fetched_at": "2026-05-14T02:58:28.585826",
+      "ai_summary": "Policia në Francë po i paralajmëron shoferët në zonat rurale të jenë vigjilentë ndaj drerëve “të dehur” që sillen në mënyrë të çrregullt pasi konsumojnë fruta të fermentuara – ose, siç e quajti polici..."
+    },
+    {
+      "title": "Gati 2,000 persona në karantinë në Francë pas vdekjes së një pasagjeri",
+      "link": "https://www.balkanweb.com/gati-2000-persona-ne-karantine-ne-france-pas-vdekjes-se-nje-pasagjeri/",
+      "description": "Më shumë se 1,700 persona janë në karantinë në një anije turistike të Ambassador Cruise Line të ankoruar në Bordeaux pas vdekjes së një pasagjeri 90-vjeçar për shkak të një shpërthimi të gastroenteritit në Francë. Kanali televiziv BMFTV e raportoi këtë. Midis tyre, 514 janë anëtarë të stafit. Në total, rreth 50 persona janë diagnostikuar […]",
+      "published": "Thu, 14 May 2026 00:30:48 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969637",
+      "fetched_at": "2026-05-14T02:58:28.585911",
+      "ai_summary": "Më shumë se 1,700 persona janë në karantinë në një anije turistike të Ambassador Cruise Line të ankoruar në Bordeaux pas vdekjes së një pasagjeri 90-vjeçar për shkak të një shpërthimi të gastroenterit..."
+    },
+    {
+      "title": "Vance pyetet nëse Trump po bën një… sondazh për pasardhësin e tij: “Ai po luan pak, por nuk po bën një reality show për të zgjedhur mua apo Rubion”",
+      "link": "https://www.balkanweb.com/vance-pyetet-nese-trump-po-ben-nje-sondazh-per-pasardhesin-e-tij-ai-po-luan-pak-por-nuk-po-ben-nje-reality-show-per-te-zgjedhur-mua-apo-rubion/",
+      "description": "Zëvendëspresidenti amerikan u përpoq të lehtësonte atmosferën rreth një raporti që e shtyu presidentin të kryente një sondazh të vogël nëse J.D. Vance apo Marco Rubio do ta pasonin atë . Në deklaratat e së mërkurës, ai bëri një shaka në lidhje me ” The Apprentice “, reality show që Donald Trump drejtoi në vitet […]",
+      "published": "Thu, 14 May 2026 00:00:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969610",
+      "fetched_at": "2026-05-14T02:58:28.585992",
+      "ai_summary": "Zëvendëspresidenti amerikan u përpoq të lehtësonte atmosferën rreth një raporti që e shtyu presidentin të kryente një sondazh të vogël nëse J.D. Vance apo Marco Rubio do ta pasonin atë . Në deklaratat..."
+    },
+    {
+      "title": "Zjarr i madh në fabrikën e biodizelit në Turqi, një i vdekur",
+      "link": "https://www.balkanweb.com/zjarr-i-madh-ne-fabriken-e-biodizelit-ne-turqi-nje-i-vdekur/",
+      "description": "Një person ka vdekur në një zjarr të madh që shpërtheu në një fabrikë biodizel në Mersin, në jug të Turqisë . CNN Turk raporton se zjarri shpërtheu për një arsye të panjohur në impiantet e mbushjes së karburantit të kompanisë në rrethin Kazanli të provincës Akdeniz, i ndjekur nga një shpërthim në një rezervuar […]",
+      "published": "Wed, 13 May 2026 23:45:49 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969643",
+      "fetched_at": "2026-05-14T02:58:28.586079",
+      "ai_summary": "Një person ka vdekur në një zjarr të madh që shpërtheu në një fabrikë biodizel në Mersin, në jug të Turqisë . CNN Turk raporton se zjarri shpërtheu për një arsye të panjohur në impiantet e mbushjes së..."
+    },
+    {
+      "title": "Gitanas Nauseda: Hapësira ajrore lituaneze nuk do të përdoret për qëllime ushtarake",
+      "link": "https://www.balkanweb.com/gitanas-nauseda-hapesira-ajrore-lituaneze-nuk-do-te-perdoret-per-qellime-ushtarake/",
+      "description": "Presidenti lituanez, Gitanas Nauseda, tha se përdorimi i hapësirës ajrore të vendit për operacione ushtarake kundër shteteve të tjera është i papranueshëm. Nauseda theksoi se territori i Lituanisë nuk është përdorur dhe nuk do të përdoret nga vendet e treta për këto qëllime. Sipas G. Nauseda, veprime të tilla do të konsiderohen shkelje e sovranitetit […]",
+      "published": "Wed, 13 May 2026 23:35:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2969658",
+      "fetched_at": "2026-05-14T02:58:28.586153",
+      "ai_summary": "Presidenti lituanez, Gitanas Nauseda, tha se përdorimi i hapësirës ajrore të vendit për operacione ushtarake kundër shteteve të tjera është i papranueshëm. Nauseda theksoi se territori i Lituanisë nuk..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
