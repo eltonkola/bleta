@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-16",
+  "timestamp": "2026-05-16T02:47:53.621513",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Kryeqyteti evropian që jeton edhe 30 metra nën tokë: tunele, pishina dhe strehimore për një milion njerëz",
+      "link": "https://telegrafi.com/kryeqyteti-evropian-qe-jeton-edhe-30-metra-nen-toke-tunele-pishina-dhe-strehimore-per-nje-milion-njerez/",
+      "description": "Helsinki ka krijuar një rrjet të jashtëzakonshëm hapësirash nëntokësore që shërbejnë njëkohësisht për siguri, sport, kulturë dhe jetë të përditshmeDerisa shumica e metropoleve evropiane zgjerohen në lartësi, Helsinki ka zgjedhur një drejtim krejt tjetër: zhvillimin thellë nën tokë.Nën rrugët e kryeqytetit finlandez shtrihet një botë paralele, e cila nuk është vetëm përgatitje për kohë krizash, por edhe pjesë e gjallë e përditshmërisë së qytetit.Jeta në zemër të granititHelsinki ka shfrytëzuar bazën e tij natyrore prej graniti të fortë për të hapur hapësira që shërbejnë për shumëçka tjetër, jo vetëm për strehim.Rreth 30 metra nën tokë gjenden kënde lojërash për fëmijë, pishina me përmasa olimpike, salla sportive dhe madje pista kartingu. Hapësirat janë të larta, të ndriçuara mirë, me ajër të pastër dhe dizajn modern, aq sa vizitorët shpesh harrojnë se mbi kokat e tyre ndodhen tonelata shkëmbi dhe qarkullimi i përditshëm urban, transmeton Telegrafi. Siguria si pjesë e jetës së qytetitNdryshe nga strehimoret e improvizuara që shumë vende i kujtojnë nga periudha të vështira historike, Helsinki ka më shumë se 5.500 objekte nëntokësore të ndërtuara posaçërisht. Ato mund të strehojnë afro një milion njerëz, më shumë se numri i banorëve të vetë qytetit.Ekspertët finlandezë thonë se gatishmëria është pjesë e kulturës së tyre shoqërore. Pikërisht për këtë arsye, këto hapësira nuk qëndrojnë të mbyllura dhe të harruara, por përdoren çdo ditë. Kështu ato mirëmbahen rregullisht dhe qytetarët i njohin mirë në rast të ndonjë rreziku real. Nga pishinat te koncertet punkQyteti nëntokësor i Helsinkit nuk është menduar vetëm për sportistë apo fëmijë. Edhe skena finlandeze e muzikës heavy metal dhe punk ka përfituar nga këto hapësira, të cilat për dekada kanë shërbyer si vende provash të izoluara nga zhurma.Në shkëmb janë ndërtuar edhe kisha, muze, hapësira kulturore dhe liqene artificiale, duke e bërë infrastrukturën publike më të qëndrueshme ndaj dimrave të ashpër nordikë.Ky model tregon se gatishmëria për situata emergjente nuk duhet të jetë e zymtë. Në Finlandë, ajo është kthyer në mundësi për inovacion, sport, kulturë dhe bashkëjetesë urbane, duke krijuar një qytet që funksionon po aq mirë mbi tokë, sa edhe thellë nën të. - YouTube /Telegrafi/",
+      "published": "Fri, 15 May 2026 22:56:29 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/kryeqyteti-evropian-qe-jeton-edhe-30-metra-nen-toke-tunele-pishina-dhe-strehimore-per-nje-milion-njerez/",
+      "fetched_at": "2026-05-16T02:47:51.100672",
+      "ai_summary": "Helsinki ka krijuar një rrjet të jashtëzakonshëm hapësirash nëntokësore që shërbejnë njëkohësisht për siguri, sport, kulturë dhe jetë të përditshmeDerisa shumica e metropoleve evropiane zgjerohen në l..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Telegrafi"
+  ]
+}
