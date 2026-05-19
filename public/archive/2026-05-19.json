@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-19",
+  "timestamp": "2026-05-19T03:27:40.934634",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Gjermania do të vendosë sistemin raketor Patriot në Turqinë juglindore",
+      "link": "https://www.balkanweb.com/gjermania-do-te-vendose-sistemin-raketor-patriot-ne-turqine-juglindore/",
+      "description": "Mes tensioneve në Lindjen e Mesme, Bundeswehr do të vendosë një sistem raketash anti-ajrore Patriot (ZRK) në Turqinë juglindore. Kjo thuhet në një deklaratë të Ministrisë Gjermane të Mbrojtjes. Sipas planit, sistemi i mbrojtjes ajrore Patriot dhe rreth 150 ushtarakë nga qyteti gjerman Khuzum (në shtetin federal Schleswig-Holstein) do të vendosen në Turqi nga fundi […]",
+      "published": "Tue, 19 May 2026 03:00:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972424",
+      "fetched_at": "2026-05-19T03:27:31.640125",
+      "ai_summary": "Mes tensioneve në Lindjen e Mesme, Bundeswehr do të vendosë një sistem raketash anti-ajrore Patriot (ZRK) në Turqinë juglindore. Kjo thuhet në një deklaratë të Ministrisë Gjermane të Mbrojtjes. Sipas ..."
+    },
+    {
+      "title": "“Politico”: SHBA-të po diskutojnë veprime të mundshme ushtarake kundër Kubës",
+      "link": "https://www.balkanweb.com/politico-shba-te-po-diskutojne-veprime-te-mundshme-ushtarake-kunder-kubes/",
+      "description": "Administrata e Presidentit të SHBA-së, Donald Trump, po shqyrton mundësinë e përdorimit të forcës ushtarake kundër Kubës, ndërsa presioni i sanksioneve kundër kombit ishullor dështon. Gazeta “Politico” shkroi për këtë, duke cituar burime të informuara. “Plani fillestar në lidhje me Kubën bazohej në supozimin se kombinimi i sanksioneve të forcuara – në fakt, një bllokadë […]",
+      "published": "Tue, 19 May 2026 02:50:18 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972454",
+      "fetched_at": "2026-05-19T03:27:31.640279",
+      "ai_summary": "Administrata e Presidentit të SHBA-së, Donald Trump, po shqyrton mundësinë e përdorimit të forcës ushtarake kundër Kubës, ndërsa presioni i sanksioneve kundër kombit ishullor dështon. Gazeta “Politico..."
+    },
+    {
+      "title": "Kina do të blejë produkte bujqësore me vlerë 17 miliardë dollarë nga SHBA-ja çdo vit",
+      "link": "https://www.balkanweb.com/kina-do-te-bleje-produkte-bujqesore-me-vlere-17-miliarde-dollare-nga-shba-ja-cdo-vit/",
+      "description": "Kina është zotuar të blejë produkte bujqësore me vlerë të paktën 17 miliardë dollarë nga Shtetet e Bashkuara gjatë tre viteve. Kjo u tha në një deklaratë të publikuar në faqen e internetit të Shtëpisë së Bardhë. “Përveç angazhimeve të saj për blerjen e sojës, Kina do të blejë të paktën 17 miliardë dollarë produkte […]",
+      "published": "Tue, 19 May 2026 02:45:46 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972439",
+      "fetched_at": "2026-05-19T03:27:31.640384",
+      "ai_summary": "Kina është zotuar të blejë produkte bujqësore me vlerë të paktën 17 miliardë dollarë nga Shtetet e Bashkuara gjatë tre viteve. Kjo u tha në një deklaratë të publikuar në faqen e internetit të Shtëpisë..."
+    },
+    {
+      "title": "Elon Musk humbet padinë kundër OpenAI",
+      "link": "https://www.balkanweb.com/elon-musk-humbet-padine-kunder-openai/",
+      "description": "Të hënën, një gjykatë amerikane vendosi në favor të OpenAI në një padi të ngritur nga sipërmarrësi Elon Musk. Gjykata vendosi që kompania, e cila është e angazhuar në zhvillimin e inteligjencës artificiale, nuk është përgjegjëse ndaj Musk për shmangien e supozuar nga misioni i saj fillestar për të përfituar njerëzimin. Një juri në Gjykatën […]",
+      "published": "Tue, 19 May 2026 02:30:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972420",
+      "fetched_at": "2026-05-19T03:27:31.640472",
+      "ai_summary": "Të hënën, një gjykatë amerikane vendosi në favor të OpenAI në një padi të ngritur nga sipërmarrësi Elon Musk. Gjykata vendosi që kompania, e cila është e angazhuar në zhvillimin e inteligjencës artifi..."
+    },
+    {
+      "title": "Aleati i Maduros akuzohet për ryshfet në Venezuelë pas deportimit në SHBA",
+      "link": "https://www.balkanweb.com/aleati-i-maduros-akuzohet-per-ryshfet-ne-venezuele-pas-deportimit-ne-shba/",
+      "description": "Një aleat i ngushtë i presidentit të rrëzuar të Venezuelës, Nicolás Maduro, u akuzua të hënën për dhënie ryshfeti zyrtarëve të lartë për të vjedhur qindra miliona dollarë nga kontrata fitimprurëse për të importuar ushqim në një kohë vështirësish të përhapura në vendin e Amerikës së Jugut. Alex Saab u paraqit për herë të parë […]",
+      "published": "Tue, 19 May 2026 02:15:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972451",
+      "fetched_at": "2026-05-19T03:27:31.640550",
+      "ai_summary": "Një aleat i ngushtë i presidentit të rrëzuar të Venezuelës, Nicolás Maduro, u akuzua të hënën për dhënie ryshfeti zyrtarëve të lartë për të vjedhur qindra miliona dollarë nga kontrata fitimprurëse për..."
+    },
+    {
+      "title": "Presidenti Donald Trump: Ka “shanse të mira” për të arritur një marrëveshje me Iranin",
+      "link": "https://www.balkanweb.com/presidenti-donald-trump-ka-shanse-te-mira-per-te-arritur-nje-marreveshje-me-iranin/",
+      "description": "Presidenti i SHBA-së, Donald Trump, ka shprehur besimin se Uashingtoni ka perspektiva realiste për të lidhur marrëveshje me Teheranin për t’i dhënë fund konfliktit të armatosur. Trump e tha këtë duke iu përgjigjur pyetjeve të gazetarëve në Shtëpinë e Bardhë. “Ata janë aktualisht në kontakt të drejtpërdrejtë me përfaqësuesit tanë dhe me Iranin”, tha Trump, […]",
+      "published": "Tue, 19 May 2026 02:00:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972409",
+      "fetched_at": "2026-05-19T03:27:31.640626",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, ka shprehur besimin se Uashingtoni ka perspektiva realiste për të lidhur marrëveshje me Teheranin për t’i dhënë fund konfliktit të armatosur. Trump e tha këtë duke ..."
+    },
+    {
+      "title": "Droni që po shkonte drejt Moskës u shkatërrua, shqetësime serioze për termocentralin bërthamor të Zaporizhzhya-s",
+      "link": "https://www.balkanweb.com/droni-qe-po-shkonte-drejt-moskes-u-shkaterrua-shqetesime-serioze-per-termocentralin-berthamor-te-zaporizhzhya-s/",
+      "description": "Forcat ruse të mbrojtjes ajrore kanë rrëzuar një dron që fluturonte drejt Moskës, tha kryebashkiaku Sergei Sobyanin. Ndërkohë, situata rreth centralit bërthamor Zaporizhia në Ukrainë po arrin në një pikë kritike, ndërsa sulmet ukrainase vazhdojnë për të tretën ditë me radhë, tha Rosatom. Në orët e para të së martës, forcat ruse të mbrojtjes ajrore […]",
+      "published": "Tue, 19 May 2026 01:50:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972448",
+      "fetched_at": "2026-05-19T03:27:31.640749",
+      "ai_summary": "Forcat ruse të mbrojtjes ajrore kanë rrëzuar një dron që fluturonte drejt Moskës, tha kryebashkiaku Sergei Sobyanin. Ndërkohë, situata rreth centralit bërthamor Zaporizhia në Ukrainë po arrin në një p..."
+    },
+    {
+      "title": "Ekspertët i kërkojnë OBSH-së të shpallë emergjencë ndërkombëtare të shëndetit publik për ndryshimet klimatike",
+      "link": "https://www.balkanweb.com/ekspertet-i-kerkojne-obsh-se-te-shpalle-emergjence-nderkombetare-te-shendetit-publik-per-ndryshimet-klimatike/",
+      "description": "Një komision i pavarur i përbërë nga ish-krerë qeverish, zyrtarë të organizatave ndërkombëtare, ministra dhe udhëheqës të shoqërisë civile i bënë thirrje të dielën Organizatës Botërore të Shëndetësisë (OBSH) që të shpallë ndryshimet klimatike një emergjencë ndërkombëtare të shëndetit publik. Komisioni Pan-Evropian për Klimën dhe Shëndetin, i kryesuar nga ish-kryeministrja islandeze Katrin Jakobsdottir dhe i […]",
+      "published": "Tue, 19 May 2026 01:45:39 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972431",
+      "fetched_at": "2026-05-19T03:27:31.640832",
+      "ai_summary": "Një komision i pavarur i përbërë nga ish-krerë qeverish, zyrtarë të organizatave ndërkombëtare, ministra dhe udhëheqës të shoqërisë civile i bënë thirrje të dielën Organizatës Botërore të Shëndetësisë..."
+    },
+    {
+      "title": "Përleshje të dhunshme në Bolivi, protestuesit kërkojnë dorëheqjen e presidentit të vendit",
+      "link": "https://www.balkanweb.com/perleshje-te-dhunshme-ne-bolivi-protestuesit-kerkojne-doreheqjen-e-presidentit-te-vendit/",
+      "description": "Përleshje të dhunshme shpërthyen në kryeqytetin e Bolivisë të hënën midis policisë dhe protestuesve që kërkonin dorëheqjen e presidentit të qendrës së djathtë të vendit, ndërsa trafiku në La Paz është paralizuar për dy javë nga bllokadat rrugore të ngritura në pjesë të ndryshme të qytetit. Bllokimet rrugore e kanë ndarë praktikisht kryeqytetin nga pjesa […]",
+      "published": "Tue, 19 May 2026 01:40:21 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972445",
+      "fetched_at": "2026-05-19T03:27:31.640912",
+      "ai_summary": "Përleshje të dhunshme shpërthyen në kryeqytetin e Bolivisë të hënën midis policisë dhe protestuesve që kërkonin dorëheqjen e presidentit të qendrës së djathtë të vendit, ndërsa trafiku në La Paz është..."
+    },
+    {
+      "title": "Papa Leo shpreh ‘shqetësim të thellë’ për kishat e Libanit dhe Lindjes së Mesme",
+      "link": "https://www.balkanweb.com/papa-leo-shpreh-shqetesim-te-thelle-per-kishat-e-libanit-dhe-lindjes-se-mesme/",
+      "description": "Papa Leo XIV shprehu të hënën “shqetësim të thellë” për popullin e Libanit dhe kishat në të gjithë Lindjen e Mesme gjatë një takimi me Katolikosin Aram I, sipas Vatican News. “Ju siguroj për lutjet e mia të përditshme dhe për shqetësimin e thellë që ndiej për popullin e Libanit dhe për kishat e Lindjes […]",
+      "published": "Tue, 19 May 2026 01:30:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2972417",
+      "fetched_at": "2026-05-19T03:27:31.640987",
+      "ai_summary": "Papa Leo XIV shprehu të hënën “shqetësim të thellë” për popullin e Libanit dhe kishat në të gjithë Lindjen e Mesme gjatë një takimi me Katolikosin Aram I, sipas Vatican News. “Ju siguroj për lutjet e ..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
