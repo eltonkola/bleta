@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-20",
+  "timestamp": "2026-05-20T03:27:57.922539",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "“Times”: Zëvendësambasadori britanik në SHBA shkarkohet nga detyra për rrjedhje informacioni të klasifikuar",
+      "link": "https://www.balkanweb.com/times-zevendesambasadori-britanik-ne-shba-shkarkohet-nga-detyra-per-rrjedhje-informacioni-te-klasifikuar/",
+      "description": "James Roscoe, zëvendësambasadori britanik në Shtetet e Bashkuara, është shkarkuar papritur nga detyra. Gazeta “The Times” publikoi informacion në lidhje me këtë. Sipas gazetës, shkarkimi i diplomatit të rangut të dytë në Uashington mund të lidhet me hetimin mbi rrjedhjen e informacionit të klasifikuar të diskutuar në një takim të Këshillit të Sigurisë Kombëtare të […]",
+      "published": "Wed, 20 May 2026 03:25:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973241",
+      "fetched_at": "2026-05-20T03:27:51.346795",
+      "ai_summary": "James Roscoe, zëvendësambasadori britanik në Shtetet e Bashkuara, është shkarkuar papritur nga detyra. Gazeta “The Times” publikoi informacion në lidhje me këtë. Sipas gazetës, shkarkimi i diplomatit ..."
+    },
+    {
+      "title": "Më shumë se 100 persona në karantinë në Ugandë për shkak të shpërthimit të Ebolës",
+      "link": "https://www.balkanweb.com/me-shume-se-100-persona-ne-karantine-ne-ugande-per-shkak-te-shperthimit-te-eboles/",
+      "description": "Autoritetet e Ugandës kanë vënë në karantinë më shumë se 100 persona për të parandaluar përhapjen e etheve të Ebolës. Individët e izoluar janë nën vëzhgim të vazhdueshëm mjekësor dhe kontrollohen rregullisht për shenja infeksioni. Autoritetet thonë se situata është nën kontroll dhe vërejnë se përvoja e vendit në përballimin e epidemive të mëparshme e […]",
+      "published": "Wed, 20 May 2026 03:20:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973238",
+      "fetched_at": "2026-05-20T03:27:51.346947",
+      "ai_summary": "Autoritetet e Ugandës kanë vënë në karantinë më shumë se 100 persona për të parandaluar përhapjen e etheve të Ebolës. Individët e izoluar janë nën vëzhgim të vazhdueshëm mjekësor dhe kontrollohen rreg..."
+    },
+    {
+      "title": "SHBA-të deklarojnë se kanë zhvilluar bisedime me Kubën për një ofertë prej 100 milionë dollarësh",
+      "link": "https://www.balkanweb.com/shba-te-deklarojne-se-kane-zhvilluar-bisedime-me-kuben-per-nje-oferte-prej-100-milione-dollaresh/",
+      "description": "Shtetet e Bashkuara dhe Kuba zhvilluan bisedime këtë javë mbi një ofertë amerikane prej 100 milionë dollarësh ndihmë, të cilën Uashingtoni e ka ofruar si nxitje për reforma, tha të martën një zyrtar amerikan. Mike Hammer, ambasadori në detyrë i SHBA-së në Havana, u takua të hënën me zyrtarë të ministrisë së jashtme, tha zyrtari […]",
+      "published": "Wed, 20 May 2026 03:15:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973220",
+      "fetched_at": "2026-05-20T03:27:51.347024",
+      "ai_summary": "Shtetet e Bashkuara dhe Kuba zhvilluan bisedime këtë javë mbi një ofertë amerikane prej 100 milionë dollarësh ndihmë, të cilën Uashingtoni e ka ofruar si nxitje për reforma, tha të martën një zyrtar a..."
+    },
+    {
+      "title": "Presidenti Donald Trump: SHBA mund të veprojë sërish kundër Iranit",
+      "link": "https://www.balkanweb.com/presidenti-donald-trump-shba-mund-te-veproje-serish-kunder-iranit/",
+      "description": "Presidenti i SHBA-së, Donald Trump, tha të martën se Shtetet e Bashkuara mund të kenë nevojë ta godasin përsëri Iranin dhe se ai ishte vetëm një orë larg vendimit për një sulm përpara se ta shtynte sulmin. “Isha një orë larg marrjes së vendimit për të shkuar sot”, u tha Trump gazetarëve në Shtëpinë e […]",
+      "published": "Wed, 20 May 2026 03:10:03 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973217",
+      "fetched_at": "2026-05-20T03:27:51.347092",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, tha të martën se Shtetet e Bashkuara mund të kenë nevojë ta godasin përsëri Iranin dhe se ai ishte vetëm një orë larg vendimit për një sulm përpara se ta shtynte su..."
+    },
+    {
+      "title": "34 emigrantë të paligjshëm shpëtohen nga një varkë që po fundosej në Izmir",
+      "link": "https://www.balkanweb.com/34-emigrante-te-paligjshem-shpetohen-nga-nje-varke-qe-po-fundosej-ne-izmir/",
+      "description": "34 emigrantë të paligjshëm u shpëtuan në brigjet e distriktit Garaburun të provincës Izmir të Turqisë në Detin Egje. Komanda e Rojës Bregdetare lëshoi ​​një deklaratë në lidhje me këtë. U raportua se varka që transportonte emigrantët po lundronte në det dhe komanda ndërmori menjëherë veprime dhe i shpëtoi migrantët nga fundosja. Ndërkohë, 40 emigrantë […]",
+      "published": "Wed, 20 May 2026 03:00:25 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973208",
+      "fetched_at": "2026-05-20T03:27:51.347162",
+      "ai_summary": "34 emigrantë të paligjshëm u shpëtuan në brigjet e distriktit Garaburun të provincës Izmir të Turqisë në Detin Egje. Komanda e Rojës Bregdetare lëshoi ​​një deklaratë në lidhje me këtë. U raportua se ..."
+    },
+    {
+      "title": "Izraeli në gatishmëri të lartë për një sulm të ri të mundshëm ndaj Iranit",
+      "link": "https://www.balkanweb.com/izraeli-ne-gatishmeri-te-larte-per-nje-sulm-te-ri-te-mundshem-ndaj-iranit/",
+      "description": "Autoritetet izraelite janë në gatishmëri të shtuar në lidhje me një sulm të mundshëm të ri kundër Iranit , sipas informacioneve nga qarqet politike dhe ushtarake. Siç raportohet nga mediat izraelite, udhëheqja politike dhe ushtarake zhvilluan një takim në orët e fundit për të diskutuar gatishmërinë operacionale të vendit në rast të rifillimit të sulmeve […]",
+      "published": "Wed, 20 May 2026 02:50:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973231",
+      "fetched_at": "2026-05-20T03:27:51.347223",
+      "ai_summary": "Autoritetet izraelite janë në gatishmëri të shtuar në lidhje me një sulm të mundshëm të ri kundër Iranit , sipas informacioneve nga qarqet politike dhe ushtarake. Siç raportohet nga mediat izraelite, ..."
+    },
+    {
+      "title": "Vance: Ekziston mundësia për të rivendosur marrëdhëniet midis SHBA-së dhe Iranit",
+      "link": "https://www.balkanweb.com/vance-ekziston-mundesia-per-te-rivendosur-marredheniet-midis-shba-se-dhe-iranit/",
+      "description": "SHBA-të dhe Irani mund të rifillojnë marrëdhëniet dypalëshe duke përfunduar një marrëveshje. Zëvendëspresidenti i SHBA-së, Jay Dee Vance, e tha këtë në një konferencë shtypi në Shtëpinë e Bardhë. “Mendoj se kemi një mundësi për të rinisur marrëdhënien midis Iranit dhe Shteteve të Bashkuara që ka ekzistuar prej 47 vitesh. Presidenti SHBA-së Donald Trump na […]",
+      "published": "Wed, 20 May 2026 02:45:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973205",
+      "fetched_at": "2026-05-20T03:27:51.347286",
+      "ai_summary": "SHBA-të dhe Irani mund të rifillojnë marrëdhëniet dypalëshe duke përfunduar një marrëveshje. Zëvendëspresidenti i SHBA-së, Jay Dee Vance, e tha këtë në një konferencë shtypi në Shtëpinë e Bardhë. “Men..."
+    },
+    {
+      "title": "SHBA-të humbasin 14 avionë dhe 28 dronë gjatë operacioneve ushtarake kundër Iranit",
+      "link": "https://www.balkanweb.com/shba-te-humbasin-14-avione-dhe-28-drone-gjate-operacioneve-ushtarake-kunder-iranit/",
+      "description": "SHBA-të kanë humbur 42 avionë, duke përfshirë avionë luftarakë, dronë, avionë cisternë dhe avionë të forcave speciale, gjatë operacioneve ushtarake kundër Iranit. Ky informacion u përfshi në një raport nga Shërbimi Kërkimor i Kongresit të SHBA-së. Humbjet më të rëndësishme ishin dronët sulmues MQ-9A Reaper. 24 prej tyre u shkatërruan. MQ-9A përdoret gjerësisht për misione […]",
+      "published": "Wed, 20 May 2026 02:30:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973202",
+      "fetched_at": "2026-05-20T03:27:51.347356",
+      "ai_summary": "SHBA-të kanë humbur 42 avionë, duke përfshirë avionë luftarakë, dronë, avionë cisternë dhe avionë të forcave speciale, gjatë operacioneve ushtarake kundër Iranit. Ky informacion u përfshi në një rapor..."
+    },
+    {
+      "title": "Aragchi: Nëse kthehemi në luftë, do të ketë “shumë surpriza të tjera” për SHBA-në",
+      "link": "https://www.balkanweb.com/aragchi-nese-kthehemi-ne-lufte-do-te-kete-shume-surpriza-te-tjera-per-shba-ne/",
+      "description": "Ministri i Jashtëm iranian, Abbas Araghchi, paralajmëroi se një rikthim i mundshëm në luftë me Shtetet e Bashkuara do të shoqërohej me “shumë surpriza të tjera” për Uashingtonin. Në postimin e tij, kreu i diplomacisë iraniane pohoi se forcat e armatosura iraniane kanë demonstruar tashmë aftësitë e tyre, duke iu referuar në mënyrë të veçantë, […]",
+      "published": "Wed, 20 May 2026 02:15:04 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973228",
+      "fetched_at": "2026-05-20T03:27:51.347431",
+      "ai_summary": "Ministri i Jashtëm iranian, Abbas Araghchi, paralajmëroi se një rikthim i mundshëm në luftë me Shtetet e Bashkuara do të shoqërohej me “shumë surpriza të tjera” për Uashingtonin. Në postimin e tij, kr..."
+    },
+    {
+      "title": "Vance: Konflikti i SHBA-së me Iranin nuk do të jetë një luftë e përjetshme",
+      "link": "https://www.balkanweb.com/vance-konflikti-i-shba-se-me-iranin-nuk-do-te-jete-nje-lufte-e-perjetshme/",
+      "description": "Zëvendëspresidenti i SHBA-së, JD. Vance, tha se një konflikt i armatosur me Iranin nuk do të bëhej “lufta e përjetshme” e radhës e Shteteve të Bashkuara. Vance e tha këtë në një konferencë për shtyp në Shtëpinë e Bardhë në përgjigje të një pyetjeje në lidhje me kohëzgjatjen e operacioneve ushtarake kundër Iranit. “Kjo nuk […]",
+      "published": "Wed, 20 May 2026 02:00:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973198",
+      "fetched_at": "2026-05-20T03:27:51.347499",
+      "ai_summary": "Zëvendëspresidenti i SHBA-së, JD. Vance, tha se një konflikt i armatosur me Iranin nuk do të bëhej “lufta e përjetshme” e radhës e Shteteve të Bashkuara. Vance e tha këtë në një konferencë për shtyp n..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
