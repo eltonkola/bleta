@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-21",
+  "timestamp": "2026-05-21T03:34:32.234569",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Zelensky shpreson të rifillojë bisedimet trepalëshe të paqes me Rusinë në javët e ardhshme",
+      "link": "https://www.balkanweb.com/zelensky-shpreson-te-rifilloje-bisedimet-trepaleshe-te-paqes-me-rusine-ne-javet-e-ardhshme/",
+      "description": "Presidenti ukrainas Volodymyr Zelensky tha të mërkurën se Kievi shpreson të rifillojë bisedimet trepalëshe “kuptimplote” të paqes me Rusinë në javët e ardhshme, pas asaj që ai e përshkroi si “kontakte të mira” midis zyrtarëve ukrainas dhe amerikanë. Duke folur gjatë fjalimit të tij të mbrëmjes në Telegram, ai nënvizoi se Kievi pret që pala […]",
+      "published": "Thu, 21 May 2026 03:30:17 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973995",
+      "fetched_at": "2026-05-21T03:34:26.133209",
+      "ai_summary": "Presidenti ukrainas Volodymyr Zelensky tha të mërkurën se Kievi shpreson të rifillojë bisedimet trepalëshe “kuptimplote” të paqes me Rusinë në javët e ardhshme, pas asaj që ai e përshkroi si “kontakte..."
+    },
+    {
+      "title": "Stuhia Fung-wong drejt Tajvanit, nis evakuimi masiv i banorëve",
+      "link": "https://www.balkanweb.com/stuhia-fung-wong-drejt-tajvanit-nis-evakuimi-masiv-i-banoreve/",
+      "description": "Tajvani evakuoi më shumë se 3,000 njerëz nga zonat e cenueshme dhe mbylli shkollat ​​dhe zyrat të martën përpara mbërritjes së stuhisë tropikale Fung-wong, e cila vrau të paktën 18 persona dhe zhvendosi më shumë se 1.4 milion në Filipine pasi goditi vendin të dielën. Fung-wong u klasifikua si tajfun, por po humbet intensitetin ndërsa […]",
+      "published": "Thu, 21 May 2026 03:30:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974010",
+      "fetched_at": "2026-05-21T03:34:26.133377",
+      "ai_summary": "Tajvani evakuoi më shumë se 3,000 njerëz nga zonat e cenueshme dhe mbylli shkollat ​​dhe zyrat të martën përpara mbërritjes së stuhisë tropikale Fung-wong, e cila vrau të paktën 18 persona dhe zhvendo..."
+    },
+    {
+      "title": "BE: Kërcënimet e Rusisë kundër shteteve baltike janë krejtësisht të papranueshme",
+      "link": "https://www.balkanweb.com/be-kercenimet-e-rusise-kunder-shteteve-baltike-jane-krejtesisht-te-papranueshme/",
+      "description": "Udhëheqësit e Bashkimit Evropian thanë të mërkurën se “kërcënimet” e fundit të Rusisë drejtuar shteteve baltike janë “krejtësisht të papranueshme” dhe paralajmëruan se kërcënimet ndaj çdo anëtari të BE-së do të përballen me një përgjigje të bashkuar nga blloku. “Kërcënimet publike të Rusisë kundër shteteve tona baltike janë plotësisht të papranueshme. Le të mos ketë […]",
+      "published": "Thu, 21 May 2026 03:15:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973998",
+      "fetched_at": "2026-05-21T03:34:26.133451",
+      "ai_summary": "Udhëheqësit e Bashkimit Evropian thanë të mërkurën se “kërcënimet” e fundit të Rusisë drejtuar shteteve baltike janë “krejtësisht të papranueshme” dhe paralajmëruan se kërcënimet ndaj çdo anëtari të B..."
+    },
+    {
+      "title": "Trump dëshiron të qëndrojë president deri në vitin 2032",
+      "link": "https://www.balkanweb.com/trump-deshiron-te-qendroje-president-deri-ne-vitin-2032/",
+      "description": "Shefi i stafit të Uashingtonit, Donald Trump, shpreson të mbetet president i Shteteve të Bashkuara deri në vitin 2032. Trump e tha këtë gjatë një fjalimi para të diplomuarve të Akademisë së Rojës Bregdetare në Groton, Connecticut. “Do të jem këtu pas 28 vitesh (2028) dhe ndoshta do të jem këtu pas 32 vitesh (2032) […]",
+      "published": "Thu, 21 May 2026 03:00:29 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973992",
+      "fetched_at": "2026-05-21T03:34:26.133534",
+      "ai_summary": "Shefi i stafit të Uashingtonit, Donald Trump, shpreson të mbetet president i Shteteve të Bashkuara deri në vitin 2032. Trump e tha këtë gjatë një fjalimi para të diplomuarve të Akademisë së Rojës Breg..."
+    },
+    {
+      "title": "Sanchez: Trajtimi i aktivistëve nga ministri i Sigurisë Kombëtare izraelite është “i papranueshëm”",
+      "link": "https://www.balkanweb.com/sanchez-trajtimi-i-aktivisteve-nga-ministri-i-sigurise-kombetare-izraelite-eshte-i-papranueshem/",
+      "description": "Videoja e Ministrit të Sigurisë Kombëtare të Izraelit, Itamar Ben Gvir, i cili tall anëtarët e flotiljes së Gazës është “e papranueshme” , theksoi të mërkurën kryeministri spanjoll Pedro Sanchez . “Ne nuk do të tolerojmë keqtrajtimin e qytetarëve tanë nga askush”, theksoi Sanchez në një postim në platformën X. Las imágenes del ministro israelí […]",
+      "published": "Thu, 21 May 2026 02:45:15 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974022",
+      "fetched_at": "2026-05-21T03:34:26.133602",
+      "ai_summary": "Videoja e Ministrit të Sigurisë Kombëtare të Izraelit, Itamar Ben Gvir, i cili tall anëtarët e flotiljes së Gazës është “e papranueshme” , theksoi të mërkurën kryeministri spanjoll Pedro Sanchez . “Ne..."
+    },
+    {
+      "title": "Pezeshkian: Është e rëndësishme të vazhdohet dialogu me SHBA-në",
+      "link": "https://www.balkanweb.com/pezeshkian-eshte-e-rendesishme-te-vazhdohet-dialogu-me-shba-ne/",
+      "description": "Duke marrë parasysh progresin e konsultimeve diplomatike në lidhje me negociatat midis Iranit dhe Shteteve të Bashkuara, është e rëndësishme të vazhdohet dialogu, të forcohet bashkëpunimi rajonal dhe të forcohet koordinimi midis vendeve islamike. Presidenti iranian Masoud Pazeshkian e tha këtë gjatë një takimi me ministrin e brendshëm pakistanez Mohsen Naqvi. Pezeshkian shprehu mirënjohje ndaj […]",
+      "published": "Thu, 21 May 2026 02:30:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973988",
+      "fetched_at": "2026-05-21T03:34:26.133676",
+      "ai_summary": "Duke marrë parasysh progresin e konsultimeve diplomatike në lidhje me negociatat midis Iranit dhe Shteteve të Bashkuara, është e rëndësishme të vazhdohet dialogu, të forcohet bashkëpunimi rajonal dhe ..."
+    },
+    {
+      "title": "SHBA-të forcojnë kontrollin mbi inteligjencën artificiale",
+      "link": "https://www.balkanweb.com/shba-te-forcojne-kontrollin-mbi-inteligjencen-artificiale/",
+      "description": "Administrata Trump mund të shpallë një urdhër ekzekutiv mbi inteligjencën artificiale dhe sigurinë kibernetike që të enjten. Sipas botimit, dokumenti parashikon krijimin e një mekanizmi për verifikim vullnetar nga agjencitë federale të modeleve më të përparuara të inteligjencës artificiale përpara se ato të dalin në shitje publike. Zhvilluesve u kërkohet t’ua paraqesin modele të tilla […]",
+      "published": "Thu, 21 May 2026 02:15:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974025",
+      "fetched_at": "2026-05-21T03:34:26.133738",
+      "ai_summary": "Administrata Trump mund të shpallë një urdhër ekzekutiv mbi inteligjencën artificiale dhe sigurinë kibernetike që të enjten. Sipas botimit, dokumenti parashikon krijimin e një mekanizmi për verifikim ..."
+    },
+    {
+      "title": "Xhihadistët e Boko Haram vrasin 33 peshkatarë dhe druvarë në verilindje të Nigerisë",
+      "link": "https://www.balkanweb.com/xhihadistet-e-boko-haram-vrasin-33-peshkatare-dhe-druvare-ne-verilindje-te-nigerise/",
+      "description": "Militantët e Boko Haram kanë vrarë 33 peshkatarë dhe prerës druri në dy sulme të ndara në shtetin Borno, në verilindje të Nigerisë , thanë burime për AFP të mërkurën. Dhjetëra mijëra njerëz janë vrarë dhe qindra mijëra të tjerë janë zhvendosur që kur kryengritja e Boko Haram, e cila më vonë u nda në […]",
+      "published": "Thu, 21 May 2026 02:10:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974033",
+      "fetched_at": "2026-05-21T03:34:26.133821",
+      "ai_summary": "Militantët e Boko Haram kanë vrarë 33 peshkatarë dhe prerës druri në dy sulme të ndara në shtetin Borno, në verilindje të Nigerisë , thanë burime për AFP të mërkurën. Dhjetëra mijëra njerëz janë vrarë..."
+    },
+    {
+      "title": "Hungaria ndryshon Kushtetutën: Kryeministri mund të zgjidhet dy herë",
+      "link": "https://www.balkanweb.com/hungaria-ndryshon-kushtetuten-kryeministri-mund-te-zgjidhet-dy-here/",
+      "description": "Hungaria planifikon të përfshijë në Kushtetutë një kufizim prej dy mandatesh për Kryeministrin, deri në katër vjet. Sipas Bloomberg, amendamenti përkatës u propozua nga partia e kryeministrit të ri Peter Magyar. Sipas nismës, një person nuk do të jetë në gjendje të mbajë pozicionin e kreut të qeverisë për më shumë se dy mandate radhazi, […]",
+      "published": "Thu, 21 May 2026 02:00:35 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2973984",
+      "fetched_at": "2026-05-21T03:34:26.133883",
+      "ai_summary": "Hungaria planifikon të përfshijë në Kushtetutë një kufizim prej dy mandatesh për Kryeministrin, deri në katër vjet. Sipas Bloomberg, amendamenti përkatës u propozua nga partia e kryeministrit të ri Pe..."
+    },
+    {
+      "title": "Xi Jinping pritet të vizitojë Korenë e Veriut",
+      "link": "https://www.balkanweb.com/xi-jinping-pritet-te-vizitoje-korene-e-veriut/",
+      "description": "Presidenti kinez Xi Jinping pritet të vizitojë Korenë e Veriut së shpejti , ndoshta që javën e ardhshme, raportoi agjencia e lajmeve Yonhap e Koresë së Jugut, duke cituar burime qeveritare në Seul. Një nga burimet e Yonhap tha se një ekip zyrtarësh të sigurisë dhe protokollit presidencial kishte udhëtuar së fundmi në Phenian, duke […]",
+      "published": "Thu, 21 May 2026 01:30:37 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974016",
+      "fetched_at": "2026-05-21T03:34:26.133941",
+      "ai_summary": "Presidenti kinez Xi Jinping pritet të vizitojë Korenë e Veriut së shpejti , ndoshta që javën e ardhshme, raportoi agjencia e lajmeve Yonhap e Koresë së Jugut, duke cituar burime qeveritare në Seul. Nj..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
