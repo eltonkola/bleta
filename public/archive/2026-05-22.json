@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-22",
+  "timestamp": "2026-05-22T03:33:09.639124",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "CNN: Irani po e rindërton arsenalin e tij më shpejt nga sa priste SHBA-ja",
+      "link": "https://www.balkanweb.com/cnn-irani-po-e-rinderton-arsenalin-e-tij-me-shpejt-nga-sa-priste-shba-ja/",
+      "description": "Irani po rindërton një pjesë të konsiderueshme të aftësive të tij ushtarake që u goditën nga sulmet amerikane dhe izraelite më shpejt sesa kishin vlerësuar fillimisht agjencitë e inteligjencës amerikane , sipas një raporti zbulues nga CNN . Teherani thuhet se ka rinisur tashmë prodhimin e disa dronëve gjatë armëpushimit gjashtë-javor që filloi në fillim […]",
+      "published": "Fri, 22 May 2026 03:15:00 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974848",
+      "fetched_at": "2026-05-22T03:33:03.419690",
+      "ai_summary": "Irani po rindërton një pjesë të konsiderueshme të aftësive të tij ushtarake që u goditën nga sulmet amerikane dhe izraelite më shpejt sesa kishin vlerësuar fillimisht agjencitë e inteligjencës amerika..."
+    },
+    {
+      "title": "Kaja Kallas: Jepini fund “kontrollit” dhe “izolimit” të popullit kubanez",
+      "link": "https://www.balkanweb.com/kaja-kallas-jepini-fund-kontrollit-dhe-izolimit-te-popullit-kubanez/",
+      "description": "Shefja e diplomacisë evropiane, Kaja Kallas, bëri thirrje për t’i dhënë fund “kontrollit” dhe “izolimit” të popullit të Kubës, i cili po vuan nga një krizë e thellë ekonomike dhe është nën presion në rritje nga Shtetet e Bashkuara. “Pas dekadash keqmenaxhimi dhe shtypjeje politike, kriza ekonomike në Kubë po arrin një pikë kthese të […]",
+      "published": "Fri, 22 May 2026 03:00:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974816",
+      "fetched_at": "2026-05-22T03:33:03.419836",
+      "ai_summary": "Shefja e diplomacisë evropiane, Kaja Kallas, bëri thirrje për t’i dhënë fund “kontrollit” dhe “izolimit” të popullit të Kubës, i cili po vuan nga një krizë e thellë ekonomike dhe është nën presion në ..."
+    },
+    {
+      "title": "OJQ-të raportojnë krizë humanitare ‘katastrofike’ në Gaza pavarësisht marrëveshjes së OKB-së",
+      "link": "https://www.balkanweb.com/ojq-te-raportojne-krize-humanitare-katastrofike-ne-gaza-pavaresisht-marreveshjes-se-okb-se/",
+      "description": "Më shumë se gjashtë muaj pasi Këshilli i Sigurimit i OKB-së miratoi një rezolutë që mbështeste planin amerikan për Rripin e Gazës , situata humanitare në enklavën e vogël bregdetare palestineze mbetet “katastrofike”, thanë të enjten tre OJQ ndërkombëtare , duke kërkuar që autoritetet izraelite të respektojnë angazhimet e tyre. “Katastrofa humanitare në Gaza mbetet […]",
+      "published": "Fri, 22 May 2026 02:30:28 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974828",
+      "fetched_at": "2026-05-22T03:33:03.419944",
+      "ai_summary": "Më shumë se gjashtë muaj pasi Këshilli i Sigurimit i OKB-së miratoi një rezolutë që mbështeste planin amerikan për Rripin e Gazës , situata humanitare në enklavën e vogël bregdetare palestineze mbetet..."
+    },
+    {
+      "title": "Rubio kritikon Spanjën për mohimin e aksesit në bazën amerikane, vlerëson mbështetjen e anëtarëve të tjerë të NATO-s",
+      "link": "https://www.balkanweb.com/rubio-kritikon-spanjen-per-mohimin-e-aksesit-ne-bazen-amerikane-vlereson-mbeshtetjen-e-anetareve-te-tjere-te-nato-s/",
+      "description": "Sekretari i Shtetit i SHBA-së, Marco Rubio, do të takohet me aleatët e NATO-s sot për herë të parë që kur Presidenti Donald Trump e vuri në pikëpyetje aleancën për shkak të përçarjeve mbi luftën e Iranit dhe Uashingtoni njoftoi planet për të tërhequr 5,000 trupa nga Evropa. Para se të nisej për në një […]",
+      "published": "Fri, 22 May 2026 02:00:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974805",
+      "fetched_at": "2026-05-22T03:33:03.420036",
+      "ai_summary": "Sekretari i Shtetit i SHBA-së, Marco Rubio, do të takohet me aleatët e NATO-s sot për herë të parë që kur Presidenti Donald Trump e vuri në pikëpyetje aleancën për shkak të përçarjeve mbi luftën e Ira..."
+    },
+    {
+      "title": "5 të vdekur nga zjarri në një shtëpi në Ekuadorin jugperëndimor",
+      "link": "https://www.balkanweb.com/5-te-vdekur-nga-zjarri-ne-nje-shtepi-ne-ekuadorin-jugperendimor/",
+      "description": "Pesë persona humbën jetën të enjten në një zjarr të madh në një shtëpi në jug të Guayaquil, në jugperëndim të Ekuadorit, thanë zjarrfikësit vendas. Zjarri u raportua tek autoritetet para orës 6 të mëngjesit sipas orës lokale në lagjen Santiaguito de Roldos nga një oficer policie që po kalonte nëpër zonë. “Gjatë operacioneve të […]",
+      "published": "Fri, 22 May 2026 01:45:47 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974845",
+      "fetched_at": "2026-05-22T03:33:03.420115",
+      "ai_summary": "Pesë persona humbën jetën të enjten në një zjarr të madh në një shtëpi në jug të Guayaquil, në jugperëndim të Ekuadorit, thanë zjarrfikësit vendas. Zjarri u raportua tek autoritetet para orës 6 të mën..."
+    },
+    {
+      "title": "Zyrtari iranian: Nuk është arritur marrëveshje me SHBA-në, por mosmarrëveshjet janë zbutur",
+      "link": "https://www.balkanweb.com/zyrtari-iranian-nuk-eshte-arritur-marreveshje-me-shba-ne-por-mosmarreveshjet-jane-zbutur/",
+      "description": "Një zyrtar i lartë iranian i tha Reuters të enjten se nuk është arritur asnjë marrëveshje në negociatat midis Shteteve të Bashkuara dhe Iranit , por mosmarrëveshjet janë zbutur. Ai vuri në dukje gjithashtu se problemet më të mëdha në negociata kanë të bëjnë me uraniumin e pasuruar të Iranit dhe statusin e Ngushticës së […]",
+      "published": "Fri, 22 May 2026 01:30:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974813",
+      "fetched_at": "2026-05-22T03:33:03.420193",
+      "ai_summary": "Një zyrtar i lartë iranian i tha Reuters të enjten se nuk është arritur asnjë marrëveshje në negociatat midis Shteteve të Bashkuara dhe Iranit , por mosmarrëveshjet janë zbutur. Ai vuri në dukje gjith..."
+    },
+    {
+      "title": "Tre trupa të pajetë gjenden nën një shtëpi të shembur në Gjermani",
+      "link": "https://www.balkanweb.com/tre-trupa-te-pajete-gjenden-nen-nje-shtepi-te-shembur-ne-gjermani/",
+      "description": "Punonjësit e emergjencës gjermane kanë nxjerrë trupat e tre personave që vdiqën nga rrënojat e një ndërtese apartamentesh të shembur në qytetin Görlitz (Saksonia) pas një shpërthimi më 18 maj. DPA e raportoi këtë, duke cituar policinë. Sipas raportimeve, midis të vdekurve është një burrë (ndoshta një banor vendas 48-vjeçar), si dhe dy turiste femra, […]",
+      "published": "Fri, 22 May 2026 01:15:08 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974824",
+      "fetched_at": "2026-05-22T03:33:03.420268",
+      "ai_summary": "Punonjësit e emergjencës gjermane kanë nxjerrë trupat e tre personave që vdiqën nga rrënojat e një ndërtese apartamentesh të shembur në qytetin Görlitz (Saksonia) pas një shpërthimi më 18 maj. DPA e r..."
+    },
+    {
+      "title": "Trump për Iranin: Do të vendosim që ata nuk do të kenë armë bërthamore, ose do të bëjmë diçka drastike",
+      "link": "https://www.balkanweb.com/trump-per-iranin-do-te-vendosim-qe-ata-nuk-do-te-kene-arme-berthamore-ose-do-te-bejme-dicka-drastike/",
+      "description": "Irani nuk do të ketë kurrë një armë bërthamore, përsëriti Donald Trump, pa përjashtuar mundësinë që SHBA-të të përdorin forcën për të ndaluar Teheranin. Gjatë prezantimit të kreut të ri të EPA-s, autoritetit të mbrojtjes së mjedisit, ai theksoi se “ne ose do të sigurohemi që ata të mos kenë një armë bërthamore ose do […]",
+      "published": "Fri, 22 May 2026 01:00:55 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974796",
+      "fetched_at": "2026-05-22T03:33:03.420346",
+      "ai_summary": "Irani nuk do të ketë kurrë një armë bërthamore, përsëriti Donald Trump, pa përjashtuar mundësinë që SHBA-të të përdorin forcën për të ndaluar Teheranin. Gjatë prezantimit të kreut të ri të EPA-s, auto..."
+    },
+    {
+      "title": "Rubio: Kuba ka pranuar ofertën e SHBA-së prej 100 milionë dollarësh ndihmë",
+      "link": "https://www.balkanweb.com/rubio-kuba-ka-pranuar-oferten-e-shba-se-prej-100-milione-dollaresh-ndihme/",
+      "description": "Sekretari i Shtetit i SHBA-së, Marco Rubio, tha të enjten se Kuba pranoi një ofertë prej 100 milionë dollarësh ndihmë, por se nuk ishte e qartë nëse Uashingtoni do të binte dakord me kushtet e Havanës. Kuba ka thënë publikisht vetëm se po e shqyrton ofertën e bërë nga Rubio dhe tensionet janë rritur pasi […]",
+      "published": "Fri, 22 May 2026 00:50:36 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974841",
+      "fetched_at": "2026-05-22T03:33:03.420425",
+      "ai_summary": "Sekretari i Shtetit i SHBA-së, Marco Rubio, tha të enjten se Kuba pranoi një ofertë prej 100 milionë dollarësh ndihmë, por se nuk ishte e qartë nëse Uashingtoni do të binte dakord me kushtet e Havanës..."
+    },
+    {
+      "title": "Kryeredaktori i Irna-s thirret për të shpjeguar foton e një gruaje pa shami koke",
+      "link": "https://www.balkanweb.com/kryeredaktori-i-irna-s-thirret-per-te-shpjeguar-foton-e-nje-gruaje-pa-shami-koke/",
+      "description": "Autoritetet iraniane kanë thirrur kryeredaktorin e agjencisë zyrtare të lajmeve Irna për të dhënë shpjegime pasi ajo publikoi foto të një gruaje pa shami koke , thanë të hënën gjyqësori dhe një organizatë joqeveritare. Që nga revolucioni islamik i vitit 1979, gratë janë detyruar të mbulojnë flokët me shami koke në publik, një masë që […]",
+      "published": "Fri, 22 May 2026 00:45:15 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2974809",
+      "fetched_at": "2026-05-22T03:33:03.420529",
+      "ai_summary": "Autoritetet iraniane kanë thirrur kryeredaktorin e agjencisë zyrtare të lajmeve Irna për të dhënë shpjegime pasi ajo publikoi foto të një gruaje pa shami koke , thanë të hënën gjyqësori dhe një organi..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
