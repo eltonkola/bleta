@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-05",
+  "timestamp": "2026-06-05T03:38:19.226466",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Shaip Kadirjaj pret mërgimtarët në Aeroportin e Prishtinës: Kanë ardhur për t’i thënë STOP krizës",
+      "link": "https://www.gazetaexpress.com/shaip-kadirjaj-pret-mergimtaret-ne-aeroportin-e-prishtines-kane-ardhur-per-ti-thene-stop-krizes/",
+      "description": "Kandidati nga diaspora për deputet nga radhët e PDK-së, Shaip Kadirjaj, ka pritur në Aeroportin e Prishtinës bashkatdhetarë të ardhur nga mërgata për të marrë pjesë në zgjedhje dhe për të mbështetur Partinë Demokratike të Kosovës. Kadirjaj ka publikuar edhe një video në profilin e tij në Facebook, ku shihen mërgimtarët që kanë ardhur në mënyrë të organizuar në Kosovë. Në mesazhin e tij, ai shkroi: “Mirë se erdhët bashkatdhetarë nga mërgata për t’i thënë STOP krizës!” Sipas tij, mobilizimi i mërgatës është dëshmi e përkrahjes së madhe për ndryshim dhe për vizionin e PDK-së për Kosovën. The post Shaip Kadirjaj pret mërgimtarët në Aeroportin e Prishtinës: Kanë ardhur për t’i thënë STOP krizës appeared first on Gazeta Express.",
+      "published": "Thu, 04 Jun 2026 23:04:58 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3122128",
+      "fetched_at": "2026-06-05T03:38:15.755700",
+      "ai_summary": "Kandidati nga diaspora për deputet nga radhët e PDK-së, Shaip Kadirjaj, ka pritur në Aeroportin e Prishtinës bashkatdhetarë të ardhur nga mërgata për të marrë pjesë në zgjedhje dhe për të mbështetur P..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Gazeta Express"
+  ]
+}
