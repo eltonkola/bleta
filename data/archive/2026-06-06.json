@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-06",
+  "timestamp": "2026-06-06T03:22:07.535776",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Aksident i rëndë në Fier-Vlorë, makina përplas për vdekje një person",
+      "link": "https://www.balkanweb.com/aksident-i-rende-ne-fier-vlore-makina-perplas-per-vdekje-nje-person/",
+      "description": "Një person ka humbur jetën si pasojë e një aksidenti të rëndë të ndodhur në autostradën Vlorë–Fier, në zonën e Novoselës. Sipas informacioneve paraprake, viktima dyshohet se po kalonte autostradën në momentin kur është përplasur nga një automjet. Për shkak të goditjes së fortë, personi (dyshohet endacak) ka pësuar dëmtime të rënda në të gjithë […]",
+      "published": "Fri, 05 Jun 2026 23:48:59 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2984260",
+      "fetched_at": "2026-06-06T03:22:02.314132",
+      "ai_summary": "Një person ka humbur jetën si pasojë e një aksidenti të rëndë të ndodhur në autostradën Vlorë–Fier, në zonën e Novoselës. Sipas informacioneve paraprake, viktima dyshohet se po kalonte autostradën në ..."
+    },
+    {
+      "title": "Çorapet e bardha mund të bëhen më të ndritshme pa kimikate dhe pa zierje",
+      "link": "https://telegrafi.com/corapet-e-bardha-mund-te-behen-me-te-ndritshme-pa-kimikate-dhe-pa-zierje/",
+      "description": "Një mënyrë e vjetër, por efektive, ndihmon që çorapet e bardha të ruajnë bardhësinë dhe freskinë gjatë sezonit të ngrohtëGjatë muajve të ngrohtë, çorapet e bardha janë ndër pjesët më të përdorura të veshjes. Ato janë të rehatshme, të lehta dhe përshtaten mirë me këpucë sportive apo veshje të përditshme. Megjithatë, mirëmbajtja e tyre shpesh bëhet sfidë.Për shkak të ngjyrës, çorapet e bardha njollosen lehtë, marrin shpejt nuancë gri dhe humbin pamjen fillestare pas vetëm disa përdorimesh. Për këtë arsye, shumë njerëz kërkojnë mënyra të shpejta për t’ua rikthyer bardhësinë.Pse zbardhuesi nuk është gjithmonë zgjidhje e mirëNë përpjekje për t’i bërë sërish të bardha, shumë persona përdorin zbardhues. Megjithatë, kjo metodë shpesh mund të jetë e dëmshme për pëlhurën.Edhe pse zbardhuesi mund ta ndriçojë përkohësisht materialin dhe vepron si dezinfektues, ai nuk është gjithmonë efektiv ndaj mbetjeve të yndyrshme nga djersa dhe vajrat natyralë të lëkurës, të cilat janë ndër shkaktarët kryesorë të zverdhjes dhe humbjes së bardhësisë.Përdorimi i shpeshtë i zbardhuesit mund t’i dobësojë fibrat e pambukut, të ulë elasticitetin dhe t’i bëjë çorapet më të prirura për t’u grisur. Në disa raste, klori mund të reagojë me djersën dhe yndyrat trupore, duke krijuar njolla të verdha që mbeten gjatë në pëlhurë, transmeton Telegrafi. Zgjidhja natyrale dhe falasSi alternativë, ekziston një metodë shumë e thjeshtë, falas dhe më miqësore me mjedisin: tharja e çorapeve në dritën e drejtpërdrejtë të diellit.Ekspertja Marilee Nelson nga Branch Basics rikujton këtë teknikë tradicionale, e cila përdoret prej kohësh për zbardhjen natyrale të rrobave. Sipas saj, mjafton që rrobat, çarçafët apo çorapet e bardha të ekspozohen në diell për disa orë, që njollat të zbehen ose të bëhen më pak të dukshme.Drita e diellit përmban rreze ultravjollcë, të cilat veprojnë si zbardhues natyral. Ato ndihmojnë në shpërbërjen e njollave organike, si ato nga djersa, yndyrat trupore, bari apo ushqimi. Ky proces bën që njollat të humbin ngjyrën dhe pëlhura të duket më e pastër.Dielli ka edhe efekt freskues, sepse rrezet ultravjollcë mund të ndihmojnë në uljen e baktereve dhe kërpudhave që shkaktojnë aromë të pakëndshme. Megjithatë, kjo metodë nuk e zëvendëson larjen e zakonshme, por shërben si hap përfundimtar pas larjes.Si duhet vepruarPas larjes, çorapet e bardha duhet të varen jashtë, në një vend ku i kap dielli drejtpërdrejt. Për rezultat më të mirë, këshillohet që ato të ekspozohen gjatë kohës kur dielli është më i fortë, zakonisht nga mesdita deri rreth orës 15:00.Pas një ose dy orësh, çorapet mund të kthehen nga ana tjetër, që të dyja anët të marrin dritë në mënyrë të barabartë. Nuk rekomandohet të lihen jashtë gjatë gjithë ditës, sidomos në vapë të madhe, sepse ekspozimi i gjatë mund t’i dobësojë fibrat e pëlhurës.Nëse njollat janë më të forta, para tharjes në diell çorapet mund të lihen në ujë me pak lëng limoni. Mund të përdoret edhe pastë me sodë bikarbone dhe ujë, e cila vendoset mbi njolla para larjes.Edhe uthulla e bardhë mund të ndihmojë në largimin e papastërtive dhe aromave. Megjithatë, kjo metodë duhet përdorur vetëm për rroba të bardha ose shumë të çelura, sepse dielli mund t’i zbehë pëlhurat me ngjyra të errëta. /Telegrafi/",
+      "published": "Fri, 05 Jun 2026 23:22:52 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/corapet-e-bardha-mund-te-behen-me-te-ndritshme-pa-kimikate-dhe-pa-zierje/",
+      "fetched_at": "2026-06-06T03:22:05.109542",
+      "ai_summary": "Një mënyrë e vjetër, por efektive, ndihmon që çorapet e bardha të ruajnë bardhësinë dhe freskinë gjatë sezonit të ngrohtëGjatë muajve të ngrohtë, çorapet e bardha janë ndër pjesët më të përdorura të v..."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
