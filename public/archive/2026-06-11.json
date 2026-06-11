@@ -1,0 +1,145 @@
+{
+  "date": "2026-06-11",
+  "timestamp": "2026-06-11T03:51:37.033168",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Trump: Fola me zyrtarët iranianë, më kërkuan të ndaloja sulmet",
+      "link": "https://www.balkanweb.com/trump-fola-me-zyrtaret-iraniane-ata-me-kerkuan-te-ndaloja-sulmet/",
+      "description": "Tensionet në Lindjen e Mesme janë përshkallëzuar pasi SHBA-të nisën sulme të reja ndaj objektivave “të shumëfishta” iraniane, në një veprim të paralajmëruar pas rrëzimit të helikopterit amerikan. Irani u përgjigj sonte duke njoftuar një bllokadë të plotë të Ngushticës së Hormuzit. Në një zhvillim më të fundit nga ana tjetër e Atlantikut, presidenti amerikan […]",
+      "published": "Thu, 11 Jun 2026 03:30:14 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987447",
+      "fetched_at": "2026-06-11T03:51:31.120306",
+      "ai_summary": "Tensionet në Lindjen e Mesme janë përshkallëzuar pasi SHBA-të nisën sulme të reja ndaj objektivave “të shumëfishta” iraniane, në një veprim të paralajmëruar pas rrëzimit të helikopterit amerikan. Iran..."
+    },
+    {
+      "title": "Kanadaja miraton legjislacionin për të ndaluar rrjetet sociale për fëmijët nën 16 vjeç",
+      "link": "https://www.balkanweb.com/kanadaja-miraton-legjislacionin-per-te-ndaluar-rrjetet-sociale-per-femijet-nen-16-vjec/",
+      "description": "Qeveria kanadeze prezantoi të mërkurën një projektligj të ri për sigurinë dixhitale që do të ndalojë mediat sociale për fëmijët nën 16 vjeç me përjashtime për platformat që plotësojnë standarde të caktuara sigurie, disa muaj pasi Australia miratoi ndalimin e parë në botë të mediave sociale për të rinjtë. Projektligji synon gjithashtu t’i bëjë chatbot-et […]",
+      "published": "Thu, 11 Jun 2026 03:00:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987438",
+      "fetched_at": "2026-06-11T03:51:31.120465",
+      "ai_summary": "Qeveria kanadeze prezantoi të mërkurën një projektligj të ri për sigurinë dixhitale që do të ndalojë mediat sociale për fëmijët nën 16 vjeç me përjashtime për platformat që plotësojnë standarde të cak..."
+    },
+    {
+      "title": "Mesazh i përbashkët nga 22 vende për Iranin: “Ndaloni menjëherë sulmet në territorin tonë”",
+      "link": "https://www.balkanweb.com/mesazh-i-perbashket-nga-22-vende-per-iranin-ndaloni-menjehere-sulmet-ne-territorin-tone/",
+      "description": "Njëzet e dy qeveri, përfshirë Shtetet e Bashkuara , Australinë, Francën , Gjermaninë dhe vende të tjera evropiane, po kërkojnë që Irani t’i japë fund “sulmeve” të tij kundër njerëzve në “tokën e tyre” në një deklaratë të përbashkët të lëshuar në orët e para të mëngjesit të sotëm (në anglisht nga Departamenti i Shtetit, […]",
+      "published": "Thu, 11 Jun 2026 02:45:16 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987444",
+      "fetched_at": "2026-06-11T03:51:31.120546",
+      "ai_summary": "Njëzet e dy qeveri, përfshirë Shtetet e Bashkuara , Australinë, Francën , Gjermaninë dhe vende të tjera evropiane, po kërkojnë që Irani t’i japë fund “sulmeve” të tij kundër njerëzve në “tokën e tyre”..."
+    },
+    {
+      "title": "Pak orë para nisjes së Kupës së Botës, ekzekutohen 5 policë",
+      "link": "https://www.balkanweb.com/pak-ore-para-nisjes-se-kupes-se-botes-ekzekutohen-5-police/",
+      "description": "Pesë oficerë policie u vranë dhe disa të tjerë u plagosën të mërkurën në një sulm me armë në shtetin perëndimor meksikan të Michoacan , një rajon i prekur nga kartelet e drogës, thanë autoritetet lokale, ndërsa vendi përgatitet të presë Kupën e Botës. Automjeti në të cilin udhëtonin oficerët u godit nga disa plumba, […]",
+      "published": "Thu, 11 Jun 2026 02:30:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987441",
+      "fetched_at": "2026-06-11T03:51:31.120632",
+      "ai_summary": "Pesë oficerë policie u vranë dhe disa të tjerë u plagosën të mërkurën në një sulm me armë në shtetin perëndimor meksikan të Michoacan , një rajon i prekur nga kartelet e drogës, thanë autoritetet loka..."
+    },
+    {
+      "title": "“SHBA-të kontrollojnë Ngushticën e Hormuzit, jo Irani”: Trump zbulon operacionin sekret, mbi 100 milionë fuçi naftë u transportuan në mënyrë të sigurt",
+      "link": "https://www.balkanweb.com/shba-te-kontrollojne-ngushticen-e-hormuzit-jo-irani-trump-zbulon-operacionin-sekret-mbi-100-milione-fuci-nafte-u-transportuan-ne-menyre-te-sigurt/",
+      "description": "Presidenti i SHBA-së, Donald Trump, njoftoi se ushtria amerikane kreu një mision sekret muajin e kaluar për të mbrojtur cisternat e naftës dhe anijet e tjera tregtare që kalonin nëpër Ngushticën e Hormuzit , duke pretenduar se operacioni lejoi transportimin e më shumë se 100 milionë fuçive naftë në tregjet ndërkombëtare. Në një postim në […]",
+      "published": "Thu, 11 Jun 2026 02:00:05 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987422",
+      "fetched_at": "2026-06-11T03:51:31.120692",
+      "ai_summary": "Presidenti i SHBA-së, Donald Trump, njoftoi se ushtria amerikane kreu një mision sekret muajin e kaluar për të mbrojtur cisternat e naftës dhe anijet e tjera tregtare që kalonin nëpër Ngushticën e Hor..."
+    },
+    {
+      "title": "Netanyahu u bën thirrje qytetarëve libanezë të bashkohen kundër Hezbollahut",
+      "link": "https://www.balkanweb.com/netanyahu-u-ben-thirrje-qytetareve-libaneze-te-bashkohen-kunder-hezbollahut/",
+      "description": "Kryeministri izraelit Benjamin Netanyahu u bëri thirrje sot libanezëve të bashkojnë forcat me Izraelin në luftën kundër Hezbollahut, duke theksuar se vendi i tyre është “peng” i lëvizjes shiite të mbështetur nga Irani. “Izraeli nuk është në luftë me ju. Ne jemi në luftë me Hezbollahun, i cili po e mban peng vendin tuaj”, tha […]",
+      "published": "Thu, 11 Jun 2026 01:00:33 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987419",
+      "fetched_at": "2026-06-11T03:51:31.120773",
+      "ai_summary": "Kryeministri izraelit Benjamin Netanyahu u bëri thirrje sot libanezëve të bashkojnë forcat me Izraelin në luftën kundër Hezbollahut, duke theksuar se vendi i tyre është “peng” i lëvizjes shiite të mbë..."
+    },
+    {
+      "title": "Shefi i OKB-së paralajmëron për ‘rifillim të plotë të konfliktit’, ndërsa Lindja e Mesme po zhytet ‘më thellë në krizë’",
+      "link": "https://www.balkanweb.com/shefi-i-okb-se-paralajmeron-per-rifillim-te-plote-te-konfliktit-ndersa-lindja-e-mesme-po-zhytet-me-thelle-ne-krize/",
+      "description": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, tha të mërkurën se përshkallëzimi i armiqësive rrezikon një “rifillim të plotë të konfliktit” në të gjithë Lindjen e Mesme , duke i kërkuar Këshillit të Sigurimit të mbështesë përfundimin e pushtimit izraelit dhe një zgjidhje me dy shtete si e vetmja rrugë drejt paqes së qëndrueshme. “Lindja […]",
+      "published": "Thu, 11 Jun 2026 00:30:32 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987435",
+      "fetched_at": "2026-06-11T03:51:31.120848",
+      "ai_summary": "Sekretari i Përgjithshëm i OKB-së, Antonio Guterres, tha të mërkurën se përshkallëzimi i armiqësive rrezikon një “rifillim të plotë të konfliktit” në të gjithë Lindjen e Mesme , duke i kërkuar Këshill..."
+    },
+    {
+      "title": "Revolucion në arsimin italian: Inteligjenca Artificiale përfshihet në kurrikulat shkollore",
+      "link": "https://www.balkanweb.com/revolucion-ne-arsimin-italian-inteligjenca-artificiale-perfshihet-ne-kurrikulat-shkollore/",
+      "description": "Inteligjenca artificiale do të përfshihet në kurrikulat shkollore të Italisë , njoftoi Ministri i Arsimit Giuseppe Valditara. “Sa i përket shkollës fillore, disa referenca kanë filluar të bëhen me qëllim që fëmijët të mësohen me algoritmet “, tha ministri italian. Sa i përket shkollave të mesme, prania e inteligjencës artificiale do të jetë masive. “Ne […]",
+      "published": "Thu, 11 Jun 2026 00:00:57 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987412",
+      "fetched_at": "2026-06-11T03:51:31.120923",
+      "ai_summary": "Inteligjenca artificiale do të përfshihet në kurrikulat shkollore të Italisë , njoftoi Ministri i Arsimit Giuseppe Valditara. “Sa i përket shkollës fillore, disa referenca kanë filluar të bëhen me qël..."
+    },
+    {
+      "title": "Rrëzohet helikopteri ushtarak në Pakistan, vdesin të gjithë anëtarët e ekuipazhit",
+      "link": "https://www.balkanweb.com/rrezohet-helikopteri-ushtarak-ne-pakistan-vdesin-te-gjithe-anetaret-e-ekuipazhit/",
+      "description": "Një helikopter ushtarak pakistanez u rrëzua, duke vrarë të gjithë personat në bord. Shërbimi për shtyp i Marrëdhënieve me Publikun Ndër-Shërbim (ISPR) të Forcave të Armatosura të Pakistanit lëshoi ​​një deklaratë për këtë. U raportua se incidenti ndodhi pranë Muzaffarabad më 10 qershor. Fillimisht u përcaktua se helikopteri u rrëzua gjatë ngritjes për shkak të […]",
+      "published": "Wed, 10 Jun 2026 23:45:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987429",
+      "fetched_at": "2026-06-11T03:51:31.120991",
+      "ai_summary": "Një helikopter ushtarak pakistanez u rrëzua, duke vrarë të gjithë personat në bord. Shërbimi për shtyp i Marrëdhënieve me Publikun Ndër-Shërbim (ISPR) të Forcave të Armatosura të Pakistanit lëshoi ​​n..."
+    },
+    {
+      "title": "Israel Katz: Fundi i konfliktit me Iranin është ende shumë larg",
+      "link": "https://www.balkanweb.com/israel-katz-fundi-i-konfliktit-me-iranin-eshte-ende-shume-larg/",
+      "description": "Ministri izraelit i Mbrojtjes, Israel Katz, tha se fundi i konfliktit me Iranin është ende shumë larg, duke folur në një aktivitet në Jerusalem. “Nëse Irani sulmon Izraelin , do të pësojë një goditje shkatërruese, siç pësoi disa ditë më parë”, tha Katz, duke shtuar se forcat e armatosura izraelite ishin gati të nisnin sulme […]",
+      "published": "Wed, 10 Jun 2026 23:30:31 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=2987407",
+      "fetched_at": "2026-06-11T03:51:31.121057",
+      "ai_summary": "Ministri izraelit i Mbrojtjes, Israel Katz, tha se fundi i konfliktit me Iranin është ende shumë larg, duke folur në një aktivitet në Jerusalem. “Nëse Irani sulmon Izraelin , do të pësojë një goditje ..."
+    }
+  ],
+  "total_articles": 10,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
