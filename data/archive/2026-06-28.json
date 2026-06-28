@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-28",
+  "timestamp": "2026-06-28T03:40:02.843024",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Kroacia avancon si e dyta në grup pas fitores ndaj Ganës",
+      "link": "https://www.koha.net/boterori-2026/kroacia-avancon-si-e-dyta-ne-grup-pas-fitores-ndaj-ganes",
+      "description": "Kroacia shënoi nga një gol në secilën pjesë dhe realizoi fitore të rëndësishme ndaj Ganës, në ndeshjen e tretë të Grupit L.Me fitoren 2:1 në orët e hershme të mëngjesit të së shtunës, Kroacia avancon në fazën nokaut të Kupës së Botës nga pozita e...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/495060",
+      "fetched_at": "2026-06-28T03:39:54.017279",
+      "ai_summary": "Kroacia shënoi nga një gol në secilën pjesë dhe realizoi fitore të rëndësishme ndaj Ganës, në ndeshjen e tretë të Grupit L.Me fitoren 2:1 në orët e hershme të mëngjesit të së shtunës, Kroacia avancon ..."
+    },
+    {
+      "title": "Vetëm një gisht larg fitores – goli i Sanchez ndaj Portugalisë u anulua për një pozicion jashtë loje që shumë nuk e shohin",
+      "link": "https://telegrafi.com/vetem-nje-gisht-larg-fitores-goli-i-sanchez-ndaj-portugalise-u-anulua-per-nje-pozicion-jashte-loje-qe-shume-nuk-e-shohin/",
+      "description": "Kolumbia ishte shumë pranë ta mbyllte fazën e grupeve me fitore ndaj Portugalisë, por një vendim i teknologjisë VAR i mohoi golin e fitores në sekondat e fundit të ndeshjes.Mbrojtësi Davinson Sanchez dërgoi topin në rrjetë në kohën shtesë, duke ndezur festën e kolumbianëve, të cilët besuan se kishin siguruar triumfin ndaj Portugalisë. Megjithatë, gjyqtari anuloi golin për pozicion jashtë loje dhe vendimi u konfirmua pas rishikimit nga VAR. Pamjet e përsëritura treguan se Sanchez ishte shumë pranë vijës së fundit të mbrojtjes portugeze, ndërsa sistemi gjysmë i automatizuar i pozicionit jashtë loje zbuloi se ai kishte qenë në pozitë të palejuar për vetëm disa centimetra.Pavarësisht anulimit të golit, Kolumbia e mbylli ndeshjen me barazim 0-0 dhe siguroi vendin e parë në Grupin L me 7 pikë. Portugalia përfundoi e dyta me 5 pikë dhe gjithashtu avancoi në fazën e 1/16 së finales.OFFSIDE WOIIIIDAVINSON SANCHEZ HEADER CRAZYYY DECISION BY REF pic.twitter.com/qfOChemyio— blanko (@kingpurba) June 28, 2026 Goli i anuluar i Sanchezit mbetet një nga momentet më të diskutueshme të fazës së grupeve, duke treguar edhe një herë se në futbollin modern fati i një ndeshjeje mund të vendoset nga vetëm disa centimetra. /Telegrafi/",
+      "published": "Sun, 28 Jun 2026 02:45:48 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/vetem-nje-gisht-larg-fitores-goli-i-sanchez-ndaj-portugalise-u-anulua-per-nje-pozicion-jashte-loje-qe-shume-nuk-e-shohin/",
+      "fetched_at": "2026-06-28T03:39:58.627083",
+      "ai_summary": "Kolumbia ishte shumë pranë ta mbyllte fazën e grupeve me fitore ndaj Portugalisë, por një vendim i teknologjisë VAR i mohoi golin e fitores në sekondat e fundit të ndeshjes.Mbrojtësi Davinson Sanchez ..."
+    },
+    {
+      "title": "Skocia u eliminua zytarisht nga Kupa e Botës - jep dorëheqje përzgjedhësi",
+      "link": "https://telegrafi.com/skocia-u-eliminua-zytarisht-nga-kupa-e-botes-jep-doreheqje-perzgjedhesi/",
+      "description": "Steve Clarke ka dhënë dorëheqjen nga posti i përzgjedhësit të Kombëtares së Skocisë, menjëherë pas eliminimit të skuadrës nga Kupa e Botës 2026.Skocezët i kishin mbajtur gjallë shpresat për kualifikim deri në ndeshjen e fundit të grupit, por fitorja e Kroacisë ndaj Ganës ua mbylli përfundimisht rrugën drejt fazës eliminatore. Skocia kishte nevojë për një kombinim rezultatesh, përfshirë një humbje të thellë të Ganës dhe rezultate të favorshme në ndeshjet e tjera, por skenari i dëshiruar nuk u realizua. Menjëherë pas konfirmimit të eliminimit, Clarke njoftoi largimin e tij, duke i dhënë fund një periudhe shtatëvjeçare në krye të përfaqësueses.\"Faleminderit që më besuat këtë detyrë. Ka qenë një nder i madh të drejtoj Skocinë. I uroj shumë sukses pasardhësit tim dhe shpresoj që ekipi të vazhdojë të ecë përpara\", deklaroi Clarke pas largimit.Clarke mori drejtimin e Skocisë në vitin 2019 dhe gjatë mandatit të tij arriti disa prej sukseseve më të mëdha të futbollit skocez në dekadat e fundit.Nën drejtimin e tij, Skocia u kualifikua dy herë radhazi në Kampionatin Evropian, duke rikthyer kombëtaren në skenën e madhe ndërkombëtare pas një mungese të gjatë. Kulmi i punës së tij erdhi me kualifikimin në Kupën e Botës 2026, pjesëmarrja e parë e Skocisë në një Botëror pas plot 28 vitesh. /Telegrafi/",
+      "published": "Sun, 28 Jun 2026 02:35:33 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/skocia-u-eliminua-zytarisht-nga-kupa-e-botes-jep-doreheqje-perzgjedhesi/",
+      "fetched_at": "2026-06-28T03:39:58.627980",
+      "ai_summary": "Steve Clarke ka dhënë dorëheqjen nga posti i përzgjedhësit të Kombëtares së Skocisë, menjëherë pas eliminimit të skuadrës nga Kupa e Botës 2026.Skocezët i kishin mbajtur gjallë shpresat për kualifikim..."
+    },
+    {
+      "title": "Kongo përmbys Uzbekistanin dhe shkruan histori, siguron kualifikimin në fazën eliminatore",
+      "link": "https://telegrafi.com/kongo-permbys-uzbekistanin-dhe-shkruan-histori-siguron-kualifikimin-ne-fazen-eliminatore/",
+      "description": "Republika Demokratike e Kongos ka shkruar historinë në Kupën e Botës 2026, duke siguruar për herë të parë kualifikimin në fazën eliminatore të turneut, pas fitores me përmbysje 3-1 ndaj Uzbekistanit.Ndeshja nisi në mënyrën më të keqe për kongolezët. Uzbekistani kaloi në epërsi në minutën e 10-të me Eldor Shomurodov, pasi më herët iu anulua edhe një gol për pozitë jashtë loje. Kongo reagoi shpejt dhe barazoi në minutën e 17-të, kur Nathanael Mbuku realizoi një supergol pas asistimit të Brian Cipengas, por VAR-i anuloi golin për faull në aksion. Në pjesën e dytë, skuadra e Sébastien Desabre shtoi presionin dhe në minutën e 66-të fitoi një penallti, pasi Abdukodir Khusanov ndërhyri në mënyrë të parregullt në zonë. Nga pika e bardhë u tregua i saktë Yoane Wissa, i cili barazoi rezultatin në 1-1.Përmbysja e madhe erdhi në minutën e 78-të, kur goditja e Meschack Elias u devijua nga Fiston Mayele dhe përfundoi në rrjetë për rezultatin 2-1. Në minutën e parë të kohës shtesë, Wissa vulosi fitoren me golin e tij të dytë personal, pas një asistimi të Elias, duke vendosur rezultatin përfundimtar 3-1. Me këtë fitore, Republika Demokratike e Kongos shkruan historinë duke siguruar për herë të parë kalimin në fazën eliminatore të Kupës së Botës, nga pozita e tretë me 4 pikë, ndërsa Uzbekistani i jep fund aventurës së tij në turne pas një paraqitjeje dinjitoze në fazën e grupeve. /Telegrafi/ Standings provided by Sofascore",
+      "published": "Sun, 28 Jun 2026 01:35:42 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/kongo-permbys-uzbekistanin-dhe-shkruan-histori-siguron-kualifikimin-ne-fazen-eliminatore/",
+      "fetched_at": "2026-06-28T03:39:58.628570",
+      "ai_summary": "Republika Demokratike e Kongos ka shkruar historinë në Kupën e Botës 2026, duke siguruar për herë të parë kualifikimin në fazën eliminatore të turneut, pas fitores me përmbysje 3-1 ndaj Uzbekistanit.N..."
+    },
+    {
+      "title": "Kolumbia mban vendin e parë, Portugalia kalon si e dyta – mësojnë kundërshtarët e fazës eliminatore",
+      "link": "https://telegrafi.com/kolumbia-mban-vendin-e-pare-portugalia-kalon-si-e-dyta-mesojne-kundershtaret-e-fazes-eliminatore/",
+      "description": "Kolumbia dhe Portugalia kanë barazuar pa gola (0-0) në ndeshjen e fundit të Grupit, rezultat që u mjaftoi të dyja skuadrave për të siguruar kualifikimin në fazën eliminatore të Kupës së Botës 2026.Ndeshja ishte e luftuar dhe me raste në të dyja anët, por asnjëra skuadër nuk arriti të gjente rrugën e rrjetës. Kolumbia krijoi rastet më të mira me Jhon Córdoba, i cili fillimisht goditi me kokë pak mbi portë, ndërsa më pas u ndal nga pritja e shkëlqyer e Diogo Costës pas një aksioni individual. Në pjesën e dytë, Richard Ríos dhe Gustavo Puerta iu afruan golit, por tentativat e tyre përfunduan ngjitur me shtyllën.Nga ana tjetër, Portugalia u bë e rrezikshme me Bruno Fernandes dhe João Félix, por Camilo Vargas ishte i sigurt në portën kolumbiane, duke ruajtur rrjetën të paprekur.Kolumbianët e mbyllën grupin në vendin e parë me shtatë pikë, ndërsa Portugalia përfundoi e dyta me pesë pikë. Me këtë rezultat, Kolumbia kalon në fazën e 1/16 së finales si fituese e grupit dhe do të përballet me Ganën, ndërsa Portugalia, si e dyta në grup, do të ketë përballë Kroacinë në një duel që pritet të jetë një nga më interesantët e fazës eliminatore. /Telegrafi/ Standings provided by Sofascore",
+      "published": "Sun, 28 Jun 2026 01:29:25 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/kolumbia-mban-vendin-e-pare-portugalia-kalon-si-e-dyta-mesojne-kundershtaret-e-fazes-eliminatore/",
+      "fetched_at": "2026-06-28T03:39:58.629171",
+      "ai_summary": "Kolumbia dhe Portugalia kanë barazuar pa gola (0-0) në ndeshjen e fundit të Grupit, rezultat që u mjaftoi të dyja skuadrave për të siguruar kualifikimin në fazën eliminatore të Kupës së Botës 2026.Nde..."
+    },
+    {
+      "title": "Harry Kane shkruan histori, bëhet golashënuesi më i mirë i Anglisë në Kupat e Botës",
+      "link": "https://telegrafi.com/harry-kane-shkruan-histori-behet-golashenuesi-me-i-mire-i-anglise-ne-kupat-e-botes/",
+      "description": "Harry Kane ka hyrë në historinë e futbollit anglez, duke u bërë golashënuesi më i mirë i Anglisë në historinë e Kupave të Botës.Sulmuesi i Bayern Munich shënoi në fitoren 2-0 ndaj Panamasë në ndeshjen e fundit të fazës së grupeve, duke arritur në kuotën e 11 golave në Kupat e Botës. Me këtë realizim, ai la pas legjendën Gary Lineker, i cili kishte mbajtur rekordin me 10 gola. Kane e arriti këtë rekord në vetëm 14 paraqitje në Kupat e Botës, duke marrë pjesë në tre edicione të turneut që nga debutimi i tij në vitin 2018.Në Kupën e Botës 2026, kapiteni i Anglisë po kalon një formë të shkëlqyer. Ai ka shënuar tashmë tre gola në tre ndeshje, pasi realizoi një dygolësh në fitoren 4-2 ndaj Kroacisë në ndeshjen hapëse dhe shtoi edhe një gol ndaj Panamasë.Rekordi i ri konfirmon edhe një herë statusin e Kane si një nga sulmuesit më të mirë në historinë e Anglisë. View this post on Instagram A post shared by England football team (@england)Me fazën eliminatore ende përpara, 32-vjeçari ka mundësinë ta thellojë edhe më tej rekordin e tij dhe të udhëheqë \"Tre Luanët\" drejt suksesit në Kupën e Botës 2026. /Telegrafi/",
+      "published": "Sun, 28 Jun 2026 00:57:30 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/harry-kane-shkruan-histori-behet-golashenuesi-me-i-mire-i-anglise-ne-kupat-e-botes/",
+      "fetched_at": "2026-06-28T03:39:58.629892",
+      "ai_summary": "Harry Kane ka hyrë në historinë e futbollit anglez, duke u bërë golashënuesi më i mirë i Anglisë në historinë e Kupave të Botës.Sulmuesi i Bayern Munich shënoi në fitoren 2-0 ndaj Panamasë në ndeshjen..."
+    },
+    {
+      "title": "Formacionet zyrtare, Jordani - Argjentinë: Scolari lë Messin dhe yjet e tjerë në bankë",
+      "link": "https://telegrafi.com/formacionet-zyrtare-jordani-argjentine-scolari-le-messin-dhe-yjet-e-tjere-ne-banke/",
+      "description": "Janë publikuar formacionet zyrtare për përballjen mes Jordanisë dhe Argjentinës në raundin e tretë të fazës së grupeve të Kupës së Botës 2026.Me kualifikimin tashmë të siguruar, trajneri Lionel Scaloni ka vendosur të bëjë rotacion të gjerë, duke lënë në bankën rezervë Lionel Messin dhe disa nga yjet kryesorë të skuadrës. Nga minuta e parë për Argjentinën do të luajnë Julián Álvarez, Giovanni Simeone dhe talenti i ri Paz, ndërsa kapiteni do të jetë Nicolás Otamendi.Argjentina e nis ndeshjen si kryesuese e grupit dhe synon ta mbyllë fazën e grupeve me maksimumin e pikëve, ndërsa Jordania kërkon një rezultat historik ndaj kampionëve në fuqi të botës. Jordania: Yazeed Abulaila; Nasib, Abudahab, Alarab, Haddad (C); Alrawabdeh, Abutaha, Alrashdan; Olwan, Fakhoury, Azaizeh.Argjentina: Emiliano Martínez; Senesi, Tagliafico, Otamendi (C); Paredes, Lo Celso, Palacios; Julián Álvarez, Giovanni Simeone, Paz, Lautaro Martínez./Telegrafi/",
+      "published": "Sun, 28 Jun 2026 00:40:14 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/formacionet-zyrtare-jordani-argjentine-scolari-le-messin-dhe-yjet-e-tjere-ne-banke/",
+      "fetched_at": "2026-06-28T03:39:58.631082",
+      "ai_summary": "Janë publikuar formacionet zyrtare për përballjen mes Jordanisë dhe Argjentinës në raundin e tretë të fazës së grupeve të Kupës së Botës 2026.Me kualifikimin tashmë të siguruar, trajneri Lionel Scalon..."
+    },
+    {
+      "title": "Lajm i dhimbshëm për yllin e Holandës, Cody Gakpo dhe partnerja e tij humbin foshnjën",
+      "link": "https://telegrafi.com/lajm-i-dhimbshem-per-yllin-e-holandes-cody-gakpo-dhe-partnerja-e-tij-humbin-foshnjen/",
+      "description": "Futbollisti i Holandës dhe i Liverpoolit, Cody Gakpo, po kalon një nga momentet më të vështira të jetës së tij personale gjatë zhvillimit të Kupës së Botës 2026.Vetëm dy ditë para ndeshjes së fazës eliminatore ndaj Marokut, Gakpo dhe partnerja e tij, Noa van der Bij, njoftuan se kishin humbur djalin e tyre të palindur.Lajmin e dhimbshëm e bëri publik Noa përmes një postimi në rrjetet sociale, ku ndau edhe një fotografi prekëse dhe zbuloi se çifti e kishte pagëzuar foshnjën me emrin Elijah Raphael Gakpo. \"Me zemër të thyer ndajmë lajmin se djali ynë i vogël ndërroi jetë gjatë shtatzënisë. Faleminderit për gjithëve për mbështetjen tuaj\", shkroi ajo.Vetëm katër javë më parë, çifti kishte ndarë me publikun lajmin e gëzueshëm se po prisnin një fëmijë. Ata nga martesa e tyre kanë një djal. Kjo tragjedi vjen në një moment kur Holanda po përgatitet për ndeshjen e fazës së 1/16-tës së finales së Kupës së Botës, pasi e mbylli fazën e grupeve në vendin e parë. Në këto momente të vështira, Gakpo dhe familja e tij kanë marrë mesazhe të shumta ngushëllimi dhe mbështetjeje nga tifozët, bashkëlojtarët dhe komuniteti i futbollit, ndërsa lojtari ka kërkuar që privatësia e familjes të ruhet. /Telegrafi/",
+      "published": "Sat, 27 Jun 2026 23:44:24 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/lajm-i-dhimbshem-per-yllin-e-holandes-cody-gakpo-dhe-partnerja-e-tij-humbin-foshnjen/",
+      "fetched_at": "2026-06-28T03:39:58.631547",
+      "ai_summary": "Futbollisti i Holandës dhe i Liverpoolit, Cody Gakpo, po kalon një nga momentet më të vështira të jetës së tij personale gjatë zhvillimit të Kupës së Botës 2026.Vetëm dy ditë para ndeshjes së fazës el..."
+    },
+    {
+      "title": "Klima do të ftohë më mirë pa e ulur temperaturën: Mjafton ta ndryshoni këtë detaj",
+      "link": "https://telegrafi.com/klima-do-te-ftohe-me-mire-pa-e-ulur-temperaturen-mjafton-ta-ndryshoni-kete-detaj/",
+      "description": "Një rregull i thjeshtë i qarkullimit të ajrit mund ta bëjë hapësirën më të freskët, pa ju fryrë klima drejtpërdrejt në trupKur temperaturat rriten, shumë njerëz menjëherë marrin telekomandën e klimës dhe zgjedhin temperaturën e dëshiruar. Por ekspertët theksojnë se për një ftohje të këndshme dhe efikase nuk ka rëndësi vetëm temperatura e vendosur, por edhe pozicioni i krahëve, përkatësisht lamelave që drejtojnë qarkullimin e ajrit.Edhe pse në pamje të parë duken si një detaj i parëndësishëm, pikërisht këto krahë kanë rol kyç: a do të ftohet dhoma në mënyrë të barabartë, apo do të uleni në drejtim të një rryme të pakëndshme ajri të ftohtë.Klima nuk e ftoh dhomën duke “fryrë të ftohtë” në një pikë të vetme, por nxjerr ajër të ftohtë që më pas përhapet në hapësirë. Mënyra si e drejtoni këtë ajër ndikon në shpejtësinë e ftohjes, barazinë e temperaturës dhe komoditetin e përgjithshëm në dhomë.Shumë njerëz gabimisht i vendosin krahët drejt vetes, duke menduar se kështu dhoma do të ftohet më shpejt. Në të vërtetë, shpesh ndodh e kundërta: ndiejnë rrymë të ftohtë, ndërsa pjesa tjetër e dhomës mbetet më e ngrohtë.Pozicioni më i mirë i krahëve të klimës gjatë muajve të verës është lart, në drejtim të tavanit, transmeton Telegrafi.Arsyeja është e thjeshtë: ajri i ftohtë natyrshëm zbret poshtë. Kur klima e drejton ajrin kah tavani, ai fillimisht shpërndahet nëpër dhomë, pastaj gradualisht zbret dhe e ftoh hapësirën në mënyrë më të njëtrajtshme.Përparësitë e këtij pozicioni janë: temperaturë më e këndshme në të gjithë dhomën më pak ndjesi rryme të ftohtë ftohje më e barabartë punë më efikase e pajisjes Nëse qëndroni ulur ose flini në një dhomë ku punon klima, është veçanërisht e rëndësishme të shmangni fryrjen e drejtpërdrejtë të ajrit të ftohtë në trup.Shumica e klimave moderne kanë funksionin “Swing”, pra lëvizjen automatike të krahëve. Kur ky funksion është i aktivizuar, krahët lëvizin vazhdimisht lart-poshtë, ndërsa te disa modele edhe majtas-djathtas. Kjo ndihmon që ajri i ftohtë të shpërndahet në një pjesë më të madhe të dhomës dhe temperatura të barazohet më lehtë.Opsioni “Swing” është veçanërisht i dobishëm: në hapësira më të mëdha kur në dhomë ka më shumë persona gjatë ditëve shumë të nxehta kur dëshironi të shmangni fryrjen e vazhdueshme në një drejtim Nëse tashmë e keni arritur temperaturën e dëshiruar, krahët mund t’i lini në pozicion fiks, të drejtuar nga tavani. Por gjatë ftohjes fillestare të dhomës, funksioni “Swing” mund të ndihmojë që temperatura të shpërndahet më shpejt dhe më barabartë.Shumë njerëz arrijnë ndjesinë më të këndshme duke përdorur lëvizjen automatike të krahëve gjatë 15 deri në 30 minutave të para, pastaj duke kaluar në pozicion fiks drejt tavanit.Si t’i përdorni siç duhet krahët e klimës gjatë natës?Shumë njerëz zgjohen të ngurtësuar ose me zë të ngjirur pas një nate me klimë të ndezur. Për ta shmangur këtë: mos e drejtoni ajrin kah shtrati përdorni mënyrën e natës, “Sleep Mode”, nëse pajisja e ka këtë funksion vendosni krahët drejt tavanit ulni shpejtësinë e ventilatorit Në këtë mënyrë, ajri i ftohtë do të shpërndahet nëpër dhomë pa fryrë drejtpërdrejt mbi personin që fle. /Telegrafi/",
+      "published": "Sat, 27 Jun 2026 23:17:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/klima-do-te-ftohe-me-mire-pa-e-ulur-temperaturen-mjafton-ta-ndryshoni-kete-detaj/",
+      "fetched_at": "2026-06-28T03:39:58.632036",
+      "ai_summary": "Një rregull i thjeshtë i qarkullimit të ajrit mund ta bëjë hapësirën më të freskët, pa ju fryrë klima drejtpërdrejt në trupKur temperaturat rriten, shumë njerëz menjëherë marrin telekomandën e klimës ..."
+    },
+    {
+      "title": "Kroacia mposht Ganën - vazhdon si e dyta e grupit",
+      "link": "https://telegrafi.com/kroacia-mposht-ganen/",
+      "description": "Kroacia ka siguruar kualifikimin në fazën eliminatore të Kupës së Botës, pasi mposhti Ganën me rezultat 2-1 në ndeshjen e fundit të Grupit L, duke e mbyllur grupin në vendin e dytë.Kroatët ishin më kërkues që nga fillimi dhe rrezikuan në minutën e 17-të, kur Nikola Vlašić goditi shtyllën. Epërsia erdhi në minutën e 31-të, kur Petar Sucic realizoi një supergol me një goditje të fuqishme nga distanca, duke mposhtur portierin Benjamin Asare për rezultatin 1-0. Gana reagoi në pjesën e dytë dhe arriti të barazojë në minutën e 73-të. Pas një goditjeje dënimi të ekzekutuar nga Ernest Nuamah, Derrick Luckassen dërgoi topin në rrjetë. Goli fillimisht u verifikua nga VAR-i për një pozicion jashtë loje, por më pas u konfirmua dhe rezultati u barazua në 1-1. Megjithatë, festa e Ganës zgjati vetëm dhjetë minuta. Në minutën e 83-të, Luka Modrić ekzekutoi në mënyrë perfekte një goditje nga këndi, ndërsa Nikola Vlašić u shkëput nga mbrojtja dhe me kokë realizoi golin e fitores. Topi u përplas fillimisht në shtyllë, përpara se të përfundonte në rrjetë për rezultatin 2-1.Deri në fund nuk pati ndryshim rezultati, ndërsa Kroacia administroi epërsinë dhe siguroi tri pikë të arta. Me këtë fitore, Kroacia e mbyll fazën e grupeve në vendin e dytë me 6 pikë dhe avancon në fazën e 1/16 së finales, ndërsa Gana vazhj=don si e treta. /Telegrafi/ Standings provided by Sofascore",
+      "published": "Sat, 27 Jun 2026 23:05:03 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/kroacia-mposht-ganen/",
+      "fetched_at": "2026-06-28T03:39:58.633287",
+      "ai_summary": "Kroacia ka siguruar kualifikimin në fazën eliminatore të Kupës së Botës, pasi mposhti Ganën me rezultat 2-1 në ndeshjen e fundit të Grupit L, duke e mbyllur grupin në vendin e dytë.Kroatët ishin më kë..."
+    },
+    {
+      "title": "Anglia mposht Panamanë fal Bellingham dhe Kane - del si e para e grupit",
+      "link": "https://telegrafi.com/anglia-mposht-panamane-fal-bellingham-dhe-kane-del-si-e-para-e-grupit/",
+      "description": "Anglia ka siguruar vendin e parë në Grupin L të Kupës së Botës, pasi mposhti Panamanë me rezultat 2-0 në ndeshjen e fundit të fazës së grupeve.Skuadra e drejtuar nga Thomas Tuchel e dominoi takimin, por iu desh të priste deri në pjesën e dytë për të zhbllokuar rezultatin. Në minutën e 62-të, Jude Bellingham përfitoi nga një goditje nga këndi e Bukayo Sakas dhe realizoi për epërsinë 1-0. Vetëm pesë minuta më vonë, Anglia vulosi fitoren. Jude Bellingham asistoi bukur për Harry Kane, i cili nga afërsia dërgoi topin në rrjetë për rezultatin përfundimtar 2-0.Me këtë fitore, Anglia e mbyll fazën e grupeve në vendin e parë me shtatë pikë, duke siguruar kualifikimin në fazën eliminatore si lider i Grupit L. Nga ana tjetër, Panamaja e përfundon aventurën në Kupën e Botës pa asnjë pikë, duke u eliminuar pas tri humbjeve në po aq ndeshje. /Telegrafi/ Standings provided by Sofascore",
+      "published": "Sat, 27 Jun 2026 22:57:59 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/anglia-mposht-panamane-fal-bellingham-dhe-kane-del-si-e-para-e-grupit/",
+      "fetched_at": "2026-06-28T03:39:58.633953",
+      "ai_summary": "Anglia ka siguruar vendin e parë në Grupin L të Kupës së Botës, pasi mposhti Panamanë me rezultat 2-0 në ndeshjen e fundit të fazës së grupeve.Skuadra e drejtuar nga Thomas Tuchel e dominoi takimin, p..."
+    }
+  ],
+  "total_articles": 11,
+  "sources": [
+    "Koha.net",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
