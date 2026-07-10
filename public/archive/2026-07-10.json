@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-10",
+  "timestamp": "2026-07-10T02:53:36.133917",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Çfarë i ndodhi Kylian Mbappes dhe pse u zëvendësua? Lojtari deklarohet pas ndeshjes",
+      "link": "https://telegrafi.com/cfare-i-ndodhi-kylian-mbappes-dhe-pse-u-zevendesua-lojtari-deklarohet-pas-ndeshjes/",
+      "description": "Franca siguroi kualifikimin në gjysmëfinale të Kupës së Botës 2026 pas fitores 2-0 ndaj Marokut në Boston, por një moment në fund të ndeshjes ka ngritur shqetësime te tifozët francezë.Kylian Mbappe u detyrua të largohej nga fusha 13 minuta para fundit të takimit, pasi ndjeu dhimbje në kyçin e këmbës së djathtë. Sulmuesi francez kërkoi zëvendësim dhe në vend të tij u aktivizua Jean-Philippe Mateta.Ylli i Real Madridit, i cili humbi një penallti në pjesën e parë, por më pas shënoi golin e avantazhit për “Gjelat”, mori trajtim nga stafi mjekësor në bankinë. Mjekët i vendosën akull në zonën e prekur, pamje kjo që shkaktoi shqetësim te tifozët për gjendjen e kapitenit francez. Kapiteni i Francës zbuloi se bëhet fjalë vetëm për një shqetësim të vogël në kyçin e këmbës dhe se nuk ka asgjë serioze.“Kam një dëmtim të vogël në kyçin e këmbës, por jam plotësisht mirë. Mateta ishte në një pozitë më të mirë për të luajtur minutat e mbetura të ndeshjes dhe në atë moment ishte më i freskët fizikisht. Kjo është gjithçka që ndodhi”, deklaroi Mbappe.Pavarësisht këtij momenti, Mbappe pati një paraqitje vendimtare ndaj Marokut. Ai shënoi golin e parë të ndeshjes dhe arriti në kuotën e tetë golave në këtë Kupë Bote, duke barazuar Lionel Messin. Në total, kapiteni francez ka shënuar 20 gola në të gjitha paraqitjet e tij në Botëror, vetëm një më pak se rekordi i argjentinasit.Franca, nën drejtimin e Didier Deschamps, vazhdon rrugëtimin në kërkim të triumfit pas vendit të dytë në Katar 2022. Në gjysmëfinale, “Les Bleus” do të përballen me fituesin e duelit mes Spanjës dhe Belgjikës. /Telegrafi/",
+      "published": "Thu, 09 Jul 2026 23:16:15 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/cfare-i-ndodhi-kylian-mbappes-dhe-pse-u-zevendesua-lojtari-deklarohet-pas-ndeshjes/",
+      "fetched_at": "2026-07-10T02:53:33.684000",
+      "ai_summary": "Franca siguroi kualifikimin në gjysmëfinale të Kupës së Botës 2026 pas fitores 2-0 ndaj Marokut në Boston, por një moment në fund të ndeshjes ka ngritur shqetësime te tifozët francezë.Kylian Mbappe u ..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Telegrafi"
+  ]
+}
