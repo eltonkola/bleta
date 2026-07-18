@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-18",
+  "timestamp": "2026-07-18T06:03:43.030013",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Ciceronët pa licencë në Kosovë gjobiten prej 1 gushtit",
+      "link": "https://www.koha.net/kulture/ciceronet-pa-licence-ne-kosove-gjobiten-prej-1-gushtit",
+      "description": "Disa ditë pasi Kosova licencoi për herë të parë udhërrëfyesit turistikë, institucionet kanë nisur fazën e zbatimit të mekanizmave që synojnë të rregullojnë tregun dhe të ndalojnë ushtrimin e paligjshëm të këtij profesioni.Prej ditës së parë të gushtit, çdo person që ushtron veprimtarinë e udhërrëfyesit...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497089",
+      "fetched_at": "2026-07-18T06:03:34.839208",
+      "ai_summary": "Disa ditë pasi Kosova licencoi për herë të parë udhërrëfyesit turistikë, institucionet kanë nisur fazën e zbatimit të mekanizmave që synojnë të rregullojnë tregun dhe të ndalojnë ushtrimin e paligjshë..."
+    },
+    {
+      "title": "Fashizmi brina s’ka",
+      "link": "https://www.koha.net/kolumne/fashizmi-brina-ska",
+      "description": "“Kurir”, njëri prej mediumeve proqeveritare të Serbisë, që ka nisur si gazetë e shtypur e tash është shndërruar në “wireless media grup”, në skemën e vet programore e paska edhe një emision që quhet “E parrëfyera” (Neispričano).Autore e emisionit qenka një inxhiniere e xehetarisë dhe...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497085",
+      "fetched_at": "2026-07-18T06:03:34.839429",
+      "ai_summary": "“Kurir”, njëri prej mediumeve proqeveritare të Serbisë, që ka nisur si gazetë e shtypur e tash është shndërruar në “wireless media grup”, në skemën e vet programore e paska edhe një emision që quhet “..."
+    },
+    {
+      "title": "Plagosi me mjet prerës djalin e bashkëjetueses në Korçë, vihet në pranga 37-vjeçari",
+      "link": "https://www.balkanweb.com/plagosi-me-mjet-preres-djalin-e-bashkejetueses-ne-korce-vihet-ne-pranga-37-vjecari/",
+      "description": "Një ngjarje e rëndë ka ndodhur mbrëmjen e sotme në qytetin e Korçës, ku një sherr i çastit brenda familjes ka përfunduar me plagosjen e një adoleshenti. Burime zyrtare nga policia bëjnë me dije se rreth orës 21:55, në spitalin e Korçës ka mbërritur i dëmtuar në kokë, me mjet prerës, shtetasi A. S., rreth […]",
+      "published": "Sat, 18 Jul 2026 05:44:08 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3010349",
+      "fetched_at": "2026-07-18T06:03:37.333622",
+      "ai_summary": "Një ngjarje e rëndë ka ndodhur mbrëmjen e sotme në qytetin e Korçës, ku një sherr i çastit brenda familjes ka përfunduar me plagosjen e një adoleshenti. Burime zyrtare nga policia bëjnë me dije se rre..."
+    },
+    {
+      "title": "“Ne morëm pjesë si të ftuar, por vetëm në një pjesë të programit dhe jo në bisedimet zyrtare me kryetarët e delegacioneve, pasi…”/ Zbulohet telegrami i delegacionit shqiptar nga Forumi i Davosit, qershor ‘91",
+      "link": "https://www.balkanweb.com/ne-morem-pjese-si-te-ftuar-por-vetem-ne-nje-pjese-te-programit-dhe-jo-ne-bisedimet-zyrtare-me-kryetaret-e-delegacioneve-pasi-zbulohet-telegrami-i-delegacionit-shqiptar-ng/",
+      "description": "Nga DASHNOR KALOÇI Pjesa e tretë Memorie.al / Plot 35 vite më parë, në fillimin e janarit 1991, kur nuk kishin kaluar as dy tre javë nga shpallja e pluralizmit në Shqipëri dhe ishin formuar partitë e para opozitare, qeveria e kryeministrit Ylli Bufi që kishte zëvendësuar pothuaj tërësisht kabinetin “Çarçani”, në kuadrin e reformave […]",
+      "published": "Sat, 18 Jul 2026 05:18:06 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3009992",
+      "fetched_at": "2026-07-18T06:03:37.333764",
+      "ai_summary": "Nga DASHNOR KALOÇI Pjesa e tretë Memorie.al / Plot 35 vite më parë, në fillimin e janarit 1991, kur nuk kishin kaluar as dy tre javë nga shpallja e pluralizmit në Shqipëri dhe ishin formuar partitë e ..."
+    },
+    {
+      "title": "Parashikimi i motit për sot, 18 korrik 2026",
+      "link": "https://www.balkanweb.com/parashikimi-i-motit-per-sot-18-korrik-2026/",
+      "description": "Ditën e sotme vendi ynë do të mbetet nën ndikimin e masave ajrore të qëndrueshme dhe të nxehta. Moti parashikohet i kthjellët ndërsa vranësirat të pakta kalimtare në relievet malore në veri dhe lindje të territorit. Era parashikohet të fryjë me drejtim nga kuadrati i perëndimit me shpejtësi mesatare 7 m/s. Valëzim në det të […]",
+      "published": "Sat, 18 Jul 2026 05:12:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3010010",
+      "fetched_at": "2026-07-18T06:03:37.334138",
+      "ai_summary": "Ditën e sotme vendi ynë do të mbetet nën ndikimin e masave ajrore të qëndrueshme dhe të nxehta. Moti parashikohet i kthjellët ndërsa vranësirat të pakta kalimtare në relievet malore në veri dhe lindje..."
+    },
+    {
+      "title": "Horoskopi për ditën e sotme, 18 Korrik 2026",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-18-korrik-2026/",
+      "description": "Dashi Ka një energji të mrekullueshme tokësore që do të ndihmojë në balancimin e natyrës suaj imagjinare. Ky ndikim i fortë stabilizues do t’ju ndihmojë të manifestoni idetë tuaja dhe t’i vini ato në punë në një plan fizik. Shkurt, do të arrini shumë. Demi Ngadalëso ritmin. Do të lodhesh shumë deri në fund të […]",
+      "published": "Sat, 18 Jul 2026 05:05:39 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3010051",
+      "fetched_at": "2026-07-18T06:03:37.334276",
+      "ai_summary": "Dashi Ka një energji të mrekullueshme tokësore që do të ndihmojë në balancimin e natyrës suaj imagjinare. Ky ndikim i fortë stabilizues do t’ju ndihmojë të manifestoni idetë tuaja dhe t’i vini ato në ..."
+    },
+    {
+      "title": "Ligji për mafian u jep familjeve italiane të drejtën të ‘çlirohen’ nga jeta e krimit",
+      "link": "https://telegrafi.com/ligji-per-mafian-u-jep-familjeve-italiane-te-drejten-te-clirohen-nga-jeta-e-krimit/",
+      "description": "Fëmijët dhe të rinjtë e rritur në familje mafioze do të kenë një shans për t’u shkëputur nga krimi i organizuar sipas legjislacionit të ri në Itali që synon të ndalojë rekrutimin ndërgjeneracional të gangsterëve.Në një përpjekje të paprecedentë për të ndërprerë zinxhirin familjar, shteti italian do t’u ofrojë fëmijëve nën 25 vjeç dhe të afërmve të tjerë të ngushtë të bosëve të mafias një shans për të filluar nga e para: një shtëpi të re në një qytet tjetër, një shkollë të re dhe, nëse është e nevojshme, një identitet të ri.Të mërkurën, projektligji “i lirë për të zgjedhur” fitoi miratimin përfundimtar në senat.“Sot, parlamenti po e përkthen në ligj një ëndërr që për vite me radhë dukej e pamundur”, tha Chiara Colosimo, presidente e komisionit parlamentar antimafia.Rreth 400 fëmijë të lindur në familje mafioze pritet të hyjnë në program çdo vit, sipas Colosimo. Në shumë klane mafioze italiane, pushteti kalohet nga një brez në tjetrin.Pasi u bë president i gjykatës së të rinjve në Reggio Calabria në vitin 2011, Roberto Di Bella nisi një skemë të paprecedentë lirimi me kusht që u lejonte autoriteteve të largonin fëmijët nga familjet më të rrezikshme të Ndrangheta-s dhe t’i zhvendosnin ata derisa të mbushnin 18 vjeç.Të mbështetur nga edukatorë, punonjës socialë dhe psikologë, ata u ndihmuan të përfundonin arsimin e tyre dhe të ndërtonin një jetë larg krimit të organizuar. Prindërit që vazhdonin t’i tërhiqnin fëmijët e tyre në aktivitete kriminale rrezikonin të humbnin të drejtat prindërore. Di Bella e quajti programin Liberi di Scegliere – që do të thotë i lirë për të zgjedhur.Iniciativa provokoi reagime të ashpra. Di Bella u akuzua për ndarjen e familjeve dhe u denoncua nga politikanë, komentatorë dhe pjesë të kishës, të cilët argumentuan se largimi i fëmijëve nga prindërit e tyre, pavarësisht rrethanave, përbënte një sulm ndaj familjes.Ligji i jep përparësi mbajtjes së nënave dhe fëmijëve së bashku, me kusht që nëna të pranojë të ndërpresë lidhjet me mafian. Familjet zhvendosen në një vend të mbrojtur jashtë rajonit të tyre të origjinës. Nëse nëna mbetet e përfshirë me klanin, fëmijët vendosen në familje kujdestare të verifikuara ose, kur është e nevojshme, në shtëpi kujdesi të mbrojtura, ku marrin arsim dhe mbështetje psikologjike. /Telegrafi/",
+      "published": "Sat, 18 Jul 2026 05:50:02 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/ligji-per-mafian-u-jep-familjeve-italiane-te-drejten-te-clirohen-nga-jeta-e-krimit/",
+      "fetched_at": "2026-07-18T06:03:39.740245",
+      "ai_summary": "Fëmijët dhe të rinjtë e rritur në familje mafioze do të kenë një shans për t’u shkëputur nga krimi i organizuar sipas legjislacionit të ri në Itali që synon të ndalojë rekrutimin ndërgjeneracional të ..."
+    },
+    {
+      "title": "Scientists make historic discovery - first atmosphere on a \"habitable\" planet",
+      "link": "https://telegrafi.com/en/world/scientists-make-historic-discovery-first-atmosphere-on-a-habitable-planet",
+      "description": "Astronomers have detected for the first time an atmosphere around a rocky planet located in the habitable zone of its star. It is a \"super-Earth\" called LHS 1140 b, and this discovery represents an important step in the search for worlds that could be suitable for life. Until now, atmospheres had only been detected on gas giant planets, writes ScienceAlert. The search for habitable worlds is based on two main criteria: the planet must have a composition similar to Earth and be at a distance from its star that allows for the existence of liquid water, writes sciencealert . \"It's the first time anyone has found an atmosphere on a rocky planet in the habitable zone of another star,\" said Collin Cherubim, a planetary scientist at Harvard University and lead author of the study published in the journal Science. Measurements show that LHS 1140 b has a mass about five times that of Earth and a radius 1.7 times that of Earth. This indicates that it is rocky in composition, but its lower density than Earth suggests the presence of a thin atmosphere and possibly some water. The planet is an ideal object for study, as it is only about 50 light-years from Earth. It orbits a red dwarf star, which is much smaller and cooler than the Sun and has about a fifth of its mass. \"Twenty years ago we wondered whether other terrestrial planets existed at all. Then we discovered that they are common and found some in the habitable zone. The next question was whether any of them had managed to retain an atmosphere. Now we know that at least one of them has,\" said Robin Wordsworth of Harvard University. Cherubim had previously predicted that LHS 1140 b might have a helium-rich atmosphere. To do this, he created a computer model that analyzed the processes of planetary mass loss. The model showed that planets at the right distance from their star could lose hydrogen but retain helium, creating an atmosphere dominated by this gas. \"I call these planets 'helium-rich worlds.' I think they may not be that exotic, but a natural step in the evolution of many small planets. I wanted to test this prediction and looked for helium escaping from the planet – and I found it,\" Cherubim said. To confirm the prediction, the researchers used the WINERED spectrograph at the Las Campanas Observatory in the Atacama Desert of Chile. They observed LHS 1140 b and a neighboring planet during a night in September 2024, when both bodies passed in front of their star. By analyzing light passing through the planet's atmosphere, scientists were able to determine which wavelengths were absorbed by the gases. They found that LHS 1140 b, unlike its neighboring planet, showed signs of a helium atmosphere that is escaping into space at speeds of hundreds of thousands of kilograms per second. This process could be caused by the star's solar winds or by magnetic interactions between the planet and the star. However, the phenomenon appears to change over time, as it was not observed during another observation in 2025. One of the most important aspects of the discovery is the fact that LHS 1140 b has managed to preserve its atmosphere for more than three billion years, even though red dwarfs are known for their unstable activity. \"The planet receives from its star about 42 percent of the energy that Earth receives from the Sun,\" Cherubim explained. \"Although it has been exposed throughout its history to the highest levels of X-ray and ultraviolet radiation that typically destroy the atmospheres of rocky planets, it has retained some of the helium it probably received during its formation,\" he claimed. Scientists will now focus on further analysis to find out if the planet has oceans or other features that could support life. The fact that this discovery was made with a telescope on Earth shows that ground-based observatories also have an important role in studying atmospheres outside the solar system, alongside space telescopes such as the James Webb Space Telescope (JWST). \"This was a confirmation of the model and I hope it is just the first of many future observations,\" Cherubim concluded. /Telegraph/",
+      "published": "Sat, 18 Jul 2026 05:43:01 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/en/world/scientists-make-historic-discovery-first-atmosphere-on-a-habitable-planet",
+      "fetched_at": "2026-07-18T06:03:39.740947",
+      "ai_summary": "Astronomers have detected for the first time an atmosphere around a rocky planet located in the habitable zone of its star. It is a \"super-Earth\" called LHS 1140 b, and this discovery represents an im..."
+    },
+    {
+      "title": "Shkencëtarët arrijnë një zbulim historik - atmosferë për herë të parë në një planet \"të banueshëm\"",
+      "link": "https://telegrafi.com/shkencetaret-arrijne-nje-zbulim-historik-atmosfere-per-here-te-pare-ne-nje-planet-te-banueshem/",
+      "description": "Astronomët kanë zbuluar për herë të parë një atmosferë rreth një planeti shkëmbor që ndodhet në zonën e banueshme të yllit të tij. Bëhet fjalë për një “super-Tokë” të quajtur LHS 1140 b, dhe ky zbulim përbën një hap të rëndësishëm në kërkimin e botëve që mund të jenë të përshtatshme për jetë. Deri më tani, atmosferat ishin zbuluar vetëm te planetët gjigantë të gaztë, shkruan ScienceAlert.Kërkimi për botë të banueshme bazohet në dy kritere kryesore: planeti duhet të ketë përbërje të ngjashme me Tokën dhe të jetë në një distancë nga ylli i tij që lejon ekzistencën e ujit të lëngshëm, shkruan sciencealert.“Është hera e parë që dikush ka gjetur një atmosferë në një planet shkëmbor në zonën e banueshme të një ylli tjetër”, tha Collin Cherubim, shkencëtar planetar në Universitetin e Harvardit dhe autori kryesor i studimit të publikuar në revistën Science.Matjet tregojnë se LHS 1140 b ka një masë rreth pesë herë më të madhe se Toka dhe një rreze 1.7 herë më të madhe. Kjo tregon se ai ka përbërje shkëmbore, por dendësia më e ulët se ajo e Tokës sugjeron praninë e një atmosfere të hollë dhe ndoshta të një sasie uji. Planeti është një objekt ideal për studim, pasi ndodhet vetëm rreth 50 vite dritë larg Tokës. Ai rrotullohet rreth një xhuxhi të kuq, i cili është shumë më i vogël dhe më i ftohtë se Dielli dhe ka rreth një të pestën e masës së tij.“Para 20 vitesh pyesnim nëse ekzistonin fare planete të tjera të tipit tokësor. Më pas zbuluam se ato janë të zakonshme dhe gjetëm disa në zonën e banueshme. Pyetja tjetër ishte nëse ndonjëri prej tyre kishte arritur të ruante atmosferën. Tani e dimë se të paktën njëri prej tyre po”, tha Robin Wordsworth nga Universiteti i Harvardit.Cherubim më herët kishte parashikuar se LHS 1140 b mund të kishte një atmosferë të pasur me helium. Për këtë ai krijoi një model kompjuterik që analizonte proceset e humbjes së masës së planetëve.Modeli tregoi se planetët në distancën e duhur nga ylli i tyre mund të humbasin hidrogjenin, por të ruajnë heliumin, duke krijuar një atmosferë ku dominon ky gaz.“Unë i quaj këta planetë ‘botë të pasura me helium’. Mendoj se mund të mos jenë aq ekzotikë, por një hap natyror në evolucionin e shumë planetëve të vegjël. Doja ta testoja këtë parashikim dhe kërkova helium që po largohej nga planeti – dhe e gjeta”, tha Cherubim. Për të konfirmuar parashikimin, studiuesit përdorën spektrografin WINERED në observatorin Las Campanas në shkretëtirën Atacama të Kilit.Ata vëzhguan LHS 1140 b dhe një planet fqinj gjatë një nate në shtator të vitit 2024, kur të dy trupat kaluan përpara yllit të tyre.Duke analizuar dritën që kalonte përmes atmosferës së planetit, shkencëtarët mundën të përcaktonin se cilat gjatësi vale absorboheshin nga gazrat. Ata zbuluan se LHS 1140 b, ndryshe nga planeti fqinj, tregonte shenja të një atmosfere me helium që po largohet në hapësirë me shpejtësi prej qindra mijëra kilogramësh në sekondë.Ky proces mund të shkaktohet nga erërat diellore të yllit ose nga ndërveprimi magnetik mes planetit dhe yllit. Megjithatë, fenomeni duket se ndryshon me kalimin e kohës, pasi nuk u vërejt gjatë një vëzhgimi tjetër në vitin 2025. Një nga aspektet më të rëndësishme të zbulimit është fakti se LHS 1140 b ka arritur të ruajë atmosferën e tij për më shumë se tre miliardë vjet, edhe pse xhuxhët e kuq njihen për aktivitetin e tyre të paqëndrueshëm.“Planeti merr nga ylli i tij rreth 42 për qind të energjisë që Toka merr nga Dielli”, shpjegoi Cherubim.“Edhe pse gjatë historisë së tij është ekspozuar ndaj niveleve më të larta të rrezatimit rëntgen dhe ultravjollcë, që zakonisht shkatërrojnë atmosferat e planetëve shkëmborë, ai ka ruajtur një pjesë të heliumit që ndoshta e ka marrë gjatë formimit të tij”, pohoi ai.Shkencëtarët tani do të përqendrohen në analiza të mëtejshme për të zbuluar nëse planeti ka oqeane ose karakteristika të tjera që mund të mbështesin jetën.Fakti që ky zbulim u bë me një teleskop në Tokë tregon se edhe observatorët tokësorë kanë rol të rëndësishëm në studimin e atmosferave jashtë sistemit diellor, krahas teleskopëve hapësinorë si James Webb (JWST).“Ky ishte një konfirmim i modelit dhe shpresoj se është vetëm i pari nga shumë vëzhgime të ardhshme”, përfundoi Cherubim. /Telegrafi/",
+      "published": "Sat, 18 Jul 2026 05:37:35 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/shkencetaret-arrijne-nje-zbulim-historik-atmosfere-per-here-te-pare-ne-nje-planet-te-banueshem/",
+      "fetched_at": "2026-07-18T06:03:39.742009",
+      "ai_summary": "Astronomët kanë zbuluar për herë të parë një atmosferë rreth një planeti shkëmbor që ndodhet në zonën e banueshme të yllit të tij. Bëhet fjalë për një “super-Tokë” të quajtur LHS 1140 b, dhe ky zbulim..."
+    }
+  ],
+  "total_articles": 9,
+  "sources": [
+    "Koha.net",
+    "Koha.net",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
