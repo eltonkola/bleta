@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-19",
+  "timestamp": "2026-07-19T02:33:41.328663",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Kush është lojtari i ndeshjes?",
+      "link": "https://www.koha.net/boterori-2026/kush-eshte-lojtari-i-ndeshjes",
+      "description": "Shumë shkëlqyen, por vetëm njëri zgjedhet lojtar i ndeshjes.Ky çmim për ndeshjen mes Francës dhe Anglisë i takoi Bukayo Sakas.Ai realizoi hat-trick për fitoren 6:4 të anglezëve.Saka është bërë vetëm lojtari i katërt anglez me tregolësh në Kupën e Botës. Harry Kane e arriti këtë...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497188",
+      "fetched_at": "2026-07-19T02:33:33.595505",
+      "ai_summary": "Shumë shkëlqyen, por vetëm njëri zgjedhet lojtar i ndeshjes.Ky çmim për ndeshjen mes Francës dhe Anglisë i takoi Bukayo Sakas.Ai realizoi hat-trick për fitoren 6:4 të anglezëve.Saka është bërë vetëm l..."
+    },
+    {
+      "title": "Olise vendos rekord për asistime",
+      "link": "https://www.koha.net/boterori-2026/olise-vendos-rekord-per-asistime",
+      "description": "Michael Olise lëshoi disa raste të mira në humbjen 6:4 të Francës nga Anglia.Por Olise i bëri dy asistime dhe tashmë është rekordmen.Është lojtari i parë që i bënë plot shtatë asistime në një edicion të Kupës së Botës.Pele e mbante rekordin e kaluar me...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497187",
+      "fetched_at": "2026-07-19T02:33:33.595714",
+      "ai_summary": "Michael Olise lëshoi disa raste të mira në humbjen 6:4 të Francës nga Anglia.Por Olise i bëri dy asistime dhe tashmë është rekordmen.Është lojtari i parë që i bënë plot shtatë asistime në një edicion ..."
+    },
+    {
+      "title": "Kur janë shënuar dhjetë apo më shumë gola në një ndeshje Botërori",
+      "link": "https://www.koha.net/boterori-2026/kur-jane-shenuar-dhjete-apo-me-shume-gola-ne-nje-ndeshje-boterori",
+      "description": "Ndeshja mes Francës dhe Anglisë është e para me dhjetë apo më shumë gola në Kupë të Botës që ajo në mes të Hungarisë dhe El Salvadorit, në vitin 1982.Hungaria e kishte mposhtur El Salvadorin me rezultatin 10:1.Anglia sonte fitoi 6:4 ndaj Francës në ndeshje...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497186",
+      "fetched_at": "2026-07-19T02:33:33.595821",
+      "ai_summary": "Ndeshja mes Francës dhe Anglisë është e para me dhjetë apo më shumë gola në Kupë të Botës që ajo në mes të Hungarisë dhe El Salvadorit, në vitin 1982.Hungaria e kishte mposhtur El Salvadorin me rezult..."
+    },
+    {
+      "title": "Spektakël golash, Anglia e treta në botë",
+      "link": "https://www.koha.net/boterori-2026/spektakel-golash-anglia-e-treta-ne-bote",
+      "description": "Bukayo Saka ka shënuar “hat-trick” për ta udhëhequr Anglinë drejt fitores në ndeshjen për vendin e tretë në Kupën e Botës. Anglia fitoi 6:4 ndaj Francës, në ndeshjen që u shndërrua në spektakël golash.VIDEO: 6 golat e Anglisë dhe 4 golat e Francës Pas pjesës...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497185",
+      "fetched_at": "2026-07-19T02:33:33.595908",
+      "ai_summary": "Bukayo Saka ka shënuar “hat-trick” për ta udhëhequr Anglinë drejt fitores në ndeshjen për vendin e tretë në Kupën e Botës. Anglia fitoi 6:4 ndaj Francës, në ndeshjen që u shndërrua në spektakël golash..."
+    },
+    {
+      "title": "Anglia e shënon golin e pestë, \"hat-trick\" nga Saka",
+      "link": "https://www.koha.net/boterori-2026/anglia-e-shenon-golin-e-peste-hat-trick-nga-saka",
+      "description": "Anglia po udhëheq 5:3 ndaj Francës.Nga pika e bardhë në minutën e 87-të shënoi Bukayo Saka. Ai kompletoi tregolëshin.",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497184",
+      "fetched_at": "2026-07-19T02:33:33.596020",
+      "ai_summary": "Anglia po udhëheq 5:3 ndaj Francës.Nga pika e bardhë në minutën e 87-të shënoi Bukayo Saka. Ai kompletoi tregolëshin."
+    },
+    {
+      "title": "In Memoriam/ Nga 11-vjeçari përkthyes gjatë trazirave të ’97, te korrespondent i Rai-t! Rrugëtimi i Enrik Mehmetit, gazetarit të News24 që u bë zëri i Vlorës për mbi 20 vite",
+      "link": "https://www.balkanweb.com/in-memoriam-nga-11-vjecari-perkthyes-gjate-trazirave-te-97-te-korrespondent-i-rai-t-rrugetimi-i-enrik-mehmetit-gazetarit-te-news24-qe-u-be-zeri-i-vlores-per-mbi-20-vite/",
+      "description": "Gazetari i News24, Enrik Mehmeti u shua në moshën 40-vjeçare në një aksident tragjik me motor në plazhin e Porto-Novës në Vlorë. I apasionuar pas Lajmit të Fundit, por u bë lajmi më i pabesueshëm dhe më i trishtë për këdo që pati fatin ta njohë, të bisedojë dhe të punojë me të, Enrik Mehmeti […]",
+      "published": "Sat, 18 Jul 2026 23:28:28 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3010878",
+      "fetched_at": "2026-07-19T02:33:35.864050",
+      "ai_summary": "Gazetari i News24, Enrik Mehmeti u shua në moshën 40-vjeçare në një aksident tragjik me motor në plazhin e Porto-Novës në Vlorë. I apasionuar pas Lajmit të Fundit, por u bë lajmi më i pabesueshëm dhe ..."
+    },
+    {
+      "title": "Anglia triumfon në dramën e 10 golave ndaj Francës, e fiton medaljen e bronztë të Kupës së Botës",
+      "link": "https://telegrafi.com/anglia-triumfon-ne-dramen-e-10-golave-ndaj-frances-e-fiton-medaljen-e-bronzte-te-kupes-se-botes/",
+      "description": "Kombëtarja e Anglisë ka shënuar fitore në përballjen me shumë gola ndaj Francës, për t’u stolisur me të bronztën për Kupën e Botës.“Tre Luanët” regjistruan një fitore prej 4-6, sfidë ku “Gjelat” deri vonë kishin shpresë për të bërë ndonjë përmbysje.Declan Rice kaloi Anglinë në epërsi pas vetëm tre minutave lojë me një gol nga distanca.Ndërsa ishte Konsa që shënoi me kokë pas harkimit të Rice për të dyfishuar epërsinë (18’).Bukayo Saka pastaj ishte njeriu i momentit me dy gola të bukur për ta mbyllur pjesën e parë me rezultat 0-4 (37’, 45+1’).Pas kësaj, Franca u këndell. Fillimisht Kylian Mbappe shënoi për ta ngushtuar epërsinë (48’), e pastaj asistoi për Barcolan për 2-5 (54’). Mbappe realizoi edhe golin e tretë për ta marrë epitetin e golashënuesit më të mirë në histori të Botërorit (66’).Franca kishte rastin për ta barazuar rezultatin por Michael Olise dëshpëroi duke humbur raste nga afërsia. Fytyra tragjike rezultoi të jetë Gusto me një ndërhyrje brenda zonës, ku gjyqtari akordoi penallti.Nga pika e bardhë i pagabueshëm ishte Saka, që edhe e kompletoi het-trikun si dhe vulosi fitoren (87’).E tëra që bëri Franca ishte goli i fundit në ndeshje falë Ousmane Dembeles (90+6').Në minutën e fundit, kur Franca po sulmonte, Anglia zhvilloi edhe një kundërsulm me Jude Bellingham që realizoi eurogol për ta mbyllur përfundimisht ndeshjen (90+8').Kësisoj, Anglia e fiton medaljen e bronztë kurse finalja e madhe do të zhvillohet të dielën nga ora 21:00 mes Spanjës dhe Argjentinës./Telegrafi/",
+      "published": "Sat, 18 Jul 2026 23:02:11 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/anglia-triumfon-ne-dramen-e-10-golave-ndaj-frances-e-fiton-medaljen-e-bronzte-te-kupes-se-botes/",
+      "fetched_at": "2026-07-19T02:33:38.219680",
+      "ai_summary": "Kombëtarja e Anglisë ka shënuar fitore në përballjen me shumë gola ndaj Francës, për t’u stolisur me të bronztën për Kupën e Botës.“Tre Luanët” regjistruan një fitore prej 4-6, sfidë ku “Gjelat” deri ..."
+    }
+  ],
+  "total_articles": 7,
+  "sources": [
+    "Koha.net",
+    "Koha.net",
+    "Koha.net",
+    "Koha.net",
+    "Koha.net",
+    "BalkanWeb",
+    "Telegrafi"
+  ]
+}
