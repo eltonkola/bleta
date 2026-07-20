@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-20",
+  "timestamp": "2026-07-20T02:48:56.543146",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "“Arkitekti” i Spanjës, de la Fuente: E merituam, koha të festojmë këtë Kupë Bote",
+      "link": "https://www.balkanweb.com/arkitekti-i-spanjes-de-la-fuente-e-merituam-koha-te-festojme-kete-kupe-bote/",
+      "description": "Trajneri i Spanjës, De La Fuente u shpreh i lumtur pas fitimit të Botërorit. “Ne jemi Kampionë Bote. Jam i lumtur dhe krenar për lojtarët. Kemi mbyllur një kapitull shumë të rëndësishëm. Kemi fituar në çdo kategori. Për më tepër, ky është një ekip me një të ardhme të gjatë përpara. Po mendojmë për atë […]",
+      "published": "Sun, 19 Jul 2026 23:11:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3011344",
+      "fetched_at": "2026-07-20T02:48:51.073257",
+      "ai_summary": "Trajneri i Spanjës, De La Fuente u shpreh i lumtur pas fitimit të Botërorit. “Ne jemi Kampionë Bote. Jam i lumtur dhe krenar për lojtarët. Kemi mbyllur një kapitull shumë të rëndësishëm. Kemi fituar n..."
+    },
+    {
+      "title": "Statistika negative, Messi me dy finale të humbura, bën pjesë te lista e…",
+      "link": "https://www.balkanweb.com/statistika-negative-messi-me-dy-finale-te-humbura-ben-pjese-te-lista-e/",
+      "description": "Lionel Mesi nuk ia ka dalë që të fitojë Botërorin e tij të dytë, pasi Argjentina është mundur në finale nga Spanja me shifrat 1-0. Ylli argjentinas kësisoj ka regjistruar humbjen e dytë në një finale të Botërorit, duke iu bashkuar një liste shumë speciale “dështakësh” sa i përket disfatave në ndeshjen vendimtare për trofeun […]",
+      "published": "Sun, 19 Jul 2026 23:07:58 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3011341",
+      "fetched_at": "2026-07-20T02:48:51.073401",
+      "ai_summary": "Lionel Mesi nuk ia ka dalë që të fitojë Botërorin e tij të dytë, pasi Argjentina është mundur në finale nga Spanja me shifrat 1-0. Ylli argjentinas kësisoj ka regjistruar humbjen e dytë në një finale ..."
+    },
+    {
+      "title": "VIDEO/ E shëmtuar pas finales së Botërorit, Paredes përplaset keq me lojtarët e Spanjës",
+      "link": "https://www.balkanweb.com/video-e-shemtuar-pas-finales-se-boterorit-paredes-perplaset-keq-me-lojtaret-e-spanjes/",
+      "description": "Spanja mundi me golin e Ferran Torres skuadrën e Argjentinës, duke fituar kështu botërorin. Gjërat nuk u mbyllën në paqe, pasi Leandro Paredes i ekipit Biancoceleste u bë protagonist negativ. Lojtari i Argjentinës u përplas me Garcian dhe Gavin, menjëherë pas vërshëllimës së kryesorit Vincic. Për të qetësuar situatën u desh ndërhyerja e të tjerëve, […]",
+      "published": "Sun, 19 Jul 2026 23:03:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3011338",
+      "fetched_at": "2026-07-20T02:48:51.073466",
+      "ai_summary": "Spanja mundi me golin e Ferran Torres skuadrën e Argjentinës, duke fituar kështu botërorin. Gjërat nuk u mbyllën në paqe, pasi Leandro Paredes i ekipit Biancoceleste u bë protagonist negativ. Lojtari ..."
+    },
+    {
+      "title": "U shpallën kampionë të Botës, Spanja “ngre në qiell” trofeun (VIDEO)",
+      "link": "https://www.balkanweb.com/u-shpallen-kampione-te-botes-spanja-ngre-ne-qiell-trofeun-video/",
+      "description": "Spanja është shpallur kampione e botës, pasi triumfoi 1-0 ndaj Argjentinës në finalen e Kupës së Botës. Ndeshja ishte shumë e luftuar dhe u vendos nga një gol i Ferran Torres në kohën shtesë, duke i dhënë spanjollëve trofeun e dytë të botërorit në histori. Me këtë fitore, Spanja rikthehet në majën e futbollit botëror […]",
+      "published": "Sun, 19 Jul 2026 22:55:56 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3011335",
+      "fetched_at": "2026-07-20T02:48:51.073776",
+      "ai_summary": "Spanja është shpallur kampione e botës, pasi triumfoi 1-0 ndaj Argjentinës në finalen e Kupës së Botës. Ndeshja ishte shumë e luftuar dhe u vendos nga një gol i Ferran Torres në kohën shtesë, duke i d..."
+    },
+    {
+      "title": "Shtëpia ju është mbushur papritur me miza? Kontrollojeni menjëherë këtë pjesë të kuzhinës",
+      "link": "https://telegrafi.com/shtepia-ju-eshte-mbushur-papritur-me-miza-kontrollojeni-menjehere-kete-pjese-te-kuzhines/",
+      "description": "Frutat dhe dritaret e hapura mund të mos jenë shkaku kryesor – një vend i lagësht dhe i fshehur mund të jetë kthyer në vatër shumimi pa e vërejturGjatë muajve të verës, mizat u shkaktojnë bezdi shumë njerëzve. Mjafton ta lini dritaren hapur për pak kohë ose një tas me fruta mbi banakun e kuzhinës dhe këto insekte të bezdisshme fillojnë të grumbullohen nëpër shtëpi. Megjithatë, ekziston një metodë shumë e thjeshtë që mund të ndihmojë në largimin e tyre, pa përdorur kimikate agresive.Gazetarja Kathrine McPhilips ka treguar përvojën e saj, pasi gjatë verës ishte përballur me një problem të madh me mizat. Edhe pse çdo mbrëmje i mbante dritaret të mbyllura, i largonte rregullisht frutat e tejpjekura dhe e zbrazte koshin e mbeturinave, mizat vazhdonin ta gjenin rrugën drejt kuzhinës së saj.Burimi i fshehur i problemit mund të jetë në kulluesen e lavamanitSiç shpjegon ajo, shkaku i problemit shpesh nuk është i dukshëm. Shumë njerëz nuk e dinë se kulluesi i lavamanit të kuzhinës mund të jetë vend ideal për shumimin e mizave. Nxehtësia, lagështia dhe mbetjet e ushqimit krijojnë kushte të përsosura për zhvillimin e larvave, ndërsa, meqë gjithçka ndodh larg syrit, problemi zakonisht vërehet vetëm kur numri i insekteve rritet ndjeshëm.Në kërkim të një zgjidhjeje, Kathrine McPhilips vendosi të provonte një veprim shumë të thjeshtë: të hidhte ujë të valë drejtpërdrejt në kullues. Sipas përvojës së saj, mjaftojnë vetëm disa sekonda që uji i nxehtë t’i shkatërrojë mizat dhe larvat që mund të ndodhen në tuba.Në të njëjtën kohë, uji i valë ndihmon në largimin e yndyrës dhe të shtresave të grumbulluara që i tërheqin insektet, duke zvogëluar mundësinë e shumimit të tyre të përsëritur, transmeton Telegrafi. Mirëmbajtja e rregullt e kulluesit mund të bëjë ndryshim të madhGazetarja thekson se pastrimi i rregullt i kulluesit ka edhe një përparësi tjetër të rëndësishme. Përveçse largon aromat e pakëndshme të ushqimit që i tërheqin mizat, ai ndihmon edhe në ruajtjen e pastërtisë së tubave.Herë pas here, ajo përdor edhe sodë kristalore, të cilën më pas e shpëlan me ujë. Sipas saj, kjo ndihmon në shpërbërjen e shtresave të yndyrshme dhe njëkohësisht zvogëlon rrezikun e bllokimit të kulluesit.Ajo shton se është e rëndësishme që gjatë natës të mos lihen në lavaman mbetje ushqimi dhe yndyre, pasi ato janë një joshje e fortë për insektet.Kurthi me uthull molle si mbrojtje shtesëPërveç mirëmbajtjes së kulluesit, Kathrine McPhilips përdor edhe një metodë tjetër të thjeshtë. Pranë tasit me fruta ose në parvazin e dritares vendos një kurth me uthull molle.Aroma e uthullës i tërheq mizat, por njëkohësisht i mban të grumbulluara në një vend dhe pengon përhapjen e tyre nëpër shtëpi.Sipas përvojës së saj, pikërisht kombinimi i disa masave të thjeshta ka dhënë rezultatet më të mira.Disa zakone të thjeshta e larguan plotësisht probleminGjatë korrikut, kur sezoni i mizave arrin kulmin, Kathrine McPhilips arriti të shpëtonte plotësisht prej tyre duke kombinuar hedhjen e ujit të valë në kullues, përdorimin e kurthit me uthull molle dhe ruajtjen e duhur të ushqimit, në mënyrë që ai të mos i tërhiqte insektet.Siç tregon ajo, pasi i përfshiu këto zakone në rutinën e saj, mund t’i mbajë sërish dritaret hapur pa frikën se mizat do t’ia pushtojnë përsëri shtëpinë. /Telegrafi/",
+      "published": "Sun, 19 Jul 2026 23:25:14 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/shtepia-ju-eshte-mbushur-papritur-me-miza-kontrollojeni-menjehere-kete-pjese-te-kuzhines/",
+      "fetched_at": "2026-07-20T02:48:53.739972",
+      "ai_summary": "Frutat dhe dritaret e hapura mund të mos jenë shkaku kryesor – një vend i lagësht dhe i fshehur mund të jetë kthyer në vatër shumimi pa e vërejturGjatë muajve të verës, mizat u shkaktojnë bezdi shumë ..."
+    },
+    {
+      "title": "Lotët e Messit, medaljet dhe ngritja e trofeut nga Spanja – momentet e fundit të finales së Kupës së Botës",
+      "link": "https://telegrafi.com/lotet-e-messit-medaljet-dhe-ngritja-e-trofeut-nga-spanja-momentet-e-fundit-te-finales-se-kupes-se-botes/",
+      "description": "Finalja e Kupës së Botës 2026 u mbyll me emocione të mëdha, lot zhgënjimi për Argjentinën dhe festë të jashtëzakonshme për Spanjën, e cila u kurorëzua kampione e botës pas fitores 1-0 ndaj \"Albiceleste\" në vazhdime.Kapiteni argjentinas Lionel Messi nuk arriti ta mbronte titullin botëror, por u largua nga fusha mes ovacioneve të tifozëve argjentinas.39-vjeçari ishte dukshëm i prekur emocionalisht, ndërsa përshëndeste mbështetësit e \"Albiceleste\", të cilët e duartrokitën dhe brohoritën emrin e tij pas një tjetër turneu të jashtëzakonshëm. Argjentina merr medaljet e vendit të dytë Më pas, futbollistët e Argjentinës u ngjitën në podium për të marrë medaljet e nënkampionit të botës.Edhe pse nuk arritën ta ruanin titullin e fituar katër vite më parë, lojtarët e Lionel Scalonit u larguan me kokën lart, pasi zhvilluan një turne të shkëlqyer dhe arritën deri në finalen e madhe. Spanja feston titullin botëror Pas ceremonisë së Argjentinës, radha i erdhi kampionëve të rinj të botës. Futbollistët e Spanjës u ngjitën një nga një në podium për të marrë medaljet e arta, ndërsa buzëqeshjet dhe emocionet nuk munguan në fytyrat e tyre.Disa prej lojtarëve nuk humbën rastin të puthnin trofeun e Kupës së Botës sapo iu afruan atij, duke shijuar momentin më të madh të karrierës së tyre. Kulmi i ceremonisë erdhi kur presidenti i Shteteve të Bashkuara të Amerikës, Donald Trump, së bashku me presidentin e FIFA-s, Gianni Infantino, ia dorëzuan Kupën e Botës kapitenit të Spanjës. telegrafi.com Në mesin e fishekzjarrëve, konfetit dhe festës së bashkëlojtarëve, kapiteni ngriti lart trofeun e artë, duke vulosur triumfin e \"La Roja\" në Botërorin 2026 dhe titullin e dytë në historinë e saj. /Telegrafi/",
+      "published": "Sun, 19 Jul 2026 22:49:11 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/lotet-e-messit-medaljet-dhe-ngritja-e-trofeut-nga-spanja-momentet-e-fundit-te-finales-se-kupes-se-botes/",
+      "fetched_at": "2026-07-20T02:48:53.740703",
+      "ai_summary": "Finalja e Kupës së Botës 2026 u mbyll me emocione të mëdha, lot zhgënjimi për Argjentinën dhe festë të jashtëzakonshme për Spanjën, e cila u kurorëzua kampione e botës pas fitores 1-0 ndaj \"Albicelest..."
+    }
+  ],
+  "total_articles": 6,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "BalkanWeb",
+    "Telegrafi",
+    "Telegrafi"
+  ]
+}
