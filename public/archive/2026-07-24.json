@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-24",
+  "timestamp": "2026-07-24T02:32:19.934853",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Qorrolli: Në jurisprudencë një nga gjërat e rralla që s’lejohen është “pishmani”",
+      "link": "https://www.koha.net/arberi/qorrolli-ne-jurisprudence-nje-nga-gjerat-e-rralla-qe-slejohen-eshte-pishmani",
+      "description": "Deputeti i Lëvizjes Vetëvendosje, Vigan Qorrolli, thotë se në jurispudencë një nga gjërat e rralla që nuk lejohet është “pishmani”. Ai ka folur lidhur me dorëheqjet e gjyqtarëve serbë në veri. Të premten Këshilli Gjyqësor i Kosovës do ta shqyrtojë tërheqjen e dorëheqjeve të gjyqtarëve...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497706",
+      "fetched_at": "2026-07-24T02:32:12.625683",
+      "ai_summary": "Deputeti i Lëvizjes Vetëvendosje, Vigan Qorrolli, thotë se në jurispudencë një nga gjërat e rralla që nuk lejohet është “pishmani”. Ai ka folur lidhur me dorëheqjet e gjyqtarëve serbë në veri. Të prem..."
+    },
+    {
+      "title": "Tri blic-vërejtjet e BE-së",
+      "link": "https://www.koha.net/arberi/tri-blic-verejtjet-e-be-se",
+      "description": "Bashkimi Evropian në tri ditë në tri çështje të ndryshme ka dhënë vërejtje për veprimet e autoriteteve të Kosovës që lidhen me veriun. Duke nisur nga shqetësimi i shprehur për dekretin për dorëheqjet e personelit gjyqësor serb, BE-ja ka vazhduar me kritika për rrënimin e...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/497705",
+      "fetched_at": "2026-07-24T02:32:12.625868",
+      "ai_summary": "Bashkimi Evropian në tri ditë në tri çështje të ndryshme ka dhënë vërejtje për veprimet e autoriteteve të Kosovës që lidhen me veriun. Duke nisur nga shqetësimi i shprehur për dekretin për dorëheqjet ..."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "Koha.net",
+    "Koha.net"
+  ]
+}
