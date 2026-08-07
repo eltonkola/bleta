@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-07",
+  "timestamp": "2026-08-07T02:39:29.637004",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Raportohet se një pjesëtar i MUP-it serb është ndaluar në Jarinë",
+      "link": "https://telegrafi.com/raportohet-se-nje-pjesetar-i-mup-it-serb-eshte-ndaluar-ne-jarine/",
+      "description": "Një pjesëtar i Ministrisë së Punëve të Brendshme të Serbisë (MUP) është ndaluar nga autoritetet e Kosovës në pikëkalimin kufitar në Jarinjë, mbrëmjen e së enjtes.Policia e Kosovës ka konfirmuar rastin për “Kossev”. “Po merret në pyetje. Nuk do të thotë se ai do të dërgohet në mbajtje”, kanë deklaruar nga Policia e Kosovës.Deri më tani, autoritetet nuk kanë bërë të ditur arsyet e ndalimit apo nëse ndaj personit në fjalë ekzistojnë dyshime për ndonjë vepër penale.Ndërkohë, Telegrafi ka tentuar të marrë një deklaratë shtesë nga Policia e Kosovës lidhur me rastin, por deri në orët e mbrëmjes nuk ka arritur të sigurojë përgjigje. Artikulli do të përditësohet sapo të ketë informacione të reja nga autoritetet.",
+      "published": "Fri, 07 Aug 2026 00:38:06 +0000",
+      "source": "Telegrafi",
+      "source_url": "https://telegrafi.com/feed/",
+      "language": "sq",
+      "guid": "https://telegrafi.com/raportohet-se-nje-pjesetar-i-mup-it-serb-eshte-ndaluar-ne-jarine/",
+      "fetched_at": "2026-08-07T02:39:27.169720",
+      "ai_summary": "Një pjesëtar i Ministrisë së Punëve të Brendshme të Serbisë (MUP) është ndaluar nga autoritetet e Kosovës në pikëkalimin kufitar në Jarinjë, mbrëmjen e së enjtes.Policia e Kosovës ka konfirmuar rastin..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Telegrafi"
+  ]
+}
