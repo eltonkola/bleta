@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-12",
+  "timestamp": "2026-08-12T04:05:39.733099",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Paratë, dashuria dhe karriera/ Horoskopi për ditën e sotme, 12 gusht 2026. Zbuloni shenjat më me fat",
+      "link": "https://www.balkanweb.com/parate-dashuria-dhe-karriera-horoskopi-per-diten-e-sotme-12-gusht-2026-zbuloni-shenjat-me-me-fat/",
+      "description": "Dashi Sot mund të zgjoheni duke ndjerë se mund të lëvizni male dhe kjo mund të jetë pikërisht ajo që keni vendosur të bëni, në kuptimin figurativ. Energjia juaj fizike, entuziazmi dhe vetëbesimi janë shumë të larta. Projektet tuaja krijuese dhe të të tjerëve mund t’ju marrin shumë kohë. Demi Çdo pavendosmëri që keni ndjerë […]",
+      "published": "Wed, 12 Aug 2026 04:00:10 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3023908",
+      "fetched_at": "2026-08-12T04:05:34.098875",
+      "ai_summary": "Dashi Sot mund të zgjoheni duke ndjerë se mund të lëvizni male dhe kjo mund të jetë pikërisht ajo që keni vendosur të bëni, në kuptimin figurativ. Energjia juaj fizike, entuziazmi dhe vetëbesimi janë ..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
