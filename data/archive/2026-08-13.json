@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-13",
+  "timestamp": "2026-08-13T04:10:11.269414",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Karriera, dashuria dhe puna/ Horoskopi për ditën e sotme, 13 gusht 2026. Zbuloni shenjat më me fat",
+      "link": "https://www.balkanweb.com/karriera-dashuria-dhe-puna-horoskopi-per-diten-e-sotme-13-gusht-2026-zbuloni-shenjat-me-me-fat/",
+      "description": "Dashi Në një atmosferë ku njerëzit janë shumë të ngurtë dhe të bllokuar në rrugët e tyre, qëndrimi juaj i qetë dhe adaptues do të jetë një lehtësim i mirëpritur për njerëzit përreth jush. Mos i nënvlerësoni përfitimet e mrekullueshme të natyrës suaj të ëmbël dhe bujare. Demi Sigurohuni që t’i njihni të tjerët për […]",
+      "published": "Thu, 13 Aug 2026 04:00:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3024461",
+      "fetched_at": "2026-08-13T04:10:05.952444",
+      "ai_summary": "Dashi Në një atmosferë ku njerëzit janë shumë të ngurtë dhe të bllokuar në rrugët e tyre, qëndrimi juaj i qetë dhe adaptues do të jetë një lehtësim i mirëpritur për njerëzit përreth jush. Mos i nënvle..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
