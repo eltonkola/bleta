@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-14",
+  "timestamp": "2026-08-14T04:06:46.020545",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Paraja, dashuria, karriera, njihuni me horoskopin për ditën e sotme, 14 Gusht 2026",
+      "link": "https://www.balkanweb.com/paraja-dashuria-karriera-njihuni-me-horoskopin-per-diten-e-sotme-14-gusht-2026/",
+      "description": "Dashi Mos u ndje keq për veten duke menduar se puna jote nuk është e rëndësishme ose kuptimplotë. Puna jote e palodhur bën një ndryshim të madh për njerëzit përreth teje, prandaj bëje punën tënde me krenari. Do të marrësh shumë merita. Demi Planifikimi juaj do të përballet me mundësi, duke krijuar recetën për atë […]",
+      "published": "Fri, 14 Aug 2026 04:00:30 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3025053",
+      "fetched_at": "2026-08-14T04:06:40.600286",
+      "ai_summary": "Dashi Mos u ndje keq për veten duke menduar se puna jote nuk është e rëndësishme ose kuptimplotë. Puna jote e palodhur bën një ndryshim të madh për njerëzit përreth teje, prandaj bëje punën tënde me k..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
