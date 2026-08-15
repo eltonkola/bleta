@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-15",
+  "timestamp": "2026-08-15T04:28:17.752675",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Parashikimi i horoskopit për sot 15 Gusht 2026, zbuloni cilat janë shenjat më me fat",
+      "link": "https://www.balkanweb.com/parashikimi-i-horoskopit-per-sot-15-gusht-2026-zbuloni-cilat-jane-shenjat-me-me-fat/",
+      "description": "Dashi Nuk do të jetë çudi nëse je i frustruar me një mik të ngushtë që është shumë më pak ambicioz se ti. Energjia në ajër mund të theksojë mënyrat e tua dinamike për të arritur qëllimet dhe suksesin. Të tjerët që janë pasivë ose të frikësuar do ta kesh të vështirë për t’i kuptuar. […]",
+      "published": "Sat, 15 Aug 2026 04:00:07 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3025705",
+      "fetched_at": "2026-08-15T04:28:12.492643",
+      "ai_summary": "Dashi Nuk do të jetë çudi nëse je i frustruar me një mik të ngushtë që është shumë më pak ambicioz se ti. Energjia në ajër mund të theksojë mënyrat e tua dinamike për të arritur qëllimet dhe suksesin...."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
