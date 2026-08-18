@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-18",
+  "timestamp": "2026-08-18T04:33:01.036981",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Horoskopi, 18 Gusht 2026/ Shenjat më me fat për ditën e sotme",
+      "link": "https://www.balkanweb.com/horoskopi-18-gusht-2026-shenjat-me-me-fat-per-diten-e-sotme/",
+      "description": "Dashi Të flasësh hapur me njerëzit që ke përreth do të jetë e vështirë, por tani për tani është shumë e nevojshme. Do të ketë fërkime, por çështjet me të cilat po merresh nuk mund të mbahen më brenda. Duhet t’i nxirrni në pah që të ketë përparim. Demi Kjo do të jetë një ditë […]",
+      "published": "Tue, 18 Aug 2026 04:05:40 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3027067",
+      "fetched_at": "2026-08-18T04:32:55.431363",
+      "ai_summary": "Dashi Të flasësh hapur me njerëzit që ke përreth do të jetë e vështirë, por tani për tani është shumë e nevojshme. Do të ketë fërkime, por çështjet me të cilat po merresh nuk mund të mbahen më brenda...."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
