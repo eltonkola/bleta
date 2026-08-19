@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-19",
+  "timestamp": "2026-08-19T04:34:19.231784",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Horoskopi 19 Gusht 2026, dashuria, paraja, karriera, zbuloni shenjat me fat",
+      "link": "https://www.balkanweb.com/horoskopi-19-gusht-2026-dashuria-paraja-karriera-zbuloni-shenjat-me-fat/",
+      "description": "Dashi Formula e suksesit është shumë e paqartë për ty tani. Ka mesazhe kontradiktore kudo që kthehesh. Çelësi tani është që thjesht të ndjekësh zemrën tënde. Bëj atë që të pëlqen të bësh dhe automatikisht do të arrish suksesin që dëshiron. Fokusohu te njerëzit tek të cilët beson. Nuk do të të zhgënjejnë. Demi Ke […]",
+      "published": "Wed, 19 Aug 2026 04:00:28 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3027545",
+      "fetched_at": "2026-08-19T04:34:13.921404",
+      "ai_summary": "Dashi Formula e suksesit është shumë e paqartë për ty tani. Ka mesazhe kontradiktore kudo që kthehesh. Çelësi tani është që thjesht të ndjekësh zemrën tënde. Bëj atë që të pëlqen të bësh dhe automatik..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
