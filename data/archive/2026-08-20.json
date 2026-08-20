@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-20",
+  "timestamp": "2026-08-20T04:34:48.428961",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Horoskopi për sot 20 Gusht 2026, zbuloni shenjat më me fat",
+      "link": "https://www.balkanweb.com/horoskopi-per-sot-20-gusht-2026-zbuloni-shenjat-me-me-fat/",
+      "description": "Dashi Dita do të nisë në mënyrë fantastike për ju. Energjia po rrjedh nga të gjitha drejtimet. Ngjarjet sinkronike nuk po ndodhin rastësisht. Ato janë shenja se diçka është e destinuar të ndodhë. Nuk ka rastësi. Shpërndajeni pozitivitetin me të tjerët. Demi Dita ka nisur ngadalë për ju dhe ka të ngjarë të jeni të […]",
+      "published": "Thu, 20 Aug 2026 04:00:08 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3028069",
+      "fetched_at": "2026-08-20T04:34:43.007682",
+      "ai_summary": "Dashi Dita do të nisë në mënyrë fantastike për ju. Energjia po rrjedh nga të gjitha drejtimet. Ngjarjet sinkronike nuk po ndodhin rastësisht. Ato janë shenja se diçka është e destinuar të ndodhë. Nuk ..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
