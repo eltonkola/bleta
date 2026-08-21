@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-21",
+  "timestamp": "2026-08-21T04:35:11.656743",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Paraja, dashuria, karriera, horoskopi për ditën e sotme, 21 Gusht 2026",
+      "link": "https://www.balkanweb.com/paraja-dashuria-karriera-horoskopi-per-diten-e-sotme-21-gusht-2026/",
+      "description": "Dashi Kontaktet që do të krijoni tani do të jenë shumë të rëndësishme më vonë. Sigurohuni që t’i ruani kartat e biznesit dhe numrat e telefonit që merrni. Vendosini në një vend të sigurt dhe mos I humbni. Aspekti financiar do të përmirësohet ndjeshëm. Demi Mos kini frikë ta lini anën tuaj të ndjeshme të […]",
+      "published": "Fri, 21 Aug 2026 04:00:08 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3028521",
+      "fetched_at": "2026-08-21T04:35:06.187604",
+      "ai_summary": "Dashi Kontaktet që do të krijoni tani do të jenë shumë të rëndësishme më vonë. Sigurohuni që t’i ruani kartat e biznesit dhe numrat e telefonit që merrni. Vendosini në një vend të sigurt dhe mos I hum..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
