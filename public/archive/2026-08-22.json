@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-22",
+  "timestamp": "2026-08-22T01:06:52.745636",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "“Everytime” fiton “Zemrën e Sarajevës” për trajtim të dhimbjes dhe zisë",
+      "link": "https://www.koha.net/kulture/everytime-fiton-zemren-e-sarajeves-per-trajtim-te-dhimbjes-dhe-zise",
+      "description": "Filmi “Everytime”, me regji të Sandra Wollner, është shpërblyer me çmimin kryesor të Festivalit të 32-të të Filmit në Sarajevë, duke fituar “Zemrën e Sarajevës” për filmin më të mirë të gjatë artistik. Ceremonia e ndarjes së çmimeve është mbajtur të premten mbrëma në Teatrin...",
+      "published": "",
+      "source": "Koha.net",
+      "source_url": "https://www.koha.net/rss/",
+      "language": "sq",
+      "guid": "https://www.koha.net/500262",
+      "fetched_at": "2026-08-22T01:06:45.024032",
+      "ai_summary": "Filmi “Everytime”, me regji të Sandra Wollner, është shpërblyer me çmimin kryesor të Festivalit të 32-të të Filmit në Sarajevë, duke fituar “Zemrën e Sarajevës” për filmin më të mirë të gjatë artistik..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Koha.net"
+  ]
+}
