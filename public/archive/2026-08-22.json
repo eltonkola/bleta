@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "timestamp": "2026-08-22T01:06:52.745636",
+  "timestamp": "2026-08-22T04:29:57.231338",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,20 +9,20 @@
   },
   "articles": [
     {
-      "title": "“Everytime” fiton “Zemrën e Sarajevës” për trajtim të dhimbjes dhe zisë",
-      "link": "https://www.koha.net/kulture/everytime-fiton-zemren-e-sarajeves-per-trajtim-te-dhimbjes-dhe-zise",
-      "description": "Filmi “Everytime”, me regji të Sandra Wollner, është shpërblyer me çmimin kryesor të Festivalit të 32-të të Filmit në Sarajevë, duke fituar “Zemrën e Sarajevës” për filmin më të mirë të gjatë artistik. Ceremonia e ndarjes së çmimeve është mbajtur të premten mbrëma në Teatrin...",
-      "published": "",
-      "source": "Koha.net",
-      "source_url": "https://www.koha.net/rss/",
+      "title": "Horoskopi për ditën e sotme, 22 Gusht 2026, zbuloni shenjat më me fat",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-22-gusht-2026-zbuloni-shenjat-me-me-fat/",
+      "description": "Dashi Sot është dita juaj, prandaj jetojeni sa më mirë! Nëse duket sikur gjërat kanë qenë mjaft intensive kohët e fundit, mos u shqetësoni, ato ka të ngjarë të lehtësohen pak sot. Ndihuni të lirë të jeni vetvetja juaj e zakonshme dhe që i shton humor grupit. Demi Shpërthimi i energjisë që keni shpresuar më […]",
+      "published": "Sat, 22 Aug 2026 04:00:27 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://www.koha.net/500262",
-      "fetched_at": "2026-08-22T01:06:45.024032",
-      "ai_summary": "Filmi “Everytime”, me regji të Sandra Wollner, është shpërblyer me çmimin kryesor të Festivalit të 32-të të Filmit në Sarajevë, duke fituar “Zemrën e Sarajevës” për filmin më të mirë të gjatë artistik..."
+      "guid": "https://www.balkanweb.com/?p=3028960",
+      "fetched_at": "2026-08-22T04:29:51.880079",
+      "ai_summary": "Dashi Sot është dita juaj, prandaj jetojeni sa më mirë! Nëse duket sikur gjërat kanë qenë mjaft intensive kohët e fundit, mos u shqetësoni, ato ka të ngjarë të lehtësohen pak sot. Ndihuni të lirë të j..."
     }
   ],
   "total_articles": 1,
   "sources": [
-    "Koha.net"
+    "BalkanWeb"
   ]
 }
