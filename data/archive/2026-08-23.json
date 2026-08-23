@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "timestamp": "2026-08-23T01:12:34.157367",
+  "timestamp": "2026-08-23T04:34:27.333882",
   "project": {
     "name": "Bleta",
     "description": "Albanian News Archive with AI Summaries",
@@ -9,20 +9,20 @@
   },
   "articles": [
     {
-      "title": "Jasharaj dhe Çeku në një tryezë me DKA-të, diskutojnë sfidat e arsimit në punëtorinë dyditore",
-      "link": "https://telegrafi.com/jasharaj-dhe-ceku-ne-nje-tryeze-me-dka-te-diskutojne-sfidat-e-arsimit-ne-punetorine-dyditore/",
-      "description": "Më 21 dhe 22 gusht 2026, në Brezovicë u zhvillua një punëtori dyditore e organizuar nga Ministria e Arsimit dhe Shkencës, ku morën pjesë përfaqësues të ministrisë, drejtorë komunalë të arsimit dhe përfaqësues të SBASHK-ut.Në fokus të punëtorisë ishin sfidat dhe çështjet prioritare me të cilat përballet sistemi arsimor në Kosovë, si dhe mundësitë për bashkëpunim më të mirë ndërmjet institucioneve.Në panelin hapës morën pjesë ministri i Arsimit dhe Shkencës, Hajrullah Çeku, kryetari i SBASHK-ut, Rrahman Jasharaj, dhe kryesuesi i Kolegjiumit të Drejtorëve Komunalë të Arsimit, Muhamet Gjoka.Përveç Jasharajt, në punëtori nga SBASHK-u mori pjesë edhe Blendor Shatri, duke kontribuar në diskutimet dhe prezantimin e qëndrimeve të sindikatës.Gjatë punimeve u theksua rëndësia e bashkëpunimit institucional, komunikimit të hapur dhe koordinimit ndërmjet Ministrisë së Arsimit, komunave dhe përfaqësuesve të punëtorëve të arsimit.Kryetari i SBASHK-ut, Rrahman Jasharaj, e ka vlerësuar organizimin e punëtorisë dhe gatishmërinë e ministrit Çeku për krijimin e hapësirave të reja për komunikim dhe bashkëpunim.Jasharaj ka thënë se takimi i mëhershëm ndërmjet ministrit dhe SBASHK-ut, së bashku me punëtorinë në Brezovicë, përbëjnë një fillim të mirë për një dialog më të hapur dhe konstruktiv për çështjet e arsimit.Gjatë dy ditëve janë prezantuar edhe praktika të mira nga komunat, ndërsa diskutimet janë fokusuar në gjetjen e zgjidhjeve për sfidat e identifikuara në sistemin arsimor.SBASHK ka bërë të ditur se mbetet i gatshëm të kontribuojë në proceset që synojnë përmirësimin e cilësisë së arsimit, kushteve në shkolla dhe pozitës së nxënësve dhe punëtorëve të arsimit.“Dialogu, bashkëpunimi dhe puna e përbashkët janë rruga drejt rezultateve konkrete”, thuhet në njoftimin e SBASHK-ut.",
-      "published": "Sat, 22 Aug 2026 21:54:28 +0000",
-      "source": "Telegrafi",
-      "source_url": "https://telegrafi.com/feed/",
+      "title": "Karriera, dashuria, paratë, njihuni me horoskopin për ditën e sotme, 23 Gusht 2026",
+      "link": "https://www.balkanweb.com/karriera-dashuria-parate-njihuni-me-horoskopin-per-diten-e-sotme-23-gusht-2026/",
+      "description": "Dashi Sot mund të përballesh me konflikt të heshtur që mund të dalë jashtë kontrollit në aspektin profesional. Përpiqu të gjesh zgjidhjen e duhur duke kërkuar këshilla edhe nga njerëz që I beson. Aspekti financiar kërkon më shumë vëmendje. Demi Do të jetë e vështirë t’i thuash “jo” kujtdo dhe asgjëje. Sot mbizotëron një entuziazëm […]",
+      "published": "Sun, 23 Aug 2026 04:00:41 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
       "language": "sq",
-      "guid": "https://telegrafi.com/jasharaj-dhe-ceku-ne-nje-tryeze-me-dka-te-diskutojne-sfidat-e-arsimit-ne-punetorine-dyditore/",
-      "fetched_at": "2026-08-23T01:12:31.665952",
-      "ai_summary": "Më 21 dhe 22 gusht 2026, në Brezovicë u zhvillua një punëtori dyditore e organizuar nga Ministria e Arsimit dhe Shkencës, ku morën pjesë përfaqësues të ministrisë, drejtorë komunalë të arsimit dhe për..."
+      "guid": "https://www.balkanweb.com/?p=3029464",
+      "fetched_at": "2026-08-23T04:34:21.908037",
+      "ai_summary": "Dashi Sot mund të përballesh me konflikt të heshtur që mund të dalë jashtë kontrollit në aspektin profesional. Përpiqu të gjesh zgjidhjen e duhur duke kërkuar këshilla edhe nga njerëz që I beson. Aspe..."
     }
   ],
   "total_articles": 1,
   "sources": [
-    "Telegrafi"
+    "BalkanWeb"
   ]
 }
