@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-24",
+  "timestamp": "2026-08-24T04:41:21.536677",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Nga paraja, dashuria e karriera/ Horoskopi 24 gusht 2026, zbuloni parashikimin e yjeve për shenjën tuaj",
+      "link": "https://www.balkanweb.com/nga-paraja-dashuria-e-karriera-horoskopi-24-gusht-2026-zbuloni-parashikimin-e-yjeve-per-shenjen-tuaj/",
+      "description": "Dashi Konfigurimi aktual qiellor bën diferencën midis një dite kur gjërat thjesht ecin përpara dhe një dite kur koha fluturon sepse po ndodhin gjëra të mira. Gjërat do të shkojnë shumë mire në aspektin sentimental. Demi Ju pëlqen të bisedosh për gjithçka. Lëvizni me momentin dhe thjesht lëreni diskutimin të rrjedhë. Kjo do të sjellë […]",
+      "published": "Mon, 24 Aug 2026 04:00:38 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3029974",
+      "fetched_at": "2026-08-24T04:41:15.920416",
+      "ai_summary": "Dashi Konfigurimi aktual qiellor bën diferencën midis një dite kur gjërat thjesht ecin përpara dhe një dite kur koha fluturon sepse po ndodhin gjëra të mira. Gjërat do të shkojnë shumë mire në aspekti..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
