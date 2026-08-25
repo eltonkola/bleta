@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-25",
+  "timestamp": "2026-08-25T04:36:29.036742",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Dashuria, paraja, karriera, horoskopi për ditën e sotme, 25 Gusht 2026",
+      "link": "https://www.balkanweb.com/dashuria-paraja-karriera-horoskopi-per-diten-e-sotme-25-gusht-2026/",
+      "description": "Dashi Është më mirë të hipësh mbi valën e entuziazmit sesa të përpiqesh ta luftosh atë. Ka energji elektrike në ajër nga e cila mund të përfitosh nëse je i gatshëm të ndryshosh pikëpamjen tënde. Mos ia kthe shpinën diçkaje që e di se do të ketë sukses. Demi Mbështetja që ju nevojitet është aty. […]",
+      "published": "Tue, 25 Aug 2026 04:00:39 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3030391",
+      "fetched_at": "2026-08-25T04:36:23.883901",
+      "ai_summary": "Dashi Është më mirë të hipësh mbi valën e entuziazmit sesa të përpiqesh ta luftosh atë. Ka energji elektrike në ajër nga e cila mund të përfitosh nëse je i gatshëm të ndryshosh pikëpamjen tënde. Mos i..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
