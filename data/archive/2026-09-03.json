@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-03",
+  "timestamp": "2026-09-03T03:00:04.017616",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Vdekja tragjike e Laurent Krasniqit, para një muaji i propozoi të dashurës martesë teksa fluturonin në helikopter",
+      "link": "https://www.gazetaexpress.com/vdekja-tragjike-e-laurent-krasniqit-para-nje-muaji-i-propozoi-te-dashures-martese-teksa-fluturonin-ne-helikopter/",
+      "description": "Vetëm një muaj më parë, Laurenti Krasniqi kishte ndarë me ndjekësit e tij një nga momentet më të veçanta të jetës. Ai kishte publikuar një video në rrjetet sociale, ku shihej duke i propozuar të dashurës së tij gjatë një fluturimi mbi New York. Në pamjet e publikuara, Laurenti shihet duke i zgjatur unazën partneres, ndërsa në sfond duket panorama e qytetit. Momenti i shumëpritur ishte pritur me urime të shumta nga ndjekësit e çiftit. View this post on Instagram A post shared by Laurent Krasniqi (@laurentkrasnici) View this post on Instagram A post shared by Laurent Krasniqi (@laurentkrasnici) The post Vdekja tragjike e Laurent Krasniqit, para një muaji i propozoi të dashurës martesë teksa fluturonin në helikopter appeared first on Gazeta Express.",
+      "published": "Wed, 02 Sep 2026 22:44:18 +0000",
+      "source": "Gazeta Express",
+      "source_url": "https://www.gazetaexpress.com/feed/",
+      "language": "sq",
+      "guid": "https://www.gazetaexpress.com/?p=3194511",
+      "fetched_at": "2026-09-03T03:00:00.412697",
+      "ai_summary": "Vetëm një muaj më parë, Laurenti Krasniqi kishte ndarë me ndjekësit e tij një nga momentet më të veçanta të jetës. Ai kishte publikuar një video në rrjetet sociale, ku shihej duke i propozuar të dashu..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "Gazeta Express"
+  ]
+}
