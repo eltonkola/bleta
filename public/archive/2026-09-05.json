@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-05",
+  "timestamp": "2026-09-05T03:00:37.542071",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Reagim i BalkanWeb ndaj një Fake News",
+      "link": "https://www.balkanweb.com/reagim-i-balkanweb-ndaj-nje-fake-news/",
+      "description": "Reagim nga redaksia e BalkanWeb BalkanWeb nuk ka publikuar një lajm me titull: “Avioni bën ulje emergjente, Berisha nuk prek dot ëndrrën amerikane”. Imazhi që po qarkullon në rrjet është i rremë dhe është krijuar me inteligjencë artificiale, duke përdorur emrin e BalkanWeb, portalit më të madh informativ në vend, për t’i dhënë besueshmëri një […]",
+      "published": "Fri, 04 Sep 2026 21:12:52 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3036629",
+      "fetched_at": "2026-09-05T03:00:32.085201",
+      "ai_summary": "Reagim nga redaksia e BalkanWeb BalkanWeb nuk ka publikuar një lajm me titull: “Avioni bën ulje emergjente, Berisha nuk prek dot ëndrrën amerikane”. Imazhi që po qarkullon në rrjet është i rremë dhe ë..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
