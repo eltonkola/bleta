@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-16",
+  "timestamp": "2026-09-16T04:13:08.628893",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Horoskopi për ditën e sotme, 16 Shtator 2026, zbuloni shenjat më me fat",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-16-shtator-2026-zbuloni-shenjat-me-me-fat/",
+      "description": "Dashi Gjëra të mëdha priten ndërsa java vazhdon. Nuk keni pse të bëni asgjë të veçantë për të fituar miratimin e të tjerëve. E tëra çfarë duhet të bëni është të jeni vetvetja. Kjo është e gjitha që kushdo mund të kërkojë. Demi Në punë jeni më të prirur ndaj incidenteve se zakonisht, prandaj kini […]",
+      "published": "Wed, 16 Sep 2026 04:00:50 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3042372",
+      "fetched_at": "2026-09-16T04:13:03.055829",
+      "ai_summary": "Dashi Gjëra të mëdha priten ndërsa java vazhdon. Nuk keni pse të bëni asgjë të veçantë për të fituar miratimin e të tjerëve. E tëra çfarë duhet të bëni është të jeni vetvetja. Kjo është e gjitha që ku..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
