@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-18",
+  "timestamp": "2026-09-18T03:16:14.352335",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Përplasja për pagat e drejtësisë/ Parlamenti miraton propozimin e PS, rrogat e magjistratëve rriten 2%. Gjyqtarët dhe prokurorët kundër",
+      "link": "https://www.balkanweb.com/perplasja-per-pagat-e-drejtesise-parlamenti-miraton-propozimin-e-ps-rrogat-e-magjistrateve-rriten-2-trupa-e-gjyqtareve-dhe-prokuroreve-kunder/",
+      "description": "Me 84 vota pro, Kuvendi miratoi formulën e re për pagat e magjistratëve, por përplasja mes qeverisë dhe institucioneve të drejtësisë vijon. Projektligji i miratuar nga mazhoranca parashikon një rritje të pagës referuese me rreth 8,500 lekë. Kjo shifër është kundërshtuar nga magjistratët, ndërsa KLGJ dhe KLP kanë mbështetur një kërkesë për rritje prej afro […]",
+      "published": "Thu, 17 Sep 2026 22:54:53 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3044528",
+      "fetched_at": "2026-09-18T03:16:08.742641",
+      "ai_summary": "Me 84 vota pro, Kuvendi miratoi formulën e re për pagat e magjistratëve, por përplasja mes qeverisë dhe institucioneve të drejtësisë vijon. Projektligji i miratuar nga mazhoranca parashikon një rritje..."
+    },
+    {
+      "title": "“S’do të marrë kokërr leku, iku koha kur kriminelët dhe legenat…”/ Rama flet për arbitrazhin me Becchettin: Po hetohet nga SPAK. Paratë e ngrira të Albcontrol do t’i kthehen buxhetit (VIDEO)",
+      "link": "https://www.balkanweb.com/sdo-te-marre-kokerr-leku-iku-koha-kur-kriminelet-dhe-legenat-rama-flet-per-arbitrazhin-me-becchettin-po-hetohet-nga-spak-parate-e-ngrira-te-albcontrol-do-ti-k/",
+      "description": "Kryeministri Edi Rama deklaroi nga foltorja e Kuvendit se biznesmeni italian, Francesco Becchetti nuk ka marrë dhe nuk do të marrë asnjë lek nga shteti shqiptar, pavarësisht vendimit të arbitrazhit. Gjatë fjalës së tij në seancën ku pritet të miratohet projektligji për pagat e magjistratëve, Rama tha se fondet e bllokuara të Albcontrol-it do të […]",
+      "published": "Thu, 17 Sep 2026 22:29:19 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3044516",
+      "fetched_at": "2026-09-18T03:16:08.743062",
+      "ai_summary": "Kryeministri Edi Rama deklaroi nga foltorja e Kuvendit se biznesmeni italian, Francesco Becchetti nuk ka marrë dhe nuk do të marrë asnjë lek nga shteti shqiptar, pavarësisht vendimit të arbitrazhit. G..."
+    }
+  ],
+  "total_articles": 2,
+  "sources": [
+    "BalkanWeb",
+    "BalkanWeb"
+  ]
+}
