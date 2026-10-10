@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-10",
+  "timestamp": "2026-10-10T04:24:31.642299",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Dashuria, paratë, karriera, njihuni me horoskopin për ditën e sotme 10 Tetor 2026",
+      "link": "https://www.balkanweb.com/dashuria-parate-karriera-njihuni-me-horoskopin-per-diten-e-sotme-10-tetor-2026/",
+      "description": "Dashi Hëna ju fton të bëni kujdes me xhelozinë dhe impulset e momentit. Në vendin e punës po vijnë zgjidhje përfundimtare për çështje të vjetra pronësie apo kontratash. Dashuria kërkon pak më shumë durim. Demi Pas disa trazirave të fundit, yjet po ju ndihmojnë të gjeni stabilitetin e shumëkërkuar. Mos mbani mëri për gjëra që […]",
+      "published": "Sat, 10 Oct 2026 04:00:02 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3057920",
+      "fetched_at": "2026-10-10T04:24:26.863783",
+      "ai_summary": "Dashi Hëna ju fton të bëni kujdes me xhelozinë dhe impulset e momentit. Në vendin e punës po vijnë zgjidhje përfundimtare për çështje të vjetra pronësie apo kontratash. Dashuria kërkon pak më shumë du..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
