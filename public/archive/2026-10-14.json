@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-14",
+  "timestamp": "2026-10-14T03:36:13.132726",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "“Regjimi dhunoi në mënyrë shtazarake studentët”/ Salianji me deklaratë të fortë: Rama të japë dorëheqjen, asnjë pushtet nuk është më i fortë se një popull që vendos të mos ketë më frikë!",
+      "link": "https://www.balkanweb.com/regjimi-dhunoi-ne-menyre-shtazarake-studentet-salianji-me-deklarate-te-forte-rama-te-jape-doreheqjen-asnje-pushtet-nuk-eshte-me-i-forte-se-populli/",
+      "description": "Ish-deputeti i PD, Ervin Salianji shprehet se kryeministri Edi Rama duhet të japë dorëheqjen. Reagimi i Salianjit vjen pas protestës së studentëve e cila kaloi në akte dhune e përplasje mes të rinjve dhe forcave të rendit. Demokrati fajëson uniformat blu për dhunë shtazarake sipas tij ndaj studentëve. ”Edi Rama duhet të japë dorëheqjen! Përndryshe, […]",
+      "published": "Tue, 13 Oct 2026 21:24:42 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3060761",
+      "fetched_at": "2026-10-14T03:36:08.060504",
+      "ai_summary": "Ish-deputeti i PD, Ervin Salianji shprehet se kryeministri Edi Rama duhet të japë dorëheqjen. Reagimi i Salianjit vjen pas protestës së studentëve e cila kaloi në akte dhune e përplasje mes të rinjve ..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
