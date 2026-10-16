@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-16",
+  "timestamp": "2026-10-16T03:11:48.637376",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "VIDEO/ Të rinjtë e arrestuar brenda Ministrisë së Arsimit mbahen përtokë dhe të lidhur",
+      "link": "https://www.balkanweb.com/video-te-rinjte-e-arrestuar-brenda-ministrise-se-arsimit-mbahen-pertoke-dhe-te-lidhur/",
+      "description": "Pamje shqetësuese po qarkullojnë lidhur me trajtimin e të rinjve dhe adoleshentëve të shoqëruar e të arrestuar gjatë valës së protestave në kryeqytet. Imazhet nga brenda Ministrisë së Arsimit tregojnë si janë mbajtur të ndaluarit. Disa të rinj, mes të cilëve edhe adoleshentë, janë grumbulluar brenda një dhome të vetme pa hapësirën më minimale për […]",
+      "published": "Thu, 15 Oct 2026 20:27:54 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3062313",
+      "fetched_at": "2026-10-16T03:11:43.290407",
+      "ai_summary": "Pamje shqetësuese po qarkullojnë lidhur me trajtimin e të rinjve dhe adoleshentëve të shoqëruar e të arrestuar gjatë valës së protestave në kryeqytet. Imazhet nga brenda Ministrisë së Arsimit tregojnë..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
