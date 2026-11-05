@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-05",
+  "timestamp": "2026-11-05T05:12:03.631998",
+  "project": {
+    "name": "Bleta",
+    "description": "Albanian News Archive with AI Summaries",
+    "version": "1.0.0",
+    "language": "sq"
+  },
+  "articles": [
+    {
+      "title": "Horoskopi për ditën e sotme, 5 Nëntor 2026, njihuni me shenjat më me fat",
+      "link": "https://www.balkanweb.com/horoskopi-per-diten-e-sotme-5-nentor-2026-njihuni-me-shenjat-me-me-fat/",
+      "description": "Dashi Puna dhe organizimi marrin vëmendjen kryesore. Këto janë ditë të rëndësishme për sferën profesionale, edhe nëse rolet tuaja kanë ndryshuar apo ju duhet të merreni me më shumë gjëra njëkohësisht në disa fusha. Yjet ju ftojnë të jeni fleksibël. Demi Yjet ju buzëqeshin, veçanërisht në aspektin e ndjenjave. Sipas parashikimeve të sotme, ju jeni […]",
+      "published": "Thu, 05 Nov 2026 05:00:26 +0000",
+      "source": "BalkanWeb",
+      "source_url": "https://www.balkanweb.com/feed/",
+      "language": "sq",
+      "guid": "https://www.balkanweb.com/?p=3073902",
+      "fetched_at": "2026-11-05T05:11:58.650946",
+      "ai_summary": "Dashi Puna dhe organizimi marrin vëmendjen kryesore. Këto janë ditë të rëndësishme për sferën profesionale, edhe nëse rolet tuaja kanë ndryshuar apo ju duhet të merreni me më shumë gjëra njëkohësisht ..."
+    }
+  ],
+  "total_articles": 1,
+  "sources": [
+    "BalkanWeb"
+  ]
+}
